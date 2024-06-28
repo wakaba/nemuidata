@@ -1,0 +1,72 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : ""
+      },
+      "file:r:pdf" : {
+         "desc" : "",
+         "length" : 141006,
+         "mime" : "application/pdf",
+         "sha256" : "7a16ff77aad13588090e8b85631d181a0d4f2aa32d15d5aaefcb1df74d92fef3",
+         "time" : 1719579671,
+         "title" : "",
+         "url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 525,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "ebd86e9049a31073a4db86fec2e178d0151ea24749f0fc7fe0412b2d1fef478d",
+         "time" : 1719579668,
+         "title" : "",
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/ikoma.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 141531,
+   "mirrorzip" : {
+      "length" : 135382,
+      "set" : "nonfree",
+      "sha256" : "b68bb4e4ef7b859ee58d25e535b1a433d5f5bc131a3d53bbdc4a01f8436d8d01"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+      ],
+      "title" : ""
+   }
+}
