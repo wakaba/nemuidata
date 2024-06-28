@@ -1,0 +1,67 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "length" : 24779,
+         "mime" : "text/html; charset=UTF-8",
+         "sha256" : "c247514c7908e0c4dcec42255e0c9b2f85c85c36b6d6e8011ec2fbc77518ec8b",
+         "time" : 1719577675,
+         "title" : "",
+         "url" : "https://opendata.pref.akita.lg.jp/term"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 314,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "8d2fc8c391de0e9a5a26ec4757b509658f02d5721ea2b88463dd36e9e9813ade",
+         "time" : 1719577729,
+         "title" : "",
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/akita.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 25093,
+   "mirrorzip" : {
+      "length" : 10815,
+      "set" : "nonfree",
+      "sha256" : "5589f104a04b4c69e6abee706dd34b2686b8aed6ad8801ca3f1ee6ee8df701eb"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+      ],
+      "title" : ""
+   }
+}

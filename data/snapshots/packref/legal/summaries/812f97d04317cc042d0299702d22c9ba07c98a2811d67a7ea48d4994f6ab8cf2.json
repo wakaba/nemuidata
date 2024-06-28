@@ -1,0 +1,67 @@
+{
+   "files" : {
+      "file:r:pdf" : {
+         "desc" : "",
+         "length" : 253235,
+         "mime" : "application/pdf",
+         "sha256" : "7c61e4389d6a607a690f86bee01f4b4fa4e6e696edbfa2a2d87db05f1aa870b4",
+         "time" : 1719577710,
+         "title" : "",
+         "url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 338,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "f991ce892bbb24f1da1c8fa533f2ce4a1fab4da7766510b6ac4d2f557ba66eba",
+         "time" : 1719577709,
+         "title" : "",
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/himeji.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 253573,
+   "mirrorzip" : {
+      "length" : 251108,
+      "set" : "nonfree",
+      "sha256" : "61e1a6b46b15ed50c601ab335431073bb4b77d759b3544627d2e667b78adce26"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+      ],
+      "title" : ""
+   }
+}
