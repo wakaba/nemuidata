@@ -1,40 +1,29 @@
 {
    "files" : {
-      "file:r:ckan.json" : {
+      "file:r:page" : {
          "desc" : "",
-         "length" : 6215,
-         "mime" : "text/plain; charset=utf-8",
-         "sha256" : "2d06ce456f35692228ea724d6cf2ea1fcf51263e04e8d21e11cbfa57d0b56c19",
-         "time" : 1719578200,
-         "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/ckan.json"
+         "mime" : "application/octet-stream",
+         "title" : ""
       },
-      "file:r:info.json" : {
+      "file:r:pdf" : {
          "desc" : "",
-         "length" : 20833,
-         "mime" : "text/plain; charset=utf-8",
-         "sha256" : "649bf35e2e824174509b129aecb0e9c94426160bada810ebafb38e445e994f89",
-         "time" : 1719578199,
+         "file_name" : "hg-opendata-riyoukiyaku_2023.pdf",
+         "insecure" : 1,
+         "length" : 181248,
+         "mime" : "application/pdf",
+         "sha256" : "a4c12aa1329788bd78b5fe2dd5f1b540c7a0ceefe062d7823a3e05a32b150b88",
+         "time" : 1719578464,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/info.json"
-      },
-      "file:r:websites.json" : {
-         "desc" : "",
-         "length" : 4246,
-         "mime" : "text/plain; charset=utf-8",
-         "sha256" : "8f91de6c32d6365578dc91d104fc4bb704eaa4a86bb7389669fb07cbdd432c37",
-         "time" : 1719578199,
-         "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/websites.json"
+         "url" : "https://open-imagedata.town.aichi-higashiura.lg.jp/cp-bin/wordpress/wp-content/uploads/2023/09/hg-opendata-riyoukiyaku_2023.pdf"
       },
       "meta:packref.json" : {
          "desc" : "",
-         "length" : 284,
+         "length" : 619,
          "mime" : "text/plain; charset=utf-8",
-         "sha256" : "9397675ff2090867755690afa78fea8b4fccd992d46e1bf9a0875307c10ca785",
-         "time" : 1719578199,
+         "sha256" : "fc9ffc6914d6b4d7b37418bc9faa76ded2fa2546410ceb372c2b143196f6aba3",
+         "time" : 1719578463,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/packref.json"
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/hu.json"
       }
    },
    "legal" : {
@@ -68,11 +57,11 @@
          }
       ]
    },
-   "length" : 31578,
+   "length" : 181867,
    "mirrorzip" : {
-      "length" : 12374,
+      "length" : 176764,
       "set" : "nonfree",
-      "sha256" : "4acd3223bca569c38bbed1e19d1f861ae39961fa10c30103beb226f8b0eefe33"
+      "sha256" : "04c6cb47007e9f387164bd17710fd92cfdacb16e92cae6fef43e7c0434a68d3d"
    },
    "package" : {
       "author" : "",

@@ -6,7 +6,7 @@
          "length" : 29109,
          "mime" : "text/html; charset=UTF-8",
          "sha256" : "5982e69a0fcf0cd7bdff22923a69983ab771a385b850111ecda9627df4f9135f",
-         "time" : 1719578219,
+         "time" : 1719578473,
          "title" : "",
          "url" : "https://opendata-api-kakogawa.jp/odp/tos/"
       },
@@ -15,7 +15,7 @@
          "length" : 317,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "08e5ecf4f7087b360cd35d401e69eda9ff3aec75a46c9f535fe3cd58e030951d",
-         "time" : 1719578218,
+         "time" : 1719578471,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kakogawa.json"
       }
@@ -53,9 +53,9 @@
    },
    "length" : 29426,
    "mirrorzip" : {
-      "length" : 11872,
+      "length" : 11868,
       "set" : "nonfree",
-      "sha256" : "61e3677b0cbadbb39ec676678e0c67ff0b1dc001d9e6903edef4f196c57010ba"
+      "sha256" : "a1e6cb8c84a29b01edef64a37a8bf85d7404a8a9dc80dab94691211d0d59a3d5"
    },
    "package" : {
       "author" : "",

@@ -1,23 +1,22 @@
 {
    "files" : {
-      "file:r:page" : {
+      "file:r:pdf" : {
          "desc" : "",
-         "file_name" : "1",
-         "length" : 40182,
-         "mime" : "text/html; charset=UTF-8",
-         "sha256" : "84200f7ce8624d19d0aae240b8b9f0a8e123cdaf2a3c14e868d6474646e405df",
-         "time" : 1719578206,
+         "length" : 253235,
+         "mime" : "application/pdf",
+         "sha256" : "7c61e4389d6a607a690f86bee01f4b4fa4e6e696edbfa2a2d87db05f1aa870b4",
+         "time" : 1719578469,
          "title" : "",
-         "url" : "https://data.pf-sapporo.jp/tos/"
+         "url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf"
       },
       "meta:packref.json" : {
          "desc" : "",
-         "length" : 307,
+         "length" : 338,
          "mime" : "text/plain; charset=utf-8",
-         "sha256" : "859ebedffcdb11173d8ee97bb50b3962ef18f4c44a885383cded1ae130c3884a",
-         "time" : 1719578204,
+         "sha256" : "f991ce892bbb24f1da1c8fa533f2ce4a1fab4da7766510b6ac4d2f557ba66eba",
+         "time" : 1719578468,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/pf-sapporo.json"
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/himeji.json"
       }
    },
    "legal" : {
@@ -51,11 +50,11 @@
          }
       ]
    },
-   "length" : 40489,
+   "length" : 253573,
    "mirrorzip" : {
-      "length" : 13411,
+      "length" : 251114,
       "set" : "nonfree",
-      "sha256" : "7b89ad571f1ad8de6d46e12737363c5034971466e98f7011a4d939914aabc400"
+      "sha256" : "46d96eae62e17cef0381bfb82028c2b5cbc2ad1308d6fe8848f053c8a89843d1"
    },
    "package" : {
       "author" : "",

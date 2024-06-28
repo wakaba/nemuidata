@@ -2,26 +2,21 @@
    "files" : {
       "file:r:page" : {
          "desc" : "",
-         "mime" : "application/octet-stream",
-         "title" : ""
-      },
-      "file:r:pdf" : {
-         "desc" : "",
-         "length" : 141006,
-         "mime" : "application/pdf",
-         "sha256" : "7a16ff77aad13588090e8b85631d181a0d4f2aa32d15d5aaefcb1df74d92fef3",
-         "time" : 1719578232,
+         "length" : 15797,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4fdae53679418d74cba6f25c6b666e5a8881db6ef6a712ae1696ef5181260d52",
+         "time" : 1719610941,
          "title" : "",
-         "url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf"
+         "url" : "https://data.city.tendo.yamagata.jp/about"
       },
       "meta:packref.json" : {
          "desc" : "",
-         "length" : 525,
+         "length" : 317,
          "mime" : "text/plain; charset=utf-8",
-         "sha256" : "ebd86e9049a31073a4db86fec2e178d0151ea24749f0fc7fe0412b2d1fef478d",
-         "time" : 1719578230,
+         "sha256" : "c35867274fb41317d7bd70488d991368203cdc5f893f6c4e5acecca57c599495",
+         "time" : 1719578436,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/ikoma.json"
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/tendo.json"
       }
    },
    "legal" : {
@@ -55,11 +50,11 @@
          }
       ]
    },
-   "length" : 141531,
+   "length" : 16114,
    "mirrorzip" : {
-      "length" : 135374,
+      "length" : 9239,
       "set" : "nonfree",
-      "sha256" : "759c2a4e58621a7cc01e45454786a522438c407e13428dfa8e6bc3edbe374bfd"
+      "sha256" : "5a0be26ef5df54996a61b4b367ef81923ca6acc7aaed6f9c5daa209606970a07"
    },
    "package" : {
       "author" : "",

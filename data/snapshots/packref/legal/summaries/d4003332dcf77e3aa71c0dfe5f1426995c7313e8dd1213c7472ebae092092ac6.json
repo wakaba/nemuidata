@@ -7,7 +7,7 @@
          "length" : 54922,
          "mime" : "text/html",
          "sha256" : "a8b11d4b576a6a956ad881bcfa2a739948e44f6d41119d73b0e038f5afcec4af",
-         "time" : 1719577948,
+         "time" : 1719578461,
          "title" : "",
          "url" : "https://www.city.sagamihara.kanagawa.jp/shisei/1026896/opendata/index.html"
       },
@@ -16,7 +16,7 @@
          "length" : 12027,
          "mime" : "application/pdf",
          "sha256" : "91e0e17ae0c6b5a0a4f0b5cd4298403479ef09ed4f56c8047e1d5663a7387753",
-         "time" : 1719577948,
+         "time" : 1719578461,
          "title" : "",
          "url" : "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/005/928/opendata_kiyaku_20180328.pdf"
       },
@@ -25,7 +25,7 @@
          "length" : 599,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "a687f828fe0478d4c731a0f3e57dd94062b9b8c6c85368d7978b0f3e6c4eeabb",
-         "time" : 1719578202,
+         "time" : 1719578459,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/sagamihara.json"
       }
@@ -63,9 +63,9 @@
    },
    "length" : 67548,
    "mirrorzip" : {
-      "length" : 24730,
+      "length" : 24710,
       "set" : "nonfree",
-      "sha256" : "3d609c49de33daa19add6269d37219a1b01d5892a22eebcf4916daa409efe467"
+      "sha256" : "1dc516414372e368b930f301eefeb8acc1662c6b30f952d05f566759fee17fa5"
    },
    "package" : {
       "author" : "",
