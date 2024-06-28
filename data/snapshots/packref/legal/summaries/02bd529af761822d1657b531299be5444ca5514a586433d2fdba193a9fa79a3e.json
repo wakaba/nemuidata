@@ -3,30 +3,30 @@
       "file:r:page" : {
          "desc" : "",
          "file_name" : "1",
-         "length" : 13544,
-         "mime" : "text/html; charset=UTF-8",
-         "sha256" : "bf541e6f03bffcdaa3bb8cb0cbb3b9205db930272a490cc1e973d7e19e5c3a1b",
-         "time" : 1719577738,
+         "length" : 64489,
+         "mime" : "text/html",
+         "sha256" : "f590bbf1be246c1180bb097074935b32b8ccfb0e58b3cc89eaa294fef1de858d",
+         "time" : 1719577951,
          "title" : "",
-         "url" : "https://data.city.ikoma.lg.jp/policy/"
+         "url" : "https://portal-data.city.kanazawa.ishikawa.jp/"
       },
       "file:r:pdf" : {
          "desc" : "",
-         "length" : 141006,
+         "length" : 137768,
          "mime" : "application/pdf",
-         "sha256" : "7a16ff77aad13588090e8b85631d181a0d4f2aa32d15d5aaefcb1df74d92fef3",
-         "time" : 1719577736,
+         "sha256" : "0c888edd51a32d8b4fd88e057e97c7709066fd6a6dbe39212ebb358d2271e367",
+         "time" : 1719577952,
          "title" : "",
-         "url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf"
+         "url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf"
       },
       "meta:packref.json" : {
          "desc" : "",
-         "length" : 525,
+         "length" : 530,
          "mime" : "text/plain; charset=utf-8",
-         "sha256" : "ebd86e9049a31073a4db86fec2e178d0151ea24749f0fc7fe0412b2d1fef478d",
-         "time" : 1719577735,
+         "sha256" : "5bd7f80d4ad373e9f3f5b9e0a8f6dec4a191f92b7ff6a82ea37a212ebf73cfda",
+         "time" : 1719577950,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/ikoma.json"
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kanazawa.json"
       }
    },
    "legal" : {
@@ -60,11 +60,11 @@
          }
       ]
    },
-   "length" : 155075,
+   "length" : 202787,
    "mirrorzip" : {
-      "length" : 139906,
+      "length" : 145998,
       "set" : "nonfree",
-      "sha256" : "2fe1b5e33b9fc82ef663df3020f6e1ea4028a1d32fc985706a0573826bb39e6b"
+      "sha256" : "2c0773dabaec1dea88955abf16bc3c734cdbf0c204949be708f3e8c4c0c22b15"
    },
    "package" : {
       "author" : "",

@@ -6,7 +6,7 @@
          "length" : 34751,
          "mime" : "text/html; charset=UTF-8",
          "sha256" : "a6c830aa49738fe3c43fb1549eb6b857933f0032a2bc442cf7507ba943484099",
-         "time" : 1719577727,
+         "time" : 1719577972,
          "title" : "",
          "url" : "https://odcs.bodik.jp/260002/tos/"
       },
@@ -15,7 +15,7 @@
          "length" : 309,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "9bd5b87b3315bbbcea2bb4beae4cb26ac4c13a661db67e92e64611661cba664d",
-         "time" : 1719577726,
+         "time" : 1719577971,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/boodik-260002.json"
       }
@@ -53,9 +53,9 @@
    },
    "length" : 35060,
    "mirrorzip" : {
-      "length" : 13437,
+      "length" : 13435,
       "set" : "nonfree",
-      "sha256" : "cb7b52c20e8d7a3d06653122783f26fe71f33d9eaa10cd1b50b502f321afd035"
+      "sha256" : "69a0a0138808f35206254ee766489900ba527d724f57c1c29d551911894a1cb1"
    },
    "package" : {
       "author" : "",

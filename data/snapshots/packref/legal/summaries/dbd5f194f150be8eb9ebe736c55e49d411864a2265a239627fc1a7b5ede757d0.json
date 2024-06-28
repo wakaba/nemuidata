@@ -23,7 +23,7 @@
          "length" : 505,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "dba92e0ec33d6c95d619b3054c6e846544606f1457763b9d78230aa150cf062c",
-         "time" : 1719577698,
+         "time" : 1719577953,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/gsj.json"
       }
@@ -61,9 +61,9 @@
    },
    "length" : 255218,
    "mirrorzip" : {
-      "length" : 237830,
+      "length" : 237847,
       "set" : "nonfree",
-      "sha256" : "454bf23d539f3a408e1ce85cb343cc94bf7ab8d7dc3155146b6615370d473f06"
+      "sha256" : "fd9a2e5b6c7daf09cc2c82f0fcb96a601c5f94dc80838e77759feb402301d247"
    },
    "package" : {
       "author" : "",

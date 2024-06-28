@@ -2,21 +2,28 @@
    "files" : {
       "file:r:page" : {
          "desc" : "",
-         "length" : 24779,
-         "mime" : "text/html; charset=UTF-8",
-         "sha256" : "c247514c7908e0c4dcec42255e0c9b2f85c85c36b6d6e8011ec2fbc77518ec8b",
-         "time" : 1719577675,
+         "mime" : "application/octet-stream",
+         "title" : ""
+      },
+      "file:r:pdf" : {
+         "desc" : "",
+         "file_name" : "hg-opendata-riyoukiyaku_2023.pdf",
+         "insecure" : 1,
+         "length" : 181248,
+         "mime" : "application/pdf",
+         "sha256" : "a4c12aa1329788bd78b5fe2dd5f1b540c7a0ceefe062d7823a3e05a32b150b88",
+         "time" : 1719577942,
          "title" : "",
-         "url" : "https://opendata.pref.akita.lg.jp/term"
+         "url" : "https://open-imagedata.town.aichi-higashiura.lg.jp/cp-bin/wordpress/wp-content/uploads/2023/09/hg-opendata-riyoukiyaku_2023.pdf"
       },
       "meta:packref.json" : {
          "desc" : "",
-         "length" : 314,
+         "length" : 619,
          "mime" : "text/plain; charset=utf-8",
-         "sha256" : "8d2fc8c391de0e9a5a26ec4757b509658f02d5721ea2b88463dd36e9e9813ade",
-         "time" : 1719577729,
+         "sha256" : "fc9ffc6914d6b4d7b37418bc9faa76ded2fa2546410ceb372c2b143196f6aba3",
+         "time" : 1719577941,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/akita.json"
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/hu.json"
       }
    },
    "legal" : {
@@ -50,11 +57,11 @@
          }
       ]
    },
-   "length" : 25093,
+   "length" : 181867,
    "mirrorzip" : {
-      "length" : 10815,
+      "length" : 176765,
       "set" : "nonfree",
-      "sha256" : "5589f104a04b4c69e6abee706dd34b2686b8aed6ad8801ca3f1ee6ee8df701eb"
+      "sha256" : "231a59fb90d226a150b597788573fe6ee8d3950111554268178838d580e04beb"
    },
    "package" : {
       "author" : "",

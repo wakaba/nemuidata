@@ -5,7 +5,7 @@
          "length" : 18041,
          "mime" : "text/html; charset=utf-8",
          "sha256" : "72c72edd64e251ac7ff7447ae8f59b2201d3e134253ba9ac11d8ab9c5ea53ba3",
-         "time" : 1719577733,
+         "time" : 1719577935,
          "title" : "",
          "url" : "https://data.city.yokohama.lg.jp/terms.html"
       },
@@ -14,7 +14,7 @@
          "length" : 319,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "f23ccf5c3d270ebbe90c3219648a1380fd76709b8fd3904f0ee684fd7fe2ab46",
-         "time" : 1719577732,
+         "time" : 1719577934,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/yokohama.json"
       }
@@ -52,9 +52,9 @@
    },
    "length" : 18360,
    "mirrorzip" : {
-      "length" : 8804,
+      "length" : 8807,
       "set" : "nonfree",
-      "sha256" : "796504e23b4a6bad636cc89701dd5b8f62c80d386969cb1b182424948e955d16"
+      "sha256" : "7551184abf33079d559633ec9f9f33d57a26598edfa989d035ec07041c9438ec"
    },
    "package" : {
       "author" : "",
