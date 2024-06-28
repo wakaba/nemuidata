@@ -1,0 +1,23 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "name" : "1",
+            "sha256" : "f590bbf1be246c1180bb097074935b32b8ccfb0e58b3cc89eaa294fef1de858d"
+         },
+         "file:r:pdf" : {
+            "name" : "opendata_rule.pdf",
+            "sha256" : "0c888edd51a32d8b4fd88e057e97c7709066fd6a6dbe39212ebb358d2271e367"
+         },
+         "meta:packref.json" : {
+            "sha256" : "5bd7f80d4ad373e9f3f5b9e0a8f6dec4a191f92b7ff6a82ea37a212ebf73cfda"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kanazawa.json"
+   },
+   "type" : "packref"
+}

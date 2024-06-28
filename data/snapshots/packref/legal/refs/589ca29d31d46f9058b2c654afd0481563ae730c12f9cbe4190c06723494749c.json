@@ -1,0 +1,19 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "name" : "terms.html",
+            "sha256" : "72c72edd64e251ac7ff7447ae8f59b2201d3e134253ba9ac11d8ab9c5ea53ba3"
+         },
+         "meta:packref.json" : {
+            "sha256" : "f23ccf5c3d270ebbe90c3219648a1380fd76709b8fd3904f0ee684fd7fe2ab46"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/yokohama.json"
+   },
+   "type" : "packref"
+}

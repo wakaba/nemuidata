@@ -1,0 +1,19 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "name" : "1",
+            "sha256" : "a6c830aa49738fe3c43fb1549eb6b857933f0032a2bc442cf7507ba943484099"
+         },
+         "meta:packref.json" : {
+            "sha256" : "9bd5b87b3315bbbcea2bb4beae4cb26ac4c13a661db67e92e64611661cba664d"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/boodik-260002.json"
+   },
+   "type" : "packref"
+}

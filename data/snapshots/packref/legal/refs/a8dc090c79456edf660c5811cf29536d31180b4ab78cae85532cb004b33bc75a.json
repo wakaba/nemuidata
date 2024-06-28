@@ -1,0 +1,19 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "name" : "term",
+            "sha256" : "c247514c7908e0c4dcec42255e0c9b2f85c85c36b6d6e8011ec2fbc77518ec8b"
+         },
+         "meta:packref.json" : {
+            "sha256" : "8d2fc8c391de0e9a5a26ec4757b509658f02d5721ea2b88463dd36e9e9813ade"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/akita.json"
+   },
+   "type" : "packref"
+}

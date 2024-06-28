@@ -1,0 +1,68 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "terms.html",
+         "length" : 18041,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "72c72edd64e251ac7ff7447ae8f59b2201d3e134253ba9ac11d8ab9c5ea53ba3",
+         "time" : 1719583090,
+         "title" : "",
+         "url" : "https://data.city.yokohama.lg.jp/terms.html"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 319,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "f23ccf5c3d270ebbe90c3219648a1380fd76709b8fd3904f0ee684fd7fe2ab46",
+         "time" : 1719583088,
+         "title" : "",
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/yokohama.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 18360,
+   "mirrorzip" : {
+      "length" : 8811,
+      "set" : "nonfree",
+      "sha256" : "7f9d0b9779cc2f832d752257e995341d70a4f0b3a22118fdef83f7c7df7c1e9c"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+      ],
+      "title" : ""
+   }
+}

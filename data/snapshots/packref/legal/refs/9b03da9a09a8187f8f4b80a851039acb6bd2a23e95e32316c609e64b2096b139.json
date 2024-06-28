@@ -1,0 +1,19 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:pdf" : {
+            "name" : "Terms_of_use_230401.pdf",
+            "sha256" : "7c61e4389d6a607a690f86bee01f4b4fa4e6e696edbfa2a2d87db05f1aa870b4"
+         },
+         "meta:packref.json" : {
+            "sha256" : "f991ce892bbb24f1da1c8fa533f2ce4a1fab4da7766510b6ac4d2f557ba66eba"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/himeji.json"
+   },
+   "type" : "packref"
+}

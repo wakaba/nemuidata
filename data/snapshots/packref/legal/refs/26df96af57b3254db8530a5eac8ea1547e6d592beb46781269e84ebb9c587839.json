@@ -1,0 +1,24 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "name" : "index.html",
+            "sha256" : "a8b11d4b576a6a956ad881bcfa2a739948e44f6d41119d73b0e038f5afcec4af",
+            "sha256_insecure" : 1
+         },
+         "file:r:pdf" : {
+            "name" : "opendata_kiyaku_20180328.pdf",
+            "sha256" : "91e0e17ae0c6b5a0a4f0b5cd4298403479ef09ed4f56c8047e1d5663a7387753"
+         },
+         "meta:packref.json" : {
+            "sha256" : "a687f828fe0478d4c731a0f3e57dd94062b9b8c6c85368d7978b0f3e6c4eeabb"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/sagamihara.json"
+   },
+   "type" : "packref"
+}

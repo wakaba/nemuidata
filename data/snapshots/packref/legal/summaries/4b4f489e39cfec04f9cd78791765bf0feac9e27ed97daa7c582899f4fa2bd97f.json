@@ -1,0 +1,68 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "1",
+         "length" : 29109,
+         "mime" : "text/html; charset=UTF-8",
+         "sha256" : "5982e69a0fcf0cd7bdff22923a69983ab771a385b850111ecda9627df4f9135f",
+         "time" : 1719583074,
+         "title" : "",
+         "url" : "https://opendata-api-kakogawa.jp/odp/tos/"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 317,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "08e5ecf4f7087b360cd35d401e69eda9ff3aec75a46c9f535fe3cd58e030951d",
+         "time" : 1719583072,
+         "title" : "",
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kakogawa.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 29426,
+   "mirrorzip" : {
+      "length" : 11874,
+      "set" : "nonfree",
+      "sha256" : "28a6f981999c1bf4826fab994116fa5b933f0f52df961df5b7e45648099124f7"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+      ],
+      "title" : ""
+   }
+}
