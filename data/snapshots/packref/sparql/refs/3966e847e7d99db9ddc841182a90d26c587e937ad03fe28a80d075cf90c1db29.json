@@ -1,0 +1,47 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:sparql" : {
+         },
+         "meta:packref.json" : {
+         },
+         "package" : {
+         },
+         "part:sparql[file:r:sparql]:0" : {
+         },
+         "part:sparql[file:r:sparql]:1" : {
+         },
+         "part:sparql[file:r:sparql]:2" : {
+         },
+         "part:sparql[file:r:sparql]:3" : {
+         },
+         "part:sparql[file:r:sparql]:4" : {
+         },
+         "part:sparql[file:r:sparql]:5" : {
+         },
+         "part:sparql[file:r:sparql]:6" : {
+         },
+         "part:sparql[file:r:sparql]:7" : {
+         },
+         "part:sparql[file:r:sparql]:8" : {
+         },
+         "part:sparql[file:r:sparql]:9" : {
+         },
+         "part:sparql[file:r:sparql]:a" : {
+         },
+         "part:sparql[file:r:sparql]:b" : {
+         },
+         "part:sparql[file:r:sparql]:c" : {
+         },
+         "part:sparql[file:r:sparql]:d" : {
+         },
+         "part:sparql[file:r:sparql]:e" : {
+         },
+         "part:sparql[file:r:sparql]:f" : {
+         }
+      },
+      "type" : "packref",
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/sparql.json"
+   },
+   "type" : "packref"
+}

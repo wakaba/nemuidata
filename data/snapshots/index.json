@@ -4,6 +4,11 @@
          "esite_name" : "legal",
          "site_name" : "legal",
          "site_type" : "packref"
+      },
+      "sparql" : {
+         "esite_name" : "sparql",
+         "site_name" : "sparql",
+         "site_type" : "packref"
       }
    }
 }

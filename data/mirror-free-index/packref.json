@@ -3,6 +3,9 @@
       "files" : {
          "file:r:packref-legal" : {
             "url" : "packref-legal.jsonl"
+         },
+         "file:r:packref-sparql" : {
+            "url" : "packref-sparql.jsonl"
          }
       },
       "type" : "files"
