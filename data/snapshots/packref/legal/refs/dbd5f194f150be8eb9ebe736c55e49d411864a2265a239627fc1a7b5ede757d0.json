@@ -3,8 +3,7 @@
       "files" : {
          "file:r:page" : {
          },
-         "file:r:pdf" : {
-            "name" : "hg-opendata-riyoukiyaku_2023.pdf"
+         "file:r:pubs" : {
          },
          "meta:packref.json" : {
          },
@@ -12,7 +11,7 @@
          }
       },
       "type" : "packref",
-      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/hu.json"
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/gsj.json"
    },
    "type" : "packref"
 }

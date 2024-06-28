@@ -5,7 +5,7 @@
          "length" : 44618,
          "mime" : "text/html; charset=UTF-8",
          "sha256" : "7e01f03e9b5bc45d4a4cd23a4f9b9773e231ee43b203a05773710ceefa9bf953",
-         "time" : 1719578700,
+         "time" : 1719578955,
          "title" : "",
          "url" : "https://opendata.pref.kanagawa.jp/terms"
       },
@@ -14,7 +14,7 @@
          "length" : 224071,
          "mime" : "application/pdf",
          "sha256" : "3e499cced5db09150fa920a18a951c7018e9533688eb75cd2cb525f6633d223a",
-         "time" : 1719578698,
+         "time" : 1719578955,
          "title" : "",
          "url" : "https://opendata.pref.kanagawa.jp/wp-content/uploads/2024/02/terms_of_service_202402.pdf"
       },
@@ -23,7 +23,7 @@
          "length" : 870,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "6ae7802fb3ad44863b8e46109516e028bc5a207c8bf75307c3fc2c900e19bf20",
-         "time" : 1719578697,
+         "time" : 1719578953,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kanagawa.json"
       }
@@ -104,9 +104,9 @@
    },
    "length" : 269559,
    "mirrorzip" : {
-      "length" : 232791,
+      "length" : 232777,
       "set" : "free",
-      "sha256" : "c8cf4cd8ac89e9a8fb95dba0a4434601bad84ba3cef469aac39c412378637e21"
+      "sha256" : "a0f4b50c2326df95d919c373317e4034d0d929d3dc8e0bbd485dc40a6d810445"
    },
    "package" : {
       "author" : "神奈川県",

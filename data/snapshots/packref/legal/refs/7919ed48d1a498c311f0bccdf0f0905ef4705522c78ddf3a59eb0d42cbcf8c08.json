@@ -1,6 +1,9 @@
 {
    "source" : {
       "files" : {
+         "file:r:page" : {
+            "name" : "1"
+         },
          "file:r:pdf" : {
          },
          "meta:packref.json" : {
@@ -9,7 +12,7 @@
          }
       },
       "type" : "packref",
-      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/himeji.json"
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/ikoma.json"
    },
    "type" : "packref"
 }

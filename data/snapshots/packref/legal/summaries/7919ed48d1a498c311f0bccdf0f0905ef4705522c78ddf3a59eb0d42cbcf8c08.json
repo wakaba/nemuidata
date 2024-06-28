@@ -1,22 +1,32 @@
 {
    "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "1",
+         "length" : 13544,
+         "mime" : "text/html; charset=UTF-8",
+         "sha256" : "bf541e6f03bffcdaa3bb8cb0cbb3b9205db930272a490cc1e973d7e19e5c3a1b",
+         "time" : 1719578980,
+         "title" : "",
+         "url" : "https://data.city.ikoma.lg.jp/policy/"
+      },
       "file:r:pdf" : {
          "desc" : "",
-         "length" : 253235,
+         "length" : 141006,
          "mime" : "application/pdf",
-         "sha256" : "7c61e4389d6a607a690f86bee01f4b4fa4e6e696edbfa2a2d87db05f1aa870b4",
-         "time" : 1719578683,
+         "sha256" : "7a16ff77aad13588090e8b85631d181a0d4f2aa32d15d5aaefcb1df74d92fef3",
+         "time" : 1719578979,
          "title" : "",
-         "url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf"
+         "url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf"
       },
       "meta:packref.json" : {
          "desc" : "",
-         "length" : 338,
+         "length" : 525,
          "mime" : "text/plain; charset=utf-8",
-         "sha256" : "f991ce892bbb24f1da1c8fa533f2ce4a1fab4da7766510b6ac4d2f557ba66eba",
-         "time" : 1719578682,
+         "sha256" : "ebd86e9049a31073a4db86fec2e178d0151ea24749f0fc7fe0412b2d1fef478d",
+         "time" : 1719578977,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/himeji.json"
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/ikoma.json"
       }
    },
    "legal" : {
@@ -50,11 +60,11 @@
          }
       ]
    },
-   "length" : 253573,
+   "length" : 155075,
    "mirrorzip" : {
-      "length" : 251109,
+      "length" : 139924,
       "set" : "nonfree",
-      "sha256" : "cf73213020614f105b73d954ed2560e083f7b76b1ac277491a709236f2f6d509"
+      "sha256" : "c7dc997c2c17dc4cb5677414b2ba20c45e4d8637cab7a9917344d85f7a353a6b"
    },
    "package" : {
       "author" : "",

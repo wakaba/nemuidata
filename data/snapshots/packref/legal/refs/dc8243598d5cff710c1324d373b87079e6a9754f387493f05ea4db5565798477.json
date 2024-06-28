@@ -2,9 +2,7 @@
    "source" : {
       "files" : {
          "file:r:page" : {
-            "name" : "index.html"
-         },
-         "file:r:pdf" : {
+            "name" : "1"
          },
          "meta:packref.json" : {
          },
@@ -12,7 +10,7 @@
          }
       },
       "type" : "packref",
-      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/sagamihara.json"
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kakogawa.json"
    },
    "type" : "packref"
 }

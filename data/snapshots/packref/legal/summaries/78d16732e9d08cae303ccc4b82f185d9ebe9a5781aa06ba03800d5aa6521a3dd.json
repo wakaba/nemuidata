@@ -5,7 +5,7 @@
          "length" : 6215,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "2d06ce456f35692228ea724d6cf2ea1fcf51263e04e8d21e11cbfa57d0b56c19",
-         "time" : 1719578669,
+         "time" : 1719578937,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/ckan.json"
       },
@@ -14,7 +14,7 @@
          "length" : 20833,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "649bf35e2e824174509b129aecb0e9c94426160bada810ebafb38e445e994f89",
-         "time" : 1719578670,
+         "time" : 1719578937,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/info.json"
       },
@@ -23,7 +23,7 @@
          "length" : 4246,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "8f91de6c32d6365578dc91d104fc4bb704eaa4a86bb7389669fb07cbdd432c37",
-         "time" : 1719578670,
+         "time" : 1719578937,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/websites.json"
       },
@@ -32,7 +32,7 @@
          "length" : 284,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "9397675ff2090867755690afa78fea8b4fccd992d46e1bf9a0875307c10ca785",
-         "time" : 1719578669,
+         "time" : 1719578937,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/packref.json"
       }
@@ -70,9 +70,9 @@
    },
    "length" : 31578,
    "mirrorzip" : {
-      "length" : 12375,
+      "length" : 12377,
       "set" : "nonfree",
-      "sha256" : "eefb36ab20a14ce1caa5697f4565f8daa19f2a7c9129d72edf6db1c7f8209fc8"
+      "sha256" : "cad5bbb0ce8c664f3764cabcef180b57dc2c50a412d5a0a3eaf44d9db5109fa5"
    },
    "package" : {
       "author" : "",

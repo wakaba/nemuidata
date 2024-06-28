@@ -2,21 +2,22 @@
    "files" : {
       "file:r:page" : {
          "desc" : "",
-         "length" : 15797,
-         "mime" : "text/html; charset=utf-8",
-         "sha256" : "4fdae53679418d74cba6f25c6b666e5a8881db6ef6a712ae1696ef5181260d52",
-         "time" : 1719611184,
+         "file_name" : "1",
+         "length" : 29109,
+         "mime" : "text/html; charset=UTF-8",
+         "sha256" : "5982e69a0fcf0cd7bdff22923a69983ab771a385b850111ecda9627df4f9135f",
+         "time" : 1719578975,
          "title" : "",
-         "url" : "https://data.city.tendo.yamagata.jp/about"
+         "url" : "https://opendata-api-kakogawa.jp/odp/tos/"
       },
       "meta:packref.json" : {
          "desc" : "",
          "length" : 317,
          "mime" : "text/plain; charset=utf-8",
-         "sha256" : "c35867274fb41317d7bd70488d991368203cdc5f893f6c4e5acecca57c599495",
-         "time" : 1719578679,
+         "sha256" : "08e5ecf4f7087b360cd35d401e69eda9ff3aec75a46c9f535fe3cd58e030951d",
+         "time" : 1719578973,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/tendo.json"
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kakogawa.json"
       }
    },
    "legal" : {
@@ -50,11 +51,11 @@
          }
       ]
    },
-   "length" : 16114,
+   "length" : 29426,
    "mirrorzip" : {
-      "length" : 9241,
+      "length" : 11874,
       "set" : "nonfree",
-      "sha256" : "f1bea5ff3ccdab8f8304a3627a0269b3de70e5fc386deaca36b18a0f6bd8dc3a"
+      "sha256" : "acfea3a1d380467d1332f6ef24022b186cba5844631ab5c8c0ed2af3945863d3"
    },
    "package" : {
       "author" : "",

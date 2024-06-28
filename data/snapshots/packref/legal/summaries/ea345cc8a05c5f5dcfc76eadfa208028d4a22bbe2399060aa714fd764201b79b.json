@@ -5,7 +5,7 @@
          "length" : 24779,
          "mime" : "text/html; charset=UTF-8",
          "sha256" : "c247514c7908e0c4dcec42255e0c9b2f85c85c36b6d6e8011ec2fbc77518ec8b",
-         "time" : 1719578617,
+         "time" : 1719578913,
          "title" : "",
          "url" : "https://opendata.pref.akita.lg.jp/term"
       },
@@ -14,7 +14,7 @@
          "length" : 314,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "8d2fc8c391de0e9a5a26ec4757b509658f02d5721ea2b88463dd36e9e9813ade",
-         "time" : 1719578672,
+         "time" : 1719578967,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/akita.json"
       }
@@ -52,9 +52,9 @@
    },
    "length" : 25093,
    "mirrorzip" : {
-      "length" : 10814,
+      "length" : 10815,
       "set" : "nonfree",
-      "sha256" : "7ae3d3b610e226322700141b7cbfe0fe22f3c4da3e70246e06edb066f3584487"
+      "sha256" : "f76f1195908cca298cfe42e1e0ce70f014a50826ab6df4e26f26f0f34b5191bb"
    },
    "package" : {
       "author" : "",

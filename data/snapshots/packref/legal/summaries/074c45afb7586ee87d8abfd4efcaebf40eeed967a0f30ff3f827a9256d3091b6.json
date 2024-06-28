@@ -6,7 +6,7 @@
          "length" : 40182,
          "mime" : "text/html; charset=UTF-8",
          "sha256" : "84200f7ce8624d19d0aae240b8b9f0a8e123cdaf2a3c14e868d6474646e405df",
-         "time" : 1719578704,
+         "time" : 1719578952,
          "title" : "",
          "url" : "https://data.pf-sapporo.jp/tos/"
       },
@@ -15,7 +15,7 @@
          "length" : 307,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "859ebedffcdb11173d8ee97bb50b3962ef18f4c44a885383cded1ae130c3884a",
-         "time" : 1719578703,
+         "time" : 1719578951,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/pf-sapporo.json"
       }
@@ -53,9 +53,9 @@
    },
    "length" : 40489,
    "mirrorzip" : {
-      "length" : 13414,
+      "length" : 13415,
       "set" : "nonfree",
-      "sha256" : "27759744a020b5bb82dee865095e76cda3e1e6f707e030840874b4151a7ae9ef"
+      "sha256" : "7b78357badebca4ba3cea790f009122fd864a7f1e111dc0d134b4984f12aa36f"
    },
    "package" : {
       "author" : "",

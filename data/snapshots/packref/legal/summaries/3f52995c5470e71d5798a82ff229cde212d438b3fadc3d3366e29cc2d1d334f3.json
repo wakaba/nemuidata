@@ -1,29 +1,41 @@
 {
    "files" : {
-      "file:r:page" : {
+      "file:r:artnavi" : {
          "desc" : "",
          "mime" : "application/octet-stream",
          "title" : ""
       },
-      "file:r:pdf" : {
+      "file:r:logo" : {
          "desc" : "",
-         "file_name" : "hg-opendata-riyoukiyaku_2023.pdf",
-         "insecure" : 1,
-         "length" : 181248,
-         "mime" : "application/pdf",
-         "sha256" : "a4c12aa1329788bd78b5fe2dd5f1b540c7a0ceefe062d7823a3e05a32b150b88",
-         "time" : 1719578692,
+         "length" : 75734,
+         "mime" : "image/svg\u002Bxml",
+         "sha256" : "79c204a2e4850980a8b2906aad1c21e150df53af2710a863af1e84df0dde53a0",
+         "time" : 1719578964,
          "title" : "",
-         "url" : "https://open-imagedata.town.aichi-higashiura.lg.jp/cp-bin/wordpress/wp-content/uploads/2023/09/hg-opendata-riyoukiyaku_2023.pdf"
+         "url" : "https://artnavi.yokohama/wp-content/themes/yokohama_art_navi_ga4/images/yokohama_art_lod.svg"
+      },
+      "file:r:reference" : {
+         "desc" : "",
+         "length" : 31094,
+         "mime" : "text/html",
+         "sha256" : "3e13b1cbb82b6646b0acac2be7ae92ec3e9505eefc4a83662b8c11e1c0c0ab86",
+         "time" : 1719578962,
+         "title" : "",
+         "url" : "https://data.yafjp.org/reference.html"
+      },
+      "file:r:yafjp" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : ""
       },
       "meta:packref.json" : {
          "desc" : "",
-         "length" : 619,
+         "length" : 1283,
          "mime" : "text/plain; charset=utf-8",
-         "sha256" : "fc9ffc6914d6b4d7b37418bc9faa76ded2fa2546410ceb372c2b143196f6aba3",
-         "time" : 1719578691,
+         "sha256" : "c00c84d0291320a52be486bfa94c7fda02537723e2fea25c5dacb835c8b2f2e2",
+         "time" : 1719578959,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/hu.json"
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/yokohamaart.json"
       }
    },
    "legal" : {
@@ -33,7 +45,7 @@
             "dir" : "auto",
             "is_free" : "unknown",
             "key" : "-ddsd-unknown",
-            "lang" : "",
+            "lang" : "ja",
             "source_type" : "sniffer",
             "type" : "license",
             "writing_mode" : "horizontal-tb"
@@ -57,18 +69,19 @@
          }
       ]
    },
-   "length" : 181867,
+   "length" : 108111,
    "mirrorzip" : {
-      "length" : 176763,
+      "length" : 32309,
       "set" : "nonfree",
-      "sha256" : "813ffc66f096bdf3844cfa8748cdd06e4d35bd47ceaa76ee7a1967fa216247f0"
+      "sha256" : "7328ea8a40490211d56817b31f4f3eb2e540e058f2bbe7d456e4ee9a2da8a5b7"
    },
    "package" : {
-      "author" : "",
+      "author" : "公益財団法人 横浜市芸術文化振興財団",
       "desc" : "",
       "org" : "",
       "tags" : [
+         "公益財団法人 横浜市芸術文化振興財団"
       ],
-      "title" : ""
+      "title" : "公益財団法人 横浜市芸術文化振興財団:オープンデータ・API"
    }
 }

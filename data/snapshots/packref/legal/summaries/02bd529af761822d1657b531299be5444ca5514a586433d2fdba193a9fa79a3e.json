@@ -6,7 +6,7 @@
          "length" : 64489,
          "mime" : "text/html",
          "sha256" : "f590bbf1be246c1180bb097074935b32b8ccfb0e58b3cc89eaa294fef1de858d",
-         "time" : 1719578711,
+         "time" : 1719578940,
          "title" : "",
          "url" : "https://portal-data.city.kanazawa.ishikawa.jp/"
       },
@@ -15,7 +15,7 @@
          "length" : 137768,
          "mime" : "application/pdf",
          "sha256" : "0c888edd51a32d8b4fd88e057e97c7709066fd6a6dbe39212ebb358d2271e367",
-         "time" : 1719578710,
+         "time" : 1719578941,
          "title" : "",
          "url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf"
       },
@@ -24,7 +24,7 @@
          "length" : 530,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "5bd7f80d4ad373e9f3f5b9e0a8f6dec4a191f92b7ff6a82ea37a212ebf73cfda",
-         "time" : 1719578709,
+         "time" : 1719578939,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kanazawa.json"
       }
@@ -62,9 +62,9 @@
    },
    "length" : 202787,
    "mirrorzip" : {
-      "length" : 146012,
+      "length" : 146004,
       "set" : "nonfree",
-      "sha256" : "2344f3e9e1fe440c9264c77e58f7f35754d8eaa121562aceab394ad162fc8a98"
+      "sha256" : "5b9e8c773ef91dabe5c9890952314c18a0876bd720be607126e3b4eead0920dc"
    },
    "package" : {
       "author" : "",
