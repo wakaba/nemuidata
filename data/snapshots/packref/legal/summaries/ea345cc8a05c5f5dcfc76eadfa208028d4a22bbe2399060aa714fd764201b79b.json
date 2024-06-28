@@ -2,31 +2,21 @@
    "files" : {
       "file:r:page" : {
          "desc" : "",
-         "file_name" : "1",
-         "length" : 64489,
-         "mime" : "text/html",
-         "sha256" : "f590bbf1be246c1180bb097074935b32b8ccfb0e58b3cc89eaa294fef1de858d",
-         "time" : 1719577951,
+         "length" : 24779,
+         "mime" : "text/html; charset=UTF-8",
+         "sha256" : "c247514c7908e0c4dcec42255e0c9b2f85c85c36b6d6e8011ec2fbc77518ec8b",
+         "time" : 1719578167,
          "title" : "",
-         "url" : "https://portal-data.city.kanazawa.ishikawa.jp/"
-      },
-      "file:r:pdf" : {
-         "desc" : "",
-         "length" : 137768,
-         "mime" : "application/pdf",
-         "sha256" : "0c888edd51a32d8b4fd88e057e97c7709066fd6a6dbe39212ebb358d2271e367",
-         "time" : 1719577952,
-         "title" : "",
-         "url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf"
+         "url" : "https://opendata.pref.akita.lg.jp/term"
       },
       "meta:packref.json" : {
          "desc" : "",
-         "length" : 530,
+         "length" : 314,
          "mime" : "text/plain; charset=utf-8",
-         "sha256" : "5bd7f80d4ad373e9f3f5b9e0a8f6dec4a191f92b7ff6a82ea37a212ebf73cfda",
-         "time" : 1719577950,
+         "sha256" : "8d2fc8c391de0e9a5a26ec4757b509658f02d5721ea2b88463dd36e9e9813ade",
+         "time" : 1719578221,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kanazawa.json"
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/akita.json"
       }
    },
    "legal" : {
@@ -60,11 +50,11 @@
          }
       ]
    },
-   "length" : 202787,
+   "length" : 25093,
    "mirrorzip" : {
-      "length" : 145998,
+      "length" : 10824,
       "set" : "nonfree",
-      "sha256" : "2c0773dabaec1dea88955abf16bc3c734cdbf0c204949be708f3e8c4c0c22b15"
+      "sha256" : "c00d4837c6f523a40688810a671403d9ca3a68ffac1ff0c7a18daaf6d32f6ecb"
    },
    "package" : {
       "author" : "",

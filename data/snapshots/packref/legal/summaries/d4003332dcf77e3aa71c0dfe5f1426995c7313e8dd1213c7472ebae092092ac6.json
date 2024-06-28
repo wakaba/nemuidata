@@ -25,7 +25,7 @@
          "length" : 599,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "a687f828fe0478d4c731a0f3e57dd94062b9b8c6c85368d7978b0f3e6c4eeabb",
-         "time" : 1719577947,
+         "time" : 1719578202,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/sagamihara.json"
       }
@@ -63,9 +63,9 @@
    },
    "length" : 67548,
    "mirrorzip" : {
-      "length" : 24704,
+      "length" : 24730,
       "set" : "nonfree",
-      "sha256" : "8368f0241c510fb69fa20c4862dbcdec9015657b24bf3b01a6513e5b09672e65"
+      "sha256" : "3d609c49de33daa19add6269d37219a1b01d5892a22eebcf4916daa409efe467"
    },
    "package" : {
       "author" : "",

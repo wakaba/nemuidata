@@ -3,21 +3,21 @@
       "file:r:page" : {
          "desc" : "",
          "file_name" : "1",
-         "length" : 34751,
+         "length" : 40465,
          "mime" : "text/html; charset=UTF-8",
-         "sha256" : "a6c830aa49738fe3c43fb1549eb6b857933f0032a2bc442cf7507ba943484099",
-         "time" : 1719577972,
+         "sha256" : "56ddf25b47252b2ba6f8a54bd8dd96ac02626abcd04e7ab9ba3f70be04dc837c",
+         "time" : 1719578216,
          "title" : "",
-         "url" : "https://odcs.bodik.jp/260002/tos/"
+         "url" : "https://odcs.bodik.jp/452017/tos/"
       },
       "meta:packref.json" : {
          "desc" : "",
          "length" : 309,
          "mime" : "text/plain; charset=utf-8",
-         "sha256" : "9bd5b87b3315bbbcea2bb4beae4cb26ac4c13a661db67e92e64611661cba664d",
-         "time" : 1719577971,
+         "sha256" : "03a2f5b643b44e79c3a4ea9003bb21ba923da33ce7e23fb14f9c6063b0275097",
+         "time" : 1719578215,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/boodik-260002.json"
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/boodik-452017.json"
       }
    },
    "legal" : {
@@ -51,11 +51,11 @@
          }
       ]
    },
-   "length" : 35060,
+   "length" : 40774,
    "mirrorzip" : {
-      "length" : 13435,
+      "length" : 15018,
       "set" : "nonfree",
-      "sha256" : "69a0a0138808f35206254ee766489900ba527d724f57c1c29d551911894a1cb1"
+      "sha256" : "34a0480a48b865bb686934968a74f9dc66802067c2ae313ee6fb7bfe89376769"
    },
    "package" : {
       "author" : "",

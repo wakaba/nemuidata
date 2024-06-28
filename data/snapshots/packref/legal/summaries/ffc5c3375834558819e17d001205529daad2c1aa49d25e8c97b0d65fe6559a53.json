@@ -1,22 +1,27 @@
 {
    "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : ""
+      },
       "file:r:pdf" : {
          "desc" : "",
-         "length" : 253235,
+         "length" : 141006,
          "mime" : "application/pdf",
-         "sha256" : "7c61e4389d6a607a690f86bee01f4b4fa4e6e696edbfa2a2d87db05f1aa870b4",
-         "time" : 1719577956,
+         "sha256" : "7a16ff77aad13588090e8b85631d181a0d4f2aa32d15d5aaefcb1df74d92fef3",
+         "time" : 1719578232,
          "title" : "",
-         "url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf"
+         "url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf"
       },
       "meta:packref.json" : {
          "desc" : "",
-         "length" : 338,
+         "length" : 525,
          "mime" : "text/plain; charset=utf-8",
-         "sha256" : "f991ce892bbb24f1da1c8fa533f2ce4a1fab4da7766510b6ac4d2f557ba66eba",
-         "time" : 1719577955,
+         "sha256" : "ebd86e9049a31073a4db86fec2e178d0151ea24749f0fc7fe0412b2d1fef478d",
+         "time" : 1719578230,
          "title" : "",
-         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/himeji.json"
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/ikoma.json"
       }
    },
    "legal" : {
@@ -50,11 +55,11 @@
          }
       ]
    },
-   "length" : 253573,
+   "length" : 141531,
    "mirrorzip" : {
-      "length" : 251102,
+      "length" : 135374,
       "set" : "nonfree",
-      "sha256" : "2734794d6e5da7e866702e75a680b958070db8d4c068c5f00163cedc1d705510"
+      "sha256" : "759c2a4e58621a7cc01e45454786a522438c407e13428dfa8e6bc3edbe374bfd"
    },
    "package" : {
       "author" : "",
