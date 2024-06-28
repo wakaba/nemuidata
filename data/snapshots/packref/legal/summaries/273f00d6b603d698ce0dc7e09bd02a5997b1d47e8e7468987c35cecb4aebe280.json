@@ -1,0 +1,68 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "about",
+         "length" : 15797,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4fdae53679418d74cba6f25c6b666e5a8881db6ef6a712ae1696ef5181260d52",
+         "time" : 1719615215,
+         "title" : "",
+         "url" : "https://data.city.tendo.yamagata.jp/about"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 317,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "c35867274fb41317d7bd70488d991368203cdc5f893f6c4e5acecca57c599495",
+         "time" : 1719582710,
+         "title" : "",
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/tendo.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 16114,
+   "mirrorzip" : {
+      "length" : 9237,
+      "set" : "nonfree",
+      "sha256" : "71bd3563abac8800ebaf2fbc7016c0af48f3c78834d2431dd72cf0e994dcadfe"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+      ],
+      "title" : ""
+   }
+}
