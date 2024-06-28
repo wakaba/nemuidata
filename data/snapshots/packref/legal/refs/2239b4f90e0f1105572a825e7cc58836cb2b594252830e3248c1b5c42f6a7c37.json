@@ -1,0 +1,29 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:artnavi" : {
+            "skip" : 1
+         },
+         "file:r:logo" : {
+            "name" : "yokohama_art_lod.svg",
+            "sha256" : "79c204a2e4850980a8b2906aad1c21e150df53af2710a863af1e84df0dde53a0"
+         },
+         "file:r:reference" : {
+            "name" : "reference.html",
+            "sha256" : "3e13b1cbb82b6646b0acac2be7ae92ec3e9505eefc4a83662b8c11e1c0c0ab86"
+         },
+         "file:r:yafjp" : {
+            "skip" : 1
+         },
+         "meta:packref.json" : {
+            "sha256" : "c00c84d0291320a52be486bfa94c7fda02537723e2fea25c5dacb835c8b2f2e2"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/yokohamaart.json"
+   },
+   "type" : "packref"
+}

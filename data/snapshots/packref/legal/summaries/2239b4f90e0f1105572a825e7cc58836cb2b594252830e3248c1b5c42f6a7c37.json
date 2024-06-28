@@ -1,0 +1,80 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:r:logo" : {
+         "desc" : "",
+         "file_name" : "yokohama_art_lod.svg",
+         "length" : 75734,
+         "mime" : "image/svg\u002Bxml",
+         "sha256" : "79c204a2e4850980a8b2906aad1c21e150df53af2710a863af1e84df0dde53a0",
+         "time" : 1719585397,
+         "title" : "",
+         "url" : "https://artnavi.yokohama/wp-content/themes/yokohama_art_navi_ga4/images/yokohama_art_lod.svg"
+      },
+      "file:r:reference" : {
+         "desc" : "",
+         "file_name" : "reference.html",
+         "length" : 31094,
+         "mime" : "text/html",
+         "sha256" : "3e13b1cbb82b6646b0acac2be7ae92ec3e9505eefc4a83662b8c11e1c0c0ab86",
+         "time" : 1719585396,
+         "title" : "",
+         "url" : "https://data.yafjp.org/reference.html"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 1283,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "c00c84d0291320a52be486bfa94c7fda02537723e2fea25c5dacb835c8b2f2e2",
+         "time" : 1719585393,
+         "title" : "",
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/yokohamaart.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 108111,
+   "mirrorzip" : {
+      "length" : 32313,
+      "set" : "nonfree",
+      "sha256" : "39e6bfb8b23ac6dbe7ceff34143402a11fbfa1301119bde449833620874a36c6"
+   },
+   "package" : {
+      "author" : "公益財団法人 横浜市芸術文化振興財団",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "公益財団法人 横浜市芸術文化振興財団"
+      ],
+      "title" : "公益財団法人 横浜市芸術文化振興財団:オープンデータ・API"
+   }
+}
