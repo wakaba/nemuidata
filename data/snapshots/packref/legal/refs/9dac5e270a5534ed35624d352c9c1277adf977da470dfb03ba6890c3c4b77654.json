@@ -2,8 +2,7 @@
    "source" : {
       "files" : {
          "file:r:page" : {
-         },
-         "file:r:pubs" : {
+            "name" : "1"
          },
          "meta:packref.json" : {
          },
@@ -11,7 +10,7 @@
          }
       },
       "type" : "packref",
-      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/gsj.json"
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/boodik-260002.json"
    },
    "type" : "packref"
 }

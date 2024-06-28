@@ -5,7 +5,7 @@
          "length" : 15797,
          "mime" : "text/html; charset=utf-8",
          "sha256" : "4fdae53679418d74cba6f25c6b666e5a8881db6ef6a712ae1696ef5181260d52",
-         "time" : 1719610941,
+         "time" : 1719611184,
          "title" : "",
          "url" : "https://data.city.tendo.yamagata.jp/about"
       },
@@ -14,7 +14,7 @@
          "length" : 317,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "c35867274fb41317d7bd70488d991368203cdc5f893f6c4e5acecca57c599495",
-         "time" : 1719578436,
+         "time" : 1719578679,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/tendo.json"
       }
@@ -52,9 +52,9 @@
    },
    "length" : 16114,
    "mirrorzip" : {
-      "length" : 9239,
+      "length" : 9241,
       "set" : "nonfree",
-      "sha256" : "5a0be26ef5df54996a61b4b367ef81923ca6acc7aaed6f9c5daa209606970a07"
+      "sha256" : "f1bea5ff3ccdab8f8304a3627a0269b3de70e5fc386deaca36b18a0f6bd8dc3a"
    },
    "package" : {
       "author" : "",

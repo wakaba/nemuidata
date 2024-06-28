@@ -5,7 +5,7 @@
          "length" : 253235,
          "mime" : "application/pdf",
          "sha256" : "7c61e4389d6a607a690f86bee01f4b4fa4e6e696edbfa2a2d87db05f1aa870b4",
-         "time" : 1719578469,
+         "time" : 1719578683,
          "title" : "",
          "url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf"
       },
@@ -14,7 +14,7 @@
          "length" : 338,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "f991ce892bbb24f1da1c8fa533f2ce4a1fab4da7766510b6ac4d2f557ba66eba",
-         "time" : 1719578468,
+         "time" : 1719578682,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/himeji.json"
       }
@@ -52,9 +52,9 @@
    },
    "length" : 253573,
    "mirrorzip" : {
-      "length" : 251114,
+      "length" : 251109,
       "set" : "nonfree",
-      "sha256" : "46d96eae62e17cef0381bfb82028c2b5cbc2ad1308d6fe8848f053c8a89843d1"
+      "sha256" : "cf73213020614f105b73d954ed2560e083f7b76b1ac277491a709236f2f6d509"
    },
    "package" : {
       "author" : "",

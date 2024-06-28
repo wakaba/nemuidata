@@ -4,13 +4,15 @@
          "file:r:page" : {
             "name" : "1"
          },
+         "file:r:pdf" : {
+         },
          "meta:packref.json" : {
          },
          "package" : {
          }
       },
       "type" : "packref",
-      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kakogawa.json"
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kanazawa.json"
    },
    "type" : "packref"
 }

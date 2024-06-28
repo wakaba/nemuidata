@@ -12,7 +12,7 @@
          "length" : 181248,
          "mime" : "application/pdf",
          "sha256" : "a4c12aa1329788bd78b5fe2dd5f1b540c7a0ceefe062d7823a3e05a32b150b88",
-         "time" : 1719578464,
+         "time" : 1719578692,
          "title" : "",
          "url" : "https://open-imagedata.town.aichi-higashiura.lg.jp/cp-bin/wordpress/wp-content/uploads/2023/09/hg-opendata-riyoukiyaku_2023.pdf"
       },
@@ -21,7 +21,7 @@
          "length" : 619,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "fc9ffc6914d6b4d7b37418bc9faa76ded2fa2546410ceb372c2b143196f6aba3",
-         "time" : 1719578463,
+         "time" : 1719578691,
          "title" : "",
          "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/hu.json"
       }
@@ -59,9 +59,9 @@
    },
    "length" : 181867,
    "mirrorzip" : {
-      "length" : 176764,
+      "length" : 176763,
       "set" : "nonfree",
-      "sha256" : "04c6cb47007e9f387164bd17710fd92cfdacb16e92cae6fef43e7c0434a68d3d"
+      "sha256" : "813ffc66f096bdf3844cfa8748cdd06e4d35bd47ceaa76ee7a1967fa216247f0"
    },
    "package" : {
       "author" : "",
