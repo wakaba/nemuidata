@@ -1,0 +1,241 @@
+{
+   "files" : {
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 572,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "c708b3eab86e2916de85ee08b6ab877f7dfb3f474f27642a41f08dcc9297ef20",
+         "time" : 1719583494,
+         "title" : "",
+         "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/sparql.json"
+      },
+      "part:sparql[file:r:sparql]:0" : {
+         "desc" : "",
+         "length" : 77519308,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "85b40ccc0de439f5b376b4c365d43f2febeba8128d2c616a017c00027fc77817",
+         "time" : 1719583540,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%220%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:1" : {
+         "desc" : "",
+         "length" : 77599112,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "b19ea4deec90b39eb2ea2898c429a2a757093c0ae5249bffd38e476590997c69",
+         "time" : 1719583602,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%221%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:2" : {
+         "desc" : "",
+         "length" : 75188761,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "8df5049c46f0146e49917158898f9e2d14340300635be0d6000cf4d6e34046b9",
+         "time" : 1719583663,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%222%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:3" : {
+         "desc" : "",
+         "length" : 78091017,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "96bd9540fa53f49639a458c55a240c26aeaca74e33ff3360a45fa9d7862be30d",
+         "time" : 1719583725,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%223%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:4" : {
+         "desc" : "",
+         "length" : 77753330,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "dd26e9a422f1b741e67d61a20e80601cc69b1287c7477e4954aabbb59bd9d5b2",
+         "time" : 1719583787,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%224%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:5" : {
+         "desc" : "",
+         "length" : 77090517,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "99fade7b9998c162382a1a1d7343014a748d2609d239d7fa4528fc3c45693e6c",
+         "time" : 1719583849,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%225%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:6" : {
+         "desc" : "",
+         "length" : 77623380,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "c0fdc9514240ebafe3e95bcb42f662eee8004c33e17c3e2dc31b28c50cf6d1a4",
+         "time" : 1719583912,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%226%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:7" : {
+         "desc" : "",
+         "length" : 77123859,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "b51cb896862dfa10cc197a9a0df7585842fafe2ad006f6f8a1ae185ae493dd59",
+         "time" : 1719583974,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%227%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:8" : {
+         "desc" : "",
+         "length" : 78625181,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "2429f890601df8b4492574fc32e7c3a69725c28ab2f05dc9726e79f87cc411dd",
+         "time" : 1719584036,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%228%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:9" : {
+         "desc" : "",
+         "length" : 74580501,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "b287d2b66699d39089cef8a78c7477c062942cf5c16131860aaf67f7dd893056",
+         "time" : 1719584099,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%229%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:a" : {
+         "desc" : "",
+         "length" : 78229261,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "5a268d39c4cabace568eb944ac10c6d281d7b46cb6373c46c2452cf9d8fdd248",
+         "time" : 1719584160,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%22a%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:b" : {
+         "desc" : "",
+         "length" : 78408452,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "b09862d27a8462903dfd445cf9dd42bf03535bc1365f74361f383b766cb220c7",
+         "time" : 1719584223,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%22b%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:c" : {
+         "desc" : "",
+         "length" : 78179328,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "ea7e638dc15d04c798a868acf0c5a6a9c6076501b1a213d05e4d812d86b65123",
+         "time" : 1719584286,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%22c%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:d" : {
+         "desc" : "",
+         "length" : 77571180,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "30d3305d8df86b8241c6fb8b33b0c82f4755a04f8d4ff226f49ba43e6e31a924",
+         "time" : 1719584349,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%22d%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:e" : {
+         "desc" : "",
+         "length" : 78495202,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "2e134f0eef3537f521c8b390b4f6c5f84a9fb41d6c0ca408662ac2743c65061c",
+         "time" : 1719584412,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%22e%22))%20%7D"
+      },
+      "part:sparql[file:r:sparql]:f" : {
+         "desc" : "",
+         "length" : 78592800,
+         "mime" : "text/turtle; charset=UTF-8",
+         "sha256" : "3fbe91bc930c66c13804cf50266ce20aabf886fc4d252aaa3d401f8630d7deb3",
+         "time" : 1719584474,
+         "title" : "",
+         "url" : "https://data.yafjp.org/sparql?query=SELECT%20%2A%20WHERE%20%7B%20%20%3Fs%20%3Fp%20%3Fo%20.%20%20FILTER%20(STRSTARTS(SUBSTR(MD5(STR(%3Fs)),%201,%202),%20%22f%22))%20%7D"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "公益財団法人横浜市芸術文化振興財団",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title} by {holder}",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "ヨコハマ・アート・LOD Endpoint",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/sparql.json"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://artnavi.yokohama/lod/",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.yafjp.org",
+            "label" : "ヨコハマ・アート・LODについて",
+            "lang" : "ja",
+            "source_type" : "packref",
+            "source_url" : "https://artnavi.yokohama/lod/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 1240671761,
+   "mirrorzip" : {
+      "length" : 77477932,
+      "set" : "free",
+      "sha256" : "5ecaaab31064b4adbd702fdcdbbd52f7cc42f7d8b0e3c44fc705c0fb80428eb2"
+   },
+   "package" : {
+      "author" : "ヨコハマ・アート・LOD プロジェクト",
+      "desc" : "",
+      "org" : "公益財団法人横浜市芸術文化振興財団",
+      "tags" : [
+         "ヨコハマ・アート・LOD プロジェクト",
+         "公益財団法人横浜市芸術文化振興財団"
+      ],
+      "title" : "ヨコハマ・アート・LOD Endpoint"
+   }
+}

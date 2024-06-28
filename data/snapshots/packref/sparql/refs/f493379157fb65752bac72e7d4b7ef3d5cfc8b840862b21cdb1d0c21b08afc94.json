@@ -1,0 +1,65 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:sparql" : {
+         },
+         "meta:packref.json" : {
+            "sha256" : "c708b3eab86e2916de85ee08b6ab877f7dfb3f474f27642a41f08dcc9297ef20"
+         },
+         "package" : {
+         },
+         "part:sparql[file:r:sparql]:0" : {
+            "sha256" : "85b40ccc0de439f5b376b4c365d43f2febeba8128d2c616a017c00027fc77817"
+         },
+         "part:sparql[file:r:sparql]:1" : {
+            "sha256" : "b19ea4deec90b39eb2ea2898c429a2a757093c0ae5249bffd38e476590997c69"
+         },
+         "part:sparql[file:r:sparql]:2" : {
+            "sha256" : "8df5049c46f0146e49917158898f9e2d14340300635be0d6000cf4d6e34046b9"
+         },
+         "part:sparql[file:r:sparql]:3" : {
+            "sha256" : "96bd9540fa53f49639a458c55a240c26aeaca74e33ff3360a45fa9d7862be30d"
+         },
+         "part:sparql[file:r:sparql]:4" : {
+            "sha256" : "dd26e9a422f1b741e67d61a20e80601cc69b1287c7477e4954aabbb59bd9d5b2"
+         },
+         "part:sparql[file:r:sparql]:5" : {
+            "sha256" : "99fade7b9998c162382a1a1d7343014a748d2609d239d7fa4528fc3c45693e6c"
+         },
+         "part:sparql[file:r:sparql]:6" : {
+            "sha256" : "c0fdc9514240ebafe3e95bcb42f662eee8004c33e17c3e2dc31b28c50cf6d1a4"
+         },
+         "part:sparql[file:r:sparql]:7" : {
+            "sha256" : "b51cb896862dfa10cc197a9a0df7585842fafe2ad006f6f8a1ae185ae493dd59"
+         },
+         "part:sparql[file:r:sparql]:8" : {
+            "sha256" : "2429f890601df8b4492574fc32e7c3a69725c28ab2f05dc9726e79f87cc411dd"
+         },
+         "part:sparql[file:r:sparql]:9" : {
+            "sha256" : "b287d2b66699d39089cef8a78c7477c062942cf5c16131860aaf67f7dd893056"
+         },
+         "part:sparql[file:r:sparql]:a" : {
+            "sha256" : "5a268d39c4cabace568eb944ac10c6d281d7b46cb6373c46c2452cf9d8fdd248"
+         },
+         "part:sparql[file:r:sparql]:b" : {
+            "sha256" : "b09862d27a8462903dfd445cf9dd42bf03535bc1365f74361f383b766cb220c7"
+         },
+         "part:sparql[file:r:sparql]:c" : {
+            "sha256" : "ea7e638dc15d04c798a868acf0c5a6a9c6076501b1a213d05e4d812d86b65123"
+         },
+         "part:sparql[file:r:sparql]:d" : {
+            "sha256" : "30d3305d8df86b8241c6fb8b33b0c82f4755a04f8d4ff226f49ba43e6e31a924"
+         },
+         "part:sparql[file:r:sparql]:e" : {
+            "sha256" : "2e134f0eef3537f521c8b390b4f6c5f84a9fb41d6c0ca408662ac2743c65061c"
+         },
+         "part:sparql[file:r:sparql]:f" : {
+            "sha256" : "3fbe91bc930c66c13804cf50266ce20aabf886fc4d252aaa3d401f8630d7deb3"
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/sparql.json"
+   },
+   "type" : "packref"
+}
