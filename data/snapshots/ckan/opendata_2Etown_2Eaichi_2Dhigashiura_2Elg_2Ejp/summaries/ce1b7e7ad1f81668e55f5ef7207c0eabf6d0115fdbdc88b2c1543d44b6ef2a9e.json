@@ -1,0 +1,206 @@
+{
+   "files" : {
+      "file:id:947255d3-ff55-4d57-ac6b-da85b8017ee4" : {
+         "desc" : "",
+         "file_name" : "od40182018070406900.json",
+         "insecure" : 1,
+         "length" : 4188,
+         "mime" : "application/json",
+         "sha256" : "677424875f3ef332c4b35980e0ee0940aeb94e2cca77933eeb2a93859bc72a25",
+         "time" : 1719658822,
+         "title" : "交番・消防署 (JSON)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/3d89e9a9-ed34-4b28-b555-49970dd146d8/resource/947255d3-ff55-4d57-ac6b-da85b8017ee4/download/od40182018070406900.json"
+      },
+      "file:id:c0f280d2-3f0d-4c9a-9761-3f32fe420431" : {
+         "desc" : "",
+         "file_name" : "od40182018070406900.csv",
+         "insecure" : 1,
+         "length" : 1812,
+         "mime" : "text/csv",
+         "sha256" : "09818d32b56a04827872296eac70677962d18e6846d36e087ec7fb519c120a41",
+         "time" : 1719658821,
+         "title" : "交番・消防署 (CSV)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/3d89e9a9-ed34-4b28-b555-49970dd146d8/resource/c0f280d2-3f0d-4c9a-9761-3f32fe420431/download/od40182018070406900.csv"
+      },
+      "file:id:f6cff7ac-f0c3-4fce-8b3c-16218af78c9c" : {
+         "desc" : "",
+         "file_name" : "od40182018070406900.ttl",
+         "insecure" : 1,
+         "length" : 15356,
+         "mime" : "application/octet-stream",
+         "sha256" : "2ac7685fdf9c56a2049735f4d37d54770695469cf5f31356fef66497217efd30",
+         "time" : 1719658823,
+         "title" : "交番・消防署 (RDF)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/3d89e9a9-ed34-4b28-b555-49970dd146d8/resource/f6cff7ac-f0c3-4fce-8b3c-16218af78c9c/download/od40182018070406900.ttl"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 21235,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "2afb679a7f84e2665a2bceb3aff38ae596b4fe2b788db51fafaf4b71a34cdb69",
+         "time" : 1719658819,
+         "title" : "",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_4018_1514184979231"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 4053,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "8f2189be8df3c96e19d10ae4c038d9d65b87c1afc25a12e07a964a9c0618f82c",
+         "time" : 1531097106.76077,
+         "title" : "交番・消防署",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4018_1514184979231"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "交番・消防署",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4018_1514184979231"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4018_1514184979231",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "交番・消防署",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4018_1514184979231"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 46644,
+   "mirrorzip" : {
+      "length" : 17483,
+      "set" : "free",
+      "sha256" : "16f5f0caff56a036bf34d72a70877cf61ccfba92054a9fc81a954f6f581c208d"
+   },
+   "package" : {
+      "author" : "東浦町",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4018_1514184979231",
+      "desc" : "",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4018_1514184979231",
+      "tags" : [
+         "東浦町",
+         "防災・防犯"
+      ],
+      "time" : 1531097106.76077,
+      "title" : "交番・消防署"
+   }
+}

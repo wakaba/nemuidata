@@ -1,0 +1,206 @@
+{
+   "files" : {
+      "file:id:0b2f7398-8d95-4725-9aae-2cd7029a13e8" : {
+         "desc" : "",
+         "file_name" : "od77392022041800500.json",
+         "insecure" : 1,
+         "length" : 38470,
+         "mime" : "application/json",
+         "sha256" : "03349ff027fbb2f72f144a409fdde75086dbc151728ad6fe6b51087fabaf328f",
+         "time" : 1719658750,
+         "title" : "選挙ポスター掲示場 (JSON)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/c912eb66-a737-4654-aff2-7a6824e29438/resource/0b2f7398-8d95-4725-9aae-2cd7029a13e8/download/od77392022041800500.json"
+      },
+      "file:id:3e4e89a4-da1a-4737-ae74-e8424916eff9" : {
+         "desc" : "",
+         "file_name" : "od77392022041800500.ttl",
+         "insecure" : 1,
+         "length" : 129291,
+         "mime" : "application/octet-stream",
+         "sha256" : "88ca5e0849d918f5176c56e2154336fcc50f4e98ec7db9cc1e56e91fc2f7ffbc",
+         "time" : 1719658752,
+         "title" : "選挙ポスター掲示場 (RDF)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/c912eb66-a737-4654-aff2-7a6824e29438/resource/3e4e89a4-da1a-4737-ae74-e8424916eff9/download/od77392022041800500.ttl"
+      },
+      "file:id:552c4515-2442-461a-8876-1a34633f1af7" : {
+         "desc" : "",
+         "file_name" : "od77392022041800500.csv",
+         "insecure" : 1,
+         "length" : 12288,
+         "mime" : "text/csv",
+         "sha256" : "89d7a000d85b35642b7c4c7f2588d4b0b268c6c5cf5c7965223a0683b6cbfc7f",
+         "time" : 1719658749,
+         "title" : "選挙ポスター掲示場 (CSV)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/c912eb66-a737-4654-aff2-7a6824e29438/resource/552c4515-2442-461a-8876-1a34633f1af7/download/od77392022041800500.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 26917,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c9308a8d4d0b535d762d496987b92f5a89f177691e73ec6120b2b2ff89a1a7e3",
+         "time" : 1719658747,
+         "title" : "",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_7739_7739"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 4125,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "f4242962defd88eca05bcfe38f427e1d376b848a9b32400a654f4d228b5aead4",
+         "time" : 1650263409.69905,
+         "title" : "選挙ポスター掲示場",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_7739_7739"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "選挙ポスター掲示場",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_7739_7739"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_7739_7739",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "選挙ポスター掲示場",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_7739_7739"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 211091,
+   "mirrorzip" : {
+      "length" : 26614,
+      "set" : "free",
+      "sha256" : "289a9a76f23a6c8373fd85af037653206462dd7de5deb26ac213f6c1d3dfa369"
+   },
+   "package" : {
+      "author" : "東浦町",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_7739_7739",
+      "desc" : "",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_7739_7739",
+      "tags" : [
+         "東浦町",
+         "選挙"
+      ],
+      "time" : 1650263409.69905,
+      "title" : "選挙ポスター掲示場"
+   }
+}

@@ -1,4 +1,11 @@
 {
+   "ckan" : {
+      "opendata_2Etown_2Eaichi_2Dhigashiura_2Elg_2Ejp" : {
+         "esite_name" : "opendata_2Etown_2Eaichi_2Dhigashiura_2Elg_2Ejp",
+         "site_name" : "opendata.town.aichi-higashiura.lg.jp",
+         "site_type" : "ckan"
+      }
+   },
    "packref" : {
       "legal" : {
          "esite_name" : "legal",

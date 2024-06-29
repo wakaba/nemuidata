@@ -1,0 +1,206 @@
+{
+   "files" : {
+      "file:id:14a6ddfe-4b84-4924-aba3-6ba6891daf85" : {
+         "desc" : "",
+         "file_name" : "od40152020012800400.csv",
+         "insecure" : 1,
+         "length" : 25537,
+         "mime" : "text/csv",
+         "sha256" : "522729bf05e4200e37cd7d4a396160622c54341b32614495b7a3d6933d575bef",
+         "time" : 1719658706,
+         "title" : "高齢者福祉施設 (CSV)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/91a79b18-e0b8-49eb-bc39-8ac71361d09f/resource/14a6ddfe-4b84-4924-aba3-6ba6891daf85/download/od40152020012800400.csv"
+      },
+      "file:id:3825be01-3b7d-48ff-a6fe-6777f124f6a6" : {
+         "desc" : "",
+         "file_name" : "od40152020012800400.ttl",
+         "insecure" : 1,
+         "length" : 273118,
+         "mime" : "application/octet-stream",
+         "sha256" : "c2e7f41d4ff00a470b5987ec0f43094d779ea652e4ffe3ca06270aa24294ac4f",
+         "time" : 1719658709,
+         "title" : "高齢者福祉施設 (RDF)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/91a79b18-e0b8-49eb-bc39-8ac71361d09f/resource/3825be01-3b7d-48ff-a6fe-6777f124f6a6/download/od40152020012800400.ttl"
+      },
+      "file:id:f2bfc157-fdac-4c9a-850b-12a760a0c2e7" : {
+         "desc" : "",
+         "file_name" : "od40152020012800400.json",
+         "insecure" : 1,
+         "length" : 84187,
+         "mime" : "application/json",
+         "sha256" : "3bb85be05a21975454bd7ed2a5788b2506de6df34a628bd1e9f40df6ec3c6e3f",
+         "time" : 1719658707,
+         "title" : "高齢者福祉施設 (JSON)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/91a79b18-e0b8-49eb-bc39-8ac71361d09f/resource/f2bfc157-fdac-4c9a-850b-12a760a0c2e7/download/od40152020012800400.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 24004,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a4ce48473ba4f7e132d724f3a3b9e5763dd20641d2e903e2c36b8f640d840585",
+         "time" : 1719658704,
+         "title" : "",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_4015_1514184570771"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 4176,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "477b4c5307073d7d50f1b539b1878b278485c02fcc3a580ec668c4e55e523733",
+         "time" : 1580180420.5077,
+         "title" : "高齢者福祉施設",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4015_1514184570771"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "高齢者福祉施設",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4015_1514184570771"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4015_1514184570771",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高齢者福祉施設",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4015_1514184570771"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 411022,
+   "mirrorzip" : {
+      "length" : 32528,
+      "set" : "free",
+      "sha256" : "0b9011c6375caf642910068956e47e12fa984fa0a38933ae27c38677ec28ed1c"
+   },
+   "package" : {
+      "author" : "東浦町",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4015_1514184570771",
+      "desc" : "",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4015_1514184570771",
+      "tags" : [
+         "東浦町",
+         "健康・医療・福祉"
+      ],
+      "time" : 1580180420.5077,
+      "title" : "高齢者福祉施設"
+   }
+}

@@ -1,0 +1,208 @@
+{
+   "files" : {
+      "file:id:1b7ed813-3a4e-40d1-9f4f-4837ef53cea2" : {
+         "desc" : "工業統計調査による産業分類別事業所数・従業者数・製造品出荷額等です。\u000A基準日は各年12月31日現在です。\u000Aなお、平成23年工業統計調査は中止されました。\u000A従業員４人以上の事業所が対象で、Ｘは秘匿とした数値です。",
+         "file_name" : "od37592023031400200.ttl",
+         "insecure" : 1,
+         "length" : 143754,
+         "mime" : "application/octet-stream",
+         "sha256" : "c4e35dcc6f27150995f13fea90a03126a98786efba0edabdf385997a03b3348e",
+         "time" : 1719658691,
+         "title" : "製造事業所調査（工業統計調査）による産業分類別事業所数・従業者数・製造品出荷額等 (RDF)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/0b602f66-7a7e-42fa-822c-2c0a5d2d462a/resource/1b7ed813-3a4e-40d1-9f4f-4837ef53cea2/download/od37592023031400200.ttl"
+      },
+      "file:id:79e2637f-5f9c-4c47-8e15-7b570454066e" : {
+         "desc" : "工業統計調査による産業分類別事業所数・従業者数・製造品出荷額等です。\u000A基準日は各年12月31日現在です。\u000Aなお、平成23年工業統計調査は中止されました。\u000A従業員４人以上の事業所が対象で、Ｘは秘匿とした数値です。",
+         "file_name" : "od37592023031400200.csv",
+         "insecure" : 1,
+         "length" : 5183,
+         "mime" : "text/csv",
+         "sha256" : "c710456768934aacded4402b650e2e787b75d7e0711a20e22f7569550588378a",
+         "time" : 1719658687,
+         "title" : "製造事業所調査（工業統計調査）による産業分類別事業所数・従業者数・製造品出荷額等 (CSV)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/0b602f66-7a7e-42fa-822c-2c0a5d2d462a/resource/79e2637f-5f9c-4c47-8e15-7b570454066e/download/od37592023031400200.csv"
+      },
+      "file:id:d414e866-3bd6-4fb0-a24f-e2db403b57f1" : {
+         "desc" : "工業統計調査による産業分類別事業所数・従業者数・製造品出荷額等です。\u000A基準日は各年12月31日現在です。\u000Aなお、平成23年工業統計調査は中止されました。\u000A従業員４人以上の事業所が対象で、Ｘは秘匿とした数値です。",
+         "file_name" : "od37592023031400200.json",
+         "insecure" : 1,
+         "length" : 40559,
+         "mime" : "application/json",
+         "sha256" : "ab957cd546831efd0137f34430480c000b02b27a88481d0f9693efa9e477f1da",
+         "time" : 1719658689,
+         "title" : "製造事業所調査（工業統計調査）による産業分類別事業所数・従業者数・製造品出荷額等 (JSON)",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/0b602f66-7a7e-42fa-822c-2c0a5d2d462a/resource/d414e866-3bd6-4fb0-a24f-e2db403b57f1/download/od37592023031400200.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 31133,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5e722a0f2452655cfbb3595e051768aa46212408b4e0091dfe9c8a819eaacf42",
+         "time" : 1719658686,
+         "title" : "",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_3759_1489038017497"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 7018,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "173b61f4142bf6cc3c2987b3f885c87e3a8f80d322efbc197f6911569a902296",
+         "time" : 1678757417.4534,
+         "title" : "産業分類別事業所数・従業者数・製造品出荷額等",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3759_1489038017497"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町秘書広報課",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業分類別事業所数・従業者数・製造品出荷額等",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3759_1489038017497"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3759_1489038017497",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業分類別事業所数・従業者数・製造品出荷額等",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3759_1489038017497"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 227647,
+   "mirrorzip" : {
+      "length" : 24500,
+      "set" : "free",
+      "sha256" : "8f574f644a1f534f6306173720846820f856f7bfc4342ad98c1d6d117edf4a0c"
+   },
+   "package" : {
+      "author" : "東浦町秘書広報課",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3759_1489038017497",
+      "desc" : "工業統計調査による、産業分類別事業所数・従業者数・製造品出荷額等です。",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3759_1489038017497",
+      "tags" : [
+         "東浦町秘書広報課",
+         "東浦町",
+         "統計",
+         "工業統計調査"
+      ],
+      "time" : 1678757417.4534,
+      "title" : "産業分類別事業所数・従業者数・製造品出荷額等"
+   }
+}

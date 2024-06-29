@@ -1,6 +1,9 @@
 {
    "source" : {
       "files" : {
+         "file:r:ckan-opendata_2Etown_2Eaichi_2Dhigashiura_2Elg_2Ejp" : {
+            "url" : "ckan-opendata_2Etown_2Eaichi_2Dhigashiura_2Elg_2Ejp.jsonl"
+         },
          "file:r:packref-legal" : {
             "url" : "packref-legal.jsonl"
          },
