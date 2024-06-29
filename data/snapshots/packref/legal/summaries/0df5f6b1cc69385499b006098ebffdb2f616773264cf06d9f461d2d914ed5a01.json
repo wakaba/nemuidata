@@ -1,0 +1,80 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "terms",
+         "length" : 44618,
+         "mime" : "text/html; charset=UTF-8",
+         "sha256" : "7e01f03e9b5bc45d4a4cd23a4f9b9773e231ee43b203a05773710ceefa9bf953",
+         "time" : 1719637411,
+         "title" : "",
+         "url" : "https://opendata.pref.kanagawa.jp/terms"
+      },
+      "file:r:pdf" : {
+         "desc" : "",
+         "file_name" : "terms_of_service_202402.pdf",
+         "length" : 224071,
+         "mime" : "application/pdf",
+         "sha256" : "3e499cced5db09150fa920a18a951c7018e9533688eb75cd2cb525f6633d223a",
+         "time" : 1719637411,
+         "title" : "",
+         "url" : "https://opendata.pref.kanagawa.jp/wp-content/uploads/2024/02/terms_of_service_202402.pdf"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 910,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "580b9e8a71e6ecdbfa816f823d54581e39a603c00a8c287c20ee8e424044c4e9",
+         "time" : 1719637409,
+         "title" : "",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.pref.kanagawa.jp.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "packref",
+            "source_url" : "https://opendata.pref.kanagawa.jp/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 269599,
+   "mirrorzip" : {
+      "length" : 231967,
+      "set" : "nonfree",
+      "sha256" : "db2499fc9efbfe3a6c8172d9a9d313852bbd2a37cc69284900866967b1c38210"
+   },
+   "package" : {
+      "author" : "神奈川県",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "神奈川県"
+      ],
+      "title" : "このサイトのご利用について | 神奈川県オープンデータカタログサイト"
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "name" : "terms",
+            "sha256" : "7e01f03e9b5bc45d4a4cd23a4f9b9773e231ee43b203a05773710ceefa9bf953"
+         },
+         "file:r:pdf" : {
+            "name" : "terms_of_service_202402.pdf",
+            "sha256" : "3e499cced5db09150fa920a18a951c7018e9533688eb75cd2cb525f6633d223a"
+         },
+         "meta:packref.json" : {
+            "sha256" : "580b9e8a71e6ecdbfa816f823d54581e39a603c00a8c287c20ee8e424044c4e9"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.pref.kanagawa.jp.json"
+   },
+   "type" : "packref"
+}
