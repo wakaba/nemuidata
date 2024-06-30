@@ -1,0 +1,95 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:098b9f7c-3677-4de1-a5c1-b64db5e21a26" : {
+            "name" : "od37502022053100500.csv",
+            "sha256" : "40215d209de633dbd1dd21e63f53e224be9d40d31da7f5f18c3dad89c8628b85",
+            "sha256_insecure" : 1
+         },
+         "file:id:10fc8917-654d-4e42-93e2-45c14e3b6b1a" : {
+            "name" : "od37502022053100400.csv",
+            "sha256" : "8b47351edae47a3e086628d11ce8b92acdd001cd21e0f0ccc6c02e16427f2a65",
+            "sha256_insecure" : 1
+         },
+         "file:id:1f0b6f17-24bc-447a-bfc9-2de7eeb4f6a1" : {
+            "name" : "od37502022053100200.ttl",
+            "sha256" : "032577fe23275412192fcf8eb33126350023302a264bcb8a4ab80b50eed2742e",
+            "sha256_insecure" : 1
+         },
+         "file:id:1fd3a8ef-9215-48fd-a718-77d8551aed44" : {
+            "name" : "od37502022053100400.ttl",
+            "sha256" : "6a45a704b5cb8b75597586e9923f8228330da6688eb81f5ad22c64194635b245",
+            "sha256_insecure" : 1
+         },
+         "file:id:254936e9-42b4-467b-a9e6-09045fb6b113" : {
+            "name" : "od37502022053100300.csv",
+            "sha256" : "c7ccf3b16f75a2795f836d1a748f71364bd364c7775cae13d1fdebe1f6908efb",
+            "sha256_insecure" : 1
+         },
+         "file:id:2feef946-bbc8-4195-90c9-dcda81c8b9a0" : {
+            "name" : "od37502022053100300.json",
+            "sha256" : "a4884b7bb48cf3ee1e20947a8e74430f028b3347cc11e9a2c5013432e0cbc820",
+            "sha256_insecure" : 1
+         },
+         "file:id:4bbbb73f-47f1-4b62-a220-5f8940c2800c" : {
+            "name" : "od37502022053100600.ttl",
+            "sha256" : "a7d602459118a0b8366e5bc7371d4bb9d1394f165ccbc5d2a9f9603fba145f17",
+            "sha256_insecure" : 1
+         },
+         "file:id:4e68bb1a-8867-48d4-b9a0-d84edfee4a60" : {
+            "name" : "od37502022053100500.json",
+            "sha256" : "547eb1ebd5dcc27516e42b3c1a503f6eda8ceb6c27fccaa67dd06f539fd62a8a",
+            "sha256_insecure" : 1
+         },
+         "file:id:59708583-b71d-474d-83a1-cd23003ebfaa" : {
+            "name" : "od37502022053100600.json",
+            "sha256" : "62b35c27cae28295529bcd36e72e1a512dd97f4ce60c35cba9c1887ace3e1448",
+            "sha256_insecure" : 1
+         },
+         "file:id:67e7ba71-352b-4b50-be06-6cce1ac64f00" : {
+            "name" : "od37502022053100500.ttl",
+            "sha256" : "fbb9c3066fcb410d5c84a44246e1c7e8a72d4eee0524dfb9108e974aca4581dd",
+            "sha256_insecure" : 1
+         },
+         "file:id:88643238-6bc2-4e6d-872a-ef7458ba89e2" : {
+            "name" : "od37502022053100600.csv",
+            "sha256" : "eb79733b2a8efff1610e53ab02d45d8299ad1f544d86e700b849a2ba087c48cf",
+            "sha256_insecure" : 1
+         },
+         "file:id:88f9ff85-90c2-48e0-a979-c632d30070a1" : {
+            "name" : "od37502022053100400.json",
+            "sha256" : "4019331b281e17414fb6e0def911193b898a12b48f35f34af75b19e7398337bc",
+            "sha256_insecure" : 1
+         },
+         "file:id:9315ab26-404f-42a4-b0ce-e48b6563b466" : {
+            "name" : "od37502022053100200.csv",
+            "sha256" : "542353cccfeeeead1084eefd9abe8ef16e4ad26fbed9df0fc835f432ff40b0a6",
+            "sha256_insecure" : 1
+         },
+         "file:id:a92b233c-669b-48d6-9493-b04fbefa20ff" : {
+            "name" : "od37502022053100200.json",
+            "sha256" : "1e27bc1ff55b065299382fb4ab9f59bd0c50e4ec593359e79865baf5baf140d6",
+            "sha256_insecure" : 1
+         },
+         "file:id:efd4beb0-e1e6-4f1f-b325-2773857df492" : {
+            "name" : "od37502022053100300.ttl",
+            "sha256" : "fad5631b9414c70c2d33a467a473bc518f0ec6d799d55eed1c5985b9bf12eed2",
+            "sha256_insecure" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "c7623b1f3ac45cf912830583e560c9d879303cff9a5dd0b530dca5bb50bc61a2",
+            "sha256_insecure" : 1
+         },
+         "meta:ckan.json" : {
+            "sha256" : "60c47a9f898d1dcb71ac3fcca1ced14d1146273e7f05bfd5384c90854fcd4bec",
+            "sha256_insecure" : 1
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3750_1485242035730"
+   },
+   "type" : "packref"
+}

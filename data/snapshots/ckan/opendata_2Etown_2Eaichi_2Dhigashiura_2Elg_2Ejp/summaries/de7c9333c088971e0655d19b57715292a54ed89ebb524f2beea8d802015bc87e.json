@@ -1,0 +1,248 @@
+{
+   "files" : {
+      "file:id:3ddf1440-de18-46e7-bc5d-1c6a9219da63" : {
+         "desc" : "",
+         "file_name" : "od22192022101801000.json",
+         "insecure" : 1,
+         "length" : 2340,
+         "mime" : "application/json",
+         "sha256" : "0db45397fef064a91929c6188699890f632f8c07123138d3a4f9ff8b8195c703",
+         "time" : 1719751361,
+         "title" : "月別人口 (JSON)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/93076efd-7bb9-4adc-b81c-84b33ad2ae6e/resource/3ddf1440-de18-46e7-bc5d-1c6a9219da63/download/od22192022101801000.json"
+      },
+      "file:id:521227ed-b646-40f3-aba1-944068f57ebf" : {
+         "desc" : "",
+         "file_name" : "od22192022101801200.json",
+         "insecure" : 1,
+         "length" : 3393,
+         "mime" : "application/json",
+         "sha256" : "459b824a365f10bfffe0b480d296ea20243aa776b99f9b4b4bd11efa4eb28dba",
+         "time" : 1719751364,
+         "title" : "事由別人口異動明細 (JSON)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/93076efd-7bb9-4adc-b81c-84b33ad2ae6e/resource/521227ed-b646-40f3-aba1-944068f57ebf/download/od22192022101801200.json"
+      },
+      "file:id:56fe91cf-c6bb-44c9-89c9-41bf8294b947" : {
+         "desc" : "",
+         "file_name" : "od22192022101801000.csv",
+         "insecure" : 1,
+         "length" : 694,
+         "mime" : "text/csv",
+         "sha256" : "ae09d914db2a6c5ba20dd1381940e1c88c2d2d66c345a36f782d7df4afd25580",
+         "time" : 1719751360,
+         "title" : "月別人口 (CSV)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/93076efd-7bb9-4adc-b81c-84b33ad2ae6e/resource/56fe91cf-c6bb-44c9-89c9-41bf8294b947/download/od22192022101801000.csv"
+      },
+      "file:id:82605311-77a9-46c3-b308-47d0c93c037a" : {
+         "desc" : "",
+         "file_name" : "od22192022101801200.ttl",
+         "insecure" : 1,
+         "length" : 14922,
+         "mime" : "application/octet-stream",
+         "sha256" : "2c3b978cb2921356a9e952a02349645557fee5772fd0404636b74340475cd066",
+         "time" : 1719751365,
+         "title" : "事由別人口異動明細 (RDF)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/93076efd-7bb9-4adc-b81c-84b33ad2ae6e/resource/82605311-77a9-46c3-b308-47d0c93c037a/download/od22192022101801200.ttl"
+      },
+      "file:id:d28ff4e9-d448-4b5d-8d4f-219188f4d4c3" : {
+         "desc" : "",
+         "file_name" : "od22192022101801200.csv",
+         "insecure" : 1,
+         "length" : 661,
+         "mime" : "text/csv",
+         "sha256" : "43bc251f7c7d73872e67a6c6e1f294c42324b495c6245d5709f117b219e85502",
+         "time" : 1719751363,
+         "title" : "事由別人口異動明細 (CSV)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/93076efd-7bb9-4adc-b81c-84b33ad2ae6e/resource/d28ff4e9-d448-4b5d-8d4f-219188f4d4c3/download/od22192022101801200.csv"
+      },
+      "file:id:fa41e506-6b0f-4277-ac9e-6374fa9ab12b" : {
+         "desc" : "",
+         "file_name" : "od22192022101801000.ttl",
+         "insecure" : 1,
+         "length" : 9678,
+         "mime" : "application/octet-stream",
+         "sha256" : "d410ba98a9f2b366b46c0069275b6cfc4564c08d3fb5f844f1cfb7ac69fbe52e",
+         "time" : 1719751362,
+         "title" : "月別人口 (RDF)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/93076efd-7bb9-4adc-b81c-84b33ad2ae6e/resource/fa41e506-6b0f-4277-ac9e-6374fa9ab12b/download/od22192022101801000.ttl"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 27973,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "07050d595eea41dcbf81a5792ac2109e1a9d425d4acb3f8f5385a9bb180d3fab",
+         "time" : 1719751359,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_2219_1452566744981"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 6451,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "64259c9b223a80dd81704fe6e0526b394d2f65f383440c067f153df655c9b05f",
+         "time" : 1666050323.50791,
+         "title" : "平成20年度人口推移",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_2219_1452566744981"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町役場",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "平成20年度人口推移",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_2219_1452566744981"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_2219_1452566744981",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "平成20年度人口推移",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_2219_1452566744981"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 66112,
+   "mirrorzip" : {
+      "length" : 21608,
+      "set" : "free",
+      "sha256" : "f7d9820a49b758f7c3aee2189c6bc32de401454f728bc5642952135c4c7a200d"
+   },
+   "package" : {
+      "author" : "東浦町役場",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_2219_1452566744981",
+      "desc" : "",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_2219_1452566744981",
+      "tags" : [
+         "東浦町役場",
+         "東浦町",
+         "統計"
+      ],
+      "time" : 1666050323.50791,
+      "title" : "平成20年度人口推移"
+   }
+}

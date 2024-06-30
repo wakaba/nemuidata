@@ -1,0 +1,19 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "name" : "about",
+            "sha256" : "4fdae53679418d74cba6f25c6b666e5a8881db6ef6a712ae1696ef5181260d52"
+         },
+         "meta:packref.json" : {
+            "sha256" : "7ee91a389e0520b4eabbe2c95852ff059ed22afcce9c4ad18bd757a3bbe6c1c5"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.tendo.yamagata.jp.json"
+   },
+   "type" : "packref"
+}

@@ -1,0 +1,214 @@
+{
+   "files" : {
+      "file:id:3ae0d00c-2915-4472-93a3-ef0a7e240d8c" : {
+         "desc" : "商業統計調査による事業所数・従業者数・年間商品販売額（卸売・小売）です。\u000A３年ごとの調査です。\u000A基準日は、平成3年、平成6年、平成11年は7月1日現在、平成9年、14年、16年、19年、26年は6月1日現在です。\u000Aなお、平成26年商業統計調査は、経済センサス-基礎調査との同時調査（一体的）により実施しました。",
+         "file_name" : "od37572023032800200.ttl",
+         "insecure" : 1,
+         "length" : 23378,
+         "mime" : "application/octet-stream",
+         "sha256" : "2e07691c1a39adf3e4395f9b6f75375d36f0052d4bba758d9156e5af8c862d54",
+         "time" : 1719751481,
+         "title" : "経済構造実態調査による事業所数・従業者数・年間商品販売額（卸売・小売） (RDF)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/41f4185f-14f9-4723-9bca-9ddf7998b0c0/resource/3ae0d00c-2915-4472-93a3-ef0a7e240d8c/download/od37572023032800200.ttl"
+      },
+      "file:id:939c4f82-51ab-44e2-b1ae-ad058655b6a3" : {
+         "desc" : "商業統計調査による事業所数・従業者数・年間商品販売額（卸売・小売）です。\u000A３年ごとの調査です。\u000A基準日は、平成3年、平成6年、平成11年は7月1日現在、平成9年、14年、16年、19年、26年は6月1日現在です。\u000Aなお、平成26年商業統計調査は、経済センサス-基礎調査との同時調査（一体的）により実施しました。",
+         "file_name" : "od37572023032800200.csv",
+         "insecure" : 1,
+         "length" : 1168,
+         "mime" : "text/csv",
+         "sha256" : "20f3de92137dbe75372f2c32b78eed271f18e449c64c8aa9a2204d25ea94dc69",
+         "time" : 1719751479,
+         "title" : "経済構造実態調査による事業所数・従業者数・年間商品販売額（卸売・小売） (CSV)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/41f4185f-14f9-4723-9bca-9ddf7998b0c0/resource/939c4f82-51ab-44e2-b1ae-ad058655b6a3/download/od37572023032800200.csv"
+      },
+      "file:id:b6710d97-e3d2-4cbd-b15b-6c4af7840d3b" : {
+         "desc" : "商業統計調査による事業所数・従業者数・年間商品販売額（卸売・小売）です。\u000A３年ごとの調査です。\u000A基準日は、平成3年、平成6年、平成11年は7月1日現在、平成9年、14年、16年、19年、26年は6月1日現在です。\u000Aなお、平成26年商業統計調査は、経済センサス-基礎調査との同時調査（一体的）により実施しました。",
+         "file_name" : "od37572023032800200.json",
+         "insecure" : 1,
+         "length" : 6019,
+         "mime" : "application/json",
+         "sha256" : "7485c14fa508cde326aeb3deda024187f8da1154e9f04682a84f3d16836fd0a7",
+         "time" : 1719751480,
+         "title" : "経済構造実態調査による事業所数・従業者数・年間商品販売額（卸売・小売） (JSON)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/41f4185f-14f9-4723-9bca-9ddf7998b0c0/resource/b6710d97-e3d2-4cbd-b15b-6c4af7840d3b/download/od37572023032800200.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 25039,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "6ea9f6829010258c47de885bd7390fe146054d1f422276556ca0dbdba2df4863",
+         "time" : 1719751478,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_3757_1488872979461"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 7830,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "1aaa0c5925be908a5dc25c59ab9011e9c3b1cc4fa91c8b7bd007ba360cf211f5",
+         "time" : 1679985016.02936,
+         "title" : "事業所数・従業者数・年間商品販売額（卸売・小売）",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3757_1488872979461"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町広報情報課",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "事業所数・従業者数・年間商品販売額（卸売・小売）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3757_1488872979461"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3757_1488872979461",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "事業所数・従業者数・年間商品販売額（卸売・小売）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3757_1488872979461"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 63434,
+   "mirrorzip" : {
+      "length" : 17816,
+      "set" : "free",
+      "sha256" : "e1a435d89c28a81da4032864f5740a0c0a35dfab7291ead3e1a78a7c420ac8a0"
+   },
+   "package" : {
+      "author" : "東浦町広報情報課",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3757_1488872979461",
+      "desc" : "商業統計調査による事業所数・従業者数・年間商品販売額（卸売・小売）を掲載したページです。",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3757_1488872979461",
+      "tags" : [
+         "東浦町広報情報課",
+         "東浦町",
+         "統計",
+         "商業",
+         "商業統計調査"
+      ],
+      "time" : 1679985016.02936,
+      "title" : "事業所数・従業者数・年間商品販売額（卸売・小売）"
+   }
+}

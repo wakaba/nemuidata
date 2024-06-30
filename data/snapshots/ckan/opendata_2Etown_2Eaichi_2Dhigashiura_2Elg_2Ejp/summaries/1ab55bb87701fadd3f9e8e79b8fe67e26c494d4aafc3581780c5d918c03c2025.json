@@ -1,0 +1,211 @@
+{
+   "files" : {
+      "file:id:17fa0c52-1267-4b01-8c31-7d6386d62b57" : {
+         "desc" : "",
+         "file_name" : "od40172018070423800.json",
+         "insecure" : 1,
+         "length" : 7062,
+         "mime" : "application/json",
+         "sha256" : "c8684312b2dd3ce514abfabc83f6b65efbe6fa3bb4b789d877301c8009eb4895",
+         "time" : 1719751348,
+         "title" : "教育機関 (JSON)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/f18c21ac-d964-441d-8b3a-9af9b9f115b2/resource/17fa0c52-1267-4b01-8c31-7d6386d62b57/download/od40172018070423800.json"
+      },
+      "file:id:24496270-d4f3-4fbb-b213-d2f5d36679b1" : {
+         "desc" : "",
+         "file_name" : "od40172018070423800.ttl",
+         "insecure" : 1,
+         "length" : 25088,
+         "mime" : "application/octet-stream",
+         "sha256" : "82eee721805f07fbb4da1bc15ea493b808147db5f4ac0c690ccaecbdb8f6ce35",
+         "time" : 1719751349,
+         "title" : "教育機関 (RDF)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/f18c21ac-d964-441d-8b3a-9af9b9f115b2/resource/24496270-d4f3-4fbb-b213-d2f5d36679b1/download/od40172018070423800.ttl"
+      },
+      "file:id:618ffbac-6e20-421f-a928-5b677bcf84c1" : {
+         "desc" : "",
+         "file_name" : "od40172018070423800.csv",
+         "insecure" : 1,
+         "length" : 2606,
+         "mime" : "text/csv",
+         "sha256" : "ea825c85aeb58e86e7309b8dc2f58d0797ebd0f426dad6e4d36a670fe6fb823b",
+         "time" : 1719751347,
+         "title" : "教育機関 (CSV)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/f18c21ac-d964-441d-8b3a-9af9b9f115b2/resource/618ffbac-6e20-421f-a928-5b677bcf84c1/download/od40172018070423800.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 21169,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "81ef99a9e5f8450fd1bf65793381d4a822cc66564e5624dc7181c63ef941a9e9",
+         "time" : 1719751346,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_4017_1514184880109"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 4021,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "58eacb4542bcacb4aee587a858ce07fc1b31a83da1aa1db4fb3f76c116931aec",
+         "time" : 1531097107.37474,
+         "title" : "教育機関",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4017_1514184880109"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "教育機関",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4017_1514184880109"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4017_1514184880109",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "教育機関",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4017_1514184880109"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 59946,
+   "mirrorzip" : {
+      "length" : 18117,
+      "set" : "free",
+      "sha256" : "9a8bd0fb66d947cab484cf64107d716537a7132afb4ffd86be2268158dd79207"
+   },
+   "package" : {
+      "author" : "東浦町",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4017_1514184880109",
+      "desc" : "",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4017_1514184880109",
+      "tags" : [
+         "東浦町",
+         "子育て・教育"
+      ],
+      "time" : 1531097107.37474,
+      "title" : "教育機関"
+   }
+}

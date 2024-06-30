@@ -1,0 +1,85 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "index.html",
+         "insecure" : 1,
+         "length" : 54922,
+         "mime" : "text/html",
+         "sha256" : "a8b11d4b576a6a956ad881bcfa2a739948e44f6d41119d73b0e038f5afcec4af",
+         "time" : 1719751304,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://www.city.sagamihara.kanagawa.jp/shisei/1026896/opendata/index.html"
+      },
+      "file:r:pdf" : {
+         "desc" : "",
+         "file_name" : "opendata_kiyaku_20180328.pdf",
+         "length" : 12027,
+         "mime" : "application/pdf",
+         "sha256" : "91e0e17ae0c6b5a0a4f0b5cd4298403479ef09ed4f56c8047e1d5663a7387753",
+         "time" : 1719751305,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/005/928/opendata_kiyaku_20180328.pdf"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 903,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "bd68abc2dec0123674ca78b9c07b26e4716a869dc16653bcf62b9db3b9cb5040",
+         "time" : 1719751303,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.city.sagamihara.kanagawa.jp.json"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 67852,
+   "mirrorzip" : {
+      "length" : 24900,
+      "set" : "nonfree",
+      "sha256" : "5da3f301f1aa5a31a10ebda7d7c7a4a3ba7ed0386bc53a165c08fe326a7bd095"
+   },
+   "package" : {
+      "author" : "相模原市",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "相模原市"
+      ],
+      "time" : 1719751305,
+      "title" : "相模原市オープンデータ利用規約"
+   }
+}

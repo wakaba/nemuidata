@@ -1,0 +1,284 @@
+{
+   "files" : {
+      "file:id:0c653748-18dc-470e-a0ec-364683fe3a07" : {
+         "desc" : "投票率",
+         "file_name" : "jsondata.json-3",
+         "insecure" : 1,
+         "length" : 5696,
+         "mime" : "application/json",
+         "sha256" : "2fb0e5741362a65c2796ec01dc82e66304ea4a2928dfe142114ac1eacd50c14b",
+         "time" : 1719751329,
+         "title" : "p_1279_1452566380521_iw_exceldatagrid_1-4_JSON",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ac0fa8f2-8474-461a-a554-782bfbfe2c3d/resource/0c653748-18dc-470e-a0ec-364683fe3a07/download/jsondata.json"
+      },
+      "file:id:47e24253-327e-4c76-a60b-d8322a8958ed" : {
+         "desc" : "開票速報",
+         "file_name" : "csvdata.csv-1",
+         "insecure" : 1,
+         "length" : 878,
+         "mime" : "text/csv",
+         "sha256" : "44aa7ac53a5b7e409bd54ebaf258136c53f92de42f52233c131d4008b47ddffc",
+         "time" : 1719751321,
+         "title" : "p_1279_1452566380521_iw_exceldatagrid_1-2_CSV",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ac0fa8f2-8474-461a-a554-782bfbfe2c3d/resource/47e24253-327e-4c76-a60b-d8322a8958ed/download/csvdata.csv"
+      },
+      "file:id:4893a5fd-882e-4e2c-9c2f-93f88471b8bc" : {
+         "desc" : "開票速報",
+         "file_name" : "rdfdatattl.txt-1",
+         "insecure" : 1,
+         "length" : 17914,
+         "mime" : "text/plain; charset=UTF-8",
+         "sha256" : "82b54570a98fc1ce348967a0607b68f9552de9456cd5bbca8f94f3cd204e1715",
+         "time" : 1719751324,
+         "title" : "p_1279_1452566380521_iw_exceldatagrid_1-2_RDF",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ac0fa8f2-8474-461a-a554-782bfbfe2c3d/resource/4893a5fd-882e-4e2c-9c2f-93f88471b8bc/download/rdfdatattl.txt"
+      },
+      "file:id:5580c34a-86ff-4401-8f9a-1dc352731eb8" : {
+         "desc" : "投票率",
+         "file_name" : "rdfdatattl.txt-3",
+         "insecure" : 1,
+         "length" : 36141,
+         "mime" : "text/plain; charset=UTF-8",
+         "sha256" : "59847d4c51ad2ba232b6dcba5c4657578399c13cf93e57afef8b1b4fc86aef7a",
+         "time" : 1719751330,
+         "title" : "p_1279_1452566380521_iw_exceldatagrid_1-4_RDF",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ac0fa8f2-8474-461a-a554-782bfbfe2c3d/resource/5580c34a-86ff-4401-8f9a-1dc352731eb8/download/rdfdatattl.txt"
+      },
+      "file:id:88903498-1694-4583-a78f-e6c45ab26621" : {
+         "desc" : "投票者数",
+         "file_name" : "jsondata.json-2",
+         "insecure" : 1,
+         "length" : 164,
+         "mime" : "application/json",
+         "sha256" : "6aa18e759c8679a648799748425bfe519ec1373fca34eb577da2577ecc692ed8",
+         "time" : 1719751326,
+         "title" : "p_1279_1452566380521_iw_exceldatagrid_1-3_JSON",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ac0fa8f2-8474-461a-a554-782bfbfe2c3d/resource/88903498-1694-4583-a78f-e6c45ab26621/download/jsondata.json"
+      },
+      "file:id:8fef29a5-25a7-475e-b420-d88a131c67e3" : {
+         "desc" : "投票者数",
+         "file_name" : "rdfdatattl.txt-2",
+         "insecure" : 1,
+         "length" : 1714,
+         "mime" : "text/plain; charset=UTF-8",
+         "sha256" : "c8d3c2ac00fc32f20a1ace62676cb56ec2c4dc2e9282d573dc5fea349785730d",
+         "time" : 1719751327,
+         "title" : "p_1279_1452566380521_iw_exceldatagrid_1-3_RDF",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ac0fa8f2-8474-461a-a554-782bfbfe2c3d/resource/8fef29a5-25a7-475e-b420-d88a131c67e3/download/rdfdatattl.txt"
+      },
+      "file:id:a1ee30e7-cd12-4cab-8067-632b3d6048b4" : {
+         "desc" : "投票者数",
+         "file_name" : "csvdata.csv-2",
+         "insecure" : 1,
+         "length" : 88,
+         "mime" : "text/csv",
+         "sha256" : "86120f56589e73465efaeb186f83d045502dff57178849ed996b965c63c9047d",
+         "time" : 1719751325,
+         "title" : "p_1279_1452566380521_iw_exceldatagrid_1-3_CSV",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ac0fa8f2-8474-461a-a554-782bfbfe2c3d/resource/a1ee30e7-cd12-4cab-8067-632b3d6048b4/download/csvdata.csv"
+      },
+      "file:id:ab4e8d2d-0c2d-4b18-97c6-519209b5b94e" : {
+         "desc" : "投票率",
+         "file_name" : "csvdata.csv-3",
+         "insecure" : 1,
+         "length" : 2042,
+         "mime" : "text/csv",
+         "sha256" : "0ed8517c339c54bdb6b9a655c51e8310ea8abba0878d3a2a7893cb21e7add336",
+         "time" : 1719751328,
+         "title" : "p_1279_1452566380521_iw_exceldatagrid_1-4_CSV",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ac0fa8f2-8474-461a-a554-782bfbfe2c3d/resource/ab4e8d2d-0c2d-4b18-97c6-519209b5b94e/download/csvdata.csv"
+      },
+      "file:id:d083a96e-1216-4c06-93c7-9f103c789ea5" : {
+         "desc" : "開票速報",
+         "file_name" : "jsondata.json-1",
+         "insecure" : 1,
+         "length" : 3542,
+         "mime" : "application/json",
+         "sha256" : "2b9318b1e6d1c44ec2272143acf8e97ae2f0967936e7067f668d246be589e1c2",
+         "time" : 1719751323,
+         "title" : "p_1279_1452566380521_iw_exceldatagrid_1-2_JSON",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ac0fa8f2-8474-461a-a554-782bfbfe2c3d/resource/d083a96e-1216-4c06-93c7-9f103c789ea5/download/jsondata.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 43916,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "b27e9783ad75a5696a0be308a563491edeb6afaa2d4ffbd180f40a02f56e325c",
+         "time" : 1719751320,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_1279_1452566380521"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 8918,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "bb28ff89d6563f8e5a5ddc60b9cb18c94602a1b897df4b47efae247218158f36",
+         "time" : 1456819632.90928,
+         "title" : "平成27年4月26日執行 東浦町議会議員一般選挙 開票速報",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_1279_1452566380521"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町役場",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "平成27年4月26日執行 東浦町議会議員一般選挙 開票速報",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_1279_1452566380521"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_1279_1452566380521",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "平成27年4月26日執行 東浦町議会議員一般選挙 開票速報",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_1279_1452566380521"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 121013,
+   "mirrorzip" : {
+      "length" : 30215,
+      "set" : "free",
+      "sha256" : "f1a1e4c6b436a9e7c1be5ebe501de25fdcbe072733e6f1c773229bc99c491144"
+   },
+   "package" : {
+      "author" : "東浦町役場",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_1279_1452566380521",
+      "desc" : "",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_1279_1452566380521",
+      "tags" : [
+         "東浦町役場",
+         "東浦町",
+         "選挙"
+      ],
+      "time" : 1456819632.90928,
+      "title" : "平成27年4月26日執行 東浦町議会議員一般選挙 開票速報"
+   }
+}

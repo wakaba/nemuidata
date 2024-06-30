@@ -1,0 +1,214 @@
+{
+   "files" : {
+      "file:id:08bcbc2e-ee65-4dfa-b029-c05aefd6ce92" : {
+         "desc" : "農林業センサスによる経営耕地面積規模別農家数（販売農家）です。\u000A５年ごとの調査で、基準日は各年２月１日現在です。",
+         "file_name" : "od37562022011800200.ttl",
+         "insecure" : 1,
+         "length" : 8476,
+         "mime" : "application/octet-stream",
+         "sha256" : "81d7237eb1b00a619aa9d8de9059856fe0478fba7b789f125e4e8dbe9e940c23",
+         "time" : 1719751436,
+         "title" : "農林業センサスによる経営耕地面積規模別農家数（販売農家） (RDF)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ba3f5bb2-3518-469d-abf0-fa9871974135/resource/08bcbc2e-ee65-4dfa-b029-c05aefd6ce92/download/od37562022011800200.ttl"
+      },
+      "file:id:8ac94f7d-df38-4ed3-ac3e-e22e0db2bb39" : {
+         "desc" : "農林業センサスによる経営耕地面積規模別農家数（販売農家）です。\u000A５年ごとの調査で、基準日は各年２月１日現在です。",
+         "file_name" : "od37562022011800200.csv",
+         "insecure" : 1,
+         "length" : 457,
+         "mime" : "text/csv",
+         "sha256" : "9328a5dcbc9a61b2386e0118eda32f4026da543eaad2ba3edb3cec90654dc50a",
+         "time" : 1719751434,
+         "title" : "農林業センサスによる経営耕地面積規模別農家数（販売農家） (CSV)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ba3f5bb2-3518-469d-abf0-fa9871974135/resource/8ac94f7d-df38-4ed3-ac3e-e22e0db2bb39/download/od37562022011800200.csv"
+      },
+      "file:id:a57a5891-3ea2-42a0-8e74-981a637a99be" : {
+         "desc" : "農林業センサスによる経営耕地面積規模別農家数（販売農家）です。\u000A５年ごとの調査で、基準日は各年２月１日現在です。",
+         "file_name" : "od37562022011800200.json",
+         "insecure" : 1,
+         "length" : 1921,
+         "mime" : "application/json",
+         "sha256" : "6d9b01eb430a289a678be59ac468641acf77dc4e9bf96601ade9bc90e4141c56",
+         "time" : 1719751435,
+         "title" : "農林業センサスによる経営耕地面積規模別農家数（販売農家） (JSON)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/ba3f5bb2-3518-469d-abf0-fa9871974135/resource/a57a5891-3ea2-42a0-8e74-981a637a99be/download/od37562022011800200.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 24739,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "26c8345e50c2555e9e1398f028bd85c97bdf34d131043f5e7c651f28850ed220",
+         "time" : 1719751433,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_3756_1488872785572"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 6190,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "dba5289941c6c815d372474f57f431e470cd389273ec9c1112c624d4aeced469",
+         "time" : 1642482010.86016,
+         "title" : "経営耕地面積規模別農家数（販売農家）",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3756_1488872785572"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町秘書広報課",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "経営耕地面積規模別農家数（販売農家）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3756_1488872785572"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3756_1488872785572",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "経営耕地面積規模別農家数（販売農家）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3756_1488872785572"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 41783,
+   "mirrorzip" : {
+      "length" : 16397,
+      "set" : "free",
+      "sha256" : "a690da74578c098e92885ef8571b12bebbb0430ce6d99f821eb657abb2144025"
+   },
+   "package" : {
+      "author" : "東浦町秘書広報課",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3756_1488872785572",
+      "desc" : "農林業センサスによる経営耕地面積規模別農家数（販売農家）を掲載したページです。",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3756_1488872785572",
+      "tags" : [
+         "東浦町秘書広報課",
+         "東浦町",
+         "統計",
+         "農林業センサス",
+         "農業"
+      ],
+      "time" : 1642482010.86016,
+      "title" : "経営耕地面積規模別農家数（販売農家）"
+   }
+}

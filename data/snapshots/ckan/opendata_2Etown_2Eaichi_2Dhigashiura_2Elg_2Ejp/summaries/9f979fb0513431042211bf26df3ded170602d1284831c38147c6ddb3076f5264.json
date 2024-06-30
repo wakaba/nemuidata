@@ -1,0 +1,213 @@
+{
+   "files" : {
+      "file:id:060edf93-7ca0-4701-98f6-81bb62471e67" : {
+         "desc" : "国勢調査による流入・流出人口の合計です。５年ごとの調査で、基準日は各年１０月１日現在です。",
+         "file_name" : "od37522022080200800.csv",
+         "insecure" : 1,
+         "length" : 2013,
+         "mime" : "text/csv",
+         "sha256" : "a17a0ac632b69fa780ec1d64687d31340f19850ffca7eb81118007d7598f57dd",
+         "time" : 1719751422,
+         "title" : "国勢調査による流入・流出人口の合計 (CSV)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/02fd0b18-40ed-4df0-955f-c52337302d5c/resource/060edf93-7ca0-4701-98f6-81bb62471e67/download/od37522022080200800.csv"
+      },
+      "file:id:3f7dafcf-6c49-49c8-a1d5-30c71984d94e" : {
+         "desc" : "国勢調査による流入・流出人口の合計です。５年ごとの調査で、基準日は各年１０月１日現在です。",
+         "file_name" : "od37522022080200800.json",
+         "insecure" : 1,
+         "length" : 6797,
+         "mime" : "application/json",
+         "sha256" : "8c1564f8bfdc2b5791b53d2006a0c1ec2e0458fe2a4d7995bbcda43fce9a53e1",
+         "time" : 1719751423,
+         "title" : "国勢調査による流入・流出人口の合計 (JSON)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/02fd0b18-40ed-4df0-955f-c52337302d5c/resource/3f7dafcf-6c49-49c8-a1d5-30c71984d94e/download/od37522022080200800.json"
+      },
+      "file:id:b3b06c86-5d27-43d3-8139-e15895209415" : {
+         "desc" : "国勢調査による流入・流出人口の合計です。５年ごとの調査で、基準日は各年１０月１日現在です。",
+         "file_name" : "od37522022080200800.ttl",
+         "insecure" : 1,
+         "length" : 24675,
+         "mime" : "application/octet-stream",
+         "sha256" : "9a57b43b62f07782c311d6c54f636a50c3f1bd58d6fbc345d43b9fff114ec398",
+         "time" : 1719751424,
+         "title" : "国勢調査による流入・流出人口の合計 (RDF)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/02fd0b18-40ed-4df0-955f-c52337302d5c/resource/b3b06c86-5d27-43d3-8139-e15895209415/download/od37522022080200800.ttl"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 24493,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e308fc6209e2999fd207f811940f6c512be14065b0e84a867476f25b1a9659d1",
+         "time" : 1719751421,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_3752_1485241860038"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 5623,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "bab2ae734bce6108d220c43f49a8841fe573596dac02de2c7e2de893316f90da",
+         "time" : 1659418223.0033,
+         "title" : "国勢調査による流入・流出人口",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3752_1485241860038"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町秘書広報課",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "国勢調査による流入・流出人口",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3752_1485241860038"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3752_1485241860038",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "国勢調査による流入・流出人口",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3752_1485241860038"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 63601,
+   "mirrorzip" : {
+      "length" : 18059,
+      "set" : "free",
+      "sha256" : "450a43c18617b940ca032c69e9162ca515fcf492005aaef4572a6b47f196215b"
+   },
+   "package" : {
+      "author" : "東浦町秘書広報課",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3752_1485241860038",
+      "desc" : "国勢調査による流入・流出人口です。\u000D\u000A５年ごとの調査で、基準日は各年１０月１日現在です。",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3752_1485241860038",
+      "tags" : [
+         "東浦町秘書広報課",
+         "東浦町",
+         "統計",
+         "国勢調査"
+      ],
+      "time" : 1659418223.0033,
+      "title" : "国勢調査による流入・流出人口"
+   }
+}
