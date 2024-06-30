@@ -1,0 +1,214 @@
+{
+   "files" : {
+      "file:id:5d9700ba-fa3b-47e8-9dbf-1d2126236a6e" : {
+         "desc" : "国勢調査による人口・世帯数です。\u000A５年ごとの調査で、基準日は各年１０月１日現在です。\u000A大正９年および１４年の人口密度は市および郡部のみでの集計のため不明です。",
+         "file_name" : "od37472022011800900.csv",
+         "insecure" : 1,
+         "length" : 1883,
+         "mime" : "text/csv",
+         "sha256" : "1c3af02127d064381177a4adbf61c1bdfe7749080e6f621db4500bdfcd003054",
+         "time" : 1719752134,
+         "title" : "国勢調査による人口・世帯数 (CSV)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/4b688851-5e02-4982-bd6a-389f6cff3e39/resource/5d9700ba-fa3b-47e8-9dbf-1d2126236a6e/download/od37472022011800900.csv"
+      },
+      "file:id:e6b7f850-fde7-4a19-bf31-827625070263" : {
+         "desc" : "国勢調査による人口・世帯数です。\u000A５年ごとの調査で、基準日は各年１０月１日現在です。\u000A大正９年および１４年の人口密度は市および郡部のみでの集計のため不明です。",
+         "file_name" : "od37472022011800900.json",
+         "insecure" : 1,
+         "length" : 9390,
+         "mime" : "application/json",
+         "sha256" : "a3a3475176df6a4749e9b9da38e14bc04879274e045255cb6ac63c88b0cfb0cc",
+         "time" : 1719752135,
+         "title" : "国勢調査による人口・世帯数 (JSON)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/4b688851-5e02-4982-bd6a-389f6cff3e39/resource/e6b7f850-fde7-4a19-bf31-827625070263/download/od37472022011800900.json"
+      },
+      "file:id:e9859636-210d-4275-8513-c438d151a141" : {
+         "desc" : "国勢調査による人口・世帯数です。\u000A５年ごとの調査で、基準日は各年１０月１日現在です。\u000A大正９年および１４年の人口密度は市および郡部のみでの集計のため不明です。",
+         "file_name" : "od37472022011800900.ttl",
+         "insecure" : 1,
+         "length" : 34319,
+         "mime" : "application/octet-stream",
+         "sha256" : "45e519cc1c6e624757983762ec7ad67f4f24df51fd3f5d3f4dbb2378b0f0f903",
+         "time" : 1719752137,
+         "title" : "国勢調査による人口・世帯数 (RDF)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/4b688851-5e02-4982-bd6a-389f6cff3e39/resource/e9859636-210d-4275-8513-c438d151a141/download/od37472022011800900.ttl"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 25362,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "48da9b57662bec1c325faba8b37831482505698eee20350053239f31d427b7b7",
+         "time" : 1719752133,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_3747_1484782409910"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 6346,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "b2807483e4cfa418acea16ae87e980da2143747c1fd0310ca74b0d17979c2fba",
+         "time" : 1642486505.69539,
+         "title" : "国勢調査による人口・世帯数",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3747_1484782409910"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町秘書広報課",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "国勢調査による人口・世帯数",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3747_1484782409910"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3747_1484782409910",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "国勢調査による人口・世帯数",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3747_1484782409910"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "insecure" : 1,
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 77300,
+   "mirrorzip" : {
+      "length" : 19163,
+      "set" : "free",
+      "sha256" : "68161b48f661d80c2dc381102bca04f07a8b122b597fdd6fe68c2c6e7f422dc2"
+   },
+   "package" : {
+      "author" : "東浦町秘書広報課",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_3747_1484782409910",
+      "desc" : "国勢調査による人口・世帯数です。\u000D\u000A５年ごとの調査で、基準日は各年１０月１日現在です。\u000D\u000A大正９年および１４年の人口密度は市および郡部のみでの集計のため不明です。",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3747_1484782409910",
+      "tags" : [
+         "東浦町秘書広報課",
+         "東浦町",
+         "統計",
+         "国勢調査"
+      ],
+      "time" : 1642486505.69539,
+      "title" : "国勢調査による人口・世帯数"
+   }
+}

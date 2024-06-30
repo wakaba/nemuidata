@@ -1,0 +1,65 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:08279479-141f-48d9-b51d-b1d13b13155e" : {
+            "name" : "od37492022051000400.csv",
+            "sha256" : "d26837f8c33d0202bcafbce6d151fc8732cabb999a046ee683fce9322e714954",
+            "sha256_insecure" : 1
+         },
+         "file:id:13580dc9-f034-4b2a-a657-eebf81209ea1" : {
+            "name" : "od37492022051000200.csv",
+            "sha256" : "c997936ea0605e8dd95f79bcc4c1eba047db3e018f003a759ed127f89dbde145",
+            "sha256_insecure" : 1
+         },
+         "file:id:16f71595-5e33-4969-826f-889944db980f" : {
+            "name" : "od37492022051000400.ttl",
+            "sha256" : "f59d9b854d4ac443e1b318589d1a6a635d5b58692993172127701e2f67be2ce3",
+            "sha256_insecure" : 1
+         },
+         "file:id:1cfc4216-17b6-4e50-a0d3-de95065257c2" : {
+            "name" : "od37492022051000200.ttl",
+            "sha256" : "05fd3f67c08232bd6af69705e64ada964b79b3b524be194dca28d3199cbcb3ca",
+            "sha256_insecure" : 1
+         },
+         "file:id:2428c0fd-e4a2-432e-874b-0ee625aff3fb" : {
+            "name" : "od37492022051000300.json",
+            "sha256" : "31e66413d02394b562802bdc5e21676e7ccde2f11c668f67896c0d5bdebfbabe",
+            "sha256_insecure" : 1
+         },
+         "file:id:4d917571-1acd-403f-880e-e3638f327855" : {
+            "name" : "od37492022051000400.json",
+            "sha256" : "92a2e30418f078c6966f0e41877fdd9573c4cc3ed97765e84e77e3ee67be13fd",
+            "sha256_insecure" : 1
+         },
+         "file:id:4edbd378-953b-4ecf-b5bb-02c2ebd94dfa" : {
+            "name" : "od37492022051000300.ttl",
+            "sha256" : "4c1e446541950e621b2c7a9f30080a69d725babccd8b2ef0abcd46ef97108cb5",
+            "sha256_insecure" : 1
+         },
+         "file:id:a2e25a86-cc6e-4192-9203-fa691490ae05" : {
+            "name" : "od37492022051000200.json",
+            "sha256" : "86d42c6b2e4de4a488423dcdc578bf7ea8501bc1788669ec6741e52499aea19e",
+            "sha256_insecure" : 1
+         },
+         "file:id:d7463b78-afc5-43a9-be38-135b294e1b20" : {
+            "name" : "od37492022051000300.csv",
+            "sha256" : "ef92d533ad5a168bd19279a27ded4f3ac29ee7088a52a74ad9c27c64c4c1abb6",
+            "sha256_insecure" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "894e17fd3872ec2b014e96388ed9c229f13f00ba1776ccfe247d430cf9e28361",
+            "sha256_insecure" : 1
+         },
+         "meta:ckan.json" : {
+            "sha256" : "110415ba381f2b65fc9663daac9bf1ca707ce1f8bce1a671cb15a2cbbaa02c2c",
+            "sha256_insecure" : 1
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_3749_1484033735365"
+   },
+   "type" : "packref"
+}

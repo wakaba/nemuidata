@@ -1,0 +1,20 @@
+{
+   "source" : {
+      "files" : {
+         "meta:activity.html" : {
+            "sha256" : "19e1bab93fdadef9fa4488a2de17f236c01749707c5583f929945efb544d5d1c",
+            "sha256_insecure" : 1
+         },
+         "meta:ckan.json" : {
+            "sha256" : "6b6e6187a0af749ced6fe36e5d9e6e9fa05f52eeb8b219acf2b49959f7b8205c",
+            "sha256_insecure" : 1
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_6720_6720"
+   },
+   "type" : "packref"
+}

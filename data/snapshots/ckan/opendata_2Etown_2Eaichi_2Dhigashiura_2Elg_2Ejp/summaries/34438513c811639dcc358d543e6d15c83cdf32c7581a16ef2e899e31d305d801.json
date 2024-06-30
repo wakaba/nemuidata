@@ -1,0 +1,212 @@
+{
+   "files" : {
+      "file:id:61d2513e-af60-4940-9f02-c8f8ee227fa9" : {
+         "desc" : "",
+         "file_name" : "od40132018070401500.csv",
+         "insecure" : 1,
+         "length" : 28235,
+         "mime" : "text/csv",
+         "sha256" : "ab93064cb59a81a64f775e2a67f7a42a8f98b098a2f81f2d4fedb4f38807196e",
+         "time" : 1719752190,
+         "title" : "指定避難所・指定緊急避難所 (CSV)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/5416bccb-2213-48c8-8cae-a2a6982b20b3/resource/61d2513e-af60-4940-9f02-c8f8ee227fa9/download/od40132018070401500.csv"
+      },
+      "file:id:7344355a-3457-44f0-97a3-472074965a43" : {
+         "desc" : "",
+         "file_name" : "od40132018070401500.ttl",
+         "insecure" : 1,
+         "length" : 272744,
+         "mime" : "application/octet-stream",
+         "sha256" : "24a1d60a720e78860368f25c575fc36e97ccb139544bffe2680a502155b3598b",
+         "time" : 1719752194,
+         "title" : "指定避難所・指定緊急避難所 (RDF)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/5416bccb-2213-48c8-8cae-a2a6982b20b3/resource/7344355a-3457-44f0-97a3-472074965a43/download/od40132018070401500.ttl"
+      },
+      "file:id:cf6573e5-9a3e-40b1-bec2-0c93a41808f3" : {
+         "desc" : "",
+         "file_name" : "od40132018070401500.json",
+         "insecure" : 1,
+         "length" : 91506,
+         "mime" : "application/json",
+         "sha256" : "23eef4b725e7a65ab24926018aab6f6f02649d26263226368b377542b5c2db14",
+         "time" : 1719752192,
+         "title" : "指定避難所・指定緊急避難所 (JSON)",
+         "type" : "file",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/5416bccb-2213-48c8-8cae-a2a6982b20b3/resource/cf6573e5-9a3e-40b1-bec2-0c93a41808f3/download/od40132018070401500.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 21466,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e21884781c91fe457d81be4106223276d146e754e82545d40235d17afb3070e5",
+         "time" : 1719752189,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/dataset/activity/p_4013_1513838878546"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 4221,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "2cfe96373e8b1aff37b66f46fc4b71b1d1d17fe8985755e72ff0d0aab6eb8774",
+         "time" : 1531097108.4544,
+         "title" : "指定避難所・指定緊急避難所",
+         "type" : "meta",
+         "url" : "https://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4013_1513838878546"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "指定避難所・指定緊急避難所",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4013_1513838878546"
+            },
+            "source_type" : "package",
+            "source_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4013_1513838878546",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "insecure" : 1,
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "指定避難所・指定緊急避難所",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4013_1513838878546"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "insecure" : 1,
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site_legal",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 418172,
+   "mirrorzip" : {
+      "length" : 32006,
+      "set" : "free",
+      "sha256" : "a35d1d87ecbb1ba2fd1f61aa489531a217871611fc72ff78b00edcd15d5a8339"
+   },
+   "package" : {
+      "author" : "東浦町",
+      "ckan_api_url" : "http://opendata.town.aichi-higashiura.lg.jp/api/action/package_show?id=p_4013_1513838878546",
+      "desc" : "",
+      "org" : "東浦町",
+      "page_url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4013_1513838878546",
+      "tags" : [
+         "東浦町",
+         "防災・防犯"
+      ],
+      "time" : 1531097108.4544,
+      "title" : "指定避難所・指定緊急避難所"
+   }
+}
