@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:r:artnavi" : {
+         "desc" : "",
+         "file_name" : "artnavi.yokohama.lod.html",
+         "length" : 65933,
+         "mime" : "text/html; charset=UTF-8",
+         "sha256" : "9ec89d3e4ffe9fb8c727b87c36430141533d898f0c1a5cbbeed9ef3ca61fc8d4",
+         "time" : 1719798657,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://artnavi.yokohama/lod/"
+      },
+      "file:r:logo" : {
+         "desc" : "",
+         "file_name" : "yokohama_art_lod.svg",
+         "length" : 75734,
+         "mime" : "image/svg\u002Bxml",
+         "sha256" : "79c204a2e4850980a8b2906aad1c21e150df53af2710a863af1e84df0dde53a0",
+         "time" : 1719798659,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://artnavi.yokohama/wp-content/themes/yokohama_art_navi_ga4/images/yokohama_art_lod.svg"
+      },
+      "file:r:reference" : {
+         "desc" : "",
+         "file_name" : "reference.html",
+         "length" : 31094,
+         "mime" : "text/html",
+         "sha256" : "3e13b1cbb82b6646b0acac2be7ae92ec3e9505eefc4a83662b8c11e1c0c0ab86",
+         "time" : 1719798656,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://data.yafjp.org/reference.html"
+      },
+      "file:r:yafjp" : {
+         "desc" : "",
+         "file_name" : "p.yafjp.org.opendata_api.html",
+         "length" : 53730,
+         "mime" : "text/html; charset=UTF-8",
+         "sha256" : "bdc9cd143b51b484820436945afe5628ebdec22ad7d97ca29cd108174d3747e5",
+         "time" : 1719798658,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://p.yafjp.org/opendata_api/"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 1283,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "0b8b3e7062a858eb4a9a025dc3413056759a29dd0de464c2a19651f223a54d36",
+         "time" : 1719798655,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.yafjp.org.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 227774,
+   "mirrorzip" : {
+      "length" : 58924,
+      "set" : "nonfree",
+      "sha256" : "268eb4cfa92e259ed52a23ba10f8de30fbaac927093548671eb760a32144fc8c"
+   },
+   "package" : {
+      "author" : "公益財団法人 横浜市芸術文化振興財団",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "公益財団法人 横浜市芸術文化振興財団"
+      ],
+      "time" : 1719798659,
+      "title" : "公益財団法人 横浜市芸術文化振興財団:オープンデータ・API"
+   }
+}

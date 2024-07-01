@@ -1,0 +1,50 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:35a682a9-19d0-4fe6-8b23-15a21b549509" : {
+            "name" : "od28392022101803100.csv",
+            "sha256" : "f4f5b46af2787229c83d8a4abcfadef71e83a0f38d67d73879527c81a9832874",
+            "sha256_insecure" : 1
+         },
+         "file:id:8f7b948e-4424-487c-8b19-ba0c259c4d33" : {
+            "name" : "od28392022101803100.json",
+            "sha256" : "b9db99598bbf12da2aa0b3c115b5a53db52001a461b7376e8e8ab9b0e52ac409",
+            "sha256_insecure" : 1
+         },
+         "file:id:cc433659-51c2-4672-8d08-aec2ac1a1332" : {
+            "name" : "od28392022101803300.json",
+            "sha256" : "21e895f1916fc7e6dadebc025065b48d75c138da23948d9b82a15d6e05c5ee3a",
+            "sha256_insecure" : 1
+         },
+         "file:id:ccc58f33-3ae0-4c0a-8090-4c057ccbb369" : {
+            "name" : "od28392022101803300.ttl",
+            "sha256" : "34902c03bf6071adc87c3bb4b99862ce7ff58f76173259870241488cee80a301",
+            "sha256_insecure" : 1
+         },
+         "file:id:e3de7d59-ed20-4d02-82d2-e125cb1a603a" : {
+            "name" : "od28392022101803100.ttl",
+            "sha256" : "cc1bb8723f5cee92f19651d6141a74dcea95d902d8de0473fa754163fe65f4b0",
+            "sha256_insecure" : 1
+         },
+         "file:id:f65c8537-41ba-4d2f-9423-ead6854d1208" : {
+            "name" : "od28392022101803300.csv",
+            "sha256" : "316070ddde3ef2f95974db77ee205895d8983789b57564fd5951fc11874bc546",
+            "sha256_insecure" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "86d22c424af9b109dd7b1a891950fbee7c49b1b8576313b4d675665e8bc900cb",
+            "sha256_insecure" : 1
+         },
+         "meta:ckan.json" : {
+            "sha256" : "d490309e8352f3568976840a5995aa01379c992e4f2d7b3f0ecbb91e07f06222",
+            "sha256_insecure" : 1
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_2839_1525263608000"
+   },
+   "type" : "packref"
+}

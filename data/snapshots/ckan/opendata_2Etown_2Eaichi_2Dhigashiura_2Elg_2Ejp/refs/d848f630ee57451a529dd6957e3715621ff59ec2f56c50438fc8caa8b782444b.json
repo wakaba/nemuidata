@@ -1,0 +1,50 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:0c3c9bd1-54a4-4f84-95b8-8b1683889b67" : {
+            "name" : "od107572021012500300.json",
+            "sha256" : "bbb72265e6f5daf0bf5dd4a41a7620c658ade05b4465ad7e4dc0a197c5fd6f16",
+            "sha256_insecure" : 1
+         },
+         "file:id:152ef935-5830-48f5-ac1a-25e55c0265cb" : {
+            "name" : "od107572021012500300.csv",
+            "sha256" : "c76c2b5e9ac3001e43ed539e1d900c70583ffd2f2b8d0d4de751ff6bb3a8048a",
+            "sha256_insecure" : 1
+         },
+         "file:id:46c2e8aa-cb88-43e5-8110-6d807536414a" : {
+            "name" : "od107572021012700500.json",
+            "sha256" : "bb8fb6f1edfcc5c14a7db533bc50c417942781af7c76a46a93f0b2b77d048f06",
+            "sha256_insecure" : 1
+         },
+         "file:id:73f0f27c-ae68-497d-86db-5e79b4439154" : {
+            "name" : "od107572021012700500.ttl",
+            "sha256" : "0985546514a2c6df6a562a03d6cf622f46e71213493a3dac0b0df78c5d8eda72",
+            "sha256_insecure" : 1
+         },
+         "file:id:8cdd7121-5831-4d93-b051-9dc711f24edc" : {
+            "name" : "od107572021012500300.ttl",
+            "sha256" : "ad19d9b07f47f4d0814a590a72fa4b1bba064b2c6d275317535205c06a35c7d3",
+            "sha256_insecure" : 1
+         },
+         "file:id:f6c97463-9c61-4025-aa18-bd13714d4c13" : {
+            "name" : "od107572021012700500.csv",
+            "sha256" : "98d44b042ff1a49d2a392ee1d21820571d054487e73ec5a1c23373ba07f88034",
+            "sha256_insecure" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "5ca2a858b16a6f87e7be01a7111a871b0f66db6ca2103781c7be392d20d45f10",
+            "sha256_insecure" : 1
+         },
+         "meta:ckan.json" : {
+            "sha256" : "4739557021804fde19b7ef305645c9338337e21b19d0072ea0d3f549784d635d",
+            "sha256_insecure" : 1
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_10757_10757"
+   },
+   "type" : "packref"
+}
