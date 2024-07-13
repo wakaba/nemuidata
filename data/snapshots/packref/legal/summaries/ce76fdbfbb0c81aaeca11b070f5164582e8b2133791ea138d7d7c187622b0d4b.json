@@ -1,0 +1,82 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "1",
+         "length" : 13544,
+         "mime" : "text/html; charset=UTF-8",
+         "sha256" : "bf541e6f03bffcdaa3bb8cb0cbb3b9205db930272a490cc1e973d7e19e5c3a1b",
+         "time" : 1720868824,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/policy/"
+      },
+      "file:r:pdf" : {
+         "desc" : "",
+         "file_name" : "kiyaku.pdf",
+         "length" : 141006,
+         "mime" : "application/pdf",
+         "sha256" : "7a16ff77aad13588090e8b85631d181a0d4f2aa32d15d5aaefcb1df74d92fef3",
+         "time" : 1720868822,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 341,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "b480e96a37abd8cb6e35d039d4e65fef2df95e5640ac9907cae8a0d9c438ba9d",
+         "time" : 1720868819,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.ikoma.lg.jp.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 154891,
+   "mirrorzip" : {
+      "length" : 139853,
+      "set" : "nonfree",
+      "sha256" : "94c5f978ae31ec2678a16b301f065311b02f337623d3966a5be3a9cd9d58a405"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+      ],
+      "time" : 1720868824,
+      "title" : ""
+   }
+}

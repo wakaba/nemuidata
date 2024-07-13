@@ -1,0 +1,71 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "term",
+         "length" : 24779,
+         "mime" : "text/html; charset=UTF-8",
+         "sha256" : "c247514c7908e0c4dcec42255e0c9b2f85c85c36b6d6e8011ec2fbc77518ec8b",
+         "time" : 1720868745,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://opendata.pref.akita.lg.jp/term"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 222,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "5debd7846255f168c26057abe828627dbfe4fc6092ca9bab17aff6d824f9c7dc",
+         "time" : 1720868808,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.pref.akita.lg.jp.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 25001,
+   "mirrorzip" : {
+      "length" : 10753,
+      "set" : "nonfree",
+      "sha256" : "17ea6dbfa1e90c19e708f17b371fc9c9900049d48cbd16c12b4840e8dc5f95b4"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+      ],
+      "time" : 1720868808,
+      "title" : ""
+   }
+}

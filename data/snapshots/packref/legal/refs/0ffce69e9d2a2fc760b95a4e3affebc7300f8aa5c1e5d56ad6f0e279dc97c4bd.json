@@ -1,0 +1,23 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "name" : "license.html",
+            "sha256" : "3192e263ba6cc70e01bb284fc90d1cadccc2807603813ab083f88f2ef69b051a"
+         },
+         "file:r:pubs" : {
+            "name" : "gsj_pubs_lcs.pdf",
+            "sha256" : "c1976464239992de5d09876eb6044160b2e568b4002acbc4abc6f64bdeb266cf"
+         },
+         "meta:packref.json" : {
+            "sha256" : "df4d96b7bfec6012255616ff9c996f7d0fedc5b744a1c3675c1c4356ad707deb"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-www.gsj.jp.json"
+   },
+   "type" : "packref"
+}
