@@ -1,0 +1,182 @@
+{
+   "files" : {
+      "file:id:136517fe-18ba-4274-987f-cd9eda36045c" : {
+         "desc" : "",
+         "file_name" : "nenrei5sai_r1.xlsx",
+         "length" : 105719,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "4b2e0f3c1e6a5af6a7f8122fe99ee24f1bf0caaa9989d35e135c35dbb5f4f0fb",
+         "time" : 1720849944,
+         "title" : "2019年 年齢別(5歳階級)住民基本台帳人口（XLSX）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/f3510335-0f2e-4c64-9397-7133fe70b254/resource/136517fe-18ba-4274-987f-cd9eda36045c/download/nenrei5sai_r1.xlsx"
+      },
+      "file:id:6709a9e5-94e9-449b-b003-38d6171963c1" : {
+         "desc" : "",
+         "file_name" : "utf8nenrei1sai_r1.csv",
+         "length" : 217288,
+         "mime" : "text/csv",
+         "sha256" : "fcfe1db6a5f652f874c66d1cd93ad0d79f69eaabc4cbf6ca2e87a98f7e21af9f",
+         "time" : 1720849940,
+         "title" : "2019年 年齢別(1歳階級)住民基本台帳人口（CSV）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/f3510335-0f2e-4c64-9397-7133fe70b254/resource/6709a9e5-94e9-449b-b003-38d6171963c1/download/utf8nenrei1sai_r1.csv"
+      },
+      "file:id:9857e50d-0cf3-4ff5-b6b3-ae177a212287" : {
+         "desc" : "",
+         "file_name" : "tyo-tyo_r1.xlsx",
+         "length" : 155799,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "b486473be9316b8f18e993e5666ffb83fad71c093a52d65636eeb79cabf6f93c",
+         "time" : 1720849938,
+         "title" : "2019年 町丁別住民基本台帳人口（XLSX）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/f3510335-0f2e-4c64-9397-7133fe70b254/resource/9857e50d-0cf3-4ff5-b6b3-ae177a212287/download/tyo-tyo_r1.xlsx"
+      },
+      "file:id:b2821d0c-3d56-45a4-81e7-c8c976eae58d" : {
+         "desc" : "",
+         "file_name" : "utf8tyo-tyo_r1.csv",
+         "length" : 191197,
+         "mime" : "text/csv",
+         "sha256" : "ccdf07ee902533c2fb92e20fa6530ffe59613102a92031bdd886e26a442b9f3b",
+         "time" : 1720849937,
+         "title" : "2019年 町丁別住民基本台帳人口（CSV）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/f3510335-0f2e-4c64-9397-7133fe70b254/resource/b2821d0c-3d56-45a4-81e7-c8c976eae58d/download/utf8tyo-tyo_r1.csv"
+      },
+      "file:id:dc8c1576-2bcf-4f2c-901c-86094b8fd6e1" : {
+         "desc" : "",
+         "file_name" : "utf8nenrei5sai_r1.csv",
+         "length" : 59966,
+         "mime" : "text/csv",
+         "sha256" : "cab74036195b5b415ba8fac68854e5c5dceee2bbca1dcf570448940c4d80b985",
+         "time" : 1720849943,
+         "title" : "2019年 年齢別(5歳階級)住民基本台帳人口（CSV）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/f3510335-0f2e-4c64-9397-7133fe70b254/resource/dc8c1576-2bcf-4f2c-901c-86094b8fd6e1/download/utf8nenrei5sai_r1.csv"
+      },
+      "file:id:f876ef6f-6545-4e24-8130-b9a5ff3479ec" : {
+         "desc" : "",
+         "file_name" : "nenrei1sai_r1.xlsx",
+         "length" : 434527,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "32bbce73a6d1fdec9709bf74eade171f7312f0fbcbebbcbdb5988c097c153181",
+         "time" : 1720849941,
+         "title" : "2019年 年齢別(1歳階級)住民基本台帳人口（XLSX）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/f3510335-0f2e-4c64-9397-7133fe70b254/resource/f876ef6f-6545-4e24-8130-b9a5ff3479ec/download/nenrei1sai_r1.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 36859,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5b1a75a7ff22de05c7fa1d66896f2e9a591aaff61782b1bde9e9789905b4da9d",
+         "time" : 1720849946,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/jinkoutokei_h31"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 7506,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "99c10d7a2958437c8b6cd2616a75749ad8bb8f5651f22a4bb2781a7380802bd2",
+         "time" : 1581912138.9217,
+         "title" : "人口統計（2019年）",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=jinkoutokei_h31"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "人口統計（2019年）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/jinkoutokei_h31"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=jinkoutokei_h31",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 1208861,
+   "mirrorzip" : {
+      "length" : 748548,
+      "set" : "free",
+      "sha256" : "cf3d863a072bc2747b06b2f2bfa5f8c1dabaa27fdae48071165e5844b28ce628"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=jinkoutokei_h31",
+      "desc" : "人口統計（2019年）に関するデータです。\u000D\u000A",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/jinkoutokei_h31",
+      "tags" : [
+         "加古川市",
+         "統計",
+         "人口",
+         "人口統計",
+         "平成31年"
+      ],
+      "time" : 1581912138.9217,
+      "title" : "人口統計（2019年）"
+   }
+}

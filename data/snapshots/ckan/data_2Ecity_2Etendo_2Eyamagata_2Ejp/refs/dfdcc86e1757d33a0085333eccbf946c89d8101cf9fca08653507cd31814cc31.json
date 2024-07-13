@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:1f3d38af-26f1-4213-95c8-60c0317aab75" : {
+            "name" : "062103_polling_place.xlsx",
+            "sha256" : "6e7951138639bf5152235dd05594b4f8e740dc9273de9d110cac6885250d62d1"
+         },
+         "file:id:4d8092c2-77f2-48de-b570-255f04b9bb0b" : {
+            "name" : "062103_polling_place.csv",
+            "sha256" : "29e1ba1ffc40b746a091411c0decae5884f7785f134dab22b10db82356554a87"
+         },
+         "meta:activity.html" : {
+            "sha256" : "79d0571944b019a64b100f8c7658a042d0a1850536c037ba11f6e9f123c4e6c0"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "4132de5560547dd42b89663e191e7d45205222271e3fc8112b02b4bd1d8fc5ac"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.tendo.yamagata.jp/dataset/polling_place"
+   },
+   "type" : "packref"
+}

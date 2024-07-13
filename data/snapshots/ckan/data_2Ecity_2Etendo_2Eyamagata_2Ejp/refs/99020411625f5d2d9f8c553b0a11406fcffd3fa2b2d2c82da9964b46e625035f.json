@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:4c93d421-836f-402a-9f7a-1d24c831d3b3" : {
+            "name" : "062103_preschool.csv",
+            "sha256" : "13c492548e70cda7bcfff6ec7da876f7f2cac01a0695c2f30289928f296bbf8f"
+         },
+         "file:id:6ff458ed-d4c3-4611-a6fa-1f7445c1eee5" : {
+            "name" : "062103_preschool.xlsx",
+            "sha256" : "268d606b973dc4c24c2fa82e1cff732ec310952db15c1903daa0c789bd242715"
+         },
+         "meta:activity.html" : {
+            "sha256" : "e5f60558ec20f84ea588686e115a416944a378d952da5bb9b3a3bed5e429266d"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "209cfd4b26a249d8ccb24866465be0392ab80af5f38216e10b9d2952055ad093"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.tendo.yamagata.jp/dataset/preschool"
+   },
+   "type" : "packref"
+}

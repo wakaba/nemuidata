@@ -1,0 +1,115 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "about",
+         "length" : 15797,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4fdae53679418d74cba6f25c6b666e5a8881db6ef6a712ae1696ef5181260d52",
+         "time" : 1720881383,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/about"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 584,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "7ee91a389e0520b4eabbe2c95852ff059ed22afcce9c4ad18bd757a3bbe6c1c5",
+         "time" : 1720848874,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.tendo.yamagata.jp.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "天童市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示4.0 国際 （https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示4.0 国際 （https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "天童市オープンデータ利用規約",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.tendo.yamagata.jp.json"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.tendo.yamagata.jp/about",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.tendo.yamagata.jp",
+            "label" : "天童市オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "packref",
+            "source_url" : "https://data.city.tendo.yamagata.jp/about",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 16381,
+   "mirrorzip" : {
+      "length" : 10448,
+      "set" : "free",
+      "sha256" : "8b26f0290d8b7a378d25a90436e60e1676d650433cd884e5b3242849b7fc393b"
+   },
+   "package" : {
+      "author" : "天童市",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "天童市"
+      ],
+      "time" : 1720881383,
+      "title" : "天童市オープンデータ利用規約"
+   }
+}

@@ -1,0 +1,25 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:23e32887-db2c-4505-ac2b-f0abf4758837" : {
+            "name" : "garbageseparation.csv",
+            "sha256" : "67607dcf201af4e017800cac777f851d9ff58f781b2b922b9959e0b1cba08faf",
+            "sha256_insecure" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "8b87f2c3005be91b064ede87ab1e2035fee902c77fa94bf930480cb8c9e2466a",
+            "sha256_insecure" : 1
+         },
+         "meta:ckan.json" : {
+            "sha256" : "ee0355de22492603c180e4195e28c8fe13b5b8428f3898a93167a1cf58b75c66",
+            "sha256_insecure" : 1
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_9173_9173"
+   },
+   "type" : "packref"
+}

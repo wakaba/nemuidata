@@ -1,0 +1,236 @@
+{
+   "files" : {
+      "file:id:149898aa-8ab1-4ba2-99d4-27da5fdfafa4" : {
+         "desc" : "",
+         "file_name" : "062103_population_20190101.csv",
+         "length" : 3036,
+         "mime" : "text/csv",
+         "sha256" : "7dbae3103ff2537b28d81ce49bea8835a709abdec3324bf91b2f60f1dc09cd28",
+         "time" : 1720881080,
+         "title" : "地域・年齢別人口（平成３１年１月１日現在）",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/6a3fcac6-bec0-4ac1-88aa-f3cdfcee3611/resource/149898aa-8ab1-4ba2-99d4-27da5fdfafa4/download/062103_population_20190101.csv"
+      },
+      "file:id:80cd272e-b2c6-4f2e-b39b-56c58223efd4" : {
+         "desc" : "",
+         "file_name" : "062103_population_20200101.csv",
+         "length" : 3032,
+         "mime" : "text/csv",
+         "sha256" : "363c7c0d7b14a1a344e68b256fad4e57a17292bb96c761ffd50cdfa5a95f96d2",
+         "time" : 1720881082,
+         "title" : "地域・年齢別人口（令和２年１月１日現在）",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/6a3fcac6-bec0-4ac1-88aa-f3cdfcee3611/resource/80cd272e-b2c6-4f2e-b39b-56c58223efd4/download/062103_population_20200101.csv"
+      },
+      "file:id:86a83223-4953-42b7-8108-4cbc4de0916d" : {
+         "desc" : "",
+         "file_name" : "062103_population.xlsx",
+         "length" : 14597,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "597e46780a28106c4631a8e44756c74e5ef65a6fe8f4f39ec99777d065581c09",
+         "time" : 1720881083,
+         "title" : "地域・年齢別人口（令和３年１月１日現在）",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/6a3fcac6-bec0-4ac1-88aa-f3cdfcee3611/resource/86a83223-4953-42b7-8108-4cbc4de0916d/download/062103_population.xlsx"
+      },
+      "file:id:9574605b-c576-4b6e-b3f5-68e290dc4062" : {
+         "desc" : "",
+         "file_name" : "062103_population_20190101.xlsx",
+         "length" : 14556,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "6e8e7372cdd07821837eee1db475b116ecda892b332ddca809ebac3ee1e16ca3",
+         "time" : 1720881079,
+         "title" : "地域・年齢別人口（平成３１年１月１日現在）",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/6a3fcac6-bec0-4ac1-88aa-f3cdfcee3611/resource/9574605b-c576-4b6e-b3f5-68e290dc4062/download/062103_population_20190101.xlsx"
+      },
+      "file:id:995dd9cc-1cab-4096-9b5d-bf808d746a5e" : {
+         "desc" : "",
+         "file_name" : "062103_population_20180101.csv",
+         "length" : 3036,
+         "mime" : "text/csv",
+         "sha256" : "d4d6113dc13852bb1b287bed7158c15d82bbd0a92cf63c717e407c03eae25a96",
+         "time" : 1720881078,
+         "title" : "地域・年齢別人口（平成３０年１月１日現在）",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/6a3fcac6-bec0-4ac1-88aa-f3cdfcee3611/resource/995dd9cc-1cab-4096-9b5d-bf808d746a5e/download/062103_population_20180101.csv"
+      },
+      "file:id:a2583927-ddd5-4621-8283-94181f7b23dc" : {
+         "desc" : "",
+         "file_name" : "062103_population_20200101.xlsx",
+         "length" : 14551,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "86e3f87956cf6a49c38776c3a3a46d0bfa0f927a4d32a36518a470ca194a9091",
+         "time" : 1720881081,
+         "title" : "地域・年齢別人口（令和２年１月１日現在）",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/6a3fcac6-bec0-4ac1-88aa-f3cdfcee3611/resource/a2583927-ddd5-4621-8283-94181f7b23dc/download/062103_population_20200101.xlsx"
+      },
+      "file:id:f8715e84-a202-4c1c-85a5-01f64dae8368" : {
+         "desc" : "",
+         "file_name" : "062103_population_20180101.xlsx",
+         "length" : 14580,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "e0bd7b4a257919e21d0d3dc303e1060820f899acb4b7ba33fb7783790dbccc77",
+         "time" : 1720881077,
+         "title" : "地域・年齢別人口（平成３０年１月１日現在）",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/6a3fcac6-bec0-4ac1-88aa-f3cdfcee3611/resource/f8715e84-a202-4c1c-85a5-01f64dae8368/download/062103_population_20180101.xlsx"
+      },
+      "file:id:ffa6e1e6-9817-4191-b303-d662f637b21f" : {
+         "desc" : "",
+         "file_name" : "062103_population.csv",
+         "length" : 3013,
+         "mime" : "text/csv",
+         "sha256" : "3b678d85c399632ca2faecaf72415da61899f3b30f8b4edda26343c4832eca2d",
+         "time" : 1720881084,
+         "title" : "地域・年齢別人口（令和３年１月１日現在）",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/6a3fcac6-bec0-4ac1-88aa-f3cdfcee3611/resource/ffa6e1e6-9817-4191-b303-d662f637b21f/download/062103_population.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 36477,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e61e6379af8b0e45f9ad43cee2f4f3dd4e81a2db89f91471664ac1a658a96e90",
+         "time" : 1720881086,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/activity/population"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 9169,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "80eb55557785ce12486015139f0d104b1b06a90496fdd3147e7c6bb592740997",
+         "time" : 1617346228.45086,
+         "title" : "地域・年齢別人口",
+         "type" : "meta",
+         "url" : "https://data.city.tendo.yamagata.jp/api/action/package_show?id=population"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "天童市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "地域・年齢別人口",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.tendo.yamagata.jp/dataset/population"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.tendo.yamagata.jp/api/action/package_show?id=population",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "天童市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示4.0 国際 （https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示4.0 国際 （https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "地域・年齢別人口",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.tendo.yamagata.jp/dataset/population"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.tendo.yamagata.jp/about",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.tendo.yamagata.jp",
+            "label" : "天童市オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.tendo.yamagata.jp/about",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 116047,
+   "mirrorzip" : {
+      "length" : 75397,
+      "set" : "free",
+      "sha256" : "316cc825e0ada88dba39394e05b8457fddac77e53d26c2c2d1287cc91527b5f4"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://data.city.tendo.yamagata.jp/api/action/package_show?id=population",
+      "desc" : "住民基本台帳に基づく地区・年齢別の人口一覧。",
+      "org" : "天童市",
+      "page_url" : "https://data.city.tendo.yamagata.jp/dataset/population",
+      "tags" : [
+         "天童市",
+         "人口・世帯",
+         "人口",
+         "推奨データセット",
+         "統計"
+      ],
+      "time" : 1617346228.45086,
+      "title" : "地域・年齢別人口"
+   }
+}

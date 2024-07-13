@@ -1,0 +1,25 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "name" : "rules.html",
+            "sha256" : "e364b04639bd64119abe151dfc4ba46f0ea75ee9422ca8b84f594be27f35342c",
+            "sha256_insecure" : 1
+         },
+         "file:r:pdf" : {
+            "name" : "hg-opendata-riyoukiyaku_2023.pdf",
+            "sha256" : "a4c12aa1329788bd78b5fe2dd5f1b540c7a0ceefe062d7823a3e05a32b150b88",
+            "sha256_insecure" : 1
+         },
+         "meta:packref.json" : {
+            "sha256" : "1d2ea1f50e27891c48b8e6c3c0a7a845bc15cb6d141ced726d7f8fe85fd60d10"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.town.aichi-higashiura.lg.jp.json"
+   },
+   "type" : "packref"
+}

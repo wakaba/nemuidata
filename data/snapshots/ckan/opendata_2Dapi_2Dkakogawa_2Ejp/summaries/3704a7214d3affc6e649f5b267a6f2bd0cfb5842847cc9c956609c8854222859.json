@@ -1,0 +1,170 @@
+{
+   "files" : {
+      "file:id:34a36a88-c4d5-4f01-8cf2-ec936bd339d4" : {
+         "desc" : "",
+         "file_name" : "h30.csv",
+         "length" : 226839,
+         "mime" : "text/csv",
+         "sha256" : "e26ec6f39cec397b22e6588726d89abc89c55e792eb07922ffdb92a8dba4fc07",
+         "time" : 1720849603,
+         "title" : "平成30年ごみカレンダー（ごみ分別アプリ）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9fdb41cd-2a4b-4c7e-a43e-bb75b2cc0a04/resource/34a36a88-c4d5-4f01-8cf2-ec936bd339d4/download/h30.csv"
+      },
+      "file:id:5b1e242e-bb6b-4e59-a3ad-371e3bc6356b" : {
+         "desc" : "",
+         "file_name" : "_csv",
+         "length" : 104176,
+         "mime" : "text/csv",
+         "sha256" : "de33d6490f9455d61d0dbe4dd0888ac151022624887465f858efaff2c2603127",
+         "time" : 1720849605,
+         "title" : "ごみ分別百科のデータ（ごみ分別アプリ）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9fdb41cd-2a4b-4c7e-a43e-bb75b2cc0a04/resource/5b1e242e-bb6b-4e59-a3ad-371e3bc6356b/download/.csv"
+      },
+      "file:id:9f478ee9-8cf1-4add-b5c6-ea8d84395455" : {
+         "desc" : "",
+         "file_name" : "r2r1.12..csv",
+         "length" : 215857,
+         "mime" : "text/csv",
+         "sha256" : "444db24f0cfca4eb01b8249e119cb30623cde9d619a2ff8613d5aaba7c383136",
+         "time" : 1720849607,
+         "title" : "令和２年ごみカレンダー（ごみ分別アプリ）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9fdb41cd-2a4b-4c7e-a43e-bb75b2cc0a04/resource/9f478ee9-8cf1-4add-b5c6-ea8d84395455/download/r2r1.12..csv"
+      },
+      "file:id:b6074a2b-18a2-4ad4-aa4d-d06ca493d7fa" : {
+         "desc" : "",
+         "file_name" : "r1r1.12..csv",
+         "length" : 208523,
+         "mime" : "text/csv",
+         "sha256" : "f3dd9afbf82385e589072683ca093cd5a039d8a11e7e0052562d37f911724ce5",
+         "time" : 1720849602,
+         "title" : "平成31年ごみカレンダー（ごみ分別アプリ）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9fdb41cd-2a4b-4c7e-a43e-bb75b2cc0a04/resource/b6074a2b-18a2-4ad4-aa4d-d06ca493d7fa/download/r1r1.12..csv"
+      },
+      "file:id:cbcba42a-fb99-405c-b951-5dc458a4a556" : {
+         "desc" : "",
+         "file_name" : "2021syuusyuubi1.xlsx",
+         "length" : 174861,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "589c4b5c72f11acb63af353c25f6faea33922b4cf2fb0c7e98519b91feed50b2",
+         "time" : 1720849606,
+         "title" : "ごみ収集日程表",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9fdb41cd-2a4b-4c7e-a43e-bb75b2cc0a04/resource/cbcba42a-fb99-405c-b951-5dc458a4a556/download/2021syuusyuubi1.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 28677,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "61906fbe5dc2156167fb2c47b277dd92b5c0d4610fd4241b45dcbe9a96090b6d",
+         "time" : 1720849610,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/kankyoueisei"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 6158,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "355bf102830994a45ce0350e803284ca4ed74080877e187476a9a95e1c1b5e14",
+         "time" : 1617081179.33558,
+         "title" : "環境衛生",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=kankyoueisei"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "環境衛生",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/kankyoueisei"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=kankyoueisei",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 965091,
+   "mirrorzip" : {
+      "length" : 195540,
+      "set" : "free",
+      "sha256" : "69de311a109a5de55941f42a220866b675795edf20675ca00d148b59dba964a1"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=kankyoueisei",
+      "desc" : "環境衛生に関するデータです。",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/kankyoueisei",
+      "tags" : [
+         "加古川市",
+         "環境",
+         "ごみ",
+         "環境衛生"
+      ],
+      "time" : 1617081179.33558,
+      "title" : "環境衛生"
+   }
+}

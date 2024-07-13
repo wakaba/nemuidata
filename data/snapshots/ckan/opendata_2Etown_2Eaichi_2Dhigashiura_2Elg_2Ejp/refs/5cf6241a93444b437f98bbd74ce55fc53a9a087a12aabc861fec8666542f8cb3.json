@@ -1,0 +1,20 @@
+{
+   "source" : {
+      "files" : {
+         "meta:activity.html" : {
+            "sha256" : "456b25a287eb21b61b1a8632158ebbb4e419eef31878a5ce8422bb986efb4dbc",
+            "sha256_insecure" : 1
+         },
+         "meta:ckan.json" : {
+            "sha256" : "994dacdad503caa322dc57ef99b3729b2651089cf460f5b964c7c54b3f8ab9c7",
+            "sha256_insecure" : 1
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_11009_11009"
+   },
+   "type" : "packref"
+}

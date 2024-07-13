@@ -1,0 +1,77 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:14993f2a-a945-4d5f-958f-38ea01611e22" : {
+            "name" : "282103_care_service.csv",
+            "sha256" : "073c1acac1250f2d02297a4e92cfb3295186a64cd4a643bdf43f5f3af36ed11f"
+         },
+         "file:id:18993d72-34ed-41ff-867b-d615b6d383dd" : {
+            "name" : "careoffices.teikizuiji.csv",
+            "sha256" : "dd544cafa4d7eab68fcb23d73eabf3b8ee876c04628ea6a59a83c46fb438e9ad"
+         },
+         "file:id:2b22231c-810a-4331-82b2-5941dbf4e42d" : {
+            "name" : "careoffices.chiikimitchakutsuusho.csv",
+            "sha256" : "e813a8da23c0986c3650e0d99d742026871732546ab70240bf2098e859ada592"
+         },
+         "file:id:3692e3c1-afc8-474d-855f-b36508108606" : {
+            "name" : "careoffices.fukugo.csv",
+            "sha256" : "32abcc72635e0469565db01ec12302fe0666d88903a5c5d9c21203cf07c5dfa1"
+         },
+         "file:id:43db923e-1a55-4642-b478-84e292030f76" : {
+            "name" : "careoffices.yakan.csv",
+            "sha256" : "d24ae95d1cdb76d5f123464394bc65e65e47c597968104a41810eca528ce9ae4"
+         },
+         "file:id:53720c0e-0e21-4f9d-a501-54b8eedd12dd" : {
+            "name" : "entities-7"
+         },
+         "file:id:553d485d-0b07-4864-ac0d-5612a0847cf6" : {
+            "name" : "entities-1"
+         },
+         "file:id:5e935610-b7e2-4c82-853c-7d7c05baf8d2" : {
+            "name" : "entities-2"
+         },
+         "file:id:5ed72920-0f5a-4079-9666-602eea2a78a2" : {
+            "name" : "entities-3"
+         },
+         "file:id:763fe762-8952-4022-b48f-e12459de62ee" : {
+            "name" : "careoffices.chiikimitchakukaigorojin.csv",
+            "sha256" : "e858c002dc99862ce9855a84b3ab5a7564434ba0323f7824f8a72167e17c51d2"
+         },
+         "file:id:78f45c64-480e-4092-acaf-f24ad0cb1e54" : {
+            "name" : "entities-5"
+         },
+         "file:id:7a2a8ccc-4578-416f-bb90-b210708f1afa" : {
+            "name" : "6_.csv",
+            "sha256" : "de782690216937b6127cdf646e01f94def256d9b875874f634f111e091c3f534"
+         },
+         "file:id:81148d47-876f-41b9-b3a0-07f2f8928af1" : {
+            "name" : "entities-4"
+         },
+         "file:id:b325e1ce-8a47-4b38-83b1-54d408d6f2f9" : {
+            "name" : "entities-6"
+         },
+         "file:id:b32b458b-49c8-4e0e-87b8-fba2a05634d4" : {
+            "name" : "1_.csv",
+            "sha256" : "408fe489224623ad41e4b33583789184b55807cbec9e6638e734e47d2e0f3270"
+         },
+         "file:id:b6b3a577-72d5-498e-b495-a2f33035c0c7" : {
+            "name" : "careoffices.ninchishokyodoseikatsu.csv",
+            "sha256" : "583a22df3616063525726bfe6f655d8a565ef021b5ba8914bce1398b78e8e830"
+         },
+         "file:id:fcb05b56-b62a-4a66-999f-669594b2b178" : {
+         },
+         "meta:activity.html" : {
+            "sha256" : "bed771a24a0ea783f98dc4b6f030e6e491cae52a527850d1165c9682a7250839"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "4c9b4ae6c9704e5b3b4ab9f3ff5d8789655f78906489959640c5af500dad2b20"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/careoffices"
+   },
+   "type" : "packref"
+}

@@ -1,0 +1,50 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:3f2048a7-ca6b-4b83-be94-26b48b8cad14" : {
+            "name" : "od22212018070442300.json",
+            "sha256" : "ea13df7e956d9320652375ea886945239ec510e4251faa766dff3f8f75cb8113",
+            "sha256_insecure" : 1
+         },
+         "file:id:5171c74a-f51a-4e39-a124-36b17fb70b0a" : {
+            "name" : "od22212018070442500.json",
+            "sha256" : "318be2f8cbca2e36643e86ca181e36d425210fe6d8348568caec2f887bb5d1e3",
+            "sha256_insecure" : 1
+         },
+         "file:id:5b4ad1d4-3722-4ca9-8134-7db7f4ec2af0" : {
+            "name" : "od22212018070442500.ttl",
+            "sha256" : "86c5d8168001bf97054c9245a802949feb69a6e87a34c762ebcd77d14c775019",
+            "sha256_insecure" : 1
+         },
+         "file:id:bff084ab-a01c-4fa9-a642-9cca53403037" : {
+            "name" : "od22212018070442500.csv",
+            "sha256" : "52da4441ba04d95bf1ce4f29634f203c41285c77131a180fffa2e7d74c6801bd",
+            "sha256_insecure" : 1
+         },
+         "file:id:d98b674e-fdda-4962-8ead-639ee8da4c2d" : {
+            "name" : "od22212018070442300.csv",
+            "sha256" : "91d791cfbb30f1a59db77fc8358bb16ea687522083e915c76043679fe701ef91",
+            "sha256_insecure" : 1
+         },
+         "file:id:ef143753-6d89-47e4-8741-02901e9b28e0" : {
+            "name" : "od22212018070442300.ttl",
+            "sha256" : "c305f375c87ba4d68568de9e032b81a4f74088fcd40f62184d6c85c5f46e64a4",
+            "sha256_insecure" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "4898ac019b0da1122b9a8c1443b264ca6b33d8de3ce25b02a7ad1329ba061794",
+            "sha256_insecure" : 1
+         },
+         "meta:ckan.json" : {
+            "sha256" : "33bd85a2870f0711bad06c56ed74786650b1d13971db580ed6382fa8b73c456a",
+            "sha256_insecure" : 1
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_2221_1452566744839"
+   },
+   "type" : "packref"
+}

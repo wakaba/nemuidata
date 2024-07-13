@@ -1,0 +1,171 @@
+{
+   "files" : {
+      "file:id:0816c2e2-6e75-4b9c-8030-9ae9cec5b223" : {
+         "desc" : "",
+         "file_name" : "062103_tourism.csv",
+         "length" : 6773,
+         "mime" : "text/csv",
+         "sha256" : "859f952ffbf7bb00f4c84441d276f7f36f463478e34ab02bd0ab472fbb27a450",
+         "time" : 1720881148,
+         "title" : "観光施設一覧",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/5817293f-05f2-407d-b1ee-e9a3b0c1968f/resource/0816c2e2-6e75-4b9c-8030-9ae9cec5b223/download/062103_tourism.csv"
+      },
+      "file:id:b57feb00-49ff-4b67-a695-d8cee8a0194a" : {
+         "desc" : "",
+         "file_name" : "062103_tourism.xlsx",
+         "length" : 18142,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "b8bc287fea9346f669c986e8675c2760e45fafdd179fba1b771c04bd4c45221f",
+         "time" : 1720881147,
+         "title" : "観光施設一覧",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/5817293f-05f2-407d-b1ee-e9a3b0c1968f/resource/b57feb00-49ff-4b67-a695-d8cee8a0194a/download/062103_tourism.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 19799,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "8ecece2027999004fb94e776134db354a66478c0fe9e79e6c8615eb933df50e3",
+         "time" : 1720881150,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/activity/tourism"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 3924,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "18931234fe60480166cd28667d5eb2060553687e049dc48d88994ca861917c54",
+         "time" : 1552530544.52898,
+         "title" : "観光施設一覧",
+         "type" : "meta",
+         "url" : "https://data.city.tendo.yamagata.jp/api/action/package_show?id=tourism"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "天童市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "観光施設一覧",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.tendo.yamagata.jp/dataset/tourism"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.tendo.yamagata.jp/api/action/package_show?id=tourism",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "天童市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示4.0 国際 （https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示4.0 国際 （https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "観光施設一覧",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.tendo.yamagata.jp/dataset/tourism"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.tendo.yamagata.jp/about",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.tendo.yamagata.jp",
+            "label" : "天童市オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.tendo.yamagata.jp/about",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 48638,
+   "mirrorzip" : {
+      "length" : 32414,
+      "set" : "free",
+      "sha256" : "f744fd0ba60281458d0ad689fdf8a7aab8c3a9cb4f872b7646196dcf099d88bc"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://data.city.tendo.yamagata.jp/api/action/package_show?id=tourism",
+      "desc" : "観光施設の一覧。",
+      "org" : "天童市",
+      "page_url" : "https://data.city.tendo.yamagata.jp/dataset/tourism",
+      "tags" : [
+         "天童市",
+         "運輸・観光",
+         "位置情報",
+         "推奨データセット",
+         "施設",
+         "観光"
+      ],
+      "time" : 1552530544.52898,
+      "title" : "観光施設一覧"
+   }
+}

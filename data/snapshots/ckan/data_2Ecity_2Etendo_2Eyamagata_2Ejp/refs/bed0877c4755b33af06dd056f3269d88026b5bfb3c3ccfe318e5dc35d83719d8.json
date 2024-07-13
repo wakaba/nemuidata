@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:3987b01a-e418-4ee1-9f19-7b1a2d8c2b2b" : {
+            "name" : "062103_public_toilet.csv",
+            "sha256" : "48f3f05777a3de9fce87855eb7f5f4460e2fec3a3d888c0e031ba34c7eb42f62"
+         },
+         "file:id:df3cc44e-3702-45e8-9256-52cd39cb4dc7" : {
+            "name" : "062103_public_toilet.xlsx",
+            "sha256" : "daff9f2159e7954533ae35a7e3289352e1c29660a1b2d96acb65472e053a09d7"
+         },
+         "meta:activity.html" : {
+            "sha256" : "5c0ab05c198cabcef6b914bf1ca676cfb6c61b7b71c1f0346172acbb5d1b2168"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "a40d76d48234e1a64e06893f9624262693f8a98cd1fd6182d772218e9ee2e235"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.tendo.yamagata.jp/dataset/public_toilet"
+   },
+   "type" : "packref"
+}

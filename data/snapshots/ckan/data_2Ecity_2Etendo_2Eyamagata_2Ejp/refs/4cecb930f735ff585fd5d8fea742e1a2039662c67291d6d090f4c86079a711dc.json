@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:61e25da1-866b-4fbf-bdc1-2412f03f4074" : {
+            "name" : "062103_open_data_list.csv",
+            "sha256" : "8a88ca486e0d54752af74042c47aa0a50369bab6b40a4b35481bb8dae64655a2"
+         },
+         "file:id:fa45dfab-aa06-4c12-9a07-e7ffa4b2afeb" : {
+            "name" : "062103_open_data_list.xlsx",
+            "sha256" : "9ba2cb93b7fcd2b06f7e709637179564aab2d4f745ddc5a3c67d621d852bf693"
+         },
+         "meta:activity.html" : {
+            "sha256" : "f7c1fd5196cb261a47c35dba27727bcddb08d9d9e89ff9012f397fe5423955f3"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "cf0a317cc67a7a048673b0ab1144f408bf827fd22bfb673e9a12693e223bbf1b"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.tendo.yamagata.jp/dataset/open_data_list"
+   },
+   "type" : "packref"
+}

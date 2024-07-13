@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:072074db-e2b2-4a3a-9bcf-26779da8749f" : {
+            "name" : "062103_aed.csv",
+            "sha256" : "81fc087e17de8f3dd84d42cbe88f499be6cb7b6ef606efc59d21239b710fb231"
+         },
+         "file:id:b3a6622d-2a9f-4369-9bf3-f331e9c3896f" : {
+            "name" : "062103_aed.xlsx",
+            "sha256" : "4580eb43e1d3e315191872d874732d1f6cd876a5eeb17cc7827cf20c8e15f393"
+         },
+         "meta:activity.html" : {
+            "sha256" : "dd704e76a911356cc551f6716a82498cfda839a71b39a95a249c7d3a1b4d0e2f"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "820a747a73ee6f4eadb91de33fbeb4d0ca8893689958efe83a2bb94aa7f2307e"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.tendo.yamagata.jp/dataset/aed"
+   },
+   "type" : "packref"
+}

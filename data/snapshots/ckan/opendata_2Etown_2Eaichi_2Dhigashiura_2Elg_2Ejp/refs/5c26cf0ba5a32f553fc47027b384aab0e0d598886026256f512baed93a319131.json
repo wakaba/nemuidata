@@ -1,0 +1,35 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:91f58d17-e2c5-4ea8-91a2-35658ea9e77c" : {
+            "name" : "od40142020012801000.ttl",
+            "sha256" : "587f8ff0e444766573bd62c954de43c881b1b38f2af51a5d1f3b78df2c33ba78",
+            "sha256_insecure" : 1
+         },
+         "file:id:bc814b4d-b1d1-41f4-85fb-ee886ab092a2" : {
+            "name" : "od40142020012801000.csv",
+            "sha256" : "34f4e6f7bc6985e3b24fa1023b30a217919482d79cf620d80b4bdbae7342eab5",
+            "sha256_insecure" : 1
+         },
+         "file:id:bda4bc6a-e4ae-4e5e-bc7a-77f4a9253f49" : {
+            "name" : "od40142020012801000.json",
+            "sha256" : "872c788c80daf90ac8df9f9f5d6447e5c192f76addcfc97e935954d8b44142de",
+            "sha256_insecure" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "03533568c7c8e1c3d73e5bfb7c84223c843659c9f6d8c12249f72d81f03f9cd8",
+            "sha256_insecure" : 1
+         },
+         "meta:ckan.json" : {
+            "sha256" : "ee52e158533baadf69eb30840c97c474f82c9bcc80841347d348d5d139117f09",
+            "sha256_insecure" : 1
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "http://opendata.town.aichi-higashiura.lg.jp/dataset/p_4014_1514184509811"
+   },
+   "type" : "packref"
+}

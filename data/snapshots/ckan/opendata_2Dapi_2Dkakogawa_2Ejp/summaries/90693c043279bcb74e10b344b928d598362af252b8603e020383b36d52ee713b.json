@@ -1,0 +1,201 @@
+{
+   "files" : {
+      "file:id:21a6eb39-76e0-4ef2-ad4e-76f857db05dc" : {
+         "desc" : "",
+         "file_name" : "2022_30_ro-de-ta.xlsx",
+         "length" : 1368268,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "3c68bed0d1699823bd3b30a83a543235eb385986bbffb1e6083ad51bef4a34e2",
+         "time" : 1720849622,
+         "title" : "ローデータ（R4市民意識調査） ",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9b7f078b-42f7-4fb9-a02f-7a6ec8cb43a8/resource/21a6eb39-76e0-4ef2-ad4e-76f857db05dc/download/2022_30_ro-de-ta.xlsx"
+      },
+      "file:id:27c1d8f0-6334-4b04-ba62-c76616954a3a" : {
+         "desc" : "",
+         "file_name" : "r2.xlsx",
+         "length" : 749870,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "18ec5ef5303fdc8a31eab3ffd8ba47013c7a718a679f5b30319ad882054e220f",
+         "time" : 1720849624,
+         "title" : "ローデータ（R2市民意識調査）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9b7f078b-42f7-4fb9-a02f-7a6ec8cb43a8/resource/27c1d8f0-6334-4b04-ba62-c76616954a3a/download/r2.xlsx"
+      },
+      "file:id:90fabe61-217c-48ed-94c8-53204a1ad0bf" : {
+         "desc" : "",
+         "file_name" : "令和３年度調査票.pdf",
+         "length" : 789480,
+         "mime" : "application/pdf",
+         "sha256" : "e4be56caa11ea581b6979613a113bc3a28f96aa7676c6d18e75d2104cc1fb8bb",
+         "time" : 1720849630,
+         "title" : "令和３年度調査票.pdf",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9b7f078b-42f7-4fb9-a02f-7a6ec8cb43a8/resource/90fabe61-217c-48ed-94c8-53204a1ad0bf/download/.pdf"
+      },
+      "file:id:a9791052-5d6f-4046-b614-990abe782e84" : {
+         "desc" : "",
+         "file_name" : "ローデータ（R5市民意識調査）.xlsx",
+         "length" : 1110829,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "ac53cdd4dbda26f896495fab57561093c221a53df43458d4869d8c6bdb5295fa",
+         "time" : 1720849636,
+         "title" : "ローデータ（R5市民意識調査）.xlsx",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9b7f078b-42f7-4fb9-a02f-7a6ec8cb43a8/resource/a9791052-5d6f-4046-b614-990abe782e84/download/r5.xlsx"
+      },
+      "file:id:aaec46f1-c637-46bb-b4dc-54690c630f18" : {
+         "desc" : "",
+         "file_name" : "令和５年度調査票.pdf",
+         "length" : 1746545,
+         "mime" : "application/pdf",
+         "sha256" : "cc10b838d1d1d9b51e52ba5f02c1fd58deb906aff818e53f403bcce128c19c17",
+         "time" : 1720849634,
+         "title" : "令和５年度調査票.pdf",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9b7f078b-42f7-4fb9-a02f-7a6ec8cb43a8/resource/aaec46f1-c637-46bb-b4dc-54690c630f18/download/.pdf"
+      },
+      "file:id:b6ae509a-4f54-4ea2-8a8a-2d5aa2a5e3f8" : {
+         "desc" : "",
+         "file_name" : "r3.csv",
+         "length" : 851347,
+         "mime" : "text/csv",
+         "sha256" : "3b8b9dbf7c1ebaee3b3dfc84465aa7132dae21a4ee0551a216d1bd486d8500c1",
+         "time" : 1720849626,
+         "title" : "ローデータ（R3市民意識調査）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9b7f078b-42f7-4fb9-a02f-7a6ec8cb43a8/resource/b6ae509a-4f54-4ea2-8a8a-2d5aa2a5e3f8/download/r3.csv"
+      },
+      "file:id:ca637085-f1b0-4f81-9ded-48b84149af04" : {
+         "desc" : "",
+         "file_name" : "令和４年度調査票.pdf",
+         "length" : 1261563,
+         "mime" : "application/pdf",
+         "sha256" : "4635381500be934b7336ba88e0e4db13bf1b211b042385b339361c984df9a440",
+         "time" : 1720849632,
+         "title" : "令和４年度調査票.pdf",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9b7f078b-42f7-4fb9-a02f-7a6ec8cb43a8/resource/ca637085-f1b0-4f81-9ded-48b84149af04/download/.pdf"
+      },
+      "file:id:dadfa159-5d2d-4aa4-ab25-c2dc3113d39a" : {
+         "desc" : "",
+         "file_name" : "令和２年度調査票.pdf",
+         "length" : 2101139,
+         "mime" : "application/pdf",
+         "sha256" : "b51e97e233bbd79a8209c1529e57bafd926219fbf739c5699396e71440df27ab",
+         "time" : 1720849628,
+         "title" : "令和２年度調査票.pdf",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9b7f078b-42f7-4fb9-a02f-7a6ec8cb43a8/resource/dadfa159-5d2d-4aa4-ab25-c2dc3113d39a/download/.pdf"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 27050,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "694d101a8b3c3a6c17c234764c7d9b910cc80c6a62f8341ec33c1062f0d747cd",
+         "time" : 1720849638,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/public_awareness"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 8971,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "5910bd25b88e54b94f74d3f67c7a9a65b95ed94f3fcd9bd4763812521dac47db",
+         "time" : 1714477653.21714,
+         "title" : "市民意識調査",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=public_awareness"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "政策企画課 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "市民意識調査",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/public_awareness"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=public_awareness",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 10015062,
+   "mirrorzip" : {
+      "length" : 7825276,
+      "set" : "free",
+      "sha256" : "882311d9a30effc629679e4ac0aa5a2a9b4b274fdd30dd547dd70559e81b8bf9"
+   },
+   "package" : {
+      "author" : "政策企画課",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=public_awareness",
+      "desc" : "市民意識調査結果のローデータです。\u000D\u000A加古川市では、市が取り組んでいる施策や今後のまちづくりの方向性について、市民の皆さまが日頃お考えのことや感じておられることなどをお聞きし、その結果をまちづくりに反映していきたいと考え、市民意識調査を実施しています。",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/public_awareness",
+      "tags" : [
+         "政策企画課",
+         "加古川市"
+      ],
+      "time" : 1714477653.21714,
+      "title" : "市民意識調査"
+   }
+}

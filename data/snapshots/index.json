@@ -1,5 +1,15 @@
 {
    "ckan" : {
+      "data_2Ecity_2Etendo_2Eyamagata_2Ejp" : {
+         "esite_name" : "data_2Ecity_2Etendo_2Eyamagata_2Ejp",
+         "site_name" : "data.city.tendo.yamagata.jp",
+         "site_type" : "ckan"
+      },
+      "opendata_2Dapi_2Dkakogawa_2Ejp" : {
+         "esite_name" : "opendata_2Dapi_2Dkakogawa_2Ejp",
+         "site_name" : "opendata-api-kakogawa.jp",
+         "site_type" : "ckan"
+      },
       "opendata_2Etown_2Eaichi_2Dhigashiura_2Elg_2Ejp" : {
          "esite_name" : "opendata_2Etown_2Eaichi_2Dhigashiura_2Elg_2Ejp",
          "site_name" : "opendata.town.aichi-higashiura.lg.jp",

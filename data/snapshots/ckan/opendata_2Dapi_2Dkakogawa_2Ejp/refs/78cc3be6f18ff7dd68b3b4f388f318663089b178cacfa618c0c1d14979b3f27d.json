@@ -1,0 +1,218 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:00ea2910-e6f7-4123-82cd-86ef8a405746" : {
+            "name" : "entities-20"
+         },
+         "file:id:02ca1c91-f9ca-46b1-b211-8544d0dfe24e" : {
+            "name" : "entities-14"
+         },
+         "file:id:070ef324-9116-420f-9f49-d20486a343f6" : {
+            "name" : "289_heisou_syougakkou.zip",
+            "sha256" : "36f04d8b58b458a8750563576a09115cc0582a42058845c38910c7248d23899f"
+         },
+         "file:id:116cc7a3-c498-4472-93bc-64322598f491" : {
+            "name" : "entities-16"
+         },
+         "file:id:1e87609b-f6c0-4f75-b661-e598c40c4726" : {
+            "name" : "entities-23"
+         },
+         "file:id:28097341-7145-42f0-977f-9f8862fe1e69" : {
+            "name" : "entities-22"
+         },
+         "file:id:2b8d3e0b-8858-48c2-a4e2-32bdecfb1631" : {
+            "name" : "entities-26"
+         },
+         "file:id:2c32775f-b582-4daf-b933-2651a5bfe822" : {
+            "name" : "302_shikatanishi_syougakkou.zip",
+            "sha256" : "ca243e12a914c9c3f9fef7d0d93ebe77adb438d5f6e1b23237ab6be40b897369"
+         },
+         "file:id:2ecb9749-9a7e-433d-b4d9-13a1bf581c1a" : {
+            "name" : "entities-4"
+         },
+         "file:id:2ef21960-a040-42e4-bc34-60e3b37f7fb0" : {
+            "name" : "entities-8"
+         },
+         "file:id:35035031-5485-4800-83c0-4a2fb12473c0" : {
+            "name" : "307_wakamiya_syougakkou.zip",
+            "sha256" : "2cf07d1732946bdb1ae754746a0de9a74b6acc7deefe7c313b67e994b60e3fb8"
+         },
+         "file:id:35346061-382c-47b0-a449-315409e35817" : {
+            "name" : "entities-7"
+         },
+         "file:id:38388443-6051-4ba9-ae9d-6d553fecea81" : {
+            "name" : "298_hiraokahigashi_syougakkou.zip",
+            "sha256" : "dc619d44f16f01fee0ba3f2b82e5520aaf03834281348e8af4f4786f98ad949d"
+         },
+         "file:id:444b2140-4eb2-481e-b9c2-8d683709804d" : {
+            "name" : "294_ryouhoku_syougakkou.zip",
+            "sha256" : "7bc6f45a54703c02d56f64cd3ab9c7e57180eab29a112795103665e5e06c6c4c"
+         },
+         "file:id:4dd2d201-fe32-4fd0-8a2d-101535ceda41" : {
+            "name" : "291_higashikanki_syogakkou.zip",
+            "sha256" : "8a4d87bb0110b0cd8b9ecd7722eefc1b30119d4b52b9808e1709bae3b8cd6948"
+         },
+         "file:id:4ff2b8fb-be50-4fed-b6ff-64862769899a" : {
+            "name" : "鳩里小学校.zip",
+            "sha256" : "0711bd47cab3330358f47815a5a8b6b3c66d81a2edc0353153dce2b25562f381"
+         },
+         "file:id:504d23f1-e6f0-4cce-ae8d-3bef0a296018" : {
+            "name" : "entities-24"
+         },
+         "file:id:5b39ae77-e908-486d-ab45-2e4910f56fa4" : {
+            "name" : "_zip",
+            "sha256" : "c99184592b85f859c64b2ef0fbba399676f38323c6b3f2ab059f26dc94943786"
+         },
+         "file:id:624e4914-efae-4467-adf2-dd0572537e9b" : {
+            "name" : "entities-19"
+         },
+         "file:id:65e38f00-74d6-4f3a-8199-b158531e1da9" : {
+            "name" : "entities-9"
+         },
+         "file:id:68c9c2f0-4a4c-405f-83f8-ca1bcd4d9bd4" : {
+            "name" : "entities-17"
+         },
+         "file:id:73316eca-b4c2-4084-bf8b-4eaecb77b4a6" : {
+            "name" : "entities-3"
+         },
+         "file:id:73517984-29b7-485e-a474-eecf765ca2ec" : {
+            "name" : "287_befu_syougakkou.zip",
+            "sha256" : "9f2b1be6f0d2c35996eb43ff24450a0cb57b7ee8e8287f33136a3adc1849d74d"
+         },
+         "file:id:7b8e7858-040c-4431-b11c-acebf2ee5bab" : {
+            "name" : "285_hiraoka_syougakkou.zip",
+            "sha256" : "2d2808c50bf118536cc0304074542ff5e0bec12a361e489872f141da7ccc694e"
+         },
+         "file:id:8203b236-83dd-4f05-bf0f-2f9f77875658" : {
+            "name" : "286_onoe_syougakkou.zip",
+            "sha256" : "95839e91b5bbf997a55d788669bff0006e8e529a83b84223e923b086c2bd21b1"
+         },
+         "file:id:83ffc7f8-3b17-4427-a99a-79282c59a2fb" : {
+            "name" : "293_kawanishi_syougakkou.zip",
+            "sha256" : "7392643498bdbb6f00e80b2a2348a86a0b3cec7f787e5db8b499d35a8e88672f"
+         },
+         "file:id:86a926a2-0ebe-4372-a15e-09c0ffaf10a9" : {
+            "name" : "entities-2"
+         },
+         "file:id:8b2faba9-7925-4f14-83bc-500df8e348b2" : {
+            "name" : "entities-5"
+         },
+         "file:id:98cb797e-4b4c-4395-a059-a9e944d76e39" : {
+            "name" : "296_hamanomiya_syougakkou.zip",
+            "sha256" : "56cf760d6378e5d434d8f1954ddd4e989aecc4bb248e26735710b34af671e9a5"
+         },
+         "file:id:9bc632c8-ae9c-4975-9d98-d127b36dc341" : {
+            "name" : "entities-21"
+         },
+         "file:id:a098e6e2-5b38-4abc-b382-d75545a8d2a3" : {
+            "name" : "300_shikata_syougakkou.zip",
+            "sha256" : "c3a83583908aad15b868b9c776cb91868abf25a6c566194e9618184b80b3b28b"
+         },
+         "file:id:a1898d26-6943-462a-bbf5-23c689c16252" : {
+            "name" : "entities-18"
+         },
+         "file:id:bafb1e4e-97fc-4e46-83d7-b20d6d978095" : {
+            "name" : "entities-15"
+         },
+         "file:id:bf32c4f5-38bf-42e4-90a8-c86b03c6eaa6" : {
+            "name" : "292_nishikanki_syougakkou.zip",
+            "sha256" : "8a617418fda3645909ef29eb854ed99d80507deb5c75722c894b5c8c8bffbd4c"
+         },
+         "file:id:c13b8545-44a7-464e-a965-ab3b09cb5400" : {
+            "name" : "_zip-2",
+            "sha256" : "0fa39cbc735369d8fd22de4e805b3143d48e6beb5ff735bf1e5f2985c6d40194"
+         },
+         "file:id:c4f44bfc-7eb1-4f8c-b8e8-ca7e2ad533c1" : {
+            "name" : "301_shikatahigahi_syougakkou.zip",
+            "sha256" : "8e2eb4474e1f24bbfb0dc50d157d5831892cc21a7575179da1402ddf2bb6a57f"
+         },
+         "file:id:c62c4cc8-d0a7-466b-bf03-41be51cd9f9c" : {
+            "name" : "308_befunishi_syougakkou.zip",
+            "sha256" : "d76de7e35a38bcd6d3ab3d0e925f64bc715b0bf4c9fa52ff1a50e1924b131cce"
+         },
+         "file:id:c69a1e10-19e5-46e2-9b8d-43db7cb054d4" : {
+            "name" : "entities-13"
+         },
+         "file:id:ce85a783-8a15-4811-8f6f-d93ea27a9b61" : {
+            "name" : "entities-28"
+         },
+         "file:id:cee8c44a-3f30-40d6-9866-27f25e505374" : {
+            "name" : "290_kamisou_syougakkou.zip",
+            "sha256" : "feaff88b83595052610e2f6e958845674542429fabd1a34b7e2a9c9c37191f80"
+         },
+         "file:id:d0bcedb4-4b8d-464b-ab26-c33b1df6cc58" : {
+            "name" : "entities-10"
+         },
+         "file:id:d0fdb307-635d-4da1-877c-fabb9d376587" : {
+            "name" : "283_kanno_syougakkou.zip",
+            "sha256" : "3e302927031eef88f19ad77cb2bcdf7a55b4527cbb0a653e16f878c493b73e51"
+         },
+         "file:id:d5de0010-5514-44f1-8320-e4a9f9a23396" : {
+            "name" : "entities-1"
+         },
+         "file:id:d6105d10-bfe9-402f-b572-a8f219755171" : {
+            "name" : "288_yahata_syougakkou.zip",
+            "sha256" : "b6a7c699df247125f0d04d78e70858ea7001657b3613700787ede90ad1cd43cf"
+         },
+         "file:id:dbe859e2-f76a-41ab-9825-cb0801b0fb72" : {
+            "name" : "304_hiraokakita_syougakkou.zip",
+            "sha256" : "b1507d4106462fc46fe42be98387f72ee55e9ad873fbe66d36c14fd578b53ce1"
+         },
+         "file:id:e0910fff-b8be-4f94-b15c-c22f06441d4c" : {
+            "name" : "entities-27"
+         },
+         "file:id:e13ceb21-dfa1-4640-aea8-53672ecdedae" : {
+            "name" : "entities-6"
+         },
+         "file:id:e1aaa09d-04c9-48d4-9187-17f4439d766a" : {
+            "name" : "284_noguchi_syougakkou.zip",
+            "sha256" : "ef1d52325fecefaa7af2d26859cd4b5e57080da4119aba043163d984bd9245e3"
+         },
+         "file:id:e509cd81-b165-4932-8e60-fafc4d6a4b62" : {
+            "name" : "entities-11"
+         },
+         "file:id:e663b3d8-213e-484b-8a34-160aaf37d985" : {
+            "name" : "_zip-1",
+            "sha256" : "f08f206fda82bf43c550088f96fe7640a5bdd3b6978f4a5ca20820ad77a664d1"
+         },
+         "file:id:e775525e-f4d5-4db5-bcf4-f17b3653b525" : {
+            "name" : "entities-25"
+         },
+         "file:id:e9a67c75-30bd-4cda-8ebb-cbe65350e4ce" : {
+            "name" : "306_higashikankiminami_syougakkou.zip",
+            "sha256" : "f97a3708132c635388ab80fb54a8d01f2db8ffd3ca3f35f2b0068e51a42f0fa0"
+         },
+         "file:id:ea16d5b7-6fe3-47f8-a263-52b7cd6c00d1" : {
+            "name" : "entities-12"
+         },
+         "file:id:f0d60960-96a9-40a0-8422-4c0d260218c3" : {
+            "name" : "280_syougakkouku_matome.zip",
+            "sha256" : "d0e8a405fe19690a85a6d3257d6648bf4259071949004f50ef9f58a47a6788a3"
+         },
+         "file:id:f4476234-0457-4d3d-9665-707a0d0cea3b" : {
+            "name" : "299_noguchikita_syougakkou.zip",
+            "sha256" : "a2ba47fd2d7f16adc20677a46168bdff8a8cd39641daff6c6bfc54d215707da8"
+         },
+         "file:id:f4b5fa5a-1b24-4b8d-9c4e-ba5f9f18db00" : {
+            "name" : "295_hiraokaminami_syougakkou.zip",
+            "sha256" : "8e0bba5cdb48400bbb14966001a070a022126ffad83407febcf59ce3bca685eb"
+         },
+         "file:id:f4d58dc5-8e51-4c7c-bdee-908aa00f51e9" : {
+            "name" : "305_noguchiminami_syougakkou.zip",
+            "sha256" : "7e24f0baf98012511fb312933b3c928895c6ea68cbdcbaa4337fdda4a0931b0e"
+         },
+         "meta:activity.html" : {
+            "sha256" : "22dfdd869b63183354a59ffba12e815457791ff8b55ed75719929a0275fde2d8"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "81daaee16543ea1e377ac7f3a809485606464b3c3c0eee1f4c5b788c2cce1b7e"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/schoolmap"
+   },
+   "type" : "packref"
+}

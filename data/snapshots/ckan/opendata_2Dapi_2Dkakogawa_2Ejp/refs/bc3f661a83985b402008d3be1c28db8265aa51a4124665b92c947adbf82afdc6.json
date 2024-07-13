@@ -1,0 +1,24 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:84651155-c70e-45a7-90b0-b58a3c2e2e89" : {
+         },
+         "file:id:a9fb0f80-ba8c-4109-8c1a-58059899741f" : {
+            "name" : "65_tiikihoukatushiencenter.csv",
+            "sha256" : "3d5bad854017733e0a174b00a5ce562224f5a5283bd2df44f7384dc19d7173d4"
+         },
+         "meta:activity.html" : {
+            "sha256" : "761d9cf6c50ebc67508f1eececa997938d93c847f1581d0a9b7e8ead062a8d42"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "8bff65e380b63ff367cf10efb553ab652e036549a85dbf04061dd2a53567fd2a"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/supportcenter"
+   },
+   "type" : "packref"
+}

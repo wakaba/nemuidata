@@ -1,0 +1,169 @@
+{
+   "files" : {
+      "file:id:1f3d38af-26f1-4213-95c8-60c0317aab75" : {
+         "desc" : "",
+         "file_name" : "062103_polling_place.xlsx",
+         "length" : 16069,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "6e7951138639bf5152235dd05594b4f8e740dc9273de9d110cac6885250d62d1",
+         "time" : 1720881066,
+         "title" : "投票所一覧",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/f5b2e3f7-74a4-4312-a4c4-7008f8c128a0/resource/1f3d38af-26f1-4213-95c8-60c0317aab75/download/062103_polling_place.xlsx"
+      },
+      "file:id:4d8092c2-77f2-48de-b570-255f04b9bb0b" : {
+         "desc" : "",
+         "file_name" : "062103_polling_place.csv",
+         "length" : 4846,
+         "mime" : "text/csv",
+         "sha256" : "29e1ba1ffc40b746a091411c0decae5884f7785f134dab22b10db82356554a87",
+         "time" : 1720881067,
+         "title" : "投票所一覧",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/f5b2e3f7-74a4-4312-a4c4-7008f8c128a0/resource/4d8092c2-77f2-48de-b570-255f04b9bb0b/download/062103_polling_place.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 27043,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "79d0571944b019a64b100f8c7658a042d0a1850536c037ba11f6e9f123c4e6c0",
+         "time" : 1720881069,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.tendo.yamagata.jp/dataset/activity/polling_place"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 3770,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "4132de5560547dd42b89663e191e7d45205222271e3fc8112b02b4bd1d8fc5ac",
+         "time" : 1632852440.58854,
+         "title" : "投票所一覧",
+         "type" : "meta",
+         "url" : "https://data.city.tendo.yamagata.jp/api/action/package_show?id=polling_place"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "天童市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "投票所一覧",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.tendo.yamagata.jp/dataset/polling_place"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.tendo.yamagata.jp/api/action/package_show?id=polling_place",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "天童市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示4.0 国際 （https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示4.0 国際 （https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "投票所一覧",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.tendo.yamagata.jp/dataset/polling_place"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.tendo.yamagata.jp/about",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.tendo.yamagata.jp",
+            "label" : "天童市オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.tendo.yamagata.jp/about",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 51728,
+   "mirrorzip" : {
+      "length" : 29027,
+      "set" : "free",
+      "sha256" : "97b105de0e6f4d0bb1e3e0ac8dc22e4a7dadac89096a875f475410d67b472cc8"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://data.city.tendo.yamagata.jp/api/action/package_show?id=polling_place",
+      "desc" : "投票所の一覧。",
+      "org" : "天童市",
+      "page_url" : "https://data.city.tendo.yamagata.jp/dataset/polling_place",
+      "tags" : [
+         "天童市",
+         "行財政",
+         "位置情報",
+         "選挙"
+      ],
+      "time" : 1632852440.58854,
+      "title" : "投票所一覧"
+   }
+}

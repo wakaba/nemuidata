@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:0816c2e2-6e75-4b9c-8030-9ae9cec5b223" : {
+            "name" : "062103_tourism.csv",
+            "sha256" : "859f952ffbf7bb00f4c84441d276f7f36f463478e34ab02bd0ab472fbb27a450"
+         },
+         "file:id:b57feb00-49ff-4b67-a695-d8cee8a0194a" : {
+            "name" : "062103_tourism.xlsx",
+            "sha256" : "b8bc287fea9346f669c986e8675c2760e45fafdd179fba1b771c04bd4c45221f"
+         },
+         "meta:activity.html" : {
+            "sha256" : "8ecece2027999004fb94e776134db354a66478c0fe9e79e6c8615eb933df50e3"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "18931234fe60480166cd28667d5eb2060553687e049dc48d88994ca861917c54"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.tendo.yamagata.jp/dataset/tourism"
+   },
+   "type" : "packref"
+}
