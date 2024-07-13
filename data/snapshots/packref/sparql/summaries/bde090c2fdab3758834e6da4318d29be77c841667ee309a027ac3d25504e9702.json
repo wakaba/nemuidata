@@ -1,0 +1,170 @@
+{
+   "files" : {
+      "file:r:sparql" : {
+         "desc" : "",
+         "set_expanded" : true,
+         "set_type" : "sparql",
+         "title" : "",
+         "type" : "dataset"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 572,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "c708b3eab86e2916de85ee08b6ab877f7dfb3f474f27642a41f08dcc9297ef20",
+         "time" : 1720845886,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/sparql/sparql-data.yafjp.org.json"
+      },
+      "part:sparql[file:r:sparql]:0" : {
+         "desc" : "",
+         "length" : 53240,
+         "mime" : "text/html; charset=UTF-8",
+         "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541",
+         "time" : 1720845888,
+         "title" : "",
+         "type" : "part",
+         "url" : "https://p.yafjp.org/6588/"
+      },
+      "part:sparql[file:r:sparql]:1" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:2" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:3" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:4" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:5" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:6" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:7" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:8" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:9" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:a" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:b" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:c" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:d" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:e" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      },
+      "part:sparql[file:r:sparql]:f" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "part"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "packref",
+            "source_url" : "https://artnavi.yokohama/lod/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 53812,
+   "mirrorzip" : {
+      "length" : 13736,
+      "set" : "nonfree",
+      "sha256" : "cbae845b176cb22aabf3ce3d60f19b7190584301b290523217048465cf5044ef"
+   },
+   "package" : {
+      "author" : "ヨコハマ・アート・LOD プロジェクト",
+      "desc" : "",
+      "org" : "公益財団法人横浜市芸術文化振興財団",
+      "tags" : [
+         "ヨコハマ・アート・LOD プロジェクト",
+         "公益財団法人横浜市芸術文化振興財団"
+      ],
+      "time" : 1720845888,
+      "title" : "ヨコハマ・アート・LOD Endpoint"
+   }
+}

@@ -1,0 +1,65 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:sparql" : {
+         },
+         "meta:packref.json" : {
+            "sha256" : "c708b3eab86e2916de85ee08b6ab877f7dfb3f474f27642a41f08dcc9297ef20"
+         },
+         "package" : {
+         },
+         "part:sparql[file:r:sparql]:0" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:1" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:2" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:3" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:4" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:5" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:6" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:7" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:8" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:9" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:a" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:b" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:c" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:d" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:e" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         },
+         "part:sparql[file:r:sparql]:f" : {
+            "sha256" : "17afdf7e25d37705f8952be4255e1c502f9d3afb2f896099e9342f4e6d58c541"
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/sparql/sparql-data.yafjp.org.json"
+   },
+   "type" : "packref"
+}
