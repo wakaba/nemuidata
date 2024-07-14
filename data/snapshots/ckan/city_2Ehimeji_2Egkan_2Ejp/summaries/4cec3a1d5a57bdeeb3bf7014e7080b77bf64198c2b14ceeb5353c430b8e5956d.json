@@ -1,0 +1,255 @@
+{
+   "files" : {
+      "file:id:c991c730-0a32-436b-8444-61e4653db75e" : {
+         "desc" : "",
+         "file_name" : "282014_barrierfree.geojson",
+         "length" : 127198,
+         "mime" : "application/geo\u002Bjson",
+         "sha256" : "70349882ff167714d5410edec6f37285740cc82f321cf2bc6023d63b89fe0dc7",
+         "time" : 1720952568,
+         "title" : "姫路市施設のバリアフリー情報",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/1f97fdbb-6c3d-4758-8e2c-88b9eba64a5e/resource/c991c730-0a32-436b-8444-61e4653db75e/download/282014_barrierfree.geojson"
+      },
+      "file:id:e1383136-71f7-45d3-b4b6-a7bc4bc82413" : {
+         "desc" : "",
+         "file_name" : "282014_barrierfree.csv",
+         "length" : 102588,
+         "mime" : "text/csv",
+         "sha256" : "9fdb89dfeb2faa44b704bb46ba0616d98c993e44ad911fb92ce1c72ba6111c84",
+         "time" : 1720952568,
+         "title" : "姫路市施設のバリアフリー情報",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/1f97fdbb-6c3d-4758-8e2c-88b9eba64a5e/resource/e1383136-71f7-45d3-b4b6-a7bc4bc82413/download/282014_barrierfree.csv"
+      },
+      "file:id:f41b540c-d32f-4d28-b0b9-c5d1e5d56401" : {
+         "desc" : "",
+         "file_name" : "282014_barrierfree.xlsx",
+         "length" : 49282,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "55ac204b17dbae1a77485512943624dab324822a03e66c03019afd5504bfec20",
+         "time" : 1720952567,
+         "title" : "姫路市施設のバリアフリー情報",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/1f97fdbb-6c3d-4758-8e2c-88b9eba64a5e/resource/f41b540c-d32f-4d28-b0b9-c5d1e5d56401/download/282014_barrierfree.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 18407,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a8c8ba2e45a9f57ae122f44c14c110c47294b3c20912a00fcc9ea3f174dc1585",
+         "time" : 1720952567,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/barrierfree"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5125,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "09dae3aa5910b8e35b332de6e00a4850ea1c3b372d75f4474a36e0312f8435ad",
+         "time" : 1710729323.33142,
+         "title" : "姫路市施設のバリアフリー情報",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=barrierfree"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル戦略室統計解析室 (姫路市デジタル戦略本部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "姫路市施設のバリアフリー情報",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/barrierfree"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=barrierfree",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市施設のバリアフリー情報",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/barrierfree"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市施設のバリアフリー情報",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/barrierfree"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市施設のバリアフリー情報",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/barrierfree"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 302600,
+   "mirrorzip" : {
+      "length" : 83151,
+      "set" : "free",
+      "sha256" : "e8e6e120cb2b77c6df466ab0263b7fa2ef15c5d8b83e4ea0f382b4c72274e802"
+   },
+   "package" : {
+      "author" : "デジタル戦略室統計解析室",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=barrierfree",
+      "desc" : "姫路市の主な施設のバリアフリー整備状況の一覧です。",
+      "org" : "姫路市デジタル戦略本部",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/barrierfree",
+      "tags" : [
+         "デジタル戦略室統計解析室",
+         "姫路市デジタル戦略本部",
+         "くらし",
+         "姫路市",
+         "バリアフリー"
+      ],
+      "time" : 1710729323.33142,
+      "title" : "姫路市施設のバリアフリー情報"
+   }
+}

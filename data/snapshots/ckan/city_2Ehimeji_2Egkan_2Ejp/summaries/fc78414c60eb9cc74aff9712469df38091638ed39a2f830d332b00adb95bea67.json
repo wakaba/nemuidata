@@ -1,0 +1,585 @@
+{
+   "files" : {
+      "file:id:0050d528-7bcb-445b-8c2f-ca1e498d46e1" : {
+         "desc" : "",
+         "file_name" : "K18.zip",
+         "length" : 133398554,
+         "mime" : "application/zip",
+         "sha256" : "44d8833a46a620c341ea5eaa901ca52c8325aace1635889a7677a3ed19687a85",
+         "time" : 1720952317,
+         "title" : "K18.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/0050d528-7bcb-445b-8c2f-ca1e498d46e1/download/k18.zip"
+      },
+      "file:id:049eaaf1-fff9-424f-b897-147ccd440a68" : {
+         "desc" : "",
+         "file_name" : "K5.zip",
+         "length" : 48724711,
+         "mime" : "application/zip",
+         "sha256" : "9e12b763e5b518645bca735edf7a7d45c3faffbc528cdfc92da69eb8cc19f556",
+         "time" : 1720952021,
+         "title" : "K5.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/049eaaf1-fff9-424f-b897-147ccd440a68/download/k5.zip"
+      },
+      "file:id:04aef705-235e-4c48-9ce5-e383e3a87a42" : {
+         "desc" : "",
+         "file_name" : "K21.zip",
+         "length" : 43603529,
+         "mime" : "application/zip",
+         "sha256" : "2e3157f2b23d5146c9caa3385b16c650b79d11026f7f389e60e388255071cf59",
+         "time" : 1720952390,
+         "title" : "K21.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/04aef705-235e-4c48-9ce5-e383e3a87a42/download/k21.zip"
+      },
+      "file:id:0edef092-f64f-468b-9799-054fbd86bad6" : {
+         "desc" : "",
+         "file_name" : "K29.zip",
+         "length" : 35590471,
+         "mime" : "application/zip",
+         "sha256" : "d8a21271dec4dc88b4aa3d5c4bbe7e8b69339966803916bf153337e5f31a549a",
+         "time" : 1720952476,
+         "title" : "K29.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/0edef092-f64f-468b-9799-054fbd86bad6/download/k29.zip"
+      },
+      "file:id:1a74131b-2fe7-4640-b665-ea692f51f20a" : {
+         "desc" : "",
+         "file_name" : "K14.zip",
+         "length" : 140327457,
+         "mime" : "application/zip",
+         "sha256" : "20a87dc87eaf183c05b08a8f7aa060c70f0d6053cdff2cb4dfc94189378a0ab1",
+         "time" : 1720952237,
+         "title" : "K14.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/1a74131b-2fe7-4640-b665-ea692f51f20a/download/k14.zip"
+      },
+      "file:id:1e673b10-73dc-4257-bbdf-5ea141927442" : {
+         "desc" : "",
+         "file_name" : "K31.zip",
+         "length" : 1950076,
+         "mime" : "application/zip",
+         "sha256" : "84d2cb4a8b6d76e9fe67672e9b89fe38b3d2424b1fa152972d1112efc8f0d715",
+         "time" : 1720952489,
+         "title" : "K31.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/1e673b10-73dc-4257-bbdf-5ea141927442/download/k31.zip"
+      },
+      "file:id:27bcca6f-f6a4-4839-93da-f0b5ffc36846" : {
+         "desc" : "",
+         "file_name" : "K2.zip",
+         "length" : 5153750,
+         "mime" : "application/zip",
+         "sha256" : "c24c457db420d19323b9690f1bda3b5f7711c58790d7e33dd654417c94874d2d",
+         "time" : 1720952017,
+         "title" : "K2.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/27bcca6f-f6a4-4839-93da-f0b5ffc36846/download/k2.zip"
+      },
+      "file:id:29eb6003-e1d3-47e0-94fc-88a60bd13dc1" : {
+         "desc" : "",
+         "file_name" : "K28.zip",
+         "length" : 739189,
+         "mime" : "application/zip",
+         "sha256" : "fc3a9ef1a1182ca93031acca9fc9d2cdce6f3bc7799f22fa8b79eb962817af37",
+         "time" : 1720952475,
+         "title" : "K28.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/29eb6003-e1d3-47e0-94fc-88a60bd13dc1/download/k28.zip"
+      },
+      "file:id:37100946-12c0-4b9d-a1f2-69457d7a17da" : {
+         "desc" : "",
+         "file_name" : "K9.zip",
+         "length" : 51657674,
+         "mime" : "application/zip",
+         "sha256" : "b025e574032afab65ef69e78b7647ff1c79018c5d66e157ba047004d31c5ba79",
+         "time" : 1720952048,
+         "title" : "K9.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/37100946-12c0-4b9d-a1f2-69457d7a17da/download/k9.zip"
+      },
+      "file:id:38896391-2411-45dc-9d08-b86d1b76653e" : {
+         "desc" : "",
+         "file_name" : "K8.zip",
+         "length" : 43514016,
+         "mime" : "application/zip",
+         "sha256" : "beea8c3ae1fb33269b23a9e90282280a7981241da7359e66ff65785a50e244ae",
+         "time" : 1720952038,
+         "title" : "K8.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/38896391-2411-45dc-9d08-b86d1b76653e/download/k8.zip"
+      },
+      "file:id:4c3fc2da-bd72-4997-9282-e09c230d7131" : {
+         "desc" : "",
+         "file_name" : "K26.zip",
+         "length" : 67664744,
+         "mime" : "application/zip",
+         "sha256" : "2b579e0d56e0e82c58ccc920314fe81b3aee71c70df383063988071dbba72c35",
+         "time" : 1720952457,
+         "title" : "K26.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/4c3fc2da-bd72-4997-9282-e09c230d7131/download/k26.zip"
+      },
+      "file:id:536057dd-3288-453f-8a44-d1d22ac15194" : {
+         "desc" : "",
+         "file_name" : "K24.zip",
+         "length" : 2859532,
+         "mime" : "application/zip",
+         "sha256" : "c180605b6a22d6bf99864b3ea6366abeefd5e4063d2ae72bdc87f62070ac18af",
+         "time" : 1720952449,
+         "title" : "K24.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/536057dd-3288-453f-8a44-d1d22ac15194/download/k24.zip"
+      },
+      "file:id:638957d4-e530-428e-8a4e-78f5da7d2740" : {
+         "desc" : "",
+         "file_name" : "K20.zip",
+         "length" : 42609741,
+         "mime" : "application/zip",
+         "sha256" : "5b6ab90bc0eb4bb700da89739986537c514f52d15cd2f94c534e1aaeb8b5a8cb",
+         "time" : 1720952381,
+         "title" : "K20.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/638957d4-e530-428e-8a4e-78f5da7d2740/download/k20.zip"
+      },
+      "file:id:6ff00307-cb44-4cb4-be6d-b4562fff7555" : {
+         "desc" : "",
+         "file_name" : "K3.zip",
+         "length" : 6322525,
+         "mime" : "application/zip",
+         "sha256" : "dc6a61179ffeef4fcd09275553c148fd4ddba71fccd30dff2c67d6bf5c4990a5",
+         "time" : 1720952019,
+         "title" : "K3.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/6ff00307-cb44-4cb4-be6d-b4562fff7555/download/k3.zip"
+      },
+      "file:id:714587d3-e8fb-45d0-a9aa-9d674980b3e9" : {
+         "desc" : "",
+         "file_name" : "K25.zip",
+         "length" : 30261315,
+         "mime" : "application/zip",
+         "sha256" : "391d43e74eb2cc57ea5accb467024492fe3df3b5d3cb7200ac47607fb076262e",
+         "time" : 1720952450,
+         "title" : "K25.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/714587d3-e8fb-45d0-a9aa-9d674980b3e9/download/k25.zip"
+      },
+      "file:id:7f44bda6-0af8-4b39-8ff6-e8b78e9ad7e9" : {
+         "desc" : "",
+         "file_name" : "K6.zip",
+         "length" : 36023901,
+         "mime" : "application/zip",
+         "sha256" : "f74291d70afbf6a7246c51bf46a5523e74fe54da42e75136a05a95d327c343db",
+         "time" : 1720952031,
+         "title" : "K6.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/7f44bda6-0af8-4b39-8ff6-e8b78e9ad7e9/download/k6.zip"
+      },
+      "file:id:82f7e92c-356a-4e0f-b3ce-228ecce60e82" : {
+         "desc" : "",
+         "file_name" : "K13.zip",
+         "length" : 36126115,
+         "mime" : "application/zip",
+         "sha256" : "962c332078c290d96fa3bf6898be4747cb3d20690d5a2caebc84a5d26fcfa4b2",
+         "time" : 1720952229,
+         "title" : "K13.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/82f7e92c-356a-4e0f-b3ce-228ecce60e82/download/k13.zip"
+      },
+      "file:id:88339cb3-5e05-4fe0-9824-2b5b126f59aa" : {
+         "desc" : "",
+         "file_name" : "K11.zip",
+         "length" : 98432759,
+         "mime" : "application/zip",
+         "sha256" : "7ed7f1a122bb8800d88859971dc406be21a734612956e1a631c32ce06600c4e1",
+         "time" : 1720952204,
+         "title" : "K11.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/88339cb3-5e05-4fe0-9824-2b5b126f59aa/download/k11.zip"
+      },
+      "file:id:961453b3-6c26-489e-b1e8-3e2f6cd44eab" : {
+         "desc" : "",
+         "file_name" : "K22.zip",
+         "length" : 100950829,
+         "mime" : "application/zip",
+         "sha256" : "697f7c5ab414b00b892fbedbb9ace81699784d6b3bedf220126beb45ffed3d09",
+         "time" : 1720952400,
+         "title" : "K22.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/961453b3-6c26-489e-b1e8-3e2f6cd44eab/download/k22.zip"
+      },
+      "file:id:9ae0863f-073c-4389-98e7-df82ecb842a5" : {
+         "desc" : "",
+         "file_name" : "K17.zip",
+         "length" : 17859740,
+         "mime" : "application/zip",
+         "sha256" : "c651233d872af7ac956d793890940e3db473b608e9eacb473c7f1dd3163ae7ad",
+         "time" : 1720952313,
+         "title" : "K17.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/9ae0863f-073c-4389-98e7-df82ecb842a5/download/k17.zip"
+      },
+      "file:id:a8987297-d224-47b6-9b4d-c925e2b8d76c" : {
+         "desc" : "",
+         "file_name" : "K7.zip",
+         "length" : 135227244,
+         "mime" : "application/zip",
+         "sha256" : "3b3e991a8583c84eb1699262c75f965fd801940df84fda5773f0a8d953e3922c",
+         "time" : 1720952120,
+         "title" : "K7.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/a8987297-d224-47b6-9b4d-c925e2b8d76c/download/k7.zip"
+      },
+      "file:id:b321a64c-b38f-4c65-963c-a41634826400" : {
+         "desc" : "",
+         "file_name" : "K19.zip",
+         "length" : 145047145,
+         "mime" : "application/zip",
+         "sha256" : "2ff87fb83e8d13430a87b821f8f2177d7896398efb3e5561563ab47bc6e6ab67",
+         "time" : 1720952347,
+         "title" : "K19.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/b321a64c-b38f-4c65-963c-a41634826400/download/k19.zip"
+      },
+      "file:id:bf6323bd-75a7-412d-a90e-fa8e4685b2ff" : {
+         "desc" : "",
+         "file_name" : "K10.zip",
+         "length" : 141271541,
+         "mime" : "application/zip",
+         "sha256" : "56f7cf2cc62626d4a96d754ee7d5982f24f940962dfbf9923c5312251139ffa6",
+         "time" : 1720952172,
+         "title" : "K10.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/bf6323bd-75a7-412d-a90e-fa8e4685b2ff/download/k10.zip"
+      },
+      "file:id:cc13deff-ab97-4dad-8365-1ec66f2cd1f4" : {
+         "desc" : "",
+         "file_name" : "K16.zip",
+         "length" : 51873731,
+         "mime" : "application/zip",
+         "sha256" : "e1717edc0cef012bd51dc14ec55680c8d681b42cad3880af941d0745dfbc9a4a",
+         "time" : 1720952301,
+         "title" : "K16.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/cc13deff-ab97-4dad-8365-1ec66f2cd1f4/download/k16.zip"
+      },
+      "file:id:ccfbfadc-f325-405b-b0c5-bb9d5685db33" : {
+         "desc" : "",
+         "file_name" : "K15.zip",
+         "length" : 141500666,
+         "mime" : "application/zip",
+         "sha256" : "7e905a8092cb9aae6dfb27d149187894a9f00e9033e73c21500e8368401841b2",
+         "time" : 1720952269,
+         "title" : "K15.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/ccfbfadc-f325-405b-b0c5-bb9d5685db33/download/k15.zip"
+      },
+      "file:id:d7ec45c1-5c6a-4d80-9ba7-afc6ff06bdc0" : {
+         "desc" : "",
+         "file_name" : "sakuin_k.pdf",
+         "length" : 10079094,
+         "mime" : "application/pdf",
+         "sha256" : "e7a7e76e05fb215e0b89b33b7d0788590b400a32dff61b5c29fe71cf37dea036",
+         "time" : 1720952008,
+         "title" : "sakuin_k.pdf",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/d7ec45c1-5c6a-4d80-9ba7-afc6ff06bdc0/download/sakuin_k.pdf"
+      },
+      "file:id:da313763-e7e7-45f8-9b33-a49dd3c06ce5" : {
+         "desc" : "",
+         "file_name" : "K1.zip",
+         "length" : 27933550,
+         "mime" : "application/zip",
+         "sha256" : "ad6d083afea9c5d6889785d697c3af488e3fba78b9c5769a3706a1d43854481b",
+         "time" : 1720952011,
+         "title" : "K1.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/da313763-e7e7-45f8-9b33-a49dd3c06ce5/download/k1.zip"
+      },
+      "file:id:e4dd06e1-0122-481c-9778-e075f1fcde66" : {
+         "desc" : "",
+         "file_name" : "K27.zip",
+         "length" : 9128169,
+         "mime" : "application/zip",
+         "sha256" : "f782dfc09e0a25edb627f7d5e6d335401e318209338ec5929c3b42c0aa2ddf09",
+         "time" : 1720952472,
+         "title" : "K27.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/e4dd06e1-0122-481c-9778-e075f1fcde66/download/k27.zip"
+      },
+      "file:id:e7b6cb0c-ed7f-4d8d-abc2-4b7bb7f43274" : {
+         "desc" : "",
+         "file_name" : "K30.zip",
+         "length" : 14198604,
+         "mime" : "application/zip",
+         "sha256" : "7781055c36acde720e6e4b2880e836d4357d1172d6deb7dbd5620254d8509bcf",
+         "time" : 1720952485,
+         "title" : "K30.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/e7b6cb0c-ed7f-4d8d-abc2-4b7bb7f43274/download/k30.zip"
+      },
+      "file:id:e9ba499d-0ef1-407e-b892-3925aa96581d" : {
+         "desc" : "",
+         "file_name" : "K4.zip",
+         "length" : 128513060,
+         "mime" : "application/zip",
+         "sha256" : "1b4e4132793dc790e4c051de355e39000543ac51155f0e3901fa636e353962dd",
+         "time" : 1720952073,
+         "title" : "K4.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/e9ba499d-0ef1-407e-b892-3925aa96581d/download/k4.zip"
+      },
+      "file:id:f11096e0-529c-4bee-9d79-5c96416d8550" : {
+         "desc" : "",
+         "file_name" : "K12.zip",
+         "length" : 6865086,
+         "mime" : "application/zip",
+         "sha256" : "31755f72768e3249d37e51284c60035cd9381adb5cdf97313a6cc0642e7a35de",
+         "time" : 1720952226,
+         "title" : "K12.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/f11096e0-529c-4bee-9d79-5c96416d8550/download/k12.zip"
+      },
+      "file:id:fe8a47b0-2695-431f-a9f6-3aca01c03d41" : {
+         "desc" : "",
+         "file_name" : "K23.zip",
+         "length" : 112931246,
+         "mime" : "application/zip",
+         "sha256" : "d808330de2edaa46321780162e6814ac41e9de637b3438e9033101c208c20df4",
+         "time" : 1720952423,
+         "title" : "K23.zip",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/28a60376-564a-406c-a903-11bc248fee86/resource/fe8a47b0-2695-431f-a9f6-3aca01c03d41/download/k23.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15572,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c1c2821044c5815e4e1a4b6c74ed758c80d729933bf1724e68abed92edc4ee98",
+         "time" : 1720952008,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/k1000"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 26459,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "bb4f8f6cc58899c85f2b3b04e7728b71ef141292591bbdc8c7d57289d368bb16",
+         "time" : 1696204712.32739,
+         "title" : "姫路市空中写真（デジタルオルソ画像）レベル1000",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=k1000"
+      }
+   },
+   "legal" : {
+      "is_free" : "non-free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "工事技術検査室 (姫路市財政局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "姫路市空中写真（デジタルオルソ画像）レベル1000",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/k1000"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=k1000",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://elaws.e-gov.go.jp/document?lawid=324AC0000000188",
+            "is_free" : "non-free",
+            "key" : "-ddsd-jp-sokuryouhou",
+            "label" : "日本国昭和二十四年法律第百八十八号『測量法』 (測量成果関係)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=k1000",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市空中写真（デジタルオルソ画像）レベル1000",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/k1000"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市空中写真（デジタルオルソ画像）レベル1000",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/k1000"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市空中写真（デジタルオルソ画像）レベル1000",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/k1000"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 1868381795,
+   "mirrorzip" : {
+      "length" : 1868477430,
+      "set" : "nonfree",
+      "sha256" : "ce027454b17f48b51ab1b76c9b686b3df5d03607f949d024bb7105cb26edfe38"
+   },
+   "package" : {
+      "author" : "工事技術検査室",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=k1000",
+      "desc" : "",
+      "org" : "姫路市財政局",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/k1000",
+      "tags" : [
+         "工事技術検査室",
+         "姫路市財政局",
+         "姫路市",
+         "地図情報"
+      ],
+      "time" : 1696204712.32739,
+      "title" : "姫路市空中写真（デジタルオルソ画像）レベル1000"
+   }
+}

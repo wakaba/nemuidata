@@ -1,0 +1,254 @@
+{
+   "files" : {
+      "file:id:4b014a48-d082-49ec-9b43-dab47ad2ba50" : {
+         "desc" : "",
+         "file_name" : "282014tennyukengai20220930.csv",
+         "length" : 9427,
+         "mime" : "text/csv",
+         "sha256" : "dbe59eb1cbb56de39f947edc1f18c76d5c448e9a5ea773170a3e955f49eeada7",
+         "time" : 1720952603,
+         "title" : "年齢（５歳階級）別の県外からの転入者数（令和３年１０月から令和４年９月までの合計）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e8d08d98-a246-4f81-a24a-74d2136e69ec/resource/4b014a48-d082-49ec-9b43-dab47ad2ba50/download/282014tennyukengai20220930.csv"
+      },
+      "file:id:753baac3-42da-42e5-8222-3adde4892291" : {
+         "desc" : "",
+         "file_name" : "282014tennyu5kengai20230930-.csv",
+         "length" : 9371,
+         "mime" : "text/csv",
+         "sha256" : "688fc0c1f88894084edddb9ad0cb923b004b2ce84dbd695cbe6c982bb6d1bf51",
+         "time" : 1720952602,
+         "title" : "年齢（５歳階級）別の県外からの転入者数（令和４年１０月から令和５年９月までの合計）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e8d08d98-a246-4f81-a24a-74d2136e69ec/resource/753baac3-42da-42e5-8222-3adde4892291/download/282014tennyu5kengai20230930-.csv"
+      },
+      "file:id:e5decba2-237f-40f4-80df-181a8466a337" : {
+         "desc" : "",
+         "file_name" : "282014tennyu5kengai20210930.csv",
+         "length" : 9355,
+         "mime" : "text/csv",
+         "sha256" : "bc619cb7a4177ce1429a628dc251165d5e766a1cfa2cd81069215c8ea40a7240",
+         "time" : 1720952603,
+         "title" : "年齢（５歳階級）別の県外からの転入者数（令和２年１０月から令和３年９月までの合計）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e8d08d98-a246-4f81-a24a-74d2136e69ec/resource/e5decba2-237f-40f4-80df-181a8466a337/download/282014tennyu5kengai20210930.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 27896,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "01231257c1c278a4674c324fa0fa6e96ac1a0f43ae850f83c5056145485edfc4",
+         "time" : 1720952602,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/kengaitennyu5"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5248,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "a8ff8eac48c5be50af19b45a99d1c9f8a3f023040d2961110564404034b1c157",
+         "time" : 1697265219.74026,
+         "title" : "年齢（５歳階級）別の県外からの転入者数（年間）",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=kengaitennyu5"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル情報室統計解析室 (姫路市デジタル戦略本部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "年齢（５歳階級）別の県外からの転入者数（年間）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/kengaitennyu5"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=kengaitennyu5",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "年齢（５歳階級）別の県外からの転入者数（年間）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/kengaitennyu5"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "年齢（５歳階級）別の県外からの転入者数（年間）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/kengaitennyu5"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "年齢（５歳階級）別の県外からの転入者数（年間）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/kengaitennyu5"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 61297,
+   "mirrorzip" : {
+      "length" : 24611,
+      "set" : "free",
+      "sha256" : "a6eb3b8cdae2fc12f1d923eea5c341fa1a47833a5daa209b4e236e9c8bd0e517"
+   },
+   "package" : {
+      "author" : "デジタル情報室統計解析室",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=kengaitennyu5",
+      "desc" : "住民基本台帳法に基づき、１年間の年齢（５歳階級）別の県外からの転入者数を集計したものです。",
+      "org" : "姫路市デジタル戦略本部",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/kengaitennyu5",
+      "tags" : [
+         "デジタル情報室統計解析室",
+         "姫路市デジタル戦略本部",
+         "姫路市",
+         "統計"
+      ],
+      "time" : 1697265219.74026,
+      "title" : "年齢（５歳階級）別の県外からの転入者数（年間）"
+   }
+}

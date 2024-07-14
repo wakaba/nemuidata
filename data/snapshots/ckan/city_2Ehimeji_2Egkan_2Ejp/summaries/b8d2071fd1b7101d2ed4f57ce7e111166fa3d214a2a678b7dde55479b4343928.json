@@ -1,0 +1,251 @@
+{
+   "files" : {
+      "file:id:5d00b218-03f4-4265-861d-21e9c6d6c2bc" : {
+         "desc" : "高砂市では、食品ロス削減を目的に「たかさご食べきり運動」を推進しており、食品ロスの削減に取り組む飲食店を募集・紹介しています。\u000D\u000A詳細は市ホームページに掲載しています。\u000D\u000Ahttps://www.city.takasago.lg.jp/soshikikarasagasu/ecocleanpia/gomi/gomi2/1_1/1872.html",
+         "file_name" : "takasago_tabekiriundoukyouryokutenitiran.csv",
+         "length" : 5839,
+         "mime" : "text/csv",
+         "sha256" : "75d5a77eb40c9c73f9349d9434e21ee48906c0defd9f34e6062fd531ebe2dade",
+         "time" : 1720952595,
+         "title" : "食べきり運動協力店一覧",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/ca24d362-196d-4f47-9617-948b9992247e/resource/5d00b218-03f4-4265-861d-21e9c6d6c2bc/download/takasago_tabekiriundoukyouryokutenitiran.csv"
+      },
+      "file:id:88cc4f9a-4152-40f0-9d41-b958271b3361" : {
+         "desc" : "市では新たなリサイクルの取り組み及び適正処理などを目的として、平成28年10月1日から市役所本庁や各地区公民館、市内協力店に専用の回収ボックスを設置し、使用済小型電子機器、蛍光管、水銀体温計・水銀血圧計、廃乾電池・ボタン電池などの拠点回収を実施しています。\u000D\u000A詳細は市ホームページに掲載しています。\u000D\u000Ahttps://www.city.takasago.lg.jp/soshikikarasagasu/ecocleanpia/gomi/gomi1/1/3066.html",
+         "file_name" : "kyotenkaishubokkususettibasho_kaishuhinmokuitiran.csv",
+         "length" : 4304,
+         "mime" : "text/csv",
+         "sha256" : "6d281264ae98a553a13b1e86a320a0085c906395bfc20d1745f522e701e367db",
+         "time" : 1720952595,
+         "title" : "拠点回収ボックス設置場所及び回収品目一覧",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/ca24d362-196d-4f47-9617-948b9992247e/resource/88cc4f9a-4152-40f0-9d41-b958271b3361/download/kyotenkaishubokkususettibasho_kaishuhinmokuitiran.csv"
+      },
+      "file:id:8cd23426-0d9c-466b-b059-4e1273c6c9f3" : {
+         "desc" : "2022年度版の「ごみ収集日程表」と「家庭ごみの分け方・出し方」は、地域の自治会のご協力により、2021年12月中に各家庭に配布しています。\u000D\u000A市役所本庁舎正面玄関受付や各市民サービスコーナー・市民コーナー窓口でも配布しています。\u000D\u000A※エコクリーンピアはりまの稼働に合わせて、2022年2月から一部変更していますので、ご確認ください。\u000D\u000A詳細は市ホームページに掲載しています。\u000D\u000Ahttps://www.city.takasago.lg.jp/soshikikarasagasu/ecocleanpia/gomi/gomi1/1/3062.html",
+         "file_name" : "20220830.csv",
+         "length" : 99129,
+         "mime" : "text/csv",
+         "sha256" : "6d1c5af3c91031465f64c08b2436f16bd9a2b8a988912f37d6e6862cb4b72d27",
+         "time" : 1720952594,
+         "title" : "ごみの分け方出し方一覧",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/ca24d362-196d-4f47-9617-948b9992247e/resource/8cd23426-0d9c-466b-b059-4e1273c6c9f3/download/20220830.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 20461,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "8d2743f723c3509b0a4817106641ca9f3b513aca022e7cfee292ba821b8c6a4a",
+         "time" : 1720952594,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/kankyou"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 7176,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "4bb024fcf79eb81e72b3f91cd194fef747b286896d42dd39565168d6f2a41796",
+         "time" : 1705880682.95268,
+         "title" : "環境関連【エコクリーンピアはりま】",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=kankyou"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "高砂市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "環境関連【エコクリーンピアはりま】",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/kankyou"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=kankyou",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "環境関連【エコクリーンピアはりま】",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/kankyou"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "環境関連【エコクリーンピアはりま】",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/kankyou"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "環境関連【エコクリーンピアはりま】",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/kankyou"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 136909,
+   "mirrorzip" : {
+      "length" : 40198,
+      "set" : "free",
+      "sha256" : "594117b4b509625bced1cecec12070d260f28b9c984b8788720d877488b401fc"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=kankyou",
+      "desc" : "高砂市の環境関連のデータセット一覧です。\u000D\u000A",
+      "org" : "高砂市",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/kankyou",
+      "tags" : [
+         "高砂市"
+      ],
+      "time" : 1705880682.95268,
+      "title" : "環境関連【エコクリーンピアはりま】"
+   }
+}

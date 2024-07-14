@@ -1,0 +1,256 @@
+{
+   "files" : {
+      "file:id:7bad4253-ae40-4139-9714-de00cfced590" : {
+         "desc" : "",
+         "file_name" : "282014_siju.csv-1",
+         "length" : 12870,
+         "mime" : "text/csv",
+         "sha256" : "cebdc93d7e8d129eac0a743660c5e91e60ff48a98c2de10f665b49032ee1b10b",
+         "time" : 1720952558,
+         "title" : "市営住宅一覧",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/cab9ad62-c883-4628-bfab-2a6d8194be35/resource/7bad4253-ae40-4139-9714-de00cfced590/download/282014_siju.csv"
+      },
+      "file:id:7bccfeca-8656-4615-8458-898729a73333" : {
+         "desc" : "",
+         "file_name" : "282014_siju.csv.geojson",
+         "length" : 44012,
+         "mime" : "application/geo\u002Bjson",
+         "sha256" : "dd73e3156659fce9809dd1ff580d2345f9d687f5ed38139a0311435b25cbaec1",
+         "time" : 1720952558,
+         "title" : "市営住宅一覧",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/cab9ad62-c883-4628-bfab-2a6d8194be35/resource/7bccfeca-8656-4615-8458-898729a73333/download/282014_siju.csv.geojson"
+      },
+      "file:id:a548a8a8-012a-4c3f-be10-0b0d9b8edb09" : {
+         "desc" : "",
+         "file_name" : "282014_siju.csv-2",
+         "length" : 12870,
+         "mime" : "text/csv",
+         "sha256" : "cebdc93d7e8d129eac0a743660c5e91e60ff48a98c2de10f665b49032ee1b10b",
+         "time" : 1720952558,
+         "title" : "市営住宅一覧",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/cab9ad62-c883-4628-bfab-2a6d8194be35/resource/a548a8a8-012a-4c3f-be10-0b0d9b8edb09/download/282014_siju.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15156,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e73c68fa2239593f544445179d1a4fcd52d503b80acadd4675d7bc2c137b8afc",
+         "time" : 1720952557,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/siju"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4901,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "ad05e60dd2d4c9e91fec98f0044fd582064eb80ac324863451728ff8550d92af",
+         "time" : 1709512284.47327,
+         "title" : "市営住宅一覧",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=siju"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "住宅課 (姫路市都市局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "市営住宅一覧",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/siju"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=siju",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "市営住宅一覧",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/siju"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "市営住宅一覧",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/siju"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "市営住宅一覧",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/siju"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 89809,
+   "mirrorzip" : {
+      "length" : 27939,
+      "set" : "free",
+      "sha256" : "66237da4bb3f203bfcb485e5c860b35452c65a29047bab95945978bd368dbf8d"
+   },
+   "package" : {
+      "author" : "住宅課",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=siju",
+      "desc" : "姫路市営住宅の一覧です。",
+      "org" : "姫路市都市局",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/siju",
+      "tags" : [
+         "住宅課",
+         "姫路市都市局",
+         "姫路市",
+         "都市計画・交通",
+         "市住",
+         "市営住宅"
+      ],
+      "time" : 1709512284.47327,
+      "title" : "市営住宅一覧"
+   }
+}

@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:4fb625c1-ecdb-497b-a441-49ef3b9ecc59" : {
+            "name" : "282014tosyokan.xlsx",
+            "sha256" : "54fde4f0c4505ed99df83eafc7bdf8d599b9887b48726e92a1f9e31516c09e12"
+         },
+         "file:id:a106e64f-2795-412e-8d42-ad46bbbc671a" : {
+            "name" : "282014tosyokan.geojson",
+            "sha256" : "876dc10c9e006c59a07567e6d3396ef535da5d4dd91a8034bd7bb5c1593fca1a"
+         },
+         "file:id:d85cd635-b2bd-48c8-aed5-c81f97678513" : {
+            "name" : "282014tosyokan.csv",
+            "sha256" : "8fd303a07c2d55a39f06923d922d748ddb8b3a699b20d9306522b736d7d9b7b2"
+         },
+         "meta:activity.html" : {
+            "sha256" : "41782df9e8cda4c74966d5882c4402b23bcb4f0785cd45ff5307812b3156e77f"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "7f5c0a4ce482c96106920828f5e2fd7791ed53776c0ade978f485f3e2a7b0caf"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://city.himeji.gkan.jp/gkan/dataset/tosyokan"
+   },
+   "type" : "packref"
+}

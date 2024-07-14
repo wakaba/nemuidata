@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:7bad4253-ae40-4139-9714-de00cfced590" : {
+            "name" : "282014_siju.csv-1",
+            "sha256" : "cebdc93d7e8d129eac0a743660c5e91e60ff48a98c2de10f665b49032ee1b10b"
+         },
+         "file:id:7bccfeca-8656-4615-8458-898729a73333" : {
+            "name" : "282014_siju.csv.geojson",
+            "sha256" : "dd73e3156659fce9809dd1ff580d2345f9d687f5ed38139a0311435b25cbaec1"
+         },
+         "file:id:a548a8a8-012a-4c3f-be10-0b0d9b8edb09" : {
+            "name" : "282014_siju.csv-2",
+            "sha256" : "cebdc93d7e8d129eac0a743660c5e91e60ff48a98c2de10f665b49032ee1b10b"
+         },
+         "meta:activity.html" : {
+            "sha256" : "e73c68fa2239593f544445179d1a4fcd52d503b80acadd4675d7bc2c137b8afc"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "ad05e60dd2d4c9e91fec98f0044fd582064eb80ac324863451728ff8550d92af"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://city.himeji.gkan.jp/gkan/dataset/siju"
+   },
+   "type" : "packref"
+}
