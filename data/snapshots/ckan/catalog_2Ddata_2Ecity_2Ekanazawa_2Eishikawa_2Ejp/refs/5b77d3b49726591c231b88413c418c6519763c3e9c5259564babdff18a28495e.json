@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:fc1ecb9d-a328-4413-b3a9-0eda9e233873" : {
+            "name" : "1",
+            "skip" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "c24a37e05a2372f15bc1f366910ccfbf20c75577d0a289d6ef063a0c62d11a16"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "ee4a27cc615bb8a08b8789faeb344dce4d3f7a47becab7cb7af90713d334611d"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-fire_hydrant_yonemaru"
+   },
+   "type" : "packref"
+}

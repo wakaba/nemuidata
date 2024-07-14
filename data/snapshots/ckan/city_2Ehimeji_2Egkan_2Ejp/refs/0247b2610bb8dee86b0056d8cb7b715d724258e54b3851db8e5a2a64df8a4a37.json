@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:3648a784-9f97-4cbc-8dcb-bdb953ddbbf9" : {
+            "name" : "282014_bosaimusen.geojson",
+            "sha256" : "1a65f65fe8400045d103fc7395bfdc405232d17ae10c75fc975d8de98746e0d0"
+         },
+         "file:id:c576d366-45be-4f0a-a200-fc09c4073566" : {
+            "name" : "282014_bosaimusen.xlsx",
+            "sha256" : "ecc30828a374d6e0c3e3fefad5fd0d44425a3763cd720186f454e4c09eabd6cf"
+         },
+         "file:id:cd03af4f-92b7-4607-9ece-f514d33dbfc3" : {
+            "name" : "282014_bosaimusen.csv",
+            "sha256" : "3386ed0c5f4799cefa662d6d360f970fe9f4f92c1283b74b5c57e61413fcb7ab"
+         },
+         "meta:activity.html" : {
+            "sha256" : "55f1dc9958444f2adb625c27a58891d63abd633527fa0d02bb74e57706f20814"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "b6eec1b93ee9a67e591d3b0e4c160d6f34ce6c5394d1c8b8d9e9f25d3092eaa2"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://city.himeji.gkan.jp/gkan/dataset/bosaigyoseimusen"
+   },
+   "type" : "packref"
+}

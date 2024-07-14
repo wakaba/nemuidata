@@ -1,0 +1,157 @@
+{
+   "files" : {
+      "file:id:6c640fea-a5a9-4490-82b0-04c9e9e4e4c0" : {
+         "desc" : "",
+         "file_name" : "t020200.xlsx",
+         "length" : 112218,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "0fc7953fac3f9e11f318f4c9b413f139999565167ca43044db27d8b7294cef4a",
+         "time" : 1720951560,
+         "title" : "市の毎月の人口・世帯数の推移",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/jinko/maitsuki/suii.files/t020200.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 18659,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "b1b53a15ade7b6ad8fbc6432bfb98b63fb404cb679e2a60ae9e469f78ec86d78",
+         "time" : 1720951558,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/seisaku_suii"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2556,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "485ea48c43dc83a4bc96eba7c66b9cef9e427c349b7436d6ee18e885d354118d",
+         "time" : 1720141487.03857,
+         "title" : "毎月の人口の推移（推計人口による）",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_suii"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "統計情報課 (政策経営局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "毎月の人口の推移（推計人口による）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_suii"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_suii",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "毎月の人口の推移（推計人口による）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_suii"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 133433,
+   "mirrorzip" : {
+      "length" : 93677,
+      "set" : "free",
+      "sha256" : "839c7e6d8ba589937fd20cfaf6bebf90a42ac6211fa8f1febb44af6789be64dc"
+   },
+   "package" : {
+      "author" : "統計情報課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_suii",
+      "desc" : "",
+      "org" : "政策経営局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_suii",
+      "tags" : [
+         "統計情報課",
+         "政策経営局",
+         "市政"
+      ],
+      "time" : 1720141487.03857,
+      "title" : "毎月の人口の推移（推計人口による）"
+   }
+}

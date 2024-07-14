@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:933aeae7-1dcf-4068-8af2-4e3c9ce3b53a" : {
+            "name" : "1",
+            "skip" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "b576b06b33fe9e7228b4ad448bbb1cf25a0e68b2863b5cdb11eb9df7fc6bc90d"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "21d3e66862d61ca1696799084e8ea474a54e2b43631ef3ebd5e3a3862c48618a"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172120-aed"
+   },
+   "type" : "packref"
+}

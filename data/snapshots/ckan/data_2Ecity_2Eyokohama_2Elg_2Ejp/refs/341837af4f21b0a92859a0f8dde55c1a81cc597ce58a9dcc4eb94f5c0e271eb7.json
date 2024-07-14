@@ -1,0 +1,66 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:26839341-391b-424d-aa91-6906f6767b44" : {
+            "name" : "g200703.xlsx",
+            "sha256" : "1e264dc50deee2db6224941dd899856354939ac42bb7a6b593bca7088e5ea974"
+         },
+         "file:id:2adbeabc-1fe9-452e-ad9d-97da0a337904" : {
+            "name" : "g200705.xlsx",
+            "sha256" : "1da3b808e5d969ceffd0b7293762c4f34aa74683220199939f22817c3b5c5323"
+         },
+         "file:id:3c712f9a-0502-44b5-b6a2-d3602b95cbb1" : {
+            "name" : "g200710.xlsx",
+            "sha256" : "9fd5b7d62c13fa402cacef733337c1ad4a247993629c381fffc1c5e5b41b10b7"
+         },
+         "file:id:62331832-56a7-46d6-beb8-676c68f26024" : {
+            "name" : "g200701.xlsx",
+            "sha256" : "e21173647b8ea68d8135fc93a3e566bc6ed530a4a45d4a79de7cc1077c8c265c"
+         },
+         "file:id:9102c7bf-ae42-4a65-989d-b9db2b40468b" : {
+            "name" : "g200709.xlsx",
+            "sha256" : "e0a3a2b7f7b8d561210a0fc677626a0046f3156fc8e2fe42634960312601ff0c"
+         },
+         "file:id:99739c07-c76f-4b3a-8166-bc02631edf06" : {
+            "name" : "g200712.xlsx",
+            "sha256" : "72388665b2bca589dd7c559c1f558aec753a0e2bc765093ead90e17cc10557e1"
+         },
+         "file:id:a7ca4e94-2cd2-4a9a-8387-67bdc37d4800" : {
+            "name" : "g200706.xlsx",
+            "sha256" : "48289f144c6fd30ab7549e4643269bcd7a75c11a82abb50d050e90e2a6fe8a24"
+         },
+         "file:id:b4166a73-d4be-401d-b2ea-302a0425bca2" : {
+            "name" : "g200702.xlsx",
+            "sha256" : "523e5b7583398697dd0dbc48fc23782ca9a2aa3a8b59fe49b59594b6429578d0"
+         },
+         "file:id:bf7deeb2-69db-4146-8844-537e8b76ee72" : {
+            "name" : "g200711.xlsx",
+            "sha256" : "b4c6b55f8b3d3f921fd22c6bb667613c7d632cd6d335afefc4439ebeea7403eb"
+         },
+         "file:id:cd35527c-571f-49f3-ba32-c17390bac0c0" : {
+            "name" : "g200707.xlsx",
+            "sha256" : "7c698b7b1e050c1f8d138fcd9c2db0e7e583cbe0b4c6294dfa29a75d7642e5a2"
+         },
+         "file:id:e2860711-cf19-4fde-b844-4b82951f2820" : {
+            "name" : "g200704.xlsx",
+            "sha256" : "feb377fd4dfbf499ba77de438f6c42b7401b9c652fa8d350e401e6b52190a53c"
+         },
+         "file:id:e66dbdf2-b8fe-4a34-904c-9a9c28cedc1b" : {
+            "name" : "g200708.xlsx",
+            "sha256" : "4cb98a68ed04afa6878ee26d591e1bbab1dd0bdcc2cb75e9129c74977fb6cd28"
+         },
+         "meta:activity.html" : {
+            "sha256" : "07433a7c0ecac55c869b6eaa35c2a3d2c2598df70a5f15baf4a99bae9eec83ac"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "ae561a701e47efc1269075b878d1445387d5681ed3f260a3c3bab74e6037522a"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_h19gaikokujin"
+   },
+   "type" : "packref"
+}

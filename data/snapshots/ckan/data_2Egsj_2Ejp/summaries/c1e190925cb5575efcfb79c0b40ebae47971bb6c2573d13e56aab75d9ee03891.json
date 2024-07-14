@@ -1,0 +1,217 @@
+{
+   "files" : {
+      "file:id:0ace71b4-5912-4c24-a3cc-b00a2147a683" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "G50_13_014kure.json",
+         "length" : 730,
+         "mime" : "application/json",
+         "sha256" : "060e6b5bccbc315b478189795880893c92fed5a7dfc34537050db37c952b1e39",
+         "time" : 1720951095,
+         "title" : "5万分の1地質図幅「呉」: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/G50_13_014kure.json"
+      },
+      "file:id:0ec85a9d-be0d-4609-ad97-bcea9d6a68d1" : {
+         "desc" : "GeoTIFF: ファイルサイズは 32.48 MB です。",
+         "file_name" : "GSJ_MAP_G050_13014_1985.zip",
+         "length" : 34059728,
+         "mime" : "application/zip",
+         "sha256" : "376be5a4857c3f11065f64d1d50d0b2dcf141a0c8a19fcbff9ecce16aa41f57f",
+         "time" : 1720951100,
+         "title" : "5万分の1地質図幅「呉」: GeoTIFF",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/50KGM/GTF/GSJ_MAP_G050_13014_1985.zip"
+      },
+      "file:id:30ad12e5-3168-4f85-b095-6c9c686fb379" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G50_13_014kure/{z}/{x}/{y}  \u000A**BBOX:** 132.4974577,34.1685806,132.7474675,34.3366133",
+         "file_name" : "none256.png",
+         "length" : 116,
+         "mime" : "image/png",
+         "sha256" : "4ad0abbce68c56543b4547a294ff3610ca3354bb6929951212bba4428c32c11b",
+         "time" : 1720951110,
+         "title" : "5万分の1地質図幅「呉」: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/img/none256.png"
+      },
+      "file:id:48c9d826-7527-41bc-8e4f-e6be882496a8" : {
+         "desc" : "出版物画像: ファイルサイズは 3.58 MB です。",
+         "file_name" : "GSJ_MAP_G050_13014_1985_200dpi.jpg",
+         "length" : 3758374,
+         "mime" : "image/jpeg",
+         "sha256" : "884f1fc1c937386820d9763e4137bdcbe905f318ee5d641f71efed0bf209459e",
+         "time" : 1720951099,
+         "title" : "5万分の1地質図幅「呉」: 出版物画像",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/50KGM/JPG/GSJ_MAP_G050_13014_1985_200dpi.jpg"
+      },
+      "file:id:afb88a68-ab05-4e9b-abb4-ccb0ea601219" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map640.json",
+         "length" : 6773,
+         "mime" : "application/json",
+         "sha256" : "80da66fda21f0b332c2a2491dd506bcb9870da2ee8cfff2aa00846368bb76a58",
+         "time" : 1720951094,
+         "title" : "5万分の1地質図幅「呉」: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/g050/map640.json"
+      },
+      "file:id:d3dfc5e7-fbad-4273-88fb-7618301e678c" : {
+         "desc" : "説明書: ファイルサイズは 3.56 MB です。",
+         "file_name" : "GSJ_MAP_G050_13014_1985_D.pdf",
+         "length" : 3732677,
+         "mime" : "application/pdf",
+         "sha256" : "4d140d8cc88b7ffed40a9f2c01c3292dae8bb13c8c4ba76db3733625eeaa9b23",
+         "time" : 1720951097,
+         "title" : "5万分の1地質図幅「呉」: 説明書",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/50KGM/PDF/GSJ_MAP_G050_13014_1985_D.pdf"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 34714,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "44745f5a1c83b8d47724e820cc770190d2edf8ea7601f5972d8aefe8c40c0ae5",
+         "time" : 1720951094,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_640"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 9547,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "57300c9d9085bf7539bf37db57a317a1bc53a6fbfd60107019ec73d76becb8c0",
+         "time" : 1702452417.30848,
+         "title" : "5万分の1地質図幅「呉」 (1985)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_640"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_640",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "5万分の1地質図幅「呉」 (1985)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_640"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "5万分の1地質図幅「呉」 (1985)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_640"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 41602659,
+   "mirrorzip" : {
+      "length" : 41301485,
+      "set" : "free",
+      "sha256" : "7bdd371775524ec65c92207a9ed4d6d402c9e1f48cb018866a2255d88c69474b"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_640",
+      "desc" : "**名称**: 5万分の1地質図幅「呉」 / Geology of the Kure District  \u000A**著者**: 東元 定雄, 松浦 浩久, 水野 清秀, 河田 清雄 / HIGASHIMOTO Sadao, MATSUURA Hirohisa, MIZUNO Kiyohide, KAWADA Kiyoo  \u000A**発行年**: 1985  \u000A**シリーズ**: 地域地質研究報告（5万分の1地質図幅） / Quadrangle Series, Scale 1:50,000  \u000A**発行者**: 地質調査所 / Geological Survey of Japan  \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/g050/map640](https://gbank.gsj.jp/ld/resource/publication/map/g050/map640)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_640",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "1/5万地質図幅",
+         "1985",
+         "5万分の1",
+         "地質図",
+         "高知"
+      ],
+      "time" : 1702452417.30848,
+      "title" : "5万分の1地質図幅「呉」 (1985)"
+   }
+}

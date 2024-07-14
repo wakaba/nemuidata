@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:43d32e94-898f-4042-ade5-78d5265e12f9" : {
+            "name" : "0018_20240208.csv",
+            "sha256" : "fa8937cdb56e65895864f04eeddcc89dc40dbfeb377657de524768aed7cf176a"
+         },
+         "file:id:941bf982-34f2-43bf-b82b-6ba3270d59c0" : {
+            "name" : "0019_20240208.xlsx",
+            "sha256" : "7a5debae0c73992408eb55156c26cdf4df1e8bc3e31811458462f9464270e064"
+         },
+         "meta:activity.html" : {
+            "sha256" : "eddab25cab054144f77e8de183175b4dd7e9b7d935eb42610c6b3b55ed236887"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "cbb131de39b3a3a237a970f58fa0ae1b120885a703264b6722e67a8fbfcd4b73"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.yokohama.lg.jp/dataset/tsuzuki_opendate8"
+   },
+   "type" : "packref"
+}

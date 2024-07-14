@@ -1,0 +1,110 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:0ac900d0-4e77-4515-ac27-5bb2e04b9009" : {
+            "name" : "282014chojinko520220630.csv",
+            "sha256" : "e72793efe723fd0e84553d70c071b7f1c55fd4a2c0a6dac599ecaab1276c4b2a"
+         },
+         "file:id:22246bf1-dae8-487e-a42c-bb215e64fcaf" : {
+            "name" : "282014chojinko520210630.csv",
+            "sha256" : "679c00fba1a930a79961d2cc2d431d35230745c97eb9ae8b11bddd640ea8309f"
+         },
+         "file:id:3449f710-cf64-4a97-922f-92f2b8d780be" : {
+            "name" : "28201chojinko520180930.csv",
+            "sha256" : "a48c2b7f73a344480d657d0ab40d529ded4dea06560d2d2dffc20c52d4995e28"
+         },
+         "file:id:48ff2a49-9c8b-4890-bab9-f016e9aa8cd1" : {
+            "name" : "520231231.csv",
+            "sha256" : "379d36a16094c6efb9af6ecb18b9a1ac85fec7c6f6cdd71d2d84cb9abc7e2e48"
+         },
+         "file:id:543d724a-e3d4-40ae-b26f-60846fbedc43" : {
+            "name" : "282014chojinko520201231.csv",
+            "sha256" : "8147c67c1e4bc0cb780f50c6ff64fcc753e68cc4fec42e1b353590aca1ac2e76"
+         },
+         "file:id:55971462-22b9-42d5-9459-1bd427de9d7c" : {
+            "name" : "28201chojinko520190930.csv",
+            "sha256" : "61764a265e371b41685a9fd62fae8187347793967b946820c9bcf5e0f8b3d82f"
+         },
+         "file:id:5799a84b-bdfa-408b-8b4c-654d6e45bc31" : {
+            "name" : "282014tyobetu5jinko20230930.csv",
+            "sha256" : "7aa065b535d9cabf15a5a159e33d9fe2268935b15515bbf888f01f359a0bda17"
+         },
+         "file:id:5dc54438-9043-4886-aadc-5c7a26ef0c84" : {
+            "name" : "282014chojinko520211231.csv",
+            "sha256" : "d7f69c3b05d55f9b12e82aba98e166f90d48b838a1d20d81e7892ccd877d6bf6"
+         },
+         "file:id:5eed71c1-ccc2-432f-b9d4-39d232ea5f99" : {
+            "name" : "282014chojinko520200630.csv",
+            "sha256" : "d578bf319bf286048ec4962093ab4ad022987a096a3c0b2f7c1ee6405d1e7fca"
+         },
+         "file:id:7261f5b3-9f32-40ec-89eb-d233705a9bb9" : {
+            "name" : "282014chojinko520200930.csv",
+            "sha256" : "44562ce91a35960e0fa651301d928db48875c8a1ae48aa52e62ad583cf4ab267"
+         },
+         "file:id:773c2d4a-3ec8-415c-b179-d9930d169fb9" : {
+            "name" : "282014chojinko520200331.csv",
+            "sha256" : "1c89641c15a78e1fdd9b39e70847555f453faa572ddf19d6ced6625387092e68"
+         },
+         "file:id:78996686-852a-4b76-a191-7ac1ea00d193" : {
+            "name" : "28201chojinko520191231.csv",
+            "sha256" : "a295fe16e8826b3c11abedbe37ad3ced4db38e9e10d278f9e4e84ed1711d0644"
+         },
+         "file:id:7c6ae80b-3481-4f5d-a28e-960ab4e62933" : {
+            "name" : "28201chojinko520181231.csv",
+            "sha256" : "a14ba92743cf15fccc896660f86c58e2628d56d2584d739cccb047020da53e70"
+         },
+         "file:id:923a6751-5f8a-4be4-8f1b-313f018f516d" : {
+            "name" : "282014chojinko520210331.csv",
+            "sha256" : "72ee8e6435ff7bc9d822dba7fb802889f49e501cd975a5bda7f09f959d1fa870"
+         },
+         "file:id:b07d48ef-c451-4f75-b329-ccc1d3d8890a" : {
+            "name" : "chojinko520210930.csv",
+            "sha256" : "348ce65865a3d169b24571550227dd31559d20081533fa94661f6c5c8291a949"
+         },
+         "file:id:c1cef595-1c12-4cb2-8d74-2c6df084a9f1" : {
+            "name" : "282014tyobetu5jinko20220930.csv",
+            "sha256" : "bf5cea0ecd5bac3c18eb7fde0f90e1591220915243515e4631c65744865e6751"
+         },
+         "file:id:c43f09d4-6541-4c7c-ae9a-11bc51f8d061" : {
+            "name" : "282014tyobetu5jinko20230331.csv",
+            "sha256" : "6b46eeb5749b9a5fb151ce4062dff345eba2f749884736a67cd33a92f34681c5"
+         },
+         "file:id:d3b181be-725c-4e2f-ba57-6d809f38810d" : {
+            "name" : "282014chojinko5yyyymmdd.csv",
+            "sha256" : "dcab9e8e1dd451a215a196d579fd36e57ffeb912c9d171142ae19cc2473ee20c"
+         },
+         "file:id:d4a3df16-dc75-43b9-9a0c-9e16882b7734" : {
+            "name" : "52024331.csv",
+            "sha256" : "c9b374e89c366a923c8418d5433edbe779ed1be75ce873aa910d751cd30adf30"
+         },
+         "file:id:e1ee5e96-1b6e-449a-a8b8-673c3e0844c6" : {
+            "name" : "28201chojinko520190331.csv",
+            "sha256" : "7b07afaba5e3e076c865e554b98e43d805e83568d8fdf7191ecaba48519e5855"
+         },
+         "file:id:e224720d-b0d2-4c64-acc4-393ea1368652" : {
+            "name" : "282014tyobetu5saibetujinko20221231.csv",
+            "sha256" : "24f67b2466e8e5c1a3ead13f8833e7ac3b1587281c34fb68c6e765279f3ae02a"
+         },
+         "file:id:e537dd02-d90a-47a8-8a7d-24b5067dec43" : {
+            "name" : "28201chojinko520190630.csv",
+            "sha256" : "4a5500c8a8359aa02c4e95d98dc634afacdbf67d6a31abb728cebbc32b4fcb26"
+         },
+         "file:id:ed1a849e-e332-4247-82ee-177bf5cdb84e" : {
+            "name" : "282014tyobetu5jinko20230630.csv",
+            "sha256" : "cd43cfc164c790d2b34684e0a4e8c7464d927778e4f65fcfd6593789955b784a"
+         },
+         "meta:activity.html" : {
+            "sha256" : "ec2de776ecdc1ea6603c6667a09f1158c837fce49a5f288687ad53bce482e642"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "8770e0d4b40f963b6b0c9efd889f5fb608cad11d5aa2048a7aec85ef4afad1ad"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://city.himeji.gkan.jp/gkan/dataset/choubetsu-5age-jinkou"
+   },
+   "type" : "packref"
+}

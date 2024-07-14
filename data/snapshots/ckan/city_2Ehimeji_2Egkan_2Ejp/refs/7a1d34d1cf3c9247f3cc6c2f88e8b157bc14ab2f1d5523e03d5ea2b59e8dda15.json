@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:24a5a0de-ab42-4fdb-8fd8-abeb64bbc4cc" : {
+            "name" : "282014_yaxtukyokuseizaiseizouhanbai_20240531.xlsx",
+            "sha256" : "41d5c966e4f111279cab52ad7a9714da2206317f4340182b1ae830896e4df746"
+         },
+         "meta:activity.html" : {
+            "sha256" : "7bff7066ad7e8d51662ceb282e170e004d27dc0462d9642a931724690fa8852d"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "3c2dd217a92ff9fcf208f9163e76b5fc3b7a2948a93b9f674bc2749f63c833ca"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://city.himeji.gkan.jp/gkan/dataset/yaxtukyokuseizaiseizouhanbai"
+   },
+   "type" : "packref"
+}

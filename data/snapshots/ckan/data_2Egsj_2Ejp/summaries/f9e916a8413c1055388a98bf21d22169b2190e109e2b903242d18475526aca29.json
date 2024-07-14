@@ -1,0 +1,216 @@
+{
+   "files" : {
+      "file:id:364e29e3-01ea-44be-b034-ac7043f41191" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map784.json",
+         "length" : 4107,
+         "mime" : "application/json",
+         "sha256" : "587b72452211032187f9b64d1fcf0f794dfcd61a6dff4b4de46de1af4bc885c7",
+         "time" : 1720951003,
+         "title" : "20万分の1地質図幅「松江及び大社」: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/g200/map784.json"
+      },
+      "file:id:434ed048-3eeb-4dec-8b33-fcf1da92bbec" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G200_NI53_2531matsue-taisya/{z}/{x}/{y}  \u000A**BBOX:** 132.5806454,35.336429,133.9972556,36.0031362",
+         "file_name" : "none256.png",
+         "length" : 116,
+         "mime" : "image/png",
+         "sha256" : "4ad0abbce68c56543b4547a294ff3610ca3354bb6929951212bba4428c32c11b",
+         "time" : 1720951019,
+         "title" : "20万分の1地質図幅「松江及び大社」: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/img/none256.png"
+      },
+      "file:id:7435fa26-de21-46b5-9b43-631580c35559" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "G200_NI53_2531matsue-taisya.json",
+         "length" : 779,
+         "mime" : "application/json",
+         "sha256" : "d2613f86d30c6f0513b09b47ca5b827b442a1674cf6281bc03909bbfc6995bc6",
+         "time" : 1720951003,
+         "title" : "20万分の1地質図幅「松江及び大社」: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/G200_NI53_2531matsue-taisya.json"
+      },
+      "file:id:bb0b5f99-0931-47d6-a0d7-2d6182e48e2f" : {
+         "desc" : "ラスターデータ: ファイルサイズは 2.98 MB です。",
+         "file_name" : "GSJ_MAP_G200_NI5325_1982_200dpi.jpg",
+         "length" : 3125415,
+         "mime" : "image/jpeg",
+         "sha256" : "5d0bd398a32d2d94f37799592c260f82055f99e7814811be6be941c7bf1c78c2",
+         "time" : 1720951005,
+         "title" : "20万分の1地質図幅「松江及び大社」: ラスターデータ",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/JPG/GSJ_MAP_G200_NI5325_1982_200dpi.jpg"
+      },
+      "file:id:bf21c07d-90c6-4281-81b6-1e313c960a45" : {
+         "desc" : "出版物画像",
+         "file_name" : "gsj_map_784_org_784.jpg",
+         "length" : 2280899,
+         "mime" : "image/jpeg",
+         "sha256" : "5c67786d5d1031ed06a4b6613ef73e4a8155c2c45b35b13ef7dbdc0f1d9799f7",
+         "time" : 1720951015,
+         "title" : "20万分の1地質図幅「松江及び大社」: 出版物画像",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/image/map/gsj_map_784_org_784.jpg"
+      },
+      "file:id:e1fa75e6-de9b-4da6-98a0-8cae9e8d9baa" : {
+         "desc" : "GeoTIFF: ファイルサイズは 35.7 MB です。",
+         "file_name" : "GSJ_MAP_G200_NI5325_1982.zip",
+         "length" : 37433165,
+         "mime" : "application/zip",
+         "sha256" : "959ab096560bbe008e2d135e927f58ec924cb7312bcae9e5ef9722be63a06291",
+         "time" : 1720951007,
+         "title" : "20万分の1地質図幅「松江及び大社」: GeoTIFF",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/GTF/GSJ_MAP_G200_NI5325_1982.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 23736,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "6b106f0a128b8135eb95897798c44c0bbebd6aacc647fc8e5b51b2dfc4364e1d",
+         "time" : 1720951002,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_784"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 9508,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "59838a60a26c7e743a6204ac3c3942d55488c2f2a31ae95b6387c598cedce25c",
+         "time" : 1702452208.08856,
+         "title" : "20万分の1地質図幅「松江及び大社」 (1982)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_784"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_784",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "20万分の1地質図幅「松江及び大社」 (1982)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_784"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "20万分の1地質図幅「松江及び大社」 (1982)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_784"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 42877725,
+   "mirrorzip" : {
+      "length" : 42593250,
+      "set" : "free",
+      "sha256" : "82348f33d1f89e5d9c118240b38dcf1dc6a9cd60af497673351c37b85e6cf8bf"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_784",
+      "desc" : "**名称**: 20万分の1地質図幅「松江及び大社」 / Geological Map, 1:200,000, Matsur and Taisya  \u000A**著者**: 坂本 亨, 山田 直利 / SAKAMOTO Toru, YAMADA Naotoshi  \u000A**発行年**: 1982  \u000A**シリーズ**: 地質図幅，1:200,000 / Geological Map, 1:200,000  \u000A**発行者**: 地質調査所 / Geological Survey of Japan  \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/g200/map784](https://gbank.gsj.jp/ld/resource/publication/map/g200/map784)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_784",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "1/20万地質図幅",
+         "1982",
+         "20万分の1",
+         "地質図"
+      ],
+      "time" : 1702452208.08856,
+      "title" : "20万分の1地質図幅「松江及び大社」 (1982)"
+   }
+}

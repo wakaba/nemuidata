@@ -1,11 +1,17 @@
 {
    "source" : {
       "files" : {
+         "file:r:ckan-catalog_2Ddata_2Ecity_2Ekanazawa_2Eishikawa_2Ejp" : {
+            "url" : "ckan-catalog_2Ddata_2Ecity_2Ekanazawa_2Eishikawa_2Ejp.jsonl"
+         },
          "file:r:ckan-city_2Ehimeji_2Egkan_2Ejp" : {
             "url" : "ckan-city_2Ehimeji_2Egkan_2Ejp.jsonl"
          },
          "file:r:ckan-data_2Ecity_2Etendo_2Eyamagata_2Ejp" : {
             "url" : "ckan-data_2Ecity_2Etendo_2Eyamagata_2Ejp.jsonl"
+         },
+         "file:r:ckan-data_2Ecity_2Eyokohama_2Elg_2Ejp" : {
+            "url" : "ckan-data_2Ecity_2Eyokohama_2Elg_2Ejp.jsonl"
          },
          "file:r:ckan-data_2Egsj_2Ejp" : {
             "url" : "ckan-data_2Egsj_2Ejp.jsonl"

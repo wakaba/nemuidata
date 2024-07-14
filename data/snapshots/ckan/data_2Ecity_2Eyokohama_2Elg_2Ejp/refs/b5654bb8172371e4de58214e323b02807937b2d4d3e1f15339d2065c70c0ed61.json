@@ -1,0 +1,66 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:111fffa3-92c8-4bab-b954-3a4675f59632" : {
+            "name" : "cp1706.xlsx",
+            "sha256" : "19413a476245fabe9619ee232406d55e87a5497988cc80f88bb4273081b3a461"
+         },
+         "file:id:1bc883d0-268e-4e08-82ef-6e01990a2cad" : {
+            "name" : "cp1707.xlsx",
+            "sha256" : "d984bb3db6dbb8b5c942290a44de8ce563f8dd308ce36f9a32d528a1adec6270"
+         },
+         "file:id:1cdbd26e-c876-4f0b-833f-571814258845" : {
+            "name" : "cp1709.xlsx",
+            "sha256" : "59201b20bb942e951d0c5725dfa0e3a6f3276e98f95735520c2c71da9b4839dd"
+         },
+         "file:id:4d8eb8a4-3ffe-418c-bbf9-859b57159823" : {
+            "name" : "cp1711.xlsx",
+            "sha256" : "6fcf3f16e460f731dbeb633dc58234f657e4f788c1716f3a9bb7caa8822d691b"
+         },
+         "file:id:84bad8c5-d68c-406c-a96d-1219ea6f1e0b" : {
+            "name" : "cp1703.xlsx",
+            "sha256" : "c8421dcabd1326eabd8c4f8ce505f856a6cea3b08738622bb09250e78ec98104"
+         },
+         "file:id:8cf4324a-0dcb-483a-b01f-96d8e083d641" : {
+            "name" : "cp1702.xlsx",
+            "sha256" : "412a8ad014b0044d59a0758feb2a44f26d4218b06058760f8f61875ad5817c80"
+         },
+         "file:id:9dc84fb4-b17d-439f-9205-fa13073a54b9" : {
+            "name" : "cp1712.xlsx",
+            "sha256" : "088a63d4abe65209d2b1901e6449b3091533153b2fdb664abc07d928025cb3f4"
+         },
+         "file:id:bf03eee6-c990-40b1-8d7f-e9f9ccc6e91c" : {
+            "name" : "cp1708.xlsx",
+            "sha256" : "58d10cfe74ec79cebd912e3d0827b570dbbfb04bf48763968ed9835808648b2a"
+         },
+         "file:id:cbf7bcea-02f3-45b9-a049-a86ec778b831" : {
+            "name" : "cp1710.xlsx",
+            "sha256" : "72d0243931c200fb17e73da7c8eac3048e378a1316d551293b09b487f6a9400b"
+         },
+         "file:id:cf043119-a2b5-4f00-b079-084454a2cb46" : {
+            "name" : "cp1705.xlsx",
+            "sha256" : "62c62c00ab5affd57bcf70f05161a8e34cce8c98c21813d3e388e6665ba241a2"
+         },
+         "file:id:d1c6b08e-7876-4dc0-b42d-085e1457dd7a" : {
+            "name" : "cp1701.xlsx",
+            "sha256" : "fbfb5514b3f5cd2edc01c2bc4f4628244be7155c8bc4ccb9d3b140da391c80b1"
+         },
+         "file:id:ff058bed-452d-4663-9f03-9268da6fd556" : {
+            "name" : "cp1704.xlsx",
+            "sha256" : "78255f4b07d217c3daecf25ea653b834f9005a66d22d18b434674ffdef4d0cb5"
+         },
+         "meta:activity.html" : {
+            "sha256" : "7ccf7a37cc09958b2547c2192094a2300f34db3cbe949086f642a1b42702a7ed"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "6a25759683eb881f0393826cee85c7406c0c4ce0023ea12ffce44c2207ee9bb5"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_h29cho"
+   },
+   "type" : "packref"
+}

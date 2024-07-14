@@ -1,0 +1,259 @@
+{
+   "files" : {
+      "file:id:0548e01a-2536-4cf6-a465-db73bf1729a5" : {
+         "desc" : "",
+         "file_name" : "28201aed.geojson",
+         "length" : 191727,
+         "mime" : "application/geo\u002Bjson",
+         "sha256" : "815067abcaad141a14a223d4ba5dfd54448802b0f140b21f8cf61712f9f5b0a0",
+         "time" : 1720950947,
+         "title" : "AED設置施設一覧（令和４年度時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/7f895894-3dcb-4b44-9295-2f90d65b3a8d/resource/0548e01a-2536-4cf6-a465-db73bf1729a5/download/28201aed.geojson"
+      },
+      "file:id:a0bb7f80-84c9-481f-abcf-7075692148bc" : {
+         "desc" : "",
+         "file_name" : "28201aed.xlsx",
+         "length" : 52109,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "113f1061c04ce0143a54c24b3f3a7071ca064f5cf35141fd106861161217f634",
+         "time" : 1720950948,
+         "title" : "AED設置施設一覧（令和４年度時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/7f895894-3dcb-4b44-9295-2f90d65b3a8d/resource/a0bb7f80-84c9-481f-abcf-7075692148bc/download/28201aed.xlsx"
+      },
+      "file:id:e8f46416-3fc8-42c8-b765-bc6722c91cb5" : {
+         "desc" : "",
+         "file_name" : "28201aed.csv",
+         "length" : 64448,
+         "mime" : "text/csv",
+         "sha256" : "cd96c696cbb27cc1228f1e5e4a702a8b187b0c9c3c29d09e84cebcaaa67eb5b4",
+         "time" : 1720950947,
+         "title" : "AED設置施設一覧（令和４年度時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/7f895894-3dcb-4b44-9295-2f90d65b3a8d/resource/e8f46416-3fc8-42c8-b765-bc6722c91cb5/download/28201aed.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 44367,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "0e3be7964c774d0fb1ac598ed6373cbf22675c3816e0b4d86c85ac84df8093d5",
+         "time" : 1720950946,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/aed"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5666,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "05efd20fac1ed78b4913b3c2066ae6fc9b0922b551f42abd4eb4aeb0932f592f",
+         "time" : 1683887647.23381,
+         "title" : "AED設置施設一覧",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=aed"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "地域医療課 (姫路市健康福祉局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "AED設置施設一覧",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/aed"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=aed",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "AED設置施設一覧",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/aed"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "AED設置施設一覧",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/aed"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "AED設置施設一覧",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/aed"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 358317,
+   "mirrorzip" : {
+      "length" : 111800,
+      "set" : "free",
+      "sha256" : "eb4d7e440d7920d529c5d796667b00e5f058e74166a780d9919474c1cf55d39e"
+   },
+   "package" : {
+      "author" : "地域医療課",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=aed",
+      "desc" : "AEDが設置されている施設の一覧です。",
+      "org" : "姫路市健康福祉局",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/aed",
+      "tags" : [
+         "地域医療課",
+         "姫路市健康福祉局",
+         "姫路市",
+         "防災・安心・安全",
+         "位置情報",
+         "保険福祉政策",
+         "救急",
+         "施設",
+         "消防"
+      ],
+      "time" : 1683887647.23381,
+      "title" : "AED設置施設一覧"
+   }
+}

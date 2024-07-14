@@ -1,0 +1,66 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:1f932421-b141-4eb7-b72e-430c44d9958d" : {
+            "name" : "1509-j.pdf",
+            "sha256" : "60cece246ac19c676d15c71f9634143e5b695122b0c5a835b67ba2d499382b05"
+         },
+         "file:id:533ce636-7e08-4f8e-95d7-33f7a1981462" : {
+            "name" : "1502-j.pdf",
+            "sha256" : "cf82e0239fecf5eac2a8eb79cb5c01bbe123d91a7e57724f2cc1245294a156e7"
+         },
+         "file:id:5789afc5-a869-4336-8748-fa0ab7f74904" : {
+            "name" : "1507-j.pdf",
+            "sha256" : "1acff3f98c0929568d33cfefcdce07b7caf49a702e0a88ba32592178919c6911"
+         },
+         "file:id:58577a1a-a5fb-48a1-b516-78d8f8a24f60" : {
+            "name" : "1506-j.pdf",
+            "sha256" : "2cddc9f6f97960ee1dbd087158f160a9ccd583529e509bc82f6ecd6d01857429"
+         },
+         "file:id:5fd733a7-c85f-492b-ab2c-81e5056a1f29" : {
+            "name" : "1501-j.pdf",
+            "sha256" : "4573002c4f96e2c041b8d424f93175d9c8830224794cb33eeffb9f4cda26a408"
+         },
+         "file:id:6b238046-aba7-44c6-942b-8036df4de6cf" : {
+            "name" : "1503-j.pdf",
+            "sha256" : "bf3994d913069e315159983c8a33cf79df023246fe7eddde7fd749141d6cbee4"
+         },
+         "file:id:9456833f-dbb1-481d-9b1b-2f9c851cf415" : {
+            "name" : "1510-j.pdf",
+            "sha256" : "6a51dbc371952f031555d439ea3bdea477dbbeeef94d81f6d4f13d77fbc5eb06"
+         },
+         "file:id:af3a8f5f-29ef-49f2-a3c2-5e07aec7da19" : {
+            "name" : "1512-j.pdf",
+            "sha256" : "9aa17255122766972e3aae67a6d77487c1b699cef333a06e9dd4345804f065ab"
+         },
+         "file:id:c8542c97-ff66-4998-9045-7bca8ceb16de" : {
+            "name" : "1504-j.pdf",
+            "sha256" : "6ec0f04d540e6a844e5e2490f71e1ca6825c5fc7c1190fc8e46a4887234a046a"
+         },
+         "file:id:e3246869-4d41-4134-8f89-893c977b1e5a" : {
+            "name" : "1505-j.pdf",
+            "sha256" : "bb3b70886b2c6737cba2855b70be37b95d41d7a2004cd5adc9b24546c1559432"
+         },
+         "file:id:e5796267-729f-414b-822b-5fb84998f034" : {
+            "name" : "1511-j.pdf",
+            "sha256" : "23b305ee164c052202b5554b2f8b06022d96126fff22bea10e61c02f900ed008"
+         },
+         "file:id:fc9851cd-27ff-484e-bdb0-2acc4bf8f1b4" : {
+            "name" : "1508-j.pdf",
+            "sha256" : "ff0a5bbf56cb35d3ce7cac46b3b1af87caabf72d9b0a735992e1b830b5dda182"
+         },
+         "meta:activity.html" : {
+            "sha256" : "73903b32a2a660dbda5ce0b48bb08380beb5f557491c8db41f88bd30d26c1dc0"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "287c9047977f26ef5d35710b5ea525c1738dd12c003d23cb8d847f0031d60d0d"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_h27news"
+   },
+   "type" : "packref"
+}

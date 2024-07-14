@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:14a6dc6c-13df-4ee1-9f3d-a20759005654" : {
+            "name" : "小学校通学区域別人口及び世帯数（令和6年4月1日現在）.csv",
+            "sha256" : "fc10e31af0b891d1c9857ab58c484a2b8d45ff6db44c3d4bb08df022996c68ee"
+         },
+         "file:id:68fb66ab-5a24-4e9a-8788-359578c32681" : {
+            "name" : "小学校通学区域別人口及び世帯数（令和6年6月1日現在）.csv",
+            "sha256" : "28b487b9a0f56e91650f74373e66d4aee43cea4e4af592ba991f74e17559b0cb"
+         },
+         "file:id:b292c780-867f-4602-b4a7-9e65c7edb2f6" : {
+            "name" : "小学校通学区域別人口及び世帯数（令和6年5月1日現在）.csv",
+            "sha256" : "957e01ac90f813f4f1d43537ca3880a1e7c84116fde3bdd7b5495acd9ff17dc0"
+         },
+         "meta:activity.html" : {
+            "sha256" : "324f08ed7b51662347954a5c89f0f5b409d42ebf6feec7c04f99b980a39873f7"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "3e67be1c553d222d5272e1f811e53c771eb77cf115d202ba4d4d1aa728507458"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-kouku_betu-jinkou-setai-r6"
+   },
+   "type" : "packref"
+}

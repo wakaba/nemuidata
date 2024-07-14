@@ -1,0 +1,42 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:7963244d-e6a5-409b-bd54-35056074a82d" : {
+            "name" : "none256.png",
+            "sha256" : "4ad0abbce68c56543b4547a294ff3610ca3354bb6929951212bba4428c32c11b"
+         },
+         "file:id:90312a3b-b370-4844-95dc-0e97d1e715bc" : {
+            "name" : "G50_04_054mukawa.json",
+            "sha256" : "dbb6fb2610dcf3e1a12aee78b6132bc3a8ad605924bea73c824533c0c1b4e63b"
+         },
+         "file:id:9e248724-68d2-44d8-ba89-fd37f29acef7" : {
+            "name" : "GSJ_MAP_G050_04054_1960_200dpi.jpg",
+            "sha256" : "a4046b7ad8384dc8d10cc5714e5ac5fdb861a475b2672721632c1562f0dc5120"
+         },
+         "file:id:bd6e97ba-2fae-421d-850e-1b64070f33d0" : {
+            "name" : "GSJ_MAP_G050_04054_1960.zip",
+            "sha256" : "065d4fdf3f2e95113c1c849cc4a79343ba5fcc87c989c745894a21a913cd90b5"
+         },
+         "file:id:c69147c6-9264-498b-abc3-29860a7e6bc6" : {
+            "name" : "GSJ_MAP_G050_04054_1960_D.pdf",
+            "sha256" : "ae23c1d3ce82eb1750b07dff6c0c8a44793dab7c2a8562d54ba07a03198146bc"
+         },
+         "file:id:ce443713-cd6a-4b3c-bde1-c8f155256791" : {
+            "name" : "map303.json",
+            "sha256" : "f943b53e50ef7c3f447d56fccfa64a8a7fbc9b7d4c0888f1d3db579dabd0432d"
+         },
+         "meta:activity.html" : {
+            "sha256" : "00c984cdbab9d1ef37083d1edced282e8be8bf79c9bc7d81e03bb618a7bb5d40"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "c11f6408781634a10549e8c0f66ff32295499375ec86ccb46b21ede8d1208235"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_303"
+   },
+   "type" : "packref"
+}

@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:6c640fea-a5a9-4490-82b0-04c9e9e4e4c0" : {
+            "name" : "t020200.xlsx",
+            "sha256" : "0fc7953fac3f9e11f318f4c9b413f139999565167ca43044db27d8b7294cef4a"
+         },
+         "meta:activity.html" : {
+            "sha256" : "b1b53a15ade7b6ad8fbc6432bfb98b63fb404cb679e2a60ae9e469f78ec86d78"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "485ea48c43dc83a4bc96eba7c66b9cef9e427c349b7436d6ee18e885d354118d"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_suii"
+   },
+   "type" : "packref"
+}

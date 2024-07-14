@@ -1,0 +1,205 @@
+{
+   "files" : {
+      "file:id:1bdbdaf4-f978-4533-99c9-0800757bf570" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G200_NI53_13miyazu/{z}/{x}/{y}  \u000A**BBOX:** 134.997078,35.3364826,135.9972736,36.0031473",
+         "file_name" : "none256.png",
+         "length" : 116,
+         "mime" : "image/png",
+         "sha256" : "4ad0abbce68c56543b4547a294ff3610ca3354bb6929951212bba4428c32c11b",
+         "time" : 1720951041,
+         "title" : "20万分の1地質図幅「宮津」: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/img/none256.png"
+      },
+      "file:id:a532dc45-568d-4b1c-8269-ed84324af2b2" : {
+         "desc" : "出版物画像: ファイルサイズは 2.62 MB です。",
+         "file_name" : "GSJ_MAP_G200_NI5313_1968_200dpi.jpg",
+         "length" : 2742381,
+         "mime" : "image/jpeg",
+         "sha256" : "ca8dae334b61d46157915c5b65b0417d1a9bd490b632e4d54fb2486cf0fe7e76",
+         "time" : 1720951031,
+         "title" : "20万分の1地質図幅「宮津」: 出版物画像",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/JPG/GSJ_MAP_G200_NI5313_1968_200dpi.jpg"
+      },
+      "file:id:b4af4c19-1a8d-439c-a5f1-7ebc9aa4a0ac" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "G200_NI53_13miyazu.json",
+         "length" : 740,
+         "mime" : "application/json",
+         "sha256" : "285813b77bfdf34507750d9fa16228c3316a662f9b8c35f970c434f22f134396",
+         "time" : 1720951029,
+         "title" : "20万分の1地質図幅「宮津」: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/G200_NI53_13miyazu.json"
+      },
+      "file:id:ccb3401b-090f-492a-9f23-f0efb431bf1c" : {
+         "desc" : "GeoTIFF: ファイルサイズは 30.1 MB です。",
+         "file_name" : "GSJ_MAP_G200_NI5313_1968.zip",
+         "length" : 31563183,
+         "mime" : "application/zip",
+         "sha256" : "d94800cd6c251b8fcbe034fc9811d73ae2f028084c4ca2d493eb21ebcde1e8d9",
+         "time" : 1720951032,
+         "title" : "20万分の1地質図幅「宮津」: GeoTIFF",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/GTF/GSJ_MAP_G200_NI5313_1968.zip"
+      },
+      "file:id:cf4e1e22-54aa-4a61-94d7-3f6c791b9364" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map754.json",
+         "length" : 3381,
+         "mime" : "application/json",
+         "sha256" : "1a73a57f1e14738a979f7e1465aed3d48dba17e1b44546d14490a84e9c048523",
+         "time" : 1720951028,
+         "title" : "20万分の1地質図幅「宮津」: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/g200/map754.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 23595,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "23ecb39570f3dca69e3618a81fcc6643d2f3b0502e6d741aee476f11799add7f",
+         "time" : 1720951027,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_754"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 8518,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "b1aaff1894880fdfb86db28c3864bdfb42d2d1608298f64f591475514221d75e",
+         "time" : 1702452199.77088,
+         "title" : "20万分の1地質図幅「宮津」 (1968)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_754"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_754",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "20万分の1地質図幅「宮津」 (1968)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_754"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "20万分の1地質図幅「宮津」 (1968)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_754"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 34341914,
+   "mirrorzip" : {
+      "length" : 34156078,
+      "set" : "free",
+      "sha256" : "3971aec46a5b15e2b8d88340b67dc4a861d25c059ef1eb1a4abc515cfdf4328b"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_754",
+      "desc" : "**名称**: 20万分の1地質図幅「宮津」 / Geological Map, 1:200,000, Miyazu  \u000A**著者**: 黒田 和男 / KURODA Kazuo  \u000A**発行年**: 1968  \u000A**シリーズ**: 地質図幅，1:200,000 / Geological Map, 1:200,000  \u000A**発行者**: 地質調査所 / Geological Survey of Japan  \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/g200/map754](https://gbank.gsj.jp/ld/resource/publication/map/g200/map754)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_754",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "1/20万地質図幅",
+         "1968",
+         "20万分の1",
+         "地質図"
+      ],
+      "time" : 1702452199.77088,
+      "title" : "20万分の1地質図幅「宮津」 (1968)"
+   }
+}

@@ -1,0 +1,250 @@
+{
+   "files" : {
+      "file:id:7097504e-3a7a-4e71-8c96-60c9d07d4b28" : {
+         "desc" : "項目は、業種・営業者氏名・施設名・施設所在地・施設電話番号・許可番号・許可日になります。 既に廃業している施設が含まれる場合があります。 異体字が使用されている場合に、外字コードをもちいているため、使用されているコンピュータの設定によっては、正しく表示されない場合があります。",
+         "file_name" : "282014_kyoka-ryokann_20240610.xlsx",
+         "length" : 28132,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "13364e5236a907f8bdd743e5c711c07e4d7241fc4d94499f253cb62f35b88db0",
+         "time" : 1720950933,
+         "title" : "旅館業一覧（全件）（令和6年6月10日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/1a72cc13-3c89-4ce7-977e-6ac24e66ae80/resource/7097504e-3a7a-4e71-8c96-60c9d07d4b28/download/282014_kyoka-ryokann_20240610.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 44227,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4db8b3c197073f85af5e9d34e46cd3aadb74b9dc96a2d05dc55c4f1d18dcfac5",
+         "time" : 1720950933,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/ryokann"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 7321,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "8fc416bb792a7159a218373511179e8769671dd8e17a28194b4111e022c13593",
+         "time" : 1718326319.14462,
+         "title" : "旅館業一覧",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=ryokann"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "保健所衛生課 (姫路市健康福祉局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "旅館業一覧",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/ryokann"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=ryokann",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "旅館業一覧",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/ryokann"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "旅館業一覧",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/ryokann"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "旅館業一覧",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/ryokann"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 79680,
+   "mirrorzip" : {
+      "length" : 40260,
+      "set" : "free",
+      "sha256" : "acce3e2f3bd3988494f9854e2dbc0a1575788472d35d145ae3de875743aa11bb"
+   },
+   "package" : {
+      "author" : "保健所衛生課",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=ryokann",
+      "desc" : "旅館業施設一覧（全件）\u000D\u000A\u000D\u000A旅館業施設一覧（新規）当該月に新たに許可を取得した施設一覧",
+      "org" : "姫路市健康福祉局",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/ryokann",
+      "tags" : [
+         "保健所衛生課",
+         "姫路市健康福祉局",
+         "保健衛生",
+         "姫路市",
+         "カプセルホテル",
+         "キャンプ場",
+         "ゲストハウス",
+         "コテージ",
+         "シティホテル",
+         "ホテル",
+         "ラブホテル",
+         "ロッジ",
+         "下宿",
+         "旅館",
+         "民宿",
+         "民泊",
+         "温泉ホテル",
+         "温泉ーホテル",
+         "温泉旅館",
+         "簡易宿所",
+         "許可",
+         "農業漁業体験民泊"
+      ],
+      "time" : 1718326319.14462,
+      "title" : "旅館業一覧"
+   }
+}

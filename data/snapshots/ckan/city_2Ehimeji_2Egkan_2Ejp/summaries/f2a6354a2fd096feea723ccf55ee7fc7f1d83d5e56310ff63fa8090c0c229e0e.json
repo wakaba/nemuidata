@@ -1,0 +1,475 @@
+{
+   "files" : {
+      "file:id:0ac900d0-4e77-4515-ac27-5bb2e04b9009" : {
+         "desc" : "",
+         "file_name" : "282014chojinko520220630.csv",
+         "length" : 191485,
+         "mime" : "text/csv",
+         "sha256" : "e72793efe723fd0e84553d70c071b7f1c55fd4a2c0a6dac599ecaab1276c4b2a",
+         "time" : 1720950911,
+         "title" : "町別年齢（５歳階級）別人口（2022年6月30日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/0ac900d0-4e77-4515-ac27-5bb2e04b9009/download/282014chojinko520220630.csv"
+      },
+      "file:id:22246bf1-dae8-487e-a42c-bb215e64fcaf" : {
+         "desc" : "",
+         "file_name" : "282014chojinko520210630.csv",
+         "length" : 191008,
+         "mime" : "text/csv",
+         "sha256" : "679c00fba1a930a79961d2cc2d431d35230745c97eb9ae8b11bddd640ea8309f",
+         "time" : 1720950918,
+         "title" : "町別年齢(5歳階級)別人口（2021年6月30日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/22246bf1-dae8-487e-a42c-bb215e64fcaf/download/282014chojinko520210630.csv"
+      },
+      "file:id:3449f710-cf64-4a97-922f-92f2b8d780be" : {
+         "desc" : "",
+         "file_name" : "28201chojinko520180930.csv",
+         "length" : 332240,
+         "mime" : "text/csv",
+         "sha256" : "a48c2b7f73a344480d657d0ab40d529ded4dea06560d2d2dffc20c52d4995e28",
+         "time" : 1720950922,
+         "title" : "町別年齢(5歳階級)別人口（2018年9月30日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/3449f710-cf64-4a97-922f-92f2b8d780be/download/28201chojinko520180930.csv"
+      },
+      "file:id:48ff2a49-9c8b-4890-bab9-f016e9aa8cd1" : {
+         "desc" : "",
+         "file_name" : "520231231.csv",
+         "length" : 190276,
+         "mime" : "text/csv",
+         "sha256" : "379d36a16094c6efb9af6ecb18b9a1ac85fec7c6f6cdd71d2d84cb9abc7e2e48",
+         "time" : 1720950909,
+         "title" : "町別年齢（５歳階級）別人口（2023年12月31日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/48ff2a49-9c8b-4890-bab9-f016e9aa8cd1/download/520231231.csv"
+      },
+      "file:id:543d724a-e3d4-40ae-b26f-60846fbedc43" : {
+         "desc" : "",
+         "file_name" : "282014chojinko520201231.csv",
+         "length" : 191300,
+         "mime" : "text/csv",
+         "sha256" : "8147c67c1e4bc0cb780f50c6ff64fcc753e68cc4fec42e1b353590aca1ac2e76",
+         "time" : 1720950919,
+         "title" : "町別年齢(5歳階級)別人口（2020年12月31日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/543d724a-e3d4-40ae-b26f-60846fbedc43/download/282014chojinko520201231.csv"
+      },
+      "file:id:55971462-22b9-42d5-9459-1bd427de9d7c" : {
+         "desc" : "",
+         "file_name" : "28201chojinko520190930.csv",
+         "length" : 332268,
+         "mime" : "text/csv",
+         "sha256" : "61764a265e371b41685a9fd62fae8187347793967b946820c9bcf5e0f8b3d82f",
+         "time" : 1720950920,
+         "title" : "町別年齢(5歳階級)別人口（2019年9月30日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/55971462-22b9-42d5-9459-1bd427de9d7c/download/28201chojinko520190930.csv"
+      },
+      "file:id:5799a84b-bdfa-408b-8b4c-654d6e45bc31" : {
+         "desc" : "",
+         "file_name" : "282014tyobetu5jinko20230930.csv",
+         "length" : 260507,
+         "mime" : "text/csv",
+         "sha256" : "7aa065b535d9cabf15a5a159e33d9fe2268935b15515bbf888f01f359a0bda17",
+         "time" : 1720950909,
+         "title" : "町別年齢（５歳階級）別人口（2023年9月30日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/5799a84b-bdfa-408b-8b4c-654d6e45bc31/download/282014tyobetu5jinko20230930.csv"
+      },
+      "file:id:5dc54438-9043-4886-aadc-5c7a26ef0c84" : {
+         "desc" : "",
+         "file_name" : "282014chojinko520211231.csv",
+         "length" : 186700,
+         "mime" : "text/csv",
+         "sha256" : "d7f69c3b05d55f9b12e82aba98e166f90d48b838a1d20d81e7892ccd877d6bf6",
+         "time" : 1720950912,
+         "title" : "町別年齢(5歳階級)別人口（2021年12月31日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/5dc54438-9043-4886-aadc-5c7a26ef0c84/download/282014chojinko520211231.csv"
+      },
+      "file:id:5eed71c1-ccc2-432f-b9d4-39d232ea5f99" : {
+         "desc" : "",
+         "file_name" : "282014chojinko520200630.csv",
+         "length" : 191053,
+         "mime" : "text/csv",
+         "sha256" : "d578bf319bf286048ec4962093ab4ad022987a096a3c0b2f7c1ee6405d1e7fca",
+         "time" : 1720950919,
+         "title" : "町別年齢(5歳階級)別人口（2020年6月30日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/5eed71c1-ccc2-432f-b9d4-39d232ea5f99/download/282014chojinko520200630.csv"
+      },
+      "file:id:7261f5b3-9f32-40ec-89eb-d233705a9bb9" : {
+         "desc" : "",
+         "file_name" : "282014chojinko520200930.csv",
+         "length" : 191035,
+         "mime" : "text/csv",
+         "sha256" : "44562ce91a35960e0fa651301d928db48875c8a1ae48aa52e62ad583cf4ab267",
+         "time" : 1720950919,
+         "title" : "町別年齢(5歳階級)別人口（2020年9月30日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/7261f5b3-9f32-40ec-89eb-d233705a9bb9/download/282014chojinko520200930.csv"
+      },
+      "file:id:773c2d4a-3ec8-415c-b179-d9930d169fb9" : {
+         "desc" : "",
+         "file_name" : "282014chojinko520200331.csv",
+         "length" : 191066,
+         "mime" : "text/csv",
+         "sha256" : "1c89641c15a78e1fdd9b39e70847555f453faa572ddf19d6ced6625387092e68",
+         "time" : 1720950920,
+         "title" : "町別年齢(5歳階級)別人口（2020年3月31日時点） ",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/773c2d4a-3ec8-415c-b179-d9930d169fb9/download/282014chojinko520200331.csv"
+      },
+      "file:id:78996686-852a-4b76-a191-7ac1ea00d193" : {
+         "desc" : "",
+         "file_name" : "28201chojinko520191231.csv",
+         "length" : 332257,
+         "mime" : "text/csv",
+         "sha256" : "a295fe16e8826b3c11abedbe37ad3ced4db38e9e10d278f9e4e84ed1711d0644",
+         "time" : 1720950920,
+         "title" : "町別年齢(5歳階級)別人口（2019年12月31日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/78996686-852a-4b76-a191-7ac1ea00d193/download/28201chojinko520191231.csv"
+      },
+      "file:id:7c6ae80b-3481-4f5d-a28e-960ab4e62933" : {
+         "desc" : "",
+         "file_name" : "28201chojinko520181231.csv",
+         "length" : 332317,
+         "mime" : "text/csv",
+         "sha256" : "a14ba92743cf15fccc896660f86c58e2628d56d2584d739cccb047020da53e70",
+         "time" : 1720950922,
+         "title" : "町別年齢(5歳階級)別人口（2018年12月31日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/7c6ae80b-3481-4f5d-a28e-960ab4e62933/download/28201chojinko520181231.csv"
+      },
+      "file:id:923a6751-5f8a-4be4-8f1b-313f018f516d" : {
+         "desc" : "",
+         "file_name" : "282014chojinko520210331.csv",
+         "length" : 190988,
+         "mime" : "text/csv",
+         "sha256" : "72ee8e6435ff7bc9d822dba7fb802889f49e501cd975a5bda7f09f959d1fa870",
+         "time" : 1720950918,
+         "title" : "町別年齢(5歳階級)別人口（2021年3月31日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/923a6751-5f8a-4be4-8f1b-313f018f516d/download/282014chojinko520210331.csv"
+      },
+      "file:id:b07d48ef-c451-4f75-b329-ccc1d3d8890a" : {
+         "desc" : "",
+         "file_name" : "chojinko520210930.csv",
+         "length" : 196846,
+         "mime" : "text/csv",
+         "sha256" : "348ce65865a3d169b24571550227dd31559d20081533fa94661f6c5c8291a949",
+         "time" : 1720950917,
+         "title" : "町別年齢(5歳階級)別人口（2021年9月30日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/b07d48ef-c451-4f75-b329-ccc1d3d8890a/download/chojinko520210930.csv"
+      },
+      "file:id:c1cef595-1c12-4cb2-8d74-2c6df084a9f1" : {
+         "desc" : "",
+         "file_name" : "282014tyobetu5jinko20220930.csv",
+         "length" : 191400,
+         "mime" : "text/csv",
+         "sha256" : "bf5cea0ecd5bac3c18eb7fde0f90e1591220915243515e4631c65744865e6751",
+         "time" : 1720950911,
+         "title" : "町別年齢（５歳階級）別人口（2022年9月30日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/c1cef595-1c12-4cb2-8d74-2c6df084a9f1/download/282014tyobetu5jinko20220930.csv"
+      },
+      "file:id:c43f09d4-6541-4c7c-ae9a-11bc51f8d061" : {
+         "desc" : "",
+         "file_name" : "282014tyobetu5jinko20230331.csv",
+         "length" : 207281,
+         "mime" : "text/csv",
+         "sha256" : "6b46eeb5749b9a5fb151ce4062dff345eba2f749884736a67cd33a92f34681c5",
+         "time" : 1720950910,
+         "title" : "町別年齢（５歳階級）別人口（2023年3月31日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/c43f09d4-6541-4c7c-ae9a-11bc51f8d061/download/282014tyobetu5jinko20230331.csv"
+      },
+      "file:id:d3b181be-725c-4e2f-ba57-6d809f38810d" : {
+         "desc" : "",
+         "file_name" : "282014chojinko5yyyymmdd.csv",
+         "length" : 201261,
+         "mime" : "text/csv",
+         "sha256" : "dcab9e8e1dd451a215a196d579fd36e57ffeb912c9d171142ae19cc2473ee20c",
+         "time" : 1720950912,
+         "title" : "町別年齢（５歳階級）別人口（2022年3月31日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/d3b181be-725c-4e2f-ba57-6d809f38810d/download/282014chojinko5yyyymmdd.csv"
+      },
+      "file:id:d4a3df16-dc75-43b9-9a0c-9e16882b7734" : {
+         "desc" : "",
+         "file_name" : "52024331.csv",
+         "length" : 190161,
+         "mime" : "text/csv",
+         "sha256" : "c9b374e89c366a923c8418d5433edbe779ed1be75ce873aa910d751cd30adf30",
+         "time" : 1720950908,
+         "title" : "町別年齢（5歳階級）別人口（2024年3月31日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/d4a3df16-dc75-43b9-9a0c-9e16882b7734/download/52024331.csv"
+      },
+      "file:id:e1ee5e96-1b6e-449a-a8b8-673c3e0844c6" : {
+         "desc" : "",
+         "file_name" : "28201chojinko520190331.csv",
+         "length" : 332295,
+         "mime" : "text/csv",
+         "sha256" : "7b07afaba5e3e076c865e554b98e43d805e83568d8fdf7191ecaba48519e5855",
+         "time" : 1720950921,
+         "title" : "町別年齢(5歳階級)別人口（2019年3月31日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/e1ee5e96-1b6e-449a-a8b8-673c3e0844c6/download/28201chojinko520190331.csv"
+      },
+      "file:id:e224720d-b0d2-4c64-acc4-393ea1368652" : {
+         "desc" : "",
+         "file_name" : "282014tyobetu5saibetujinko20221231.csv",
+         "length" : 207302,
+         "mime" : "text/csv",
+         "sha256" : "24f67b2466e8e5c1a3ead13f8833e7ac3b1587281c34fb68c6e765279f3ae02a",
+         "time" : 1720950910,
+         "title" : "町別年齢（５歳階級）別人口（2022年12月31日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/e224720d-b0d2-4c64-acc4-393ea1368652/download/282014tyobetu5saibetujinko20221231.csv"
+      },
+      "file:id:e537dd02-d90a-47a8-8a7d-24b5067dec43" : {
+         "desc" : "",
+         "file_name" : "28201chojinko520190630.csv",
+         "length" : 332325,
+         "mime" : "text/csv",
+         "sha256" : "4a5500c8a8359aa02c4e95d98dc634afacdbf67d6a31abb728cebbc32b4fcb26",
+         "time" : 1720950921,
+         "title" : "町別年齢(5歳階級)別人口（2019年6月30日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/e537dd02-d90a-47a8-8a7d-24b5067dec43/download/28201chojinko520190630.csv"
+      },
+      "file:id:ed1a849e-e332-4247-82ee-177bf5cdb84e" : {
+         "desc" : "",
+         "file_name" : "282014tyobetu5jinko20230630.csv",
+         "length" : 265108,
+         "mime" : "text/csv",
+         "sha256" : "cd43cfc164c790d2b34684e0a4e8c7464d927778e4f65fcfd6593789955b784a",
+         "time" : 1720950909,
+         "title" : "町別年齢（５歳階級）別人口（2023年6月30日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/e50ae9e2-149c-42ec-ac86-35e41c9545c7/resource/ed1a849e-e332-4247-82ee-177bf5cdb84e/download/282014tyobetu5jinko20230630.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 45001,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "ec2de776ecdc1ea6603c6667a09f1158c837fce49a5f288687ad53bce482e642",
+         "time" : 1720950908,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/choubetsu-5age-jinkou"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 21668,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "8770e0d4b40f963b6b0c9efd889f5fb608cad11d5aa2048a7aec85ef4afad1ad",
+         "time" : 1712906990.997,
+         "title" : "町別年齢(5歳階級)別人口",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=choubetsu-5age-jinkou"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル情報室統計解析室 (姫路市デジタル戦略本部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "町別年齢(5歳階級)別人口",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/choubetsu-5age-jinkou"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=choubetsu-5age-jinkou",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "町別年齢(5歳階級)別人口",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/choubetsu-5age-jinkou"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "町別年齢(5歳階級)別人口",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/choubetsu-5age-jinkou"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "町別年齢(5歳階級)別人口",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/choubetsu-5age-jinkou"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 5495148,
+   "mirrorzip" : {
+      "length" : 1543975,
+      "set" : "free",
+      "sha256" : "5bc03a19493db9f456b0b9da5ed90c2594af0e3ed449335a057ab4e8db52f984"
+   },
+   "package" : {
+      "author" : "デジタル情報室統計解析室",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=choubetsu-5age-jinkou",
+      "desc" : "町別年齢(5歳階級)別人口のオープンデータを掲載しています。",
+      "org" : "姫路市デジタル戦略本部",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/choubetsu-5age-jinkou",
+      "tags" : [
+         "デジタル情報室統計解析室",
+         "姫路市デジタル戦略本部",
+         "姫路市",
+         "統計関連情報",
+         "統計"
+      ],
+      "time" : 1712906990.997,
+      "title" : "町別年齢(5歳階級)別人口"
+   }
+}

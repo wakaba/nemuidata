@@ -1,0 +1,238 @@
+{
+   "files" : {
+      "file:id:f1d3e244-47ef-4083-9ac9-80da98613070" : {
+         "desc" : "項目は、業種・営業者氏名・施設名・施設所在地・施設電話番号・確認番号・確認日になります。 既に廃業している施設が含まれる場合があります。 異体字が使用されている場合に、外字コードをもちいているため、使用されているコンピュータの設定によっては、正しく表示されない場合があります。",
+         "file_name" : "282014_kyoka-kuriininngu_20240610.xlsx",
+         "length" : 32669,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "b57d00d33fafba6b0cf2b628eae5aad5247bf504fb9e5fe051038d39003a7482",
+         "time" : 1720950929,
+         "title" : "クリーニング所一覧（全件）（令和6年6月10日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/66a768cb-5017-4e4b-8998-2479035b9dd3/resource/f1d3e244-47ef-4083-9ac9-80da98613070/download/282014_kyoka-kuriininngu_20240610.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 44690,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "211461c2b8bafae2678136aa59287537ce1479b81acb967998a2b2989c3f6d5c",
+         "time" : 1720950929,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/kuriininngu"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5390,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "6fd2c873ed8df38ccacf9d4a464b1be5f80f1393480df5ed4657c5c35e49b46a",
+         "time" : 1718326374.72436,
+         "title" : "クリーニング所一覧",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=kuriininngu"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "保健所衛生課 (姫路市健康福祉局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "クリーニング所一覧",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/kuriininngu"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=kuriininngu",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "クリーニング所一覧",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/kuriininngu"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "クリーニング所一覧",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/kuriininngu"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "クリーニング所一覧",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/kuriininngu"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 82749,
+   "mirrorzip" : {
+      "length" : 44393,
+      "set" : "free",
+      "sha256" : "d5fe16ac6911dbf3e316ce4435ec824123b7b5d484fee2da711fbd421250a296"
+   },
+   "package" : {
+      "author" : "保健所衛生課",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=kuriininngu",
+      "desc" : "クリーニング所施設一覧（全件）\u000D\u000A\u000D\u000Aクリーニング所施設一覧（新規）当該月に新たに検査確認を受けた施設一覧",
+      "org" : "姫路市健康福祉局",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/kuriininngu",
+      "tags" : [
+         "保健所衛生課",
+         "姫路市健康福祉局",
+         "保健衛生",
+         "姫路市",
+         "クリーニング",
+         "クリーニング所一般",
+         "取次",
+         "検索確認",
+         "無店舗取次",
+         "許可"
+      ],
+      "time" : 1718326374.72436,
+      "title" : "クリーニング所一覧"
+   }
+}

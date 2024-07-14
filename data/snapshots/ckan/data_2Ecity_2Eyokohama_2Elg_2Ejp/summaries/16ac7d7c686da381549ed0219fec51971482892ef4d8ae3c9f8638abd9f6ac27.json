@@ -1,0 +1,203 @@
+{
+   "files" : {
+      "file:id:2bf170be-74ef-478c-b97e-1d6ef8df8cd8" : {
+         "desc" : "",
+         "file_name" : "containers_2020.zip",
+         "length" : 168309,
+         "mime" : "application/zip",
+         "sha256" : "afe38c6b011b0a32d12fe08f98885f89564c74444c4e9735e001a78e53641b7d",
+         "time" : 1720951576,
+         "title" : "コンテナ個数",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/yokohamako/kkihon/tokei/ypopendata/YP_opendata_2020.files/containers_2020.zip"
+      },
+      "file:id:33dcc9d0-1dc7-4012-9f78-e3cf7b5d0bbe" : {
+         "desc" : "",
+         "file_name" : "cargo_2020.zip",
+         "length" : 781948,
+         "mime" : "application/zip",
+         "sha256" : "59128ffd1b5ec8fa6647864f3b3edc28e4a172a7f9bb32d119d1e04069a2dd3b",
+         "time" : 1720951574,
+         "title" : "貨物量",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/yokohamako/kkihon/tokei/ypopendata/YP_opendata_2020.files/cargo_2020.zip"
+      },
+      "file:id:38e68f01-3e11-4bf6-906a-14e73f30919c" : {
+         "desc" : "",
+         "file_name" : "ship_2020.zip",
+         "length" : 31414,
+         "mime" : "application/zip",
+         "sha256" : "05cfca716dc77e0a32827348e961730a26363510edee9184ed5d42b06eed086c",
+         "time" : 1720951573,
+         "title" : "入港船舶",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/yokohamako/kkihon/tokei/ypopendata/YP_opendata_2020.files/ship_2020.zip"
+      },
+      "file:id:9c929a6d-15f7-4905-bdc8-28765cfc0ecd" : {
+         "desc" : "",
+         "file_name" : "2020.zip",
+         "length" : 982192,
+         "mime" : "application/zip",
+         "sha256" : "efdfec4e3ee6945324a96c7044df19243fcc39ccb393a6b57c51b40886c9aba0",
+         "time" : 1720951579,
+         "title" : "全て",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/yokohamako/kkihon/tokei/ypopendata/YP_opendata_2020.files/2020.zip"
+      },
+      "file:id:fbe7bbc2-0011-4214-9e92-1f1caf2cea40" : {
+         "desc" : "",
+         "file_name" : "docking_2020.zip",
+         "length" : 547,
+         "mime" : "application/zip",
+         "sha256" : "4926f2d989b11d10855bc9a61b35b5bbadd30be84d6c618570b1665d458ebb13",
+         "time" : 1720951578,
+         "title" : "着岸隻数",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/yokohamako/kkihon/tokei/ypopendata/YP_opendata_2020.files/docking_2020.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14957,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e7d32068e983a94e9aa5d11761d0093a098b997d264f1f92cb174561665bc656",
+         "time" : 1720951571,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/kowan_yp_opendata_2020"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5906,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "9b70f149f7bcac870722e45d20af58bbe8c987b08b48220aa4e73381b9934ce7",
+         "time" : 1711336892.19824,
+         "title" : "横浜港統計オープンデータ（2020年）",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=kowan_yp_opendata_2020"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "物流運営課 (港湾局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "横浜港統計オープンデータ（2020年）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/kowan_yp_opendata_2020"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=kowan_yp_opendata_2020",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "横浜港統計オープンデータ（2020年）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/kowan_yp_opendata_2020"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 1985273,
+   "mirrorzip" : {
+      "length" : 1980480,
+      "set" : "free",
+      "sha256" : "e05838b1bba0502b1c8f30dd3b25de972960e30d60c48fb886cfbe81df3417d1"
+   },
+   "package" : {
+      "author" : "物流運営課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=kowan_yp_opendata_2020",
+      "desc" : "",
+      "org" : "港湾局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/kowan_yp_opendata_2020",
+      "tags" : [
+         "物流運営課",
+         "港湾局",
+         "市政",
+         "港湾",
+         "統計"
+      ],
+      "time" : 1711336892.19824,
+      "title" : "横浜港統計オープンデータ（2020年）"
+   }
+}

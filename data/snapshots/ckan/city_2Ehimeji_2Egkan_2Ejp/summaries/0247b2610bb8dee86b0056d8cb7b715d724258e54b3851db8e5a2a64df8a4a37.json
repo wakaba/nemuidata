@@ -1,0 +1,256 @@
+{
+   "files" : {
+      "file:id:3648a784-9f97-4cbc-8dcb-bdb953ddbbf9" : {
+         "desc" : "",
+         "file_name" : "282014_bosaimusen.geojson",
+         "length" : 130904,
+         "mime" : "application/geo\u002Bjson",
+         "sha256" : "1a65f65fe8400045d103fc7395bfdc405232d17ae10c75fc975d8de98746e0d0",
+         "time" : 1720950888,
+         "title" : "防災行政無線の一覧",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/75b9c5bd-ccab-4924-a42c-9f7712426473/resource/3648a784-9f97-4cbc-8dcb-bdb953ddbbf9/download/282014_bosaimusen.geojson"
+      },
+      "file:id:c576d366-45be-4f0a-a200-fc09c4073566" : {
+         "desc" : "",
+         "file_name" : "282014_bosaimusen.xlsx",
+         "length" : 54051,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "ecc30828a374d6e0c3e3fefad5fd0d44425a3763cd720186f454e4c09eabd6cf",
+         "time" : 1720950887,
+         "title" : "防災行政無線の一覧",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/75b9c5bd-ccab-4924-a42c-9f7712426473/resource/c576d366-45be-4f0a-a200-fc09c4073566/download/282014_bosaimusen.xlsx"
+      },
+      "file:id:cd03af4f-92b7-4607-9ece-f514d33dbfc3" : {
+         "desc" : "",
+         "file_name" : "282014_bosaimusen.csv",
+         "length" : 39484,
+         "mime" : "text/csv",
+         "sha256" : "3386ed0c5f4799cefa662d6d360f970fe9f4f92c1283b74b5c57e61413fcb7ab",
+         "time" : 1720950888,
+         "title" : "防災行政無線の一覧",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/75b9c5bd-ccab-4924-a42c-9f7712426473/resource/cd03af4f-92b7-4607-9ece-f514d33dbfc3/download/282014_bosaimusen.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15267,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "55f1dc9958444f2adb625c27a58891d63abd633527fa0d02bb74e57706f20814",
+         "time" : 1720950887,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/bosaigyoseimusen"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5125,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "b6eec1b93ee9a67e591d3b0e4c160d6f34ce6c5394d1c8b8d9e9f25d3092eaa2",
+         "time" : 1707117914.98681,
+         "title" : "防災行政無線",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=bosaigyoseimusen"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "危機管理室 (姫路市政策局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "防災行政無線",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/bosaigyoseimusen"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=bosaigyoseimusen",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "防災行政無線",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/bosaigyoseimusen"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "防災行政無線",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/bosaigyoseimusen"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "防災行政無線",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/bosaigyoseimusen"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 244831,
+   "mirrorzip" : {
+      "length" : 96213,
+      "set" : "free",
+      "sha256" : "2d8e3f0292d79d2f680b8ccf2cb2f82c63b7d62c2504e9bfc01790d3c465f958"
+   },
+   "package" : {
+      "author" : "危機管理室",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=bosaigyoseimusen",
+      "desc" : "防災行政無線の屋外拡声子局の一覧です。",
+      "org" : "姫路市政策局",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/bosaigyoseimusen",
+      "tags" : [
+         "危機管理室",
+         "姫路市政策局",
+         "姫路市",
+         "防災・安心・安全",
+         "防災",
+         "防災行政無線"
+      ],
+      "time" : 1707117914.98681,
+      "title" : "防災行政無線"
+   }
+}

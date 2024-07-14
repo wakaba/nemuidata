@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:d162c9ac-20cf-4243-8434-e82f0fe33279" : {
+            "name" : "172103_open_data_list.csv",
+            "sha256" : "0d7c5081724f4ceab0807df0fd3bd58b31999beffc642cf9e93adbea34871ac2"
+         },
+         "meta:activity.html" : {
+            "sha256" : "2bdac7a7ac8a8b657208331cda6b87306dd21a192f740a132e524c124f02e20e"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "ce541d02afd23959a550a8227b03163ffc981d6bbd0971e259aee9154f3e8a8b"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172103-open_data_list"
+   },
+   "type" : "packref"
+}

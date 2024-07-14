@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:f1d3e244-47ef-4083-9ac9-80da98613070" : {
+            "name" : "282014_kyoka-kuriininngu_20240610.xlsx",
+            "sha256" : "b57d00d33fafba6b0cf2b628eae5aad5247bf504fb9e5fe051038d39003a7482"
+         },
+         "meta:activity.html" : {
+            "sha256" : "211461c2b8bafae2678136aa59287537ce1479b81acb967998a2b2989c3f6d5c"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "6fd2c873ed8df38ccacf9d4a464b1be5f80f1393480df5ed4657c5c35e49b46a"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://city.himeji.gkan.jp/gkan/dataset/kuriininngu"
+   },
+   "type" : "packref"
+}
