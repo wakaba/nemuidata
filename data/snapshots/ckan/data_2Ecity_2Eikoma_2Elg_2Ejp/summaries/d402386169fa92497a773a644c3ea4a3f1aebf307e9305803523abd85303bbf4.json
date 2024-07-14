@@ -1,0 +1,237 @@
+{
+   "files" : {
+      "file:id:02c0b947-77b4-4bb5-90af-0c3be4e35f4a" : {
+         "desc" : "",
+         "file_name" : "mayumichuo8.jpg",
+         "length" : 182234,
+         "mime" : "image/jpeg",
+         "sha256" : "f9daca51086b46cd29a7bfee74c745bf62dfaeb9d789fff11b34f26b64687fc2",
+         "time" : 1720954917,
+         "title" : "真弓中央公園 (8)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/d5aaf2ee-8efc-4ccf-9807-e811d7275cdc/resource/02c0b947-77b4-4bb5-90af-0c3be4e35f4a/download/mayumichuo8.jpg"
+      },
+      "file:id:4e699c38-d589-42b4-b8bd-25c24d812c8e" : {
+         "desc" : "",
+         "file_name" : "mayumichuo3.jpg",
+         "length" : 293546,
+         "mime" : "image/jpeg",
+         "sha256" : "9d01c39626badc1b8df0701aad20d5e561ff8adc03ee4e38a1c4767ffb252adb",
+         "time" : 1720954908,
+         "title" : "真弓中央公園 (3)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/d5aaf2ee-8efc-4ccf-9807-e811d7275cdc/resource/4e699c38-d589-42b4-b8bd-25c24d812c8e/download/mayumichuo3.jpg"
+      },
+      "file:id:4e76d7de-3797-4e05-b043-550cfd642285" : {
+         "desc" : "",
+         "file_name" : "mayumichuo4.jpg",
+         "length" : 203198,
+         "mime" : "image/jpeg",
+         "sha256" : "cb298c2be6de51e8d3f7cded1c91ef48b723094a74c485c77cce0887be5692c3",
+         "time" : 1720954910,
+         "title" : "真弓中央公園 (4)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/d5aaf2ee-8efc-4ccf-9807-e811d7275cdc/resource/4e76d7de-3797-4e05-b043-550cfd642285/download/mayumichuo4.jpg"
+      },
+      "file:id:64af4a07-abc7-42e2-9414-2e82f76e9dbe" : {
+         "desc" : "",
+         "file_name" : "mayumichuo6.jpg",
+         "length" : 205714,
+         "mime" : "image/jpeg",
+         "sha256" : "3cd341d0450dd7b7ab07316022f3706cb4e9f1caccbc4f64d0695b2c484ae5c2",
+         "time" : 1720954914,
+         "title" : "真弓中央公園 (6)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/d5aaf2ee-8efc-4ccf-9807-e811d7275cdc/resource/64af4a07-abc7-42e2-9414-2e82f76e9dbe/download/mayumichuo6.jpg"
+      },
+      "file:id:705ae16b-7d93-4c94-88e0-cae8f32d7668" : {
+         "desc" : "",
+         "file_name" : "mayumichuo2.jpg",
+         "length" : 197844,
+         "mime" : "image/jpeg",
+         "sha256" : "70358eb0d8f0c9a892428d929f906cfe332d9379f480531b10b30374d98ba731",
+         "time" : 1720954906,
+         "title" : "真弓中央公園 (2)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/d5aaf2ee-8efc-4ccf-9807-e811d7275cdc/resource/705ae16b-7d93-4c94-88e0-cae8f32d7668/download/mayumichuo2.jpg"
+      },
+      "file:id:bee12ae4-baf4-48c7-8d64-257558b349b2" : {
+         "desc" : "",
+         "file_name" : "mayumichuo1.jpg",
+         "length" : 248364,
+         "mime" : "image/jpeg",
+         "sha256" : "9b720c0a35bd2059cce93f3ac03503f1d230549205634403cfd7eb8196c62292",
+         "time" : 1720954904,
+         "title" : "真弓中央公園 (1)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/d5aaf2ee-8efc-4ccf-9807-e811d7275cdc/resource/bee12ae4-baf4-48c7-8d64-257558b349b2/download/mayumichuo1.jpg"
+      },
+      "file:id:e55e5ecf-0163-488b-8015-a021e78a1c21" : {
+         "desc" : "",
+         "file_name" : "mayumichuo5.jpg",
+         "length" : 182264,
+         "mime" : "image/jpeg",
+         "sha256" : "73c2d1da1943d66a8d0369502e2ef52a7d15e77ea99ad2380a294f6c3feb11ab",
+         "time" : 1720954912,
+         "title" : "真弓中央公園 (5)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/d5aaf2ee-8efc-4ccf-9807-e811d7275cdc/resource/e55e5ecf-0163-488b-8015-a021e78a1c21/download/mayumichuo5.jpg"
+      },
+      "file:id:fa3310f5-737b-4adf-bcb9-ab2bc6242afa" : {
+         "desc" : "",
+         "file_name" : "mayumichuo7.jpg",
+         "length" : 268975,
+         "mime" : "image/jpeg",
+         "sha256" : "cea4897bebc28d9b52e4377ce1af5f5f242d87f2b3abbc0fb5126ebd0a92c004",
+         "time" : 1720954915,
+         "title" : "真弓中央公園 (7)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/d5aaf2ee-8efc-4ccf-9807-e811d7275cdc/resource/fa3310f5-737b-4adf-bcb9-ab2bc6242afa/download/mayumichuo7.jpg"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "38b1e02f01a2620e44e53b972146881556634f929fdf1c4b823e55b10307da8b",
+         "time" : 1720954903,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1556095652"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 8714,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "125fab4c09f3cdeb4343891c6f993fe5b98b3a84f070cddcc8abe7d13c8c8bc7",
+         "time" : 1586847021.82931,
+         "title" : "写真データ（真弓中央公園）",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1556095652"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "ICTイノベーション推進課 (地域活力創生部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "写真データ（真弓中央公園）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1556095652"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1556095652",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "写真データ（真弓中央公園）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1556095652"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 1805878,
+   "mirrorzip" : {
+      "length" : 1705183,
+      "set" : "free",
+      "sha256" : "bc26f943f1ff4743dd06888035d4d28ea9bed998f21bbf0b0c1ed79eba544039"
+   },
+   "package" : {
+      "author" : "ICTイノベーション推進課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1556095652",
+      "desc" : "",
+      "org" : "地域活力創生部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1556095652",
+      "tags" : [
+         "ICTイノベーション推進課",
+         "地域活力創生部",
+         "子育て・教育",
+         "施設",
+         "公園",
+         "風景"
+      ],
+      "time" : 1586847021.82931,
+      "title" : "写真データ（真弓中央公園）"
+   }
+}

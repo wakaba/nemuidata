@@ -1,0 +1,50 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:25312ff4-3641-49a8-9857-366f9fe3f1d6" : {
+            "name" : "shien2208.csv",
+            "sha256" : "a14fcef830e64f251afb39af2e1d67bfc1502ad5c3209e21c0853e7be623779a"
+         },
+         "file:id:2b95b4c9-a5cc-4a87-a581-3d39c37267df" : {
+            "name" : "shien2206.csv",
+            "sha256" : "800930a4efa362021382ad6839a45a210b930f71ec49e2b588322f3d511596c9"
+         },
+         "file:id:3270abc6-bede-46a8-ad9a-92319368eadf" : {
+            "name" : "shien2212.csv",
+            "sha256" : "6cf64071ed04388d7b29726b64feccff8abc6a098446fe16d2d169230c924ceb"
+         },
+         "file:id:6c6ddf7b-d76a-4e0e-be5c-1e1e734aad8f" : {
+            "name" : "shien2207.csv",
+            "sha256" : "a38a70e316acccf21352283b57175a552b3980a0d2de2c955802135b832da478"
+         },
+         "file:id:7e34db7d-c891-4b10-83b8-021f67a78032" : {
+            "name" : "shien2209.csv",
+            "sha256" : "4bf1c3fbb1f5600b72e5823a9085995db70c1346008021bc9e770442e24e5525"
+         },
+         "file:id:97ea1348-53ae-45d4-b161-b629a920bd2b" : {
+            "name" : "shien2211.csv",
+            "sha256" : "83f9cc3b1438c34407e9d89b246c422fc351963cffa83bd1d3c7f8cefe9ccda2"
+         },
+         "file:id:cc9b9036-08e4-4f10-b4ce-384cdf189110" : {
+            "name" : "shien2210.csv",
+            "sha256" : "8d17f80aa8aa1749207680ca66d937ab7e979e53844b243f6decd1c3dd9b72a9"
+         },
+         "file:id:f0eb67ee-d560-4408-8dac-4af22deb4c68" : {
+            "name" : "shien2301.csv",
+            "sha256" : "22d79b24fc10f565ef601fdf9ce1dfb98c06efb8a5238185b02ee329c1e70b9f"
+         },
+         "meta:activity.html" : {
+            "sha256" : "e1e19e6689e90261bd2519fc136ec102e4fc3e7c07bcdc21964bae9530f2d461"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "16defb8ac6024111a3e68d57d644811a89070ffa296d12359fea1bc1519960a8"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1678407071"
+   },
+   "type" : "packref"
+}

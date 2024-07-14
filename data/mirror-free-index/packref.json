@@ -7,6 +7,9 @@
          "file:r:ckan-city_2Ehimeji_2Egkan_2Ejp" : {
             "url" : "ckan-city_2Ehimeji_2Egkan_2Ejp.jsonl"
          },
+         "file:r:ckan-data_2Ecity_2Eikoma_2Elg_2Ejp" : {
+            "url" : "ckan-data_2Ecity_2Eikoma_2Elg_2Ejp.jsonl"
+         },
          "file:r:ckan-data_2Ecity_2Etendo_2Eyamagata_2Ejp" : {
             "url" : "ckan-data_2Ecity_2Etendo_2Eyamagata_2Ejp.jsonl"
          },

@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:6a1c4704-32a3-4393-b74a-4daa180a64cc" : {
+            "name" : "jinzaibanku.xlsx",
+            "sha256" : "d5811090aae857a346736038d19b9c8cf2682edc0bfa5ae2826676b2c77e62d9"
+         },
+         "meta:activity.html" : {
+            "sha256" : "219722dfae6ebe98370edb0f3ed85950cb6be3419252a8484c1e2bcb59465d8a"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "05abb4178c88c5f8c1e0bd9298631033d8f9fdd2f693fddc0e3f2b44d6e22e4f"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487847043"
+   },
+   "type" : "packref"
+}

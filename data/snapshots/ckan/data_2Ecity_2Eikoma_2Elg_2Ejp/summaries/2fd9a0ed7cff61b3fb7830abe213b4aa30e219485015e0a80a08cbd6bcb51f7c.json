@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:6a1c4704-32a3-4393-b74a-4daa180a64cc" : {
+         "desc" : "",
+         "file_name" : "jinzaibanku.xlsx",
+         "length" : 9934,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "d5811090aae857a346736038d19b9c8cf2682edc0bfa5ae2826676b2c77e62d9",
+         "time" : 1720954965,
+         "title" : "まちづくり人材バンク一覧",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/b653b5ae-71d6-4c94-a999-a6d664cd9828/resource/6a1c4704-32a3-4393-b74a-4daa180a64cc/download/jinzaibanku.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14890,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "219722dfae6ebe98370edb0f3ed85950cb6be3419252a8484c1e2bcb59465d8a",
+         "time" : 1720954963,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1487847043"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2815,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "05abb4178c88c5f8c1e0bd9298631033d8f9fdd2f693fddc0e3f2b44d6e22e4f",
+         "time" : 1687742991.70287,
+         "title" : "人材バンク",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487847043"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "生涯学習課 (生涯学習部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "人材バンク",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487847043"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487847043",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "人材バンク",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487847043"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 27639,
+   "mirrorzip" : {
+      "length" : 20743,
+      "set" : "free",
+      "sha256" : "fbaa070ac76584e3c627619b5d40ee8be51a4b5ca7ecd31762b52fbb914ac4d4"
+   },
+   "package" : {
+      "author" : "生涯学習課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487847043",
+      "desc" : "",
+      "org" : "生涯学習部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1487847043",
+      "tags" : [
+         "生涯学習課",
+         "生涯学習部",
+         "まちづくり・環境",
+         "ボランティア",
+         "市民活動"
+      ],
+      "time" : 1687742991.70287,
+      "title" : "人材バンク"
+   }
+}

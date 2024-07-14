@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:276a9999-ec24-4102-877e-299dae139748" : {
+            "name" : "ekimaetosyocafe.jpg",
+            "sha256" : "226bf98a430e349336e6e5784aa7587919df44e32423b9620784c5701a2feff2"
+         },
+         "file:id:51fadea3-d362-4744-b96d-64efb45c8ba6" : {
+            "name" : "ekimaetosyo.jpg",
+            "sha256" : "29da6a0c8bb8127b4e6b4aa5b83318b74809aa298f618d635d42fe4f34f20a6d"
+         },
+         "meta:activity.html" : {
+            "sha256" : "e2b2f6b690dbed96f0bf8bde6b56af65eeed1d565bb072016394d391e6c17f09"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "64827563c98d54274148a99b61dd858e377f6f86b4993e9b8d8cddb2e6caef63"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487916868"
+   },
+   "type" : "packref"
+}

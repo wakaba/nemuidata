@@ -1,0 +1,160 @@
+{
+   "files" : {
+      "file:id:7dad7c5e-d42d-4319-9192-2c621e04b98d" : {
+         "desc" : "",
+         "file_name" : "447-7-2.xls",
+         "length" : 45056,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "c68d721619ea7687e3f0687592667624f257bbe442dff5725d8d8715fcdae1e0",
+         "time" : 1720955070,
+         "title" : "都市ガスの状況 ",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a3a23018-1805-4d25-ada2-572ef98e9b21/resource/7dad7c5e-d42d-4319-9192-2c621e04b98d/download/447-7-2.xls"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15075,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e8b0d919e58b3b53cdd82d357e5b33a1a08c0957006aeb7feadc56ed18ccb32a",
+         "time" : 1720955069,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1510896433"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 3162,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "be853fc8e0ee4ccfd2c7041e50fde0f508d2e92c8146a86c561c509eec699306",
+         "time" : 1660815938.7211,
+         "title" : "都市ガスの状況",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510896433"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "都市ガスの状況",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510896433"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510896433",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "都市ガスの状況",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510896433"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 63293,
+   "mirrorzip" : {
+      "length" : 28100,
+      "set" : "free",
+      "sha256" : "611913774f679285dc780e4fd7d3b13a71646c311c54a207598edb27dc65f52f"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510896433",
+      "desc" : "需要戸数＝取付メーター数\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u000D\u000A標準カロリー＝45MJ(約10,750Kcal)/ ｍ３\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u000D\u000A資料：大阪ガス（株）",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1510896433",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "まちづくり・環境",
+         "統計",
+         "くらし",
+         "エネルギー"
+      ],
+      "time" : 1660815938.7211,
+      "title" : "都市ガスの状況"
+   }
+}

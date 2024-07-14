@@ -1,0 +1,234 @@
+{
+   "files" : {
+      "file:id:25312ff4-3641-49a8-9857-366f9fe3f1d6" : {
+         "desc" : "",
+         "file_name" : "shien2208.csv",
+         "length" : 452,
+         "mime" : "text/csv",
+         "sha256" : "a14fcef830e64f251afb39af2e1d67bfc1502ad5c3209e21c0853e7be623779a",
+         "time" : 1720955041,
+         "title" : "マイナポイント申込件数令和4年8月",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/81a2b3e4-2149-4704-8a47-93a882c192a2/resource/25312ff4-3641-49a8-9857-366f9fe3f1d6/download/shien2208.csv"
+      },
+      "file:id:2b95b4c9-a5cc-4a87-a581-3d39c37267df" : {
+         "desc" : "",
+         "file_name" : "shien2206.csv",
+         "length" : 53,
+         "mime" : "text/csv",
+         "sha256" : "800930a4efa362021382ad6839a45a210b930f71ec49e2b588322f3d511596c9",
+         "time" : 1720955040,
+         "title" : "マイナポイント申込件数令和4年6月",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/81a2b3e4-2149-4704-8a47-93a882c192a2/resource/2b95b4c9-a5cc-4a87-a581-3d39c37267df/download/shien2206.csv"
+      },
+      "file:id:3270abc6-bede-46a8-ad9a-92319368eadf" : {
+         "desc" : "",
+         "file_name" : "shien2212.csv",
+         "length" : 433,
+         "mime" : "text/csv",
+         "sha256" : "6cf64071ed04388d7b29726b64feccff8abc6a098446fe16d2d169230c924ceb",
+         "time" : 1720955045,
+         "title" : "マイナポイント申込件数令和4年12月",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/81a2b3e4-2149-4704-8a47-93a882c192a2/resource/3270abc6-bede-46a8-ad9a-92319368eadf/download/shien2212.csv"
+      },
+      "file:id:6c6ddf7b-d76a-4e0e-be5c-1e1e734aad8f" : {
+         "desc" : "",
+         "file_name" : "shien2207.csv",
+         "length" : 414,
+         "mime" : "text/csv",
+         "sha256" : "a38a70e316acccf21352283b57175a552b3980a0d2de2c955802135b832da478",
+         "time" : 1720955040,
+         "title" : "マイナポイント申込件数令和4年7月",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/81a2b3e4-2149-4704-8a47-93a882c192a2/resource/6c6ddf7b-d76a-4e0e-be5c-1e1e734aad8f/download/shien2207.csv"
+      },
+      "file:id:7e34db7d-c891-4b10-83b8-021f67a78032" : {
+         "desc" : "",
+         "file_name" : "shien2209.csv",
+         "length" : 414,
+         "mime" : "text/csv",
+         "sha256" : "4bf1c3fbb1f5600b72e5823a9085995db70c1346008021bc9e770442e24e5525",
+         "time" : 1720955042,
+         "title" : "マイナポイント申込件数令和4年9月",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/81a2b3e4-2149-4704-8a47-93a882c192a2/resource/7e34db7d-c891-4b10-83b8-021f67a78032/download/shien2209.csv"
+      },
+      "file:id:97ea1348-53ae-45d4-b161-b629a920bd2b" : {
+         "desc" : "",
+         "file_name" : "shien2211.csv",
+         "length" : 414,
+         "mime" : "text/csv",
+         "sha256" : "83f9cc3b1438c34407e9d89b246c422fc351963cffa83bd1d3c7f8cefe9ccda2",
+         "time" : 1720955044,
+         "title" : "マイナポイント申込件数令和4年11月",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/81a2b3e4-2149-4704-8a47-93a882c192a2/resource/97ea1348-53ae-45d4-b161-b629a920bd2b/download/shien2211.csv"
+      },
+      "file:id:cc9b9036-08e4-4f10-b4ce-384cdf189110" : {
+         "desc" : "",
+         "file_name" : "shien2210.csv",
+         "length" : 433,
+         "mime" : "text/csv",
+         "sha256" : "8d17f80aa8aa1749207680ca66d937ab7e979e53844b243f6decd1c3dd9b72a9",
+         "time" : 1720955043,
+         "title" : "マイナポイント申込件数令和4年10月",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/81a2b3e4-2149-4704-8a47-93a882c192a2/resource/cc9b9036-08e4-4f10-b4ce-384cdf189110/download/shien2210.csv"
+      },
+      "file:id:f0eb67ee-d560-4408-8dac-4af22deb4c68" : {
+         "desc" : "",
+         "file_name" : "shien2301.csv",
+         "length" : 414,
+         "mime" : "text/csv",
+         "sha256" : "22d79b24fc10f565ef601fdf9ce1dfb98c06efb8a5238185b02ee329c1e70b9f",
+         "time" : 1720955046,
+         "title" : "マイナポイント申込件数令和5年1月",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/81a2b3e4-2149-4704-8a47-93a882c192a2/resource/f0eb67ee-d560-4408-8dac-4af22deb4c68/download/shien2301.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15037,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e1e19e6689e90261bd2519fc136ec102e4fc3e7c07bcdc21964bae9530f2d461",
+         "time" : 1720955039,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1678407071"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 8441,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "16defb8ac6024111a3e68d57d644811a89070ffa296d12359fea1bc1519960a8",
+         "time" : 1678686494.45841,
+         "title" : "マイナポイント支援　対応件数",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1678407071"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "システム管理者 (地域活力創生部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "マイナポイント支援　対応件数",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1678407071"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1678407071",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "マイナポイント支援　対応件数",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1678407071"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 26505,
+   "mirrorzip" : {
+      "length" : 21994,
+      "set" : "free",
+      "sha256" : "41a361bd90a8c88a1ec432a68a85fd72e1328c58757fc1a7f7999946c49e2096"
+   },
+   "package" : {
+      "author" : "システム管理者",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1678407071",
+      "desc" : "",
+      "org" : "地域活力創生部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1678407071",
+      "tags" : [
+         "システム管理者",
+         "地域活力創生部",
+         "その他"
+      ],
+      "time" : 1678686494.45841,
+      "title" : "マイナポイント支援　対応件数"
+   }
+}

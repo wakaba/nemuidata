@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:6d9e5b8c-784a-4a56-8179-92ccf705ebba" : {
+            "name" : "solarpanel.rdf",
+            "sha256" : "c65a89803d5698fe5fe75a6e140be2148391a4dab4fc12d1bb6a8631a75a8145"
+         },
+         "file:id:a2aaf8bc-ae2d-4f17-b308-3b12daf9a14c" : {
+            "name" : "solarpanel.csv",
+            "sha256" : "36abe4b29804cecc696455f4a5937e9c1ef568fb47b4109d112d83afbb528d2d"
+         },
+         "file:id:bc506194-3ec9-4e09-ab7b-3891d5f1927b" : {
+            "name" : "solarpanel.json",
+            "sha256" : "d01f79b98006c89da768bc0c8be0fdb5a60e31ff17c9f4d94b80a774e8e31a3a"
+         },
+         "meta:activity.html" : {
+            "sha256" : "ef6a0b0f9b8d2f25c1511172deb2cdbb28f244b006da6f924cd13e616e0d97e2"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "93e8747190c51dd7e61c2485f0dfca6fe6874cd5c15853ef9ade25fcf50d6b2e"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487394562"
+   },
+   "type" : "packref"
+}

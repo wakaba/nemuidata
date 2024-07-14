@@ -20,6 +20,16 @@
          },
          "site_type" : "ckan"
       },
+      "data_2Ecity_2Eikoma_2Elg_2Ejp" : {
+         "esite_name" : "data_2Ecity_2Eikoma_2Elg_2Ejp",
+         "site_name" : "data.city.ikoma.lg.jp",
+         "site_opts" : {
+            "tags" : [
+               "生駒市"
+            ]
+         },
+         "site_type" : "ckan"
+      },
       "data_2Ecity_2Etendo_2Eyamagata_2Ejp" : {
          "esite_name" : "data_2Ecity_2Etendo_2Eyamagata_2Ejp",
          "site_name" : "data.city.tendo.yamagata.jp",
