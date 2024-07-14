@@ -1,0 +1,204 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:13c70b1b-c2aa-4afe-badd-6e62ee04ba7d" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G50_03_004soyamisaki/{z}/{x}/{y}  \u000A**BBOX:** 141.7460656,45.3354885,141.9961003,45.5299443",
+         "file_name" : "_y_",
+         "mime" : "application/octet-stream",
+         "time" : 1702452330.21177,
+         "title" : "5万分の1地質図幅「宗谷および宗谷岬」: 地図タイル（ラスタ）",
+         "type" : "file"
+      },
+      "file:id:38864be0-e39b-47c5-904d-6d75d1f6bad7" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "G50_03_004soyamisaki.json",
+         "length" : 771,
+         "mime" : "application/json",
+         "sha256" : "0683b3ed119c6e47d15b412ed3e8eeb0bd77eb63c1d6610ffce702f14bfe8ca0",
+         "time" : 1720928189,
+         "title" : "5万分の1地質図幅「宗谷および宗谷岬」: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/G50_03_004soyamisaki.json"
+      },
+      "file:id:5e770db7-bd1c-466f-a84a-7fb93196cd31" : {
+         "desc" : "出版物画像: ファイルサイズは 2.61 MB です。",
+         "file_name" : "GSH_MAP_G050_03004_1959_200dpi.jpg",
+         "length" : 2741588,
+         "mime" : "image/jpeg",
+         "sha256" : "4473ff7cbb83b28c8b7ef3173952388474b06fc6f5f168b5c20d3e8f8f566847",
+         "time" : 1720928191,
+         "title" : "5万分の1地質図幅「宗谷および宗谷岬」: 出版物画像",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/50KGM/JPG/GSH_MAP_G050_03004_1959_200dpi.jpg"
+      },
+      "file:id:948ddc25-58e3-4ad1-900d-616327a8c14b" : {
+         "desc" : "GeoTIFF: ファイルサイズは 37.53 MB です。",
+         "file_name" : "GSH_MAP_G050_03004_1959.zip",
+         "length" : 39353097,
+         "mime" : "application/zip",
+         "sha256" : "9d888e08f7dc3be88409e9d05b06658bb5723bd6a84a46304dc438f5cd89443d",
+         "time" : 1720928192,
+         "title" : "5万分の1地質図幅「宗谷および宗谷岬」: GeoTIFF",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/50KGM/GTF/GSH_MAP_G050_03004_1959.zip"
+      },
+      "file:id:ddb64430-614d-4dd0-8fab-6ba35d186a04" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map208.json",
+         "length" : 4226,
+         "mime" : "application/json",
+         "sha256" : "2af43dc302793c90ec89a7bae0acd327294429e46036427f853b60caa6806662",
+         "time" : 1720928189,
+         "title" : "5万分の1地質図幅「宗谷および宗谷岬」: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/g050/map208.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 33340,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5e1f8af33012ba8181ecb57bcdc9517f07172181482795e1c3ef3b81935399f3",
+         "time" : 1720928188,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_208"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 9082,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "7f3609535355f0ec34080d91b44fe2b932acfc2a2210cda1c9985c762f8be722",
+         "time" : 1702452330.05739,
+         "title" : "5万分の1地質図幅「宗谷および宗谷岬」 (1959)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_208"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_208",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "5万分の1地質図幅「宗谷および宗谷岬」 (1959)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_208"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "5万分の1地質図幅「宗谷および宗谷岬」 (1959)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_208"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 42142104,
+   "mirrorzip" : {
+      "length" : 42103896,
+      "set" : "free",
+      "sha256" : "5d153df65ef72e472d6dd24436a7b43cc19b8ad4a9628552ef3a396a21468c4d"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_208",
+      "desc" : "**名称**: 5万分の1地質図幅「宗谷および宗谷岬」 / 1:50,000 Geological Map of Japan, Soya and Soyamisaki with Explanatory Text  \u000A**著者**: 小山内 煕, 三谷 勝利, 北川 芳男 / OSANAI Hiroshi, MITANI Katsutoshi, KITAGAWA Yoshio  \u000A**発行年**: 1959  \u000A**シリーズ**: 地質図幅，1:50,000 / Geological Map, 1:50,000  \u000A**発行者**: 北海道立地下資源調査所 / Geological Survey of Hokkaido  \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/g050/map208](https://gbank.gsj.jp/ld/resource/publication/map/g050/map208)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_208",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "1/5万地質図幅",
+         "1959",
+         "5万分の1",
+         "地質図",
+         "旭川"
+      ],
+      "time" : 1702452330.05739,
+      "title" : "5万分の1地質図幅「宗谷および宗谷岬」 (1959)"
+   }
+}

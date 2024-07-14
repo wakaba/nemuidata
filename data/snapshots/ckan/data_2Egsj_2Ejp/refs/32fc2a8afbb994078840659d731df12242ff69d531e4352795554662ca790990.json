@@ -1,0 +1,38 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:2eda46dd-fdea-4ca0-a30f-e717714a9283" : {
+            "name" : "G75_219saidaiji.json",
+            "sha256" : "a08090d456c8206b75ece77bc797653ae1fdb8a8ba8406cd38456d7d4742c4d2"
+         },
+         "file:id:95cc41c4-f481-4d70-b9c3-b58147b568d2" : {
+            "name" : "GSJ_MAP_G075_0219_1938_D.pdf",
+            "sha256" : "d54ea9ddd48fb3d765187fff5f8d74241d4e3d3169d12b052ebc346d2d9559b0"
+         },
+         "file:id:9612a025-4f39-498b-ac14-add432047e93" : {
+            "name" : "map51.json",
+            "sha256" : "44906157c3d678ecff34e1b406fd1536f261aa7963af213c783174839ff1ed4b"
+         },
+         "file:id:9b447855-e035-4780-a488-ccdcfe638ee5" : {
+            "name" : "GSJ_MAP_G075_219_1937_200.jpg",
+            "sha256" : "a6ec43bbdfd2e2409c59612b7758fa18a9ed268cf8892129c6dbaae93116bae4"
+         },
+         "file:id:c46004ec-0187-49f9-b7ae-ac50e256be4b" : {
+            "name" : "_y_",
+            "skip" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "a8e80674aeb7843a06423cc33f451edb13aa2c2700a24f15402dd1b9eedbfd06"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "09dc56a6e15426fb3cd325a94caf5be8897bb1c87c68dedda1dbc9bea9e38d68"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_51"
+   },
+   "type" : "packref"
+}

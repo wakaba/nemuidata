@@ -1,0 +1,38 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:0e075982-ebed-4b28-aec8-2245885724a0" : {
+            "name" : "map197.json",
+            "sha256" : "3d711dd6782d2ebd90262b21385a9f406b1e6c03ed568a1fb7e4339ada7b0899"
+         },
+         "file:id:1bf372ba-b839-4dd1-abd9-66a99d5eb1e8" : {
+            "name" : "_y_",
+            "skip" : 1
+         },
+         "file:id:293ef9c2-8e4a-4f48-838d-3ff5003b7287" : {
+            "name" : "GSJ_MAP_G050_02062_1958_200dpi.jpg",
+            "sha256" : "974ef0e7611148720935b23c4ce7b305953309b78eab2e917c569820a1251bf1"
+         },
+         "file:id:62f1c656-2539-4cc1-9cfe-53faee318b3a" : {
+            "name" : "G50_02_062kamuidake.json",
+            "sha256" : "4153a731773d3b17797611faf03d42b1acd2f4936d55bec00cd3dc224715dd4e"
+         },
+         "file:id:c1f713c9-be8a-4eb7-b0f5-1927f949cf25" : {
+            "name" : "GSJ_MAP_G050_02062_1958.zip",
+            "sha256" : "bb5aa83bf8c6772c3954d36405fb3414c8aaa68c39c4f2cdddd187066f43b7da"
+         },
+         "meta:activity.html" : {
+            "sha256" : "4a205f38eb0a1a341fac54f49018efd3fdbb86c63a08fefb8cc752a3e9382231"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "af9811c43f8847a5143192f53928c99ed866f626c9cc5966c33838f51b4a13be"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_197"
+   },
+   "type" : "packref"
+}

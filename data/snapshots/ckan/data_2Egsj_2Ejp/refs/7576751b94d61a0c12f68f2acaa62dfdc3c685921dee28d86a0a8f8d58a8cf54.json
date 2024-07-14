@@ -1,0 +1,38 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:1ca233c2-6979-40a9-80b4-6f07ede20a24" : {
+            "name" : "G200_NI52_10fukuoka.json",
+            "sha256" : "b4af1e977cfee0de92d683a780993b025423e9b7baaf1a24e4546c3078ad1bb3"
+         },
+         "file:id:7ef4d6df-f8c6-4c24-a9e9-2c7dd193f9d8" : {
+            "name" : "GSJ_MAP_G200_NI5210_1993_200dpi.jpg",
+            "sha256" : "58e1dcb27d5c587cc9c6a9a5a8a91154cb4aebb5173d6e7528a31b97e6d17412"
+         },
+         "file:id:db33e8a5-66dc-4b3d-a3e8-d49e62a005c8" : {
+            "name" : "map762.json",
+            "sha256" : "72f4da66598a1360575f2ccf10ecc95cfd1241697c0257ccf0de8f75cb54b32c"
+         },
+         "file:id:ddc44ba2-45bc-48f8-a5f8-11dfbcd972e5" : {
+            "name" : "_y_",
+            "skip" : 1
+         },
+         "file:id:f7a16c81-2aa5-436b-a24c-8146d909870a" : {
+            "name" : "GSJ_MAP_G200_NI5210_1993.zip",
+            "sha256" : "3f92b03aa441098bfdc565f78eec8e35511d084f041c600873dfc262ad9e38e6"
+         },
+         "meta:activity.html" : {
+            "sha256" : "32879e313cef04c02818ad5bd8eaaadb667e9adebbeb43049fa3b0d7ad0daa35"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "28911ca33449bc9fb46199897a41748aaf6fccc918d1e12191828073b7fd802c"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_762"
+   },
+   "type" : "packref"
+}

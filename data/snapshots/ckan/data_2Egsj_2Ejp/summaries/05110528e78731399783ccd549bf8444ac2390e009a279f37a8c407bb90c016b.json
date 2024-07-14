@@ -1,0 +1,193 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:389b1446-09ae-4f39-8618-01c98314621d" : {
+         "desc" : "出版物画像",
+         "file_name" : "gsj_map_787_org_787.jpg",
+         "length" : 3414827,
+         "mime" : "image/jpeg",
+         "sha256" : "6c5c1e25ecdb5a471d0e445a4fc766ab98221c73132b48161b21cf02ab8c8bd3",
+         "time" : 1720928178,
+         "title" : "日本地質図（第5版）: 出版物画像",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/image/map/gsj_map_787_org_787.jpg"
+      },
+      "file:id:64f5d20b-9026-42c2-9635-a0648ffae777" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "TH_04geology.json",
+         "length" : 723,
+         "mime" : "application/json",
+         "sha256" : "88709735aa0283003ce5c58cedeed782cd9aa384dae31e640ce8a58990097740",
+         "time" : 1720928177,
+         "title" : "日本地質図（第5版）: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/TH_04geology.json"
+      },
+      "file:id:ae41ea34-742b-411d-bf6a-46741204bb58" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map787.json",
+         "length" : 2933,
+         "mime" : "application/json",
+         "sha256" : "77ced94a2a958a6968dbbcd18af34254b52b5f78319f062c56d091be007b6fec",
+         "time" : 1720928176,
+         "title" : "日本地質図（第5版）: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/g02m/map787.json"
+      },
+      "file:id:c5994df3-2a3b-42ee-b303-64bbee7b2c09" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/TH_04geology/{z}/{x}/{y}  \u000A**BBOX:** 119.9966922,19.5048686,146.8291197,46.0037366",
+         "file_name" : "_y_",
+         "mime" : "application/octet-stream",
+         "time" : 1702451983.39859,
+         "title" : "日本地質図（第5版）: 地図タイル（ラスタ）",
+         "type" : "file"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 19445,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "7173101bd75e7ce525a617fa1830a7065af44c7b83e6ca7ceef30c2e5ea17826",
+         "time" : 1720928176,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_787"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 8131,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "a31e25a869b5ab3d94a0f704398326a26de55b5e42a65fc00ee2cc85b65d0720",
+         "time" : 1702451983.36633,
+         "title" : "日本地質図（第5版） (2002)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_787"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_787",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "日本地質図（第5版） (2002)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_787"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "日本地質図（第5版） (2002)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_787"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 3446059,
+   "mirrorzip" : {
+      "length" : 3406026,
+      "set" : "free",
+      "sha256" : "5226dac73e9d7395244663271e06c7dce5e3bc10adbba5620ad3c34eae9be98d"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_787",
+      "desc" : "**名称**: 日本地質図（第5版） / Geological Map of Japan, 1:2,000,000, 5th Edition with Explanation for Geology  \u000A**著者**: 鹿野 和彦, 栗本 史雄, 巌谷 敏光, 星住 英夫, 松浦 浩久, 牧本 博 / KANO Kazuhiko, KURIMOTO Chikao, IWAYA Toshimitsu, HOSHIZUMI Hideo, MATSUURA Hirohisa, MAKIMOTO Hiroshi  \u000A**発行年**: 2002  \u000A**シリーズ**: 地質編集図，1:2,000,000 / Map Series, 1:2,000,000  \u000A**発行者**: 産業技術総合研究所地質調査総合センター / Geological Survey of Japan, AIST  \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/g02m/map787](https://gbank.gsj.jp/ld/resource/publication/map/g02m/map787)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_787",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "1/200万地質編集図",
+         "1971",
+         "200万分の1",
+         "地質図",
+         "日本"
+      ],
+      "time" : 1702451983.36633,
+      "title" : "日本地質図（第5版） (2002)"
+   }
+}

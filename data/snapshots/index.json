@@ -5,6 +5,17 @@
          "site_name" : "data.city.tendo.yamagata.jp",
          "site_type" : "ckan"
       },
+      "data_2Egsj_2Ejp" : {
+         "esite_name" : "data_2Egsj_2Ejp",
+         "site_name" : "data.gsj.jp",
+         "site_opts" : {
+            "tags" : [
+               "産業技術総合研究所",
+               "地質調査総合センター"
+            ]
+         },
+         "site_type" : "ckan"
+      },
       "opendata_2Dapi_2Dkakogawa_2Ejp" : {
          "esite_name" : "opendata_2Dapi_2Dkakogawa_2Ejp",
          "site_name" : "opendata-api-kakogawa.jp",
@@ -20,6 +31,11 @@
       "legal" : {
          "esite_name" : "legal",
          "site_name" : "legal",
+         "site_opts" : {
+            "tags" : [
+               "legal"
+            ]
+         },
          "site_type" : "packref"
       },
       "sparql" : {

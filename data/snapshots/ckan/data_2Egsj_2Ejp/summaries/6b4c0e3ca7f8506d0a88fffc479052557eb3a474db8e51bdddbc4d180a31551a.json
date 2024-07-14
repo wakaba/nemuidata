@@ -1,0 +1,204 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:186e9bf6-dee4-4d14-b689-3ed5a27c0838" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map125.json",
+         "length" : 4732,
+         "mime" : "application/json",
+         "sha256" : "6cc2c5df88fccbe27eb877a299ef6374ef34614cd704f7fab3e5551af15d8750",
+         "time" : 1720928264,
+         "title" : "5万分の1地質図幅「武佐岳」: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/g050/map125.json"
+      },
+      "file:id:22aa7d83-83c0-4ac5-ac63-d929007afe1e" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "G50_01_051musadake.json",
+         "length" : 746,
+         "mime" : "application/json",
+         "sha256" : "c81b8c3b8ec484e629d9022f37a209fb7ed9259d92724274c02ae760d82fa559",
+         "time" : 1720928264,
+         "title" : "5万分の1地質図幅「武佐岳」: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/G50_01_051musadake.json"
+      },
+      "file:id:5b576c79-5f52-4cf8-8230-1d827446542d" : {
+         "desc" : "出版物画像: ファイルサイズは 3.74 MB です。",
+         "file_name" : "GSH_MAP_G050_01051_1960_200dpi.jpg",
+         "length" : 3921494,
+         "mime" : "image/jpeg",
+         "sha256" : "8e1d4b9ef3cfa9087f3bbf384743336be10b7f851cda4a5d2ef091667cb382ce",
+         "time" : 1720928266,
+         "title" : "5万分の1地質図幅「武佐岳」: 出版物画像",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/50KGM/JPG/GSH_MAP_G050_01051_1960_200dpi.jpg"
+      },
+      "file:id:bc60e017-d003-4aee-982f-d921bcab8886" : {
+         "desc" : "GeoTIFF: ファイルサイズは 40.35 MB です。",
+         "file_name" : "GSH_MAP_G050_01051_1960.zip",
+         "length" : 42305614,
+         "mime" : "application/zip",
+         "sha256" : "43f4e7084486f9c3f7287a53eaae0fac6d787a8749c69ff9e8879bbb1e7d945a",
+         "time" : 1720928268,
+         "title" : "5万分の1地質図幅「武佐岳」: GeoTIFF",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/50KGM/GTF/GSH_MAP_G050_01051_1960.zip"
+      },
+      "file:id:ecbd6035-dd2e-450f-a181-56f1351ccbb9" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G50_01_051musadake/{z}/{x}/{y}  \u000A**BBOX:** 144.7458903,43.6691303,144.995887,43.8358182",
+         "file_name" : "_y_",
+         "mime" : "application/octet-stream",
+         "time" : 1702452335.78859,
+         "title" : "5万分の1地質図幅「武佐岳」: 地図タイル（ラスタ）",
+         "type" : "file"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 33046,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "1168e4cb6555367edc2f27f230980735385a417c8b7d7b463e5d9dcc7eae8dd5",
+         "time" : 1720928263,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_125"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 8762,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "23af5b0008b33ea8d9162258b48b6f4507352c82c08bc05aee9c77d5117cce17",
+         "time" : 1702452335.7144,
+         "title" : "5万分の1地質図幅「武佐岳」 (1960)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_125"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_125",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "5万分の1地質図幅「武佐岳」 (1960)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_125"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "5万分の1地質図幅「武佐岳」 (1960)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_125"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 46274394,
+   "mirrorzip" : {
+      "length" : 46243071,
+      "set" : "free",
+      "sha256" : "ec59dce382a7acd08aec7c4ab1b7bd5aef5cb5dae708df6de88cd71409cd43b6"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_125",
+      "desc" : "**名称**: 5万分の1地質図幅「武佐岳」 / 1:50,000 Geological Map of Japan, Musadake with Explanatory Text  \u000A**著者**: 杉本 良也 / SUGIMOTO Ryoya  \u000A**発行年**: 1960  \u000A**シリーズ**: 地質図幅，1:50,000 / Geological Map, 1:50,000  \u000A**発行者**: 北海道立地下資源調査所 / Geological Survey of Hokkaido  \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/g050/map125](https://gbank.gsj.jp/ld/resource/publication/map/g050/map125)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_125",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "1/5万地質図幅",
+         "1960",
+         "5万分の1",
+         "地質図",
+         "網走"
+      ],
+      "time" : 1702452335.7144,
+      "title" : "5万分の1地質図幅「武佐岳」 (1960)"
+   }
+}

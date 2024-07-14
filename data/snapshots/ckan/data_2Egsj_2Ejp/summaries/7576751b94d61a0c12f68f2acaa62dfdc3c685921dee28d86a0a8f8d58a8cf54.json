@@ -1,0 +1,203 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:1ca233c2-6979-40a9-80b4-6f07ede20a24" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "G200_NI52_10fukuoka.json",
+         "length" : 744,
+         "mime" : "application/json",
+         "sha256" : "b4af1e977cfee0de92d683a780993b025423e9b7baaf1a24e4546c3078ad1bb3",
+         "time" : 1720928247,
+         "title" : "20万分の1地質図幅「福岡」: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/G200_NI52_10fukuoka.json"
+      },
+      "file:id:7ef4d6df-f8c6-4c24-a9e9-2c7dd193f9d8" : {
+         "desc" : "出版物画像: ファイルサイズは 3.86 MB です。",
+         "file_name" : "GSJ_MAP_G200_NI5210_1993_200dpi.jpg",
+         "length" : 4047362,
+         "mime" : "image/jpeg",
+         "sha256" : "58e1dcb27d5c587cc9c6a9a5a8a91154cb4aebb5173d6e7528a31b97e6d17412",
+         "time" : 1720928248,
+         "title" : "20万分の1地質図幅「福岡」: 出版物画像",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/JPG/GSJ_MAP_G200_NI5210_1993_200dpi.jpg"
+      },
+      "file:id:db33e8a5-66dc-4b3d-a3e8-d49e62a005c8" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map762.json",
+         "length" : 4598,
+         "mime" : "application/json",
+         "sha256" : "72f4da66598a1360575f2ccf10ecc95cfd1241697c0257ccf0de8f75cb54b32c",
+         "time" : 1720928246,
+         "title" : "20万分の1地質図幅「福岡」: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/g200/map762.json"
+      },
+      "file:id:ddc44ba2-45bc-48f8-a5f8-11dfbcd972e5" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G200_NI52_10fukuoka/{z}/{x}/{y}  \u000A**BBOX:** 129.9976909,33.3365584,130.9977242,34.0032598",
+         "file_name" : "_y_",
+         "mime" : "application/octet-stream",
+         "time" : 1702452215.97356,
+         "title" : "20万分の1地質図幅「福岡」: 地図タイル（ラスタ）",
+         "type" : "file"
+      },
+      "file:id:f7a16c81-2aa5-436b-a24c-8146d909870a" : {
+         "desc" : "GeoTIFF: ファイルサイズは 33.7 MB です。",
+         "file_name" : "GSJ_MAP_G200_NI5210_1993.zip",
+         "length" : 35332744,
+         "mime" : "application/zip",
+         "sha256" : "3f92b03aa441098bfdc565f78eec8e35511d084f041c600873dfc262ad9e38e6",
+         "time" : 1720928250,
+         "title" : "20万分の1地質図幅「福岡」: GeoTIFF",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/GTF/GSJ_MAP_G200_NI5210_1993.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 23600,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "32879e313cef04c02818ad5bd8eaaadb667e9adebbeb43049fa3b0d7ad0daa35",
+         "time" : 1720928246,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_762"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 8790,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "28911ca33449bc9fb46199897a41748aaf6fccc918d1e12191828073b7fd802c",
+         "time" : 1702452215.92999,
+         "title" : "20万分の1地質図幅「福岡」 (1993)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_762"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_762",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "20万分の1地質図幅「福岡」 (1993)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_762"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "20万分の1地質図幅「福岡」 (1993)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_762"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 39417838,
+   "mirrorzip" : {
+      "length" : 39309782,
+      "set" : "free",
+      "sha256" : "63a3368f96d0a2570a3ef063c1979665fcb19fb7f404d41708ef08bea135c1fb"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_762",
+      "desc" : "**名称**: 20万分の1地質図幅「福岡」 / Geological Map, 1:200,000, Fukuoka  \u000A**著者**: 久保 和也, 松浦 浩久, 尾崎 正紀, 牧本 博, 星住 英夫, 鎌田 耕太郎, 広島 俊男 / KUBO Kazuya, MATSUURA Hirohisa, OZAKI Masanori, MAKIMOTO Hiroshi, HOSHIZUMI Hideo, KAMADA Kotaro, HIROSHIMA Toshio  \u000A**発行年**: 1993  \u000A**シリーズ**: 地質図幅，1:200,000 / Geological Map, 1:200,000  \u000A**発行者**: 地質調査所 / Geological Survey of Japan  \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/g200/map762](https://gbank.gsj.jp/ld/resource/publication/map/g200/map762)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_762",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "1/20万地質図幅",
+         "1993",
+         "20万分の1",
+         "地質図"
+      ],
+      "time" : 1702452215.92999,
+      "title" : "20万分の1地質図幅「福岡」 (1993)"
+   }
+}

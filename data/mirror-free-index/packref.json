@@ -4,6 +4,9 @@
          "file:r:ckan-data_2Ecity_2Etendo_2Eyamagata_2Ejp" : {
             "url" : "ckan-data_2Ecity_2Etendo_2Eyamagata_2Ejp.jsonl"
          },
+         "file:r:ckan-data_2Egsj_2Ejp" : {
+            "url" : "ckan-data_2Egsj_2Ejp.jsonl"
+         },
          "file:r:ckan-opendata_2Dapi_2Dkakogawa_2Ejp" : {
             "url" : "ckan-opendata_2Dapi_2Dkakogawa_2Ejp.jsonl"
          },
