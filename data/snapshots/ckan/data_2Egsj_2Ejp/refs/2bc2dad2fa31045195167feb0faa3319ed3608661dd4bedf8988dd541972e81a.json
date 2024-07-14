@@ -1,0 +1,34 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:2faf4af3-47dc-480f-8345-6116d8f95b29" : {
+            "name" : "gsj_map_805_org_805.jpg",
+            "sha256" : "06b0dd4c045db1ce25cef343039c6732ccac306661b854ce2766330ecf4b43bb"
+         },
+         "file:id:327f7533-4cc4-4838-8e0a-9538704ad624" : {
+            "name" : "map805.json",
+            "sha256" : "17b1094afa46b1437c7a4830cb5e8277a5a35e7d16c45b385824c1a0fe6dbd41"
+         },
+         "file:id:966f8c64-6088-4687-93ce-8e38146062b8" : {
+            "name" : "_y_",
+            "skip" : 1
+         },
+         "file:id:b44040cc-3d0a-4ffb-8c06-fb03975f877f" : {
+            "name" : "TH_17-1kaolin.json",
+            "sha256" : "f0c623695b741e33f75cb21db7411e815ed6cd92991fefaf99e95c2ca99dde0e"
+         },
+         "meta:activity.html" : {
+            "sha256" : "34ec3a29daf76e9ba3676ee6b53a9abe4a96123d02897600e4becaa6b7379dac"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "476b129fe2f281c1189c2c183a625b81bb8bf9c147e275b648acf47f0196e478"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_805"
+   },
+   "type" : "packref"
+}

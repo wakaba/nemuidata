@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:1f5ae78d-2367-4808-b9ed-af765de39a79" : {
+            "name" : "282014_kyoka-riyou_20240610.xlsx",
+            "sha256" : "1e48d8dee6c94c548285387dbc59e32ca10f5653fc57d0a30e2a5b2fe17bb020"
+         },
+         "meta:activity.html" : {
+            "sha256" : "057d606074e75504f8695bf341cdd7f923fd46170ad0a8792c16dc599874a76c"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "b2bc74f1f97cdec2be7b41ee1bb2cc34e8b1f0790e9f1cbda3483b93c8b13527"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://city.himeji.gkan.jp/gkan/dataset/riyousyo"
+   },
+   "type" : "packref"
+}

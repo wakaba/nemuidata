@@ -1,0 +1,215 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:5f6806d7-dd4c-45bc-8794-888907877977" : {
+         "desc" : "出版物画像: ファイルサイズは 3.97 MB です。",
+         "file_name" : "GSJ_MAP_G200_NJ5429_2000_200dpi.jpg",
+         "length" : 4158621,
+         "mime" : "image/jpeg",
+         "sha256" : "07bfbbd634fe78a6db06c249e53d77d6c8cf5f3d788a2861b07d0bf4e51d0715",
+         "time" : 1720943089,
+         "title" : "20万分の1地質図幅「日光」: 出版物画像",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/JPG/GSJ_MAP_G200_NJ5429_2000_200dpi.jpg"
+      },
+      "file:id:74c2fca5-9152-47ec-9937-94f2bcccf300" : {
+         "desc" : "GeoTIFF: ファイルサイズは 40.41 MB です。",
+         "file_name" : "GSJ_MAP_G200_NJ5429_2000.zip",
+         "length" : 42367847,
+         "mime" : "application/zip",
+         "sha256" : "00214ca4d9930bb392e599e17a35bd757412ac7d96aaa49005bb8c7221501762",
+         "time" : 1720943091,
+         "title" : "20万分の1地質図幅「日光」: GeoTIFF",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/GTF/GSJ_MAP_G200_NJ5429_2000.zip"
+      },
+      "file:id:a455f42e-fcba-45af-beef-05ff700336b3" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map1032.json",
+         "length" : 3862,
+         "mime" : "application/json",
+         "sha256" : "6e3fd0536a4272c326f0814da15d3e81bc8a89b796f895b618670ebc4d155b85",
+         "time" : 1720943084,
+         "title" : "20万分の1地質図幅「日光」: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/g200/map1032.json"
+      },
+      "file:id:ae9d59de-060a-490e-9020-2633e2a0229f" : {
+         "desc" : "説明書: ファイルサイズは 4.46 MB です。",
+         "file_name" : "GSJ_MAP_G200_NJ5429_2000_D.pdf",
+         "length" : 4678676,
+         "mime" : "application/pdf",
+         "sha256" : "a31b2c869ebc722b6cbe9686103a4a361100b30a54b48b1c838584f32ce91fb4",
+         "time" : 1720943087,
+         "title" : "20万分の1地質図幅「日光」: 説明書",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/PDF/GSJ_MAP_G200_NJ5429_2000_D.pdf"
+      },
+      "file:id:bf5537e1-4b21-4d62-a353-82413c5878cc" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "G200_NJ54_29nikko.json",
+         "length" : 738,
+         "mime" : "application/json",
+         "sha256" : "8de3423e42dba76474c2868a9555492eaa7b12cbec7fbfcb434855b970f2dfcf",
+         "time" : 1720943085,
+         "title" : "20万分の1地質図幅「日光」: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/G200_NJ54_29nikko.json"
+      },
+      "file:id:f32167bc-10da-4ab2-b1ab-3c376364b838" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G200_NJ54_29nikko/{z}/{x}/{y}  \u000A**BBOX:** 138.9967013,36.6698278,139.9966667,37.3364998",
+         "file_name" : "_y_",
+         "mime" : "application/octet-stream",
+         "time" : 1702452220.08857,
+         "title" : "20万分の1地質図幅「日光」: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G200_NJ54_29nikko/{z}/{x}/{y}"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 23604,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "70f53b7238203392f53d5ce853ff6484f22a2785117eee338700d1b37d56834d",
+         "time" : 1720943083,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_1032"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 9539,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "1b3d78384648ea9686b17e9545867eb5ef2af72118b5a5b96031f0fad1fbb3fc",
+         "time" : 1702452219.99149,
+         "title" : "20万分の1地質図幅「日光」 (2000)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_1032"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_1032",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "20万分の1地質図幅「日光」 (2000)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_1032"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "20万分の1地質図幅「日光」 (2000)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_1032"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 51242887,
+   "mirrorzip" : {
+      "length" : 50899363,
+      "set" : "free",
+      "sha256" : "2015104e9925ae43ccaf9c9637c2bff174dd4cba20184068eb36137ae312d6be"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_1032",
+      "desc" : "**名称**: 20万分の1地質図幅「日光」 / Geologicla Map, 1:200,000, Nikko  \u000A**著者**: 山元 孝広, 滝沢 文教, 高橋 浩, 久保 和也, 駒沢 正夫, 広島 俊男, 須藤 定久 / YAMAMOTO Takahiro, TAKIZAWA Fuminori, TAKAHASHI Yutaka, KUBO Kazuya, KOMAZAWA Masao, HIROSHIMA Toshio, SUDO Sadahisa  \u000A**発行年**: 2000  \u000A**シリーズ**: 地質図幅，1:200,000 / Geological Map, 1:200,000  \u000A**発行者**: 地質調査所 / Geological Survey of Japan  \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/g200/map1032](https://gbank.gsj.jp/ld/resource/publication/map/g200/map1032)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_1032",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "1/20万地質図幅",
+         "2000",
+         "20万分の1",
+         "地質図"
+      ],
+      "time" : 1702452219.99149,
+      "title" : "20万分の1地質図幅「日光」 (2000)"
+   }
+}

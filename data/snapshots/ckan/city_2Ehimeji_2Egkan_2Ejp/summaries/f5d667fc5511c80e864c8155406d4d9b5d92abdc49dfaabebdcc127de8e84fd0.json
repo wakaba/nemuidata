@@ -1,0 +1,229 @@
+{
+   "files" : {
+      "file:id:72711caf-f7e8-41aa-9a00-0cd3539b7dae" : {
+         "desc" : "",
+         "file_name" : "282162_onlinesoudan.csv",
+         "length" : 1569,
+         "mime" : "text/csv",
+         "sha256" : "176d9c45b82f08ae9cba1687b595861d9b44efef5870320552c8721ca286c71d",
+         "time" : 1720943240,
+         "title" : "オンライン相談用端末設置場所一覧",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/1f8e363f-e77a-40b0-aaf1-1d9c86600330/resource/72711caf-f7e8-41aa-9a00-0cd3539b7dae/download/282162_onlinesoudan.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 19050,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "850310b1d86d0b5d125ebc608bba992077cb8c8cce41d02c6bf77b0accd4e13c",
+         "time" : 1720943240,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/online"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4003,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "3171de4b505ecc322a80522546e835944e906fe45ccf38d6a6e915357a90fd7e",
+         "time" : 1712814742.21147,
+         "title" : "オンライン相談用端末設置場所一覧【ICT推進課】",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=online"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "高砂市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "オンライン相談用端末設置場所一覧【ICT推進課】",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/online"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=online",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "オンライン相談用端末設置場所一覧【ICT推進課】",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/online"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "オンライン相談用端末設置場所一覧【ICT推進課】",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/online"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "オンライン相談用端末設置場所一覧【ICT推進課】",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/online"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 24622,
+   "mirrorzip" : {
+      "length" : 13593,
+      "set" : "free",
+      "sha256" : "51a780b22795f892b25db6aa3daf652b6e46cec00d8565a909482dba59bdb1a2"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=online",
+      "desc" : "高砂市内のオンライン相談用端末設置場所一覧です。\u000D\u000A高砂市では、新型コロナウイルス感染症の感染拡大防止の観点から、来庁しなくても市の各種相談が受けられる「オンライン相談」の受け付けを開始しました。\u000D\u000A 自宅のパソコン（カメラ・マイク付き）やタブレット、スマートフォンから「ZOOM（ズーム）」を利用して、ビデオ通話で相談ができます。\u000D\u000A詳細は市ホームページに掲載しています。\u000D\u000Ahttps://www.city.takasago.lg.jp/soshikikarasagasu/ICTsuishinka/digitalkatuyonosuisin/1238.html",
+      "org" : "高砂市",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/online",
+      "tags" : [
+         "高砂市"
+      ],
+      "time" : 1712814742.21147,
+      "title" : "オンライン相談用端末設置場所一覧【ICT推進課】"
+   }
+}

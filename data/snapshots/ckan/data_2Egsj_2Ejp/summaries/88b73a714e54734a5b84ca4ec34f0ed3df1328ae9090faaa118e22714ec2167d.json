@@ -1,0 +1,271 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:0f71d4dd-5908-473e-af9f-250582adaf62" : {
+         "desc" : "GeoTIFF: ファイルサイズは 15.53 MB です。",
+         "file_name" : "GSJ_MAP_G050_10020_1978.zip",
+         "length" : 16285238,
+         "mime" : "application/zip",
+         "sha256" : "0b70a555ce843813baa262c173ebeabcefc102f1ec3d2ea314d01a4ff3f9ac86",
+         "time" : 1720943140,
+         "title" : "5万分の1地質図幅「津幡」: GeoTIFF",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/50KGM/GTF/GSJ_MAP_G050_10020_1978.zip"
+      },
+      "file:id:1c1c5cfd-dfa1-4dd5-be19-b19868d37ee6" : {
+         "desc" : "このスプレッドシートには以下のシートが含まれます。  \u000A\u000A* **LEGEND_POLY**: 地質分布の面情報（ポリゴン）の属性対応表  \u000A* **LEGEND_LINE**: 地質境界等の線情報（ライン）の属性対応表  \u000A* **PNT**: 点で表される位置情報（ポイント）の属性対応表  \u000A* **STRDIP**: 走向傾斜（ポイント）の属性対応表  \u000A* **RGB**: 地質分布の面情報（ポリゴン）のカラー情報  \u000A\u000A: シェープファイル属性対応表: ファイルサイズは 0.03 MB です。",
+         "file_name" : "GSJ_MAP_G050_10020_1978_V01_attribute.xlsx",
+         "length" : 26372,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "e8ef8d2b0f095d02a6d5cbabc12bcbae64f8814b05ed9664e451484fed31da19",
+         "time" : 1720943147,
+         "title" : "5万分の1地質図幅「津幡」: シェープファイル属性対応表",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/CKAN/VCT/GSJ_MAP_G050_10020_1978_V01_attribute.xlsx"
+      },
+      "file:id:21185859-db6d-46d7-90d3-5d336e43b51a" : {
+         "desc" : "Web Map Service(WMS)による地図画像の配信サービスです。  \u000A",
+         "file_name" : "geologicmap50k_10020",
+         "length" : 64,
+         "mime" : "text/html",
+         "sha256" : "5da3fd2227cbf1144125787b17b9af72470134a2c95a5c792a06396159a29258",
+         "time" : 1720943135,
+         "title" : "5万分の1地質図幅「津幡」: Web Map Service",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ows/geologicmap50k_10020?"
+      },
+      "file:id:3b54a8f2-e3e2-47ba-9ad1-d013c5c587b2" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "G50_10_020tubata.json",
+         "length" : 737,
+         "mime" : "application/json",
+         "sha256" : "e3508960d464895624fbaa74f77653f2ef9e95d1f7915f426ae76786838acafc",
+         "time" : 1720943134,
+         "title" : "5万分の1地質図幅「津幡」: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/G50_10_020tubata.json"
+      },
+      "file:id:490b3542-663d-4543-bd04-e4069e627693" : {
+         "desc" : "シェープファイルReadme: ファイルサイズは 0 MB です。",
+         "file_name" : "GSJ_MAP_G050_10020_1978_V01_readme.txt",
+         "length" : 3822,
+         "mime" : "text/plain",
+         "sha256" : "ab9e9409a742f2ab9d49bc6d466226c8a150a713edb51b90dc840e04d1557eb4",
+         "time" : 1720943152,
+         "title" : "5万分の1地質図幅「津幡」: シェープファイルReadme",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/CKAN/VCT/GSJ_MAP_G050_10020_1978_V01_readme.txt"
+      },
+      "file:id:4b678da8-d823-484c-8e02-60ece8833336" : {
+         "desc" : "シェープファイル: ファイルサイズは 1.12 MB です。",
+         "file_name" : "GSJ_MAP_G050_10020_1978_V01.zip",
+         "length" : 1177783,
+         "mime" : "application/zip",
+         "sha256" : "357336a8dea37994a6bf33a53dd4b70e19e095bc7cb805963a221981bde57735",
+         "time" : 1720943145,
+         "title" : "5万分の1地質図幅「津幡」: シェープファイル",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/CKAN/VCT/GSJ_MAP_G050_10020_1978_V01.zip"
+      },
+      "file:id:6801bd21-cdd7-4121-aa3c-ce4f1a150820" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map495.json",
+         "length" : 7981,
+         "mime" : "application/json",
+         "sha256" : "523d5eb87a06df9334b696765b9c464237815ea4ffacbde3911c0040f57a6dd8",
+         "time" : 1720943133,
+         "title" : "5万分の1地質図幅「津幡」: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/g050/map495.json"
+      },
+      "file:id:8d48896a-63fb-4379-8deb-99df9b1b9f8d" : {
+         "desc" : "出版物画像: ファイルサイズは 1.37 MB です。",
+         "file_name" : "GSJ_MAP_G050_10020_1978_200dpi.jpg",
+         "length" : 1439230,
+         "mime" : "image/jpeg",
+         "sha256" : "8e20c614b971d69767ef42bc5bee918db10a155b5580f1b8650a040851691b3f",
+         "time" : 1720943138,
+         "title" : "5万分の1地質図幅「津幡」: 出版物画像",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/50KGM/JPG/GSJ_MAP_G050_10020_1978_200dpi.jpg"
+      },
+      "file:id:a256852f-3b0d-4589-960b-a52f470e691c" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G50_10_020tubata/{z}/{x}/{y}  \u000A**BBOX:** 136.4970137,36.6697171,136.7470212,36.8364052",
+         "file_name" : "_y_",
+         "mime" : "application/octet-stream",
+         "time" : 1702452394.9237,
+         "title" : "5万分の1地質図幅「津幡」: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G50_10_020tubata/{z}/{x}/{y}"
+      },
+      "file:id:b5f83ed2-a44a-4e37-b39c-450a0a9ad1fe" : {
+         "desc" : "説明書: ファイルサイズは 1.24 MB です。",
+         "file_name" : "GSJ_MAP_G050_10020_1978_D.pdf",
+         "length" : 1304383,
+         "mime" : "application/pdf",
+         "sha256" : "da1a82ddcfc1175512d414cc955bcc1c861ae731402108585991e8ebd98fba4d",
+         "time" : 1720943136,
+         "title" : "5万分の1地質図幅「津幡」: 説明書",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/50KGM/PDF/GSJ_MAP_G050_10020_1978_D.pdf"
+      },
+      "file:id:bd60549f-0b83-4b56-b143-d5aea94429e1" : {
+         "desc" : "KML: ファイルサイズは 1.42 MB です。",
+         "file_name" : "GSJ_MAP_G050_10020_1978_V01.kmz",
+         "length" : 1490541,
+         "mime" : "application/vnd.google-earth.kmz",
+         "sha256" : "9cc30a7da33a12e72bf1cf8b371b09416c9a2f305275e7bb377cfc7e78c96187",
+         "time" : 1720943144,
+         "title" : "5万分の1地質図幅「津幡」: KML",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/CKAN/VCT/GSJ_MAP_G050_10020_1978_V01.kmz"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 32747,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "410325961e544e859f46eb72ee907ba464235b1fadaa65934ba66bf431a1395f",
+         "time" : 1720943133,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_495"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 14356,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "6901585ed5f45d0b80af6e78e08229b312bb39a9175b9cb6713dcb00c1b6a1bb",
+         "time" : 1702452394.75855,
+         "title" : "5万分の1地質図幅「津幡」 (1978)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_495"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_495",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "5万分の1地質図幅「津幡」 (1978)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_495"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "5万分の1地質図幅「津幡」 (1978)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_495"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 21783254,
+   "mirrorzip" : {
+      "length" : 21478775,
+      "set" : "free",
+      "sha256" : "91bfecf87cec12d195b3e37a703c6266f080ef9ec77b00ed7b85119d4b321829"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_495",
+      "desc" : "**名称**: 5万分の1地質図幅「津幡」 / Geology of the Tsubata District  \u000A**著者**: 角 靖夫 / SUMI Yasuo  \u000A**発行年**: 1978  \u000A**シリーズ**: 地域地質研究報告（5万分の1地質図幅） / Quadrangle Series, Scale 1:50,000  \u000A**発行者**: 地質調査所 / Geological Survey of Japan  \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/g050/map495](https://gbank.gsj.jp/ld/resource/publication/map/g050/map495)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_495",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "1/5万地質図幅",
+         "1978",
+         "5万分の1",
+         "地質図",
+         "金沢"
+      ],
+      "time" : 1702452394.75855,
+      "title" : "5万分の1地質図幅「津幡」 (1978)"
+   }
+}

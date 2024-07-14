@@ -1,0 +1,195 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:2faf4af3-47dc-480f-8345-6116d8f95b29" : {
+         "desc" : "出版物画像",
+         "file_name" : "gsj_map_805_org_805.jpg",
+         "length" : 3434129,
+         "mime" : "image/jpeg",
+         "sha256" : "06b0dd4c045db1ce25cef343039c6732ccac306661b854ce2766330ecf4b43bb",
+         "time" : 1720943044,
+         "title" : "Distribution Map of Kaolin, Pyrophyllite and Sericite Clay Deposits of Japan with Explanatory Text: 出版物画像",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/image/map/gsj_map_805_org_805.jpg"
+      },
+      "file:id:327f7533-4cc4-4838-8e0a-9538704ad624" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map805.json",
+         "length" : 2979,
+         "mime" : "application/json",
+         "sha256" : "17b1094afa46b1437c7a4830cb5e8277a5a35e7d16c45b385824c1a0fe6dbd41",
+         "time" : 1720943043,
+         "title" : "Distribution Map of Kaolin, Pyrophyllite and Sericite Clay Deposits of Japan with Explanatory Text: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/g02m/map805.json"
+      },
+      "file:id:966f8c64-6088-4687-93ce-8e38146062b8" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/TH_17-1kaolin/{z}/{x}/{y}  \u000A**BBOX:** 122.7974454,23.7376806,146.6322098,47.1353148",
+         "file_name" : "_y_",
+         "mime" : "application/octet-stream",
+         "time" : 1702451984.88826,
+         "title" : "Distribution Map of Kaolin, Pyrophyllite and Sericite Clay Deposits of Japan with Explanatory Text: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/TH_17-1kaolin/{z}/{x}/{y}"
+      },
+      "file:id:b44040cc-3d0a-4ffb-8c06-fb03975f877f" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "TH_17-1kaolin.json",
+         "length" : 850,
+         "mime" : "application/json",
+         "sha256" : "f0c623695b741e33f75cb21db7411e815ed6cd92991fefaf99e95c2ca99dde0e",
+         "time" : 1720943043,
+         "title" : "Distribution Map of Kaolin, Pyrophyllite and Sericite Clay Deposits of Japan with Explanatory Text: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/TH_17-1kaolin.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 19743,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "34ec3a29daf76e9ba3676ee6b53a9abe4a96123d02897600e4becaa6b7379dac",
+         "time" : 1720943042,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_805"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 8316,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "476b129fe2f281c1189c2c183a625b81bb8bf9c147e275b648acf47f0196e478",
+         "time" : 1702451984.85236,
+         "title" : "Distribution Map of Kaolin, Pyrophyllite and Sericite Clay Deposits of Japan with Explanatory Text (1976)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_805"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_805",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "Distribution Map of Kaolin, Pyrophyllite and Sericite Clay Deposits of Japan with Explanatory Text (1976)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_805"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "Distribution Map of Kaolin, Pyrophyllite and Sericite Clay Deposits of Japan with Explanatory Text (1976)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_805"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 3466017,
+   "mirrorzip" : {
+      "length" : 3389439,
+      "set" : "free",
+      "sha256" : "80adf14f5a8d0e5188deba10cfb5c60f071c45915e0bf9f65b12cde478c8ddf0"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_805",
+      "desc" : "**名称**: Distribution Map of Kaolin, Pyrophyllite and Sericite Clay Deposits of Japan with Explanatory Text / Distribution Map of Kaolin, Pyrophyllite and Sericite Clay Deposits of Japan with Explanatory Text  \u000A**著者**: FUJII Noriyuki, TOGASHI Yukio, IGARASHI Toshio / FUJII Noriyuki, TOGASHI Yukio, IGARASHI Toshio  \u000A**発行年**: 1976  \u000A**シリーズ**: 地質編集図，1:2,000,000 / Map Series, 1:2,000,000  \u000A**発行者**: 地質調査所 / Geological Survey of Japan  \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/g02m/map805](https://gbank.gsj.jp/ld/resource/publication/map/g02m/map805)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_805",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "1/200万地質編集図",
+         "1976",
+         "200万分の1",
+         "日本",
+         "鉱床",
+         "鉱物資源"
+      ],
+      "time" : 1702451984.85236,
+      "title" : "Distribution Map of Kaolin, Pyrophyllite and Sericite Clay Deposits of Japan with Explanatory Text (1976)"
+   }
+}

@@ -1,0 +1,77 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:0525cc30-2859-4b81-b95b-79ae9ff137ae" : {
+            "name" : "_y_-1",
+            "skip" : 1
+         },
+         "file:id:1add2641-bf6e-412d-8163-9fba5a2399ea" : {
+            "name" : "MA200_50gentatsu_A1.json",
+            "sha256" : "83a88c9cb21c0d666149b03a677cd6d4d6a2f3af8a442a5ebe3f98a660f8f31d"
+         },
+         "file:id:1fb2aa53-bd72-4c35-8f0d-28683b1d0ccf" : {
+            "name" : "_y_-2",
+            "skip" : 1
+         },
+         "file:id:28fa3716-f921-4119-bf68-b812b745dc1e" : {
+            "skip" : 1
+         },
+         "file:id:3b081aaa-4c53-472b-be20-038211e7d15e" : {
+            "name" : "gsj_map_1659_org_1625.jpg",
+            "sha256" : "792c5de3fc05616e67464d513efe9857655b1c57d126fca57bb2857520c8ffdb"
+         },
+         "file:id:45bd1271-f30d-4453-ad3e-1e2a15b26425" : {
+            "name" : "MA200_50gentatsu_A2.json",
+            "sha256" : "22f242e53abe45b5caeb701ae9a57e0d07319ffef98aef4ad355fe00159ab08d"
+         },
+         "file:id:5c098f3c-2ec7-476c-875a-e07777b57ac0" : {
+            "name" : "_y_-5",
+            "skip" : 1
+         },
+         "file:id:6b577c06-a0af-4f37-8dd9-597b4f0f669b" : {
+            "name" : "gsj_map_1660_org_1626.jpg",
+            "sha256" : "1ebe43351ff4cf03b01b079c9e8fc8bad886ae7b16ea53e02422858bfaafc641"
+         },
+         "file:id:6c6fce1e-fe4b-4350-b912-8c975d0ee6eb" : {
+            "name" : "map898.json",
+            "sha256" : "43d8b13a6d3dafe45b5fa2425cbefa7ed20de0d5cfb878bc7c9b49f4cbde9007"
+         },
+         "file:id:79632a39-77ed-447c-a9a6-41134586f426" : {
+            "name" : "_y_-3",
+            "skip" : 1
+         },
+         "file:id:82448189-62a1-4ad8-9bea-0b3486efda4f" : {
+            "name" : "gsj_map_1661_org_1627.jpg",
+            "sha256" : "e66613e213c6dbdd5cf2ff88256302574d1ac8b16cad8da518b781ab88c5cf0b"
+         },
+         "file:id:90fec104-13a7-4849-b3e0-0bb2515ee36a" : {
+            "name" : "MA200_50gentatsu.json",
+            "sha256" : "8cdec89f680d4e2fc9560123b265d37129b1bb07d2ce1580926a1526257da059"
+         },
+         "file:id:d99e07d3-7af7-4ff8-912f-9da388863b16" : {
+            "name" : "_y_-4",
+            "skip" : 1
+         },
+         "file:id:f5db2305-b55c-439f-b876-c0eae7564529" : {
+            "name" : "MA200_50gentatsu_A3.json",
+            "sha256" : "240d01bb9163bf9ae27ad4da0ed6e7a0f6a8409cfb52819f79d99ff4605cf8c1"
+         },
+         "file:id:f6aa1c2a-db80-44f7-afdd-f0a2f1f38664" : {
+            "name" : "gsj_map_898_org_902.jpg",
+            "sha256" : "3733e445c5a7a58fd6e6ec33e1bd5fdcb41c23f2d8dde736809f7a633d7f511d"
+         },
+         "meta:activity.html" : {
+            "sha256" : "ec0c0363890da67d855a1e56fea145f3678dea73276676ffe4b5f9fd9db6f607"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "e97be589043193c410b529f5e51fb5ae31c56aad40da85cfde40e8f7e32b2f2a"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_898"
+   },
+   "type" : "packref"
+}

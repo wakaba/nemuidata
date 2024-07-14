@@ -1,0 +1,226 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:0061439e-23c3-41e3-8391-865e972a34b4" : {
+         "desc" : "ラスターデータ: ファイルサイズは 3.54 MB です。",
+         "file_name" : "GSJ_MAP_G200_NJ5310_2019_200dpi.jpg",
+         "length" : 3715710,
+         "mime" : "image/jpeg",
+         "sha256" : "4d817c48766c19db980921ff0aff3bd5baf7a4de6297cbcbeb5409f2fcd41fb0",
+         "time" : 1720943115,
+         "title" : "20万分の1地質図幅「輪島」（第2版）: ラスターデータ",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/JPG/GSJ_MAP_G200_NJ5310_2019_200dpi.jpg"
+      },
+      "file:id:1028cb85-0bdf-4091-bdaf-99f08e740b2e" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G200_NJ53_04wajima2nd/{z}/{x}/{y}  \u000A**BBOX:** 136.4968789,37.3332665,137.5001434,38.0029814",
+         "file_name" : "_y_",
+         "mime" : "application/octet-stream",
+         "time" : 1702452227.67848,
+         "title" : "20万分の1地質図幅「輪島」（第2版）: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/G200_NJ53_04wajima2nd/{z}/{x}/{y}"
+      },
+      "file:id:11bb2fd4-96f9-4fc8-8a86-c616f43659de" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "G200_NJ53_04wajima2nd.json",
+         "length" : 768,
+         "mime" : "application/json",
+         "sha256" : "ff7be344e057a75838415da1ca3cea108417e76a5e1be3307d05c7456c596f81",
+         "time" : 1720943111,
+         "title" : "20万分の1地質図幅「輪島」（第2版）: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/G200_NJ53_04wajima2nd.json"
+      },
+      "file:id:673cc45c-c2b5-4202-b988-0c594f33121c" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map1354.json",
+         "length" : 3739,
+         "mime" : "application/json",
+         "sha256" : "33c8c358d04fd9c170cc18faf301aa552b1f0f1b75c78e3bd56ec8610421842a",
+         "time" : 1720943110,
+         "title" : "20万分の1地質図幅「輪島」（第2版）: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/g200/map1354.json"
+      },
+      "file:id:a86be2b4-7f7f-4255-be89-87fef12a8c64" : {
+         "desc" : "GeoTIFF: ファイルサイズは 25.17 MB です。",
+         "file_name" : "GSJ_MAP_G200_NJ5310_2019.zip",
+         "length" : 26392338,
+         "mime" : "application/zip",
+         "sha256" : "c74718858b439ee842dab90802f8da3aad6b83bc36d3f3f9e657fe8c71a067a2",
+         "time" : 1720943116,
+         "title" : "20万分の1地質図幅「輪島」（第2版）: GeoTIFF",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/GTF/GSJ_MAP_G200_NJ5310_2019.zip"
+      },
+      "file:id:c8492c2f-e172-4074-9816-15cbdcfa6262" : {
+         "desc" : "説明書: ファイルサイズは 4.56 MB です。",
+         "file_name" : "GSJ_MAP_G200_NJ5310_2019_D.pdf",
+         "length" : 4779260,
+         "mime" : "application/pdf",
+         "sha256" : "c2fc1c45e4f53893369031c48065ce3634a8154c00c7cfefce58986a81d6aaf5",
+         "time" : 1720943113,
+         "title" : "20万分の1地質図幅「輪島」（第2版）: 説明書",
+         "type" : "file",
+         "url" : "https://www.gsj.jp/data/200KGM/PDF/GSJ_MAP_G200_NJ5310_2019_D.pdf"
+      },
+      "file:id:e3312314-b746-4a15-8e97-71cb51894064" : {
+         "desc" : "出版物画像",
+         "file_name" : "gsj_map_1358_org_1399.jpg",
+         "length" : 2464014,
+         "mime" : "image/jpeg",
+         "sha256" : "c8d45eeddeb60afe9c971f37f315d16f074f72cebdcfdebcd75d2705b61e9ca3",
+         "time" : 1720943122,
+         "title" : "20万分の1地質図幅「輪島」（第2版）: 出版物画像",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/image/map/gsj_map_1358_org_1399.jpg"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 23625,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "9bd94047fd3c061472bff7b730f13aa71cc6241f0c9929bb46a04066417d6bd4",
+         "time" : 1720943109,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_1354"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 10115,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "4eabffa14ac6faa23360ea6095cd7e014ac68a93327e457ea0126fab0b189a8c",
+         "time" : 1702452227.62306,
+         "title" : "20万分の1地質図幅「輪島」（第2版） (2019)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_1354"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_1354",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "20万分の1地質図幅「輪島」（第2版） (2019)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_1354"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "20万分の1地質図幅「輪島」（第2版） (2019)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_1354"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 37389569,
+   "mirrorzip" : {
+      "length" : 36961934,
+      "set" : "free",
+      "sha256" : "ce5e04da84adb5461953082608d960ea047a784d4251a484881d51454e7f0248"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_1354",
+      "desc" : "**名称**: 20万分の1地質図幅「輪島」（第2版） / Wajima (2019)  \u000A**著者**:   \u000A**発行年**: 2019  \u000A**シリーズ**: 20万分の1地質図幅 / 1:200K GeoMap  \u000A**発行者**:   \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/g200/map1354](https://gbank.gsj.jp/ld/resource/publication/map/g200/map1354)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_1354",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "1/20万地質図幅",
+         "2019",
+         "20万分の1",
+         "地質図"
+      ],
+      "time" : 1702452227.62306,
+      "title" : "20万分の1地質図幅「輪島」（第2版） (2019)"
+   }
+}

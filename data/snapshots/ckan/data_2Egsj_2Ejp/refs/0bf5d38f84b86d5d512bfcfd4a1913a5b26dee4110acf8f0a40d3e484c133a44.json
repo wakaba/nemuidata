@@ -1,0 +1,18 @@
+{
+   "source" : {
+      "files" : {
+         "meta:activity.html" : {
+            "sha256" : "419cb879f30b5ca44a7cb7de69db15c2edb092e1a397c374b328f9f7ebcc7bf5"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "0506f1b6ba44122e329fa74d674f9c263f70d43be6f74764eec13a5da0f70731"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.gsj.jp/gkan/dataset/gsj_db_nyouga"
+   },
+   "type" : "packref"
+}

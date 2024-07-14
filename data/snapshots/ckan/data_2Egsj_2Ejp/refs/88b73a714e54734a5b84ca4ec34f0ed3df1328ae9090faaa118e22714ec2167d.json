@@ -1,0 +1,62 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:0f71d4dd-5908-473e-af9f-250582adaf62" : {
+            "name" : "GSJ_MAP_G050_10020_1978.zip",
+            "sha256" : "0b70a555ce843813baa262c173ebeabcefc102f1ec3d2ea314d01a4ff3f9ac86"
+         },
+         "file:id:1c1c5cfd-dfa1-4dd5-be19-b19868d37ee6" : {
+            "name" : "GSJ_MAP_G050_10020_1978_V01_attribute.xlsx",
+            "sha256" : "e8ef8d2b0f095d02a6d5cbabc12bcbae64f8814b05ed9664e451484fed31da19"
+         },
+         "file:id:21185859-db6d-46d7-90d3-5d336e43b51a" : {
+            "name" : "geologicmap50k_10020",
+            "sha256" : "5da3fd2227cbf1144125787b17b9af72470134a2c95a5c792a06396159a29258"
+         },
+         "file:id:3b54a8f2-e3e2-47ba-9ad1-d013c5c587b2" : {
+            "name" : "G50_10_020tubata.json",
+            "sha256" : "e3508960d464895624fbaa74f77653f2ef9e95d1f7915f426ae76786838acafc"
+         },
+         "file:id:490b3542-663d-4543-bd04-e4069e627693" : {
+            "name" : "GSJ_MAP_G050_10020_1978_V01_readme.txt",
+            "sha256" : "ab9e9409a742f2ab9d49bc6d466226c8a150a713edb51b90dc840e04d1557eb4"
+         },
+         "file:id:4b678da8-d823-484c-8e02-60ece8833336" : {
+            "name" : "GSJ_MAP_G050_10020_1978_V01.zip",
+            "sha256" : "357336a8dea37994a6bf33a53dd4b70e19e095bc7cb805963a221981bde57735"
+         },
+         "file:id:6801bd21-cdd7-4121-aa3c-ce4f1a150820" : {
+            "name" : "map495.json",
+            "sha256" : "523d5eb87a06df9334b696765b9c464237815ea4ffacbde3911c0040f57a6dd8"
+         },
+         "file:id:8d48896a-63fb-4379-8deb-99df9b1b9f8d" : {
+            "name" : "GSJ_MAP_G050_10020_1978_200dpi.jpg",
+            "sha256" : "8e20c614b971d69767ef42bc5bee918db10a155b5580f1b8650a040851691b3f"
+         },
+         "file:id:a256852f-3b0d-4589-960b-a52f470e691c" : {
+            "name" : "_y_",
+            "skip" : 1
+         },
+         "file:id:b5f83ed2-a44a-4e37-b39c-450a0a9ad1fe" : {
+            "name" : "GSJ_MAP_G050_10020_1978_D.pdf",
+            "sha256" : "da1a82ddcfc1175512d414cc955bcc1c861ae731402108585991e8ebd98fba4d"
+         },
+         "file:id:bd60549f-0b83-4b56-b143-d5aea94429e1" : {
+            "name" : "GSJ_MAP_G050_10020_1978_V01.kmz",
+            "sha256" : "9cc30a7da33a12e72bf1cf8b371b09416c9a2f305275e7bb377cfc7e78c96187"
+         },
+         "meta:activity.html" : {
+            "sha256" : "410325961e544e859f46eb72ee907ba464235b1fadaa65934ba66bf431a1395f"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "6901585ed5f45d0b80af6e78e08229b312bb39a9175b9cb6713dcb00c1b6a1bb"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_495"
+   },
+   "type" : "packref"
+}

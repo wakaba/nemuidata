@@ -1,5 +1,15 @@
 {
    "ckan" : {
+      "city_2Ehimeji_2Egkan_2Ejp" : {
+         "esite_name" : "city_2Ehimeji_2Egkan_2Ejp",
+         "site_name" : "city.himeji.gkan.jp",
+         "site_opts" : {
+            "tags" : [
+               "姫路市・播磨圏域連携中枢都市圏"
+            ]
+         },
+         "site_type" : "ckan"
+      },
       "data_2Ecity_2Etendo_2Eyamagata_2Ejp" : {
          "esite_name" : "data_2Ecity_2Etendo_2Eyamagata_2Ejp",
          "site_name" : "data.city.tendo.yamagata.jp",

@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:72711caf-f7e8-41aa-9a00-0cd3539b7dae" : {
+            "name" : "282162_onlinesoudan.csv",
+            "sha256" : "176d9c45b82f08ae9cba1687b595861d9b44efef5870320552c8721ca286c71d"
+         },
+         "meta:activity.html" : {
+            "sha256" : "850310b1d86d0b5d125ebc608bba992077cb8c8cce41d02c6bf77b0accd4e13c"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "3171de4b505ecc322a80522546e835944e906fe45ccf38d6a6e915357a90fd7e"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://city.himeji.gkan.jp/gkan/dataset/online"
+   },
+   "type" : "packref"
+}

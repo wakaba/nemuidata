@@ -1,0 +1,254 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:36cc822a-4be6-4e9b-b5f9-6a325a192249" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A川崎市五反田川流域関東ローム地質",
+         "file_name" : "MISC_16_4.json",
+         "length" : 853,
+         "mime" : "application/json",
+         "sha256" : "4f3fa6816f91b302db03fe553e0c73944cba4143d32adc1983f07ea31f478b9d",
+         "time" : 1720943057,
+         "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説: Sheet 2: 川崎市五反田川流域関東ローム地質: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/MISC_16_4.json"
+      },
+      "file:id:5a29c656-8413-403a-b735-5298df5c494a" : {
+         "desc" : "出版物画像",
+         "file_name" : "gsj_map_1432_org_1420.jpg",
+         "length" : 7559599,
+         "mime" : "image/jpeg",
+         "sha256" : "f36d25f1094041fd0e7b46dd58f71ae5fcadab931a59ab93f8277d48a26a6212",
+         "time" : 1720943064,
+         "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説: Sheet 3: 出版物画像",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/image/map/gsj_map_1432_org_1420.jpg"
+      },
+      "file:id:5e0e3793-fa37-43a9-8de5-5b7c9c3d5540" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A生田試験地関東ローム地質",
+         "file_name" : "MISC_16_7.json",
+         "length" : 853,
+         "mime" : "application/json",
+         "sha256" : "a8c7e6dcfb5203ba9929d58ff8f27159fb18b615ffdc369790270bd3d1b6883f",
+         "time" : 1720943057,
+         "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説: Sheet 3: 生田試験地関東ローム地質: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/MISC_16_7.json"
+      },
+      "file:id:6035ab2d-6dfc-4739-af11-8e575b17fc1f" : {
+         "desc" : "出版物画像",
+         "file_name" : "gsj_map_833_org_834.jpg",
+         "length" : 3811254,
+         "mime" : "image/jpeg",
+         "sha256" : "0ca19efae0c22875707134c0316ec40c720d627a8505a8e576d6e14a6b40e3e0",
+         "time" : 1720943058,
+         "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説: Sheet 1: 出版物画像",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/image/map/gsj_map_833_org_834.jpg"
+      },
+      "file:id:71ce2302-7026-43f8-8ebb-a7c953dd708c" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map833.json",
+         "length" : 21643,
+         "mime" : "application/json",
+         "sha256" : "0729ad4515769320193d5dc16b89e5fda4df73f1ecc31d9b5057943137acb184",
+         "time" : 1720943055,
+         "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/misc/map833.json"
+      },
+      "file:id:77f98965-469d-4ca3-8b40-8388cc82f1eb" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/MISC_16_1/{z}/{x}/{y}  \u000A**BBOX:** 139.3353878,35.5939146,139.448543,35.6603942",
+         "file_name" : "_y_-1",
+         "mime" : "application/octet-stream",
+         "time" : 1702452732.43536,
+         "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説: Sheet 1: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/MISC_16_1/{z}/{x}/{y}"
+      },
+      "file:id:9b64484b-e822-4dcf-bf23-f0856aa8fc4c" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/MISC_16_4/{z}/{x}/{y}  \u000A**BBOX:** 139.5201174,35.597002,139.5799009,35.6245812",
+         "file_name" : "_y_-2",
+         "mime" : "application/octet-stream",
+         "time" : 1702452732.43536,
+         "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説: Sheet 2: 川崎市五反田川流域関東ローム地質: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/MISC_16_4/{z}/{x}/{y}"
+      },
+      "file:id:9e25dc65-6ca5-4842-a361-d5eef17aa5aa" : {
+         "desc" : "出版物画像",
+         "file_name" : "gsj_map_1431_org_1419.jpg",
+         "length" : 3021211,
+         "mime" : "image/jpeg",
+         "sha256" : "ca9b60c0f0d1b316d8e49d914c36f8fe96bf0fb6339f7ffc677a88c3e6068eac",
+         "time" : 1720943061,
+         "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説: Sheet 2: 出版物画像",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/image/map/gsj_map_1431_org_1419.jpg"
+      },
+      "file:id:ba38f946-86f5-4b3d-a879-cbb9dee54ba7" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A",
+         "file_name" : "MISC_16_1.json",
+         "length" : 856,
+         "mime" : "application/json",
+         "sha256" : "03bb6a56536ae62e4305e8e0827d50491545f658014b3d7d3fa7e6cac8e8291c",
+         "time" : 1720943056,
+         "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説: Sheet 1: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/MISC_16_1.json"
+      },
+      "file:id:daa8a0bb-d874-4733-923b-69bb72b724f0" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/MISC_16_7/{z}/{x}/{y}  \u000A**BBOX:** 139.5574046,35.6060068,139.5594744,35.6081851",
+         "file_name" : "_y_-3",
+         "mime" : "application/octet-stream",
+         "time" : 1702452732.43537,
+         "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説: Sheet 3: 生田試験地関東ローム地質: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/MISC_16_7/{z}/{x}/{y}"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 23967,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "78d139b646a368d8244d440def62f427d4f2da929093c1ebcf22cb48cec07531",
+         "time" : 1720943054,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_833"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 14240,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "65f5d09e171ffe279b928bc0a6ebe80af0d90f874e56e70fd32d273dfc2f3589",
+         "time" : 1702452732.38273,
+         "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説 (1989)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_833"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_833",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説 (1989)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_833"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説 (1989)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_833"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 14454476,
+   "mirrorzip" : {
+      "length" : 14308791,
+      "set" : "free",
+      "sha256" : "10241e6582a562d0fe22fadc9f25433d29e2643d866b954acaa6f94148edc9fe"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_833",
+      "desc" : "**名称**: 16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説 / 16-1 Geological Map of Kwanto Loam Beds in North Western Part of Tama Hill, 1:10,000  \u000A**著者**: 宇野沢 昭, 岡 重文, 黒田 和男 / UNOZAWA Akira, OKA Shigefumi  \u000A**発行年**: 1989  \u000A**シリーズ**: 特殊地質図 / Miscellaneous Map Series  \u000A**発行者**: 地質調査所 / Geological Survey of Japan  \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/misc/map833](https://gbank.gsj.jp/ld/resource/publication/map/misc/map833)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_833",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "特殊地質図",
+         "1972",
+         "地質図"
+      ],
+      "time" : 1702452732.38273,
+      "title" : "16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説 (1989)"
+   }
+}

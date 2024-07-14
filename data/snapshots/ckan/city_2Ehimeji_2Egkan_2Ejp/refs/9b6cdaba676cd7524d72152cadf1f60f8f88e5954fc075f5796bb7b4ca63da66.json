@@ -1,0 +1,27 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:16b5c222-090e-443d-8838-23ae07474057" : {
+            "skip" : 1
+         },
+         "file:id:7f39a1ac-97d3-4d77-b58f-9c02ae0c041b" : {
+            "skip" : 1
+         },
+         "file:id:a9dfbd33-27a3-41a0-9b4d-8f1d2000bec5" : {
+            "skip" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "d9125b355b38661beb67df8c21dd7cbad292ce8aeb06e82cf2862fa4f7521c99"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "d15f74a11067151c793d7cd0d0dae35f8f55514cf94146f35e63683b54e76c21"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://city.himeji.gkan.jp/gkan/dataset/himetyari"
+   },
+   "type" : "packref"
+}

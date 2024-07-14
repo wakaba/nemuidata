@@ -1,0 +1,248 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:16b5c222-090e-443d-8838-23ae07474057" : {
+         "desc" : "",
+         "mime" : "text/csv",
+         "time" : 1720741110.75124,
+         "title" : "姫ちゃりサイクルステーション一覧（令和6年7月12日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/admin/gkan/dataset/f56d226f-eaaf-4c03-835a-35ccf8d6a12a/resource/16b5c222-090e-443d-8838-23ae07474057/download/282014_himetyari.csv"
+      },
+      "file:id:7f39a1ac-97d3-4d77-b58f-9c02ae0c041b" : {
+         "desc" : "",
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "time" : 1720740996.84075,
+         "title" : "姫ちゃりサイクルステーション一覧（令和6年7月12日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/admin/gkan/dataset/f56d226f-eaaf-4c03-835a-35ccf8d6a12a/resource/7f39a1ac-97d3-4d77-b58f-9c02ae0c041b/download/282014_himetyari.xlsx"
+      },
+      "file:id:a9dfbd33-27a3-41a0-9b4d-8f1d2000bec5" : {
+         "desc" : "",
+         "mime" : "application/geo\u002Bjson",
+         "time" : 1720741160.26914,
+         "title" : "姫ちゃりサイクルステーション一覧（令和6年7月12日時点）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/admin/gkan/dataset/f56d226f-eaaf-4c03-835a-35ccf8d6a12a/resource/a9dfbd33-27a3-41a0-9b4d-8f1d2000bec5/download/282014_himetyari.geojson"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 47116,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "d9125b355b38661beb67df8c21dd7cbad292ce8aeb06e82cf2862fa4f7521c99",
+         "time" : 1720943276,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/himetyari"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5747,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "d15f74a11067151c793d7cd0d0dae35f8f55514cf94146f35e63683b54e76c21",
+         "time" : 1720741160.27997,
+         "title" : "姫路市シェアサイクル「姫ちゃり」サイクルステーション",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=himetyari"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "地域公共交通課 (姫路市都市局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "姫路市シェアサイクル「姫ちゃり」サイクルステーション",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/himetyari"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=himetyari",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市シェアサイクル「姫ちゃり」サイクルステーション",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/himetyari"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市シェアサイクル「姫ちゃり」サイクルステーション",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/himetyari"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市シェアサイクル「姫ちゃり」サイクルステーション",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/himetyari"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 52863,
+   "mirrorzip" : {
+      "length" : 13257,
+      "set" : "free",
+      "sha256" : "b0a0c9dc51b67457a4e1249815b4e255c610c17f76bbba42f6bf9788a6aba48a"
+   },
+   "package" : {
+      "author" : "地域公共交通課",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=himetyari",
+      "desc" : "姫路駅周辺の中心市街地で、「姫ちゃり」を実施しており、サイクルステーションの貸出・返却場所の一覧です。",
+      "org" : "姫路市都市局",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/himetyari",
+      "tags" : [
+         "地域公共交通課",
+         "姫路市都市局",
+         "姫路市",
+         "都市計画・交通",
+         "姫ちゃり",
+         "自転車"
+      ],
+      "time" : 1720741160.27997,
+      "title" : "姫路市シェアサイクル「姫ちゃり」サイクルステーション"
+   }
+}

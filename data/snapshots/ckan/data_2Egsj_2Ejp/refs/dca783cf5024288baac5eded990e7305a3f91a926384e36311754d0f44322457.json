@@ -1,0 +1,34 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:0d9c07b6-e19e-4215-86f3-dcd8795b1ba6" : {
+            "name" : "gsj_map_952_org_957.jpg",
+            "sha256" : "94f062b72a6b6087c65e94da65403fdff0eb8940c6a15007bb50d0fb1348ea12"
+         },
+         "file:id:13b38677-a526-4154-b95a-c9bc21e8e0b0" : {
+            "name" : "map952.json",
+            "sha256" : "38b7497d965b009e6cf447abda4bd848f498e28720297416dcea5044d8c52331"
+         },
+         "file:id:259aa026-17dd-40a5-88e4-b2e2483c3031" : {
+            "name" : "_y_",
+            "skip" : 1
+         },
+         "file:id:b22c4e8f-f294-4cb1-9f82-ab92ab6f6c92" : {
+            "name" : "HY_40.json",
+            "sha256" : "de3e6fc41916a79da9ce66b18f4b8ccbdce1d8f83df7919e774e164239460cf7"
+         },
+         "meta:activity.html" : {
+            "sha256" : "b5ad5e1b8c893ed513eed7cc0d58f25eaf417ae1092b0512346f7a6311cc4cec"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "edcd481e37ac51d579c8224b92e6e7473b99b3a4b3983a99dc49da4745af071b"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_952"
+   },
+   "type" : "packref"
+}

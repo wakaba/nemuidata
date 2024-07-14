@@ -1,0 +1,339 @@
+{
+   "files" : {
+      "file:id:1b172bce-98d9-4078-97d8-03560bbcceb6" : {
+         "desc" : "",
+         "file_name" : "2017siminmanzokudochousakaitou.csv",
+         "length" : 215545,
+         "mime" : "text/csv",
+         "sha256" : "6a0291dc7b78467fe7c60755ab4cd7d0f0a04230549100c4faa3a1957aea4dbf",
+         "time" : 1720943230,
+         "title" : "2017年_回答",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0c656b1c-424a-4cf5-8c2f-1b58368ecc2a/resource/1b172bce-98d9-4078-97d8-03560bbcceb6/download/2017siminmanzokudochousakaitou.csv"
+      },
+      "file:id:213cb914-649e-4f89-9ef9-6d07839ccb69" : {
+         "desc" : "2017年の市民満足度調査結果",
+         "file_name" : "2017siminmanzokudochousabotinoukotudounikannsuruiken.csv",
+         "length" : 4685,
+         "mime" : "text/csv",
+         "sha256" : "de74bc756b505f4489247654b1dc020e014c50df90752a344aad856aa0e9ae4c",
+         "time" : 1720943229,
+         "title" : "2017年_墓地納骨堂に関する意見一覧",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0c656b1c-424a-4cf5-8c2f-1b58368ecc2a/resource/213cb914-649e-4f89-9ef9-6d07839ccb69/download/2017siminmanzokudochousabotinoukotudounikannsuruiken.csv"
+      },
+      "file:id:4059a360-adca-4ba2-89f1-38dfc61d1515" : {
+         "desc" : "",
+         "file_name" : "2021siminmanzokudochousakaitou.csv",
+         "length" : 182007,
+         "mime" : "text/csv",
+         "sha256" : "3701dd94ee30fe2f6a2f3a3c50b1264476bf77f6512ada72f3b90cfea1a6acb6",
+         "time" : 1720943231,
+         "title" : "2021年_回答",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0c656b1c-424a-4cf5-8c2f-1b58368ecc2a/resource/4059a360-adca-4ba2-89f1-38dfc61d1515/download/2021siminmanzokudochousakaitou.csv"
+      },
+      "file:id:5c9e1007-ff1d-4af5-b205-295389f14790" : {
+         "desc" : "",
+         "file_name" : "2021siminmanzokudochousasetumon.csv",
+         "length" : 5400,
+         "mime" : "text/csv",
+         "sha256" : "85c7d62f7eaaff53688bff130be2b83b47696f99b7cfbef12b5c1eaea2e831de",
+         "time" : 1720943231,
+         "title" : "2021年_設問",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0c656b1c-424a-4cf5-8c2f-1b58368ecc2a/resource/5c9e1007-ff1d-4af5-b205-295389f14790/download/2021siminmanzokudochousasetumon.csv"
+      },
+      "file:id:6b86d2cf-14da-4705-b00a-80b7fac58830" : {
+         "desc" : "",
+         "file_name" : "2017siminmanzokudochousakaitoukoumokur2.csv",
+         "length" : 22157,
+         "mime" : "text/csv",
+         "sha256" : "ed65872348913d21d718d7a15f7a389dbc7a4d9a79b4eba995aaaa1d9f6b0030",
+         "time" : 1720943231,
+         "title" : "2017年_回答項目　",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0c656b1c-424a-4cf5-8c2f-1b58368ecc2a/resource/6b86d2cf-14da-4705-b00a-80b7fac58830/download/2017siminmanzokudochousakaitoukoumokur2.csv"
+      },
+      "file:id:8fc07354-d07e-4a15-86ff-a867a588fd8d" : {
+         "desc" : "",
+         "file_name" : "2021siminmanzokudochousakaitoukoumoku.csv",
+         "length" : 8760,
+         "mime" : "text/csv",
+         "sha256" : "933aa4e6300c65cc9185207302449f090b2c08e5db2b99db326fc15445d79f9c",
+         "time" : 1720943232,
+         "title" : "2021年_回答項目",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0c656b1c-424a-4cf5-8c2f-1b58368ecc2a/resource/8fc07354-d07e-4a15-86ff-a867a588fd8d/download/2021siminmanzokudochousakaitoukoumoku.csv"
+      },
+      "file:id:af22cbdf-0b69-4af1-b2e3-2579548b8850" : {
+         "desc" : "",
+         "file_name" : "2017siminmanzokudochousagutaitekinaaidea.csv",
+         "length" : 47673,
+         "mime" : "text/csv",
+         "sha256" : "0833da29cc7367ce835134209a6d431dc5364d4ca25a915381a95d6a9e8417c2",
+         "time" : 1720943229,
+         "title" : "2017年_具体的なアイデア",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0c656b1c-424a-4cf5-8c2f-1b58368ecc2a/resource/af22cbdf-0b69-4af1-b2e3-2579548b8850/download/2017siminmanzokudochousagutaitekinaaidea.csv"
+      },
+      "file:id:b2f8828b-7895-42bc-b7f7-cac5cdd57c92" : {
+         "desc" : "",
+         "file_name" : "2017siminmanzokudochousagyouseisesakuzennpannituitenoiken.csv",
+         "length" : 29254,
+         "mime" : "text/csv",
+         "sha256" : "638e6b26af7ae91c713535b46449b572fa430a30a18b6d1c3863ece9ddb70732",
+         "time" : 1720943230,
+         "title" : "2017年_行政政策全般についての意見",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0c656b1c-424a-4cf5-8c2f-1b58368ecc2a/resource/b2f8828b-7895-42bc-b7f7-cac5cdd57c92/download/2017siminmanzokudochousagyouseisesakuzennpannituitenoiken.csv"
+      },
+      "file:id:b620a798-f7e7-4f81-b362-30aa9beb1314" : {
+         "desc" : "",
+         "file_name" : "2017siminmanzokudochousasitumontate.csv",
+         "length" : 12651,
+         "mime" : "text/csv",
+         "sha256" : "e62de72fc5ef9a7f429688ec56dc42e8d43968307626906f972ce331ddf49068",
+         "time" : 1720943229,
+         "title" : "2017年_質問内容",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0c656b1c-424a-4cf5-8c2f-1b58368ecc2a/resource/b620a798-f7e7-4f81-b362-30aa9beb1314/download/2017siminmanzokudochousasitumontate.csv"
+      },
+      "file:id:c25c1ae0-5465-40c3-89da-3abcb4b8d801" : {
+         "desc" : "",
+         "file_name" : "2023_siminmanzokudochousa.csv",
+         "length" : 189544,
+         "mime" : "text/csv",
+         "sha256" : "e9598f4608feaad4fc1b244ac8ac7de6c7d06cfa12660b54df525426598f2938",
+         "time" : 1720943237,
+         "title" : "2023年_市民満足度調査",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0c656b1c-424a-4cf5-8c2f-1b58368ecc2a/resource/c25c1ae0-5465-40c3-89da-3abcb4b8d801/download/2023_siminmanzokudochousa.csv"
+      },
+      "file:id:fdf8f911-3d15-48d8-b005-fa38be87edfe" : {
+         "desc" : "",
+         "file_name" : "2021siminmanzokudochousajiyuukinyuu.csv",
+         "length" : 68491,
+         "mime" : "text/csv",
+         "sha256" : "b24d4d55dba5e498fecd9080cebcb04ad92f4c57bab3d2f58e15aee74104f04c",
+         "time" : 1720943232,
+         "title" : "2021年_自由記入",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0c656b1c-424a-4cf5-8c2f-1b58368ecc2a/resource/fdf8f911-3d15-48d8-b005-fa38be87edfe/download/2021siminmanzokudochousajiyuukinyuu.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 32126,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a0c623caa2752464863f0e7640ed0a11b051ab309c9cf52d2533946479c3032e",
+         "time" : 1720943229,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/takasago-shiminmanzoku"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 10869,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "e719eb8a583f02ddbb31f7ad2906b2a03d7d7aff6909d2a19d5ec85cf78e4929",
+         "time" : 1709601496.0236,
+         "title" : "市民満足度調査【企画課】",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=takasago-shiminmanzoku"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "高砂市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "市民満足度調査【企画課】",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/takasago-shiminmanzoku"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=takasago-shiminmanzoku",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "市民満足度調査【企画課】",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/takasago-shiminmanzoku"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "市民満足度調査【企画課】",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/takasago-shiminmanzoku"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "市民満足度調査【企画課】",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/takasago-shiminmanzoku"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 829162,
+   "mirrorzip" : {
+      "length" : 209197,
+      "set" : "free",
+      "sha256" : "134fc5814f76238ac17279111088610d9804bfe27b92166564e19c1f7a57a1da"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=takasago-shiminmanzoku",
+      "desc" : "高砂市の市政及び施策の基礎資料として、2年に1回実施している調査です。\u000D\u000A高砂市HPでも結果を公表しております。\u000D\u000Ahttps://www.city.takasago.lg.jp/soshikikarasagasu/kikakuka/seisaku_keikaku/2/2/2889.html",
+      "org" : "高砂市",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/takasago-shiminmanzoku",
+      "tags" : [
+         "高砂市"
+      ],
+      "time" : 1709601496.0236,
+      "title" : "市民満足度調査【企画課】"
+   }
+}

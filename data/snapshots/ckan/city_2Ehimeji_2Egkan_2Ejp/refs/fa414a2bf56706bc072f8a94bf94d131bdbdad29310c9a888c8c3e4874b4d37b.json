@@ -1,0 +1,21 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:d729f8d9-0325-4067-a4ca-f864ea319f97" : {
+            "skip" : 1
+         },
+         "meta:activity.html" : {
+            "sha256" : "5167c1cc86a90a92554f8648b6a4a9b20436255a4519cecfbcc9ab3f83d89624"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "15521b39535e63b022b680bec2572e8c8111e6575421cf7f0a88d417e965b5c8"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://city.himeji.gkan.jp/gkan/dataset/suikeijinkou"
+   },
+   "type" : "packref"
+}

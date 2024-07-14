@@ -1,0 +1,288 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:086b1b55-2929-4e35-986c-4d49790081ec" : {
+         "desc" : "出版物画像",
+         "file_name" : "gsj_map_1550_org_1535.jpg",
+         "length" : 1259489,
+         "mime" : "image/jpeg",
+         "sha256" : "d33f9ddf36746fff5169d52538e348879d4393d11732da6fadac327a1cd388bf",
+         "time" : 1720943184,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 2: 出版物画像",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/image/map/gsj_map_1550_org_1535.jpg"
+      },
+      "file:id:18be0eef-83e0-49a7-9869-bc8e3210ff2b" : {
+         "desc" : "出版物画像",
+         "file_name" : "gsj_map_1549_org_1534.jpg",
+         "length" : 3278736,
+         "mime" : "image/jpeg",
+         "sha256" : "34efd7c2fff3db7958a6be703b8b5618ecc48db555397f072c9d228daee6321c",
+         "time" : 1720943175,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 1: 出版物画像",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/image/map/gsj_map_1549_org_1534.jpg"
+      },
+      "file:id:3cfe1ca3-c36d-42d8-91f6-41b1327b1b65" : {
+         "desc" : "出版物画像",
+         "file_name" : "gsj_map_1551_org_1536.jpg",
+         "length" : 1588238,
+         "mime" : "image/jpeg",
+         "sha256" : "96e29601a79004dc4270396659c4d354e266033ddbbffcc5bf539fb1eb194771",
+         "time" : 1720943186,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 3: 出版物画像",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/image/map/gsj_map_1551_org_1536.jpg"
+      },
+      "file:id:4f501d90-4038-4fe9-bab8-decf620125f3" : {
+         "desc" : "マップの基本情報および構成要素に関する情報をまとめたJSONデータです。",
+         "file_name" : "map1422.json",
+         "length" : 6176,
+         "mime" : "application/json",
+         "sha256" : "1d68568efb540e7ff08d3c7f91d2356e660a1ef760142f3527d43f48de286212",
+         "time" : 1720943171,
+         "title" : "東・東南アジア磁気異常図（第3版）: マップ情報（JSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/publication/map/magn/map1422.json"
+      },
+      "file:id:635fba41-d743-48c7-96cf-28de150c2018" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/DGM_P3_2021_a2/{z}/{x}/{y}  \u000A**BBOX:** 115.5615036,3.6960159,127.4065195,20.2953323",
+         "file_name" : "_y_-3",
+         "mime" : "application/octet-stream",
+         "time" : 1702452676.63809,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 3: Philippines: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/DGM_P3_2021_a2/{z}/{x}/{y}"
+      },
+      "file:id:7747982c-ee23-49f0-9c17-1932273fd95b" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000APapua New Guinea",
+         "file_name" : "DGM_P3_2021_a3.json",
+         "length" : 950,
+         "mime" : "application/json",
+         "sha256" : "b31af5d64a81227c0954de1261670f4aee8a82ab76c7fac42113418ee0a01860",
+         "time" : 1720943174,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 4: Papua New Guinea: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/DGM_P3_2021_a3.json"
+      },
+      "file:id:7ebbf9f4-c4e9-4d09-9579-dd9bfde1c285" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000APhilippines",
+         "file_name" : "DGM_P3_2021_a2.json",
+         "length" : 944,
+         "mime" : "application/json",
+         "sha256" : "c331e9d4d63b2630e918876f42d395bbe4242dcc86de3573cc1b2d88ed46a0c8",
+         "time" : 1720943173,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 3: Philippines: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/DGM_P3_2021_a2.json"
+      },
+      "file:id:828f19e3-331f-4469-8e5c-be2e0a3260ea" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/DGM_P3_2021_a3/{z}/{x}/{y}  \u000A**BBOX:** 139.9608637,-12.3003684,157.0356975,0.3247253",
+         "file_name" : "_y_-4",
+         "mime" : "application/octet-stream",
+         "time" : 1702452676.63809,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 4: Papua New Guinea: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/DGM_P3_2021_a3/{z}/{x}/{y}"
+      },
+      "file:id:99e8637a-54e3-4054-92f0-e8116f2dfc20" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/DGM_P3_2021/{z}/{x}/{y}  \u000A**BBOX:** 91.6188285,-13.0270226,161.4240926,46.6966088",
+         "file_name" : "_y_-1",
+         "mime" : "application/octet-stream",
+         "time" : 1702452676.63808,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 1: 東・東南アジア磁気異常図（第3版）: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/DGM_P3_2021/{z}/{x}/{y}"
+      },
+      "file:id:9c54aeff-687b-4a14-ac92-2ccfc55899cc" : {
+         "desc" : "タイル地図を利用するURLのテンプレートです。ウェブ地図等で利用できます。  \u000A**Tile map template :** https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/DGM_P3_2021_a1/{z}/{x}/{y}  \u000A**BBOX:** 94.1162186,0.6295336,106.9683032,20.8500714",
+         "file_name" : "_y_-2",
+         "mime" : "application/octet-stream",
+         "time" : 1702452676.63808,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 2: Thailand - Malaysia: 地図タイル（ラスタ）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/xyz/1.0.0/DGM_P3_2021_a1/{z}/{x}/{y}"
+      },
+      "file:id:b04a3fa7-8733-4862-aded-698f11b973b5" : {
+         "desc" : "出版物画像",
+         "file_name" : "gsj_map_1552_org_1537.jpg",
+         "length" : 1579009,
+         "mime" : "image/jpeg",
+         "sha256" : "c74191b3936b03f1ea9c2afeec65de50aa604a646a7739c79fbc038ea3479daf",
+         "time" : 1720943188,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 4: 出版物画像",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/ld/resource/image/map/gsj_map_1552_org_1537.jpg"
+      },
+      "file:id:d0f210c3-5b61-468f-9c33-fa267c4d4078" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000AThailand - Malaysia",
+         "file_name" : "DGM_P3_2021_a1.json",
+         "length" : 952,
+         "mime" : "application/json",
+         "sha256" : "84316fb291dd66d1427d67df52f1eac6f61701d780f49a3beefb35c9c1c0db91",
+         "time" : 1720943172,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 2: Thailand - Malaysia: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/DGM_P3_2021_a1.json"
+      },
+      "file:id:e1c7d22f-a5ae-4a2b-9f68-34b69628acf1" : {
+         "desc" : "タイル地図を利用するための情報を表したTileJSONです。  \u000A東・東南アジア磁気異常図（第3版）",
+         "file_name" : "DGM_P3_2021.json",
+         "length" : 1004,
+         "mime" : "application/json",
+         "sha256" : "839c2998bc2fb12e448c50d017df523c3b9cf8987c6d361764225670f20f048b",
+         "time" : 1720943171,
+         "title" : "東・東南アジア磁気異常図（第3版）: Sheet 1: 東・東南アジア磁気異常図（第3版）: 地図タイル情報（TileJSON）",
+         "type" : "file",
+         "url" : "https://gbank.gsj.jp/geonavi/maptile/v2/getTileJson/DGM_P3_2021.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 20592,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5599bd8529842041fbab7b818401b76887462394820ac226b3982fe85e28b37c",
+         "time" : 1720943170,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/dataset/activity/gsj_map_1422"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 16787,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "d85b27ccd5d95e468eaa8faf26519f7f069d868125381bc5772ce8a82ab39669",
+         "time" : 1702452676.58296,
+         "title" : "東・東南アジア磁気異常図（第3版） (2021)",
+         "type" : "meta",
+         "url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_1422"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+            "is_free" : "free",
+            "key" : "-ddsd-jpgov-standard-2.0",
+            "label" : "政府標準利用規約(第2.0版)",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_1422",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "産業技術総合研究所・地質調査総合センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東・東南アジア磁気異常図（第3版） (2021)",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_1422"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.gsj.jp/license/license.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-www.gsj.jp",
+            "label" : "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "産業技術総合研究所・地質調査総合センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_by" : 1,
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東・東南アジア磁気異常図（第3版） (2021)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_1422"
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.gsj.jp/license/license.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 7752877,
+   "mirrorzip" : {
+      "length" : 7042397,
+      "set" : "free",
+      "sha256" : "b227a5592537fe24f85d39c6864376c2153ba24501c5a9f5c3082a15b8c4857a"
+   },
+   "package" : {
+      "author" : "産業技術総合研究所・地質調査総合センター",
+      "ckan_api_url" : "https://data.gsj.jp/gkan/api/action/package_show?id=gsj_map_1422",
+      "desc" : "**名称**: 東・東南アジア磁気異常図（第3版） / Magnetic Anomaly Map of East and Southeast Asia, Revised Version (3rd Edition)  \u000A**著者**:   \u000A**発行年**: 2021  \u000A**シリーズ**: 空中磁気図 / Aeromagnetic anomaly map  \u000A**発行者**:   \u000A**マップ情報**: [https://gbank.gsj.jp/ld/resource/publication/map/magn/map1422](https://gbank.gsj.jp/ld/resource/publication/map/magn/map1422)",
+      "org" : "地質調査総合センター",
+      "page_url" : "https://data.gsj.jp/gkan/dataset/gsj_map_1422",
+      "tags" : [
+         "産業技術総合研究所・地質調査総合センター",
+         "地質調査総合センター",
+         "空中磁気図",
+         "2021",
+         "アジア",
+         "地球物理",
+         "磁気",
+         "空中磁気異常"
+      ],
+      "time" : 1702452676.58296,
+      "title" : "東・東南アジア磁気異常図（第3版） (2021)"
+   }
+}

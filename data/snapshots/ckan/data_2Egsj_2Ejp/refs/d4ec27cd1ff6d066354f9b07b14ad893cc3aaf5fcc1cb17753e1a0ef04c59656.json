@@ -1,0 +1,46 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:0061439e-23c3-41e3-8391-865e972a34b4" : {
+            "name" : "GSJ_MAP_G200_NJ5310_2019_200dpi.jpg",
+            "sha256" : "4d817c48766c19db980921ff0aff3bd5baf7a4de6297cbcbeb5409f2fcd41fb0"
+         },
+         "file:id:1028cb85-0bdf-4091-bdaf-99f08e740b2e" : {
+            "name" : "_y_",
+            "skip" : 1
+         },
+         "file:id:11bb2fd4-96f9-4fc8-8a86-c616f43659de" : {
+            "name" : "G200_NJ53_04wajima2nd.json",
+            "sha256" : "ff7be344e057a75838415da1ca3cea108417e76a5e1be3307d05c7456c596f81"
+         },
+         "file:id:673cc45c-c2b5-4202-b988-0c594f33121c" : {
+            "name" : "map1354.json",
+            "sha256" : "33c8c358d04fd9c170cc18faf301aa552b1f0f1b75c78e3bd56ec8610421842a"
+         },
+         "file:id:a86be2b4-7f7f-4255-be89-87fef12a8c64" : {
+            "name" : "GSJ_MAP_G200_NJ5310_2019.zip",
+            "sha256" : "c74718858b439ee842dab90802f8da3aad6b83bc36d3f3f9e657fe8c71a067a2"
+         },
+         "file:id:c8492c2f-e172-4074-9816-15cbdcfa6262" : {
+            "name" : "GSJ_MAP_G200_NJ5310_2019_D.pdf",
+            "sha256" : "c2fc1c45e4f53893369031c48065ce3634a8154c00c7cfefce58986a81d6aaf5"
+         },
+         "file:id:e3312314-b746-4a15-8e97-71cb51894064" : {
+            "name" : "gsj_map_1358_org_1399.jpg",
+            "sha256" : "c8d45eeddeb60afe9c971f37f315d16f074f72cebdcfdebcd75d2705b61e9ca3"
+         },
+         "meta:activity.html" : {
+            "sha256" : "9bd94047fd3c061472bff7b730f13aa71cc6241f0c9929bb46a04066417d6bd4"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "4eabffa14ac6faa23360ea6095cd7e014ac68a93327e457ea0126fab0b189a8c"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.gsj.jp/gkan/dataset/gsj_map_1354"
+   },
+   "type" : "packref"
+}

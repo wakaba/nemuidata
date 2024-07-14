@@ -1,0 +1,18 @@
+{
+   "source" : {
+      "files" : {
+         "meta:activity.html" : {
+            "sha256" : "aa3f74fb44c7c6770dcd74f44ac78b2375f99988d1803245e6d8d414d68e0d88"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "1b61bd24326f2a20d5726970af30e26efb0df1548d389c181d48808e9666444e"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.gsj.jp/gkan/dataset/gsj_db_urbangeol"
+   },
+   "type" : "packref"
+}
