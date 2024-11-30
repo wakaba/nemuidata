@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:19f8a637-f003-495e-863b-49b879f2dcde" : {
+         "desc" : "",
+         "file_name" : "13-03-3.xls",
+         "length" : 31744,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "d2fd8a02e7183ddb3785f5733e4924860fc9d70541fd35ec9a89610e6f636ef0",
+         "time" : 1732942643,
+         "title" : "投票状況　(3)県知事選挙 ",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/cedc2de9-6d69-4b5b-91c3-26e6c93c664b/resource/19f8a637-f003-495e-863b-49b879f2dcde/download/13-03-3.xls"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15063,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5325da1aef5595445b61532e35dcfa12077386523bf2993cf9c5c4428879e639",
+         "time" : 1732942642,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1511508969"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2753,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c845dec10a2f9e4076916d6c47742c2b1ef2823d7371a50ee6beb63add8ecbdd",
+         "time" : 1712276430.04677,
+         "title" : "投票状況　(3)県知事選挙",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1511508969"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "投票状況　(3)県知事選挙",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1511508969"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1511508969",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "投票状況　(3)県知事選挙",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1511508969"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 49560,
+   "mirrorzip" : {
+      "length" : 20620,
+      "set" : "free",
+      "sha256" : "ba1481e7fb6fb12c9368a2f7dd8af4e68191d5d806ea6d6a62a9a85958e1d4b2"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1511508969",
+      "desc" : "最高投票率（投票区）は期日前投票に係るものを除く。\u0009\u000D\u000A資料：選挙管理委員会事務局",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1511508969",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "統計",
+         "選挙"
+      ],
+      "time" : 1712276430.04677,
+      "title" : "投票状況　(3)県知事選挙"
+   }
+}

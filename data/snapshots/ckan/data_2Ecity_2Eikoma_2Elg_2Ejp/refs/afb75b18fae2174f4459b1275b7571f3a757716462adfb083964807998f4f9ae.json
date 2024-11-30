@@ -1,0 +1,42 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:26185365-6189-4ef1-b5ed-6a2e39c303df" : {
+            "name" : "sanrokupark3.jpg",
+            "sha256" : "041b6784a56bcd6bfca87ae365318aa64cca30fb56205f3d0f3a022e3f8b75a6"
+         },
+         "file:id:33de47de-cc51-4929-96ad-ae6f95307cbc" : {
+            "name" : "sanrokupark6.jpg",
+            "sha256" : "79c9316a046e1fb8fe519a0e8f5f85e617c5410eb9c59541cbd36c4fb10e2f32"
+         },
+         "file:id:37c8232a-3991-4c71-879a-5873300d27e4" : {
+            "name" : "sanparkpark.jpg",
+            "sha256" : "e8f590edfcf78b2207800fbca3754e2ac2aab155f3bd19233c616115b4cfb49c"
+         },
+         "file:id:a0c3831f-60fb-4f9a-aaa6-2f80cbaecf35" : {
+            "name" : "sanrokupark5.jpg",
+            "sha256" : "018de913e5a2311006a8a284ed83dc65b7353ae649f8eabb8734c7771216298c"
+         },
+         "file:id:b3dd8103-8a39-4004-abce-8249d10bd25c" : {
+            "name" : "sanrokupark2.jpg",
+            "sha256" : "6815afe5f5bb188d94ce13c024bfd770839cf5db7c3861d8438becf6a93e4e04"
+         },
+         "file:id:d87892e7-cbe9-4914-af94-2cd4f1946aab" : {
+            "name" : "sanrokupark4.jpg",
+            "sha256" : "824726cc768d41149e888e416764a7f1f43f35a6c92057d0a4f6c86d34952acc"
+         },
+         "meta:activity.html" : {
+            "sha256" : "52154541a50da7d8ba54ae6c2d0114811860b940f0409f524f1acdab45023ca0"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "dcb017bb9dd39688903a9b2641054aae83118b808bb1110d4a5fac7aeefcb7b3"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487917862"
+   },
+   "type" : "packref"
+}

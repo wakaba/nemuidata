@@ -1,0 +1,161 @@
+{
+   "files" : {
+      "file:id:e3546e81-dc36-4921-90c8-42761f8d9022" : {
+         "desc" : "資料：県統計課「学校基本調査結果報告書」\u000D\u000A",
+         "file_name" : "08-02.xls",
+         "length" : 30720,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "f5e4c11678cad3fc82e5ddcd034837dad5a88804f4d0ef9430b75c7b6f319566",
+         "time" : 1732942360,
+         "title" : "認定こども園の概況",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/f45bda7d-8460-4c69-a2ce-40a7a989ada5/resource/e3546e81-dc36-4921-90c8-42761f8d9022/download/08-02.xls"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14983,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "bc4c8b24807d3f8278d664ec174451a402ec9edb4dbf661dfaecd5b6601ee059",
+         "time" : 1732942359,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1620729450"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 3264,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "a4e8657e578b9d70b3444a639e1fef44768f05838e9d6d63e16d26d04d9c9fed",
+         "time" : 1712276060.25334,
+         "title" : "認定こども園の概況",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1620729450"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "認定こども園の概況",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1620729450"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1620729450",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "認定こども園の概況",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1620729450"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 48967,
+   "mirrorzip" : {
+      "length" : 17850,
+      "set" : "free",
+      "sha256" : "4f9a317428a4a8ace0f449ef67bfb643db942f1a54fecc007aaaf59b997cf9c0"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1620729450",
+      "desc" : "資料：県統計課「学校基本調査結果報告書」",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1620729450",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "子育て・教育",
+         "統計",
+         "児童",
+         "子ども",
+         "学校"
+      ],
+      "time" : 1712276060.25334,
+      "title" : "認定こども園の概況"
+   }
+}

@@ -1,0 +1,180 @@
+{
+   "files" : {
+      "file:id:787efb48-c565-4b8b-a7fb-a30b2c57b0fc" : {
+         "desc" : "",
+         "file_name" : "chsahyou.pdf",
+         "length" : 533938,
+         "mime" : "application/pdf",
+         "sha256" : "4c818e360d2308478269a33f9cfb840d33ee930d30a19b32fe5edcd07dc0e126",
+         "time" : 1732942655,
+         "title" : "調査票",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/2808c5e1-9792-459c-98af-a327ffdbad6b/resource/787efb48-c565-4b8b-a7fb-a30b2c57b0fc/download/chsahyou.pdf"
+      },
+      "file:id:94bcd47e-3606-40f6-a31c-e8db3d0787aa" : {
+         "desc" : "",
+         "file_name" : "kekka.xlsx",
+         "length" : 200812,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "368dbfce0453ae73c55b9ef3f8266768f93b1e579d8ec7c2f80cbcde3599e67d",
+         "time" : 1732942657,
+         "title" : "調査結果",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/2808c5e1-9792-459c-98af-a327ffdbad6b/resource/94bcd47e-3606-40f6-a31c-e8db3d0787aa/download/kekka.xlsx"
+      },
+      "file:id:c65f24bd-b8b0-4337-9123-50835a166388" : {
+         "desc" : "",
+         "file_name" : "gaiyou.pdf",
+         "length" : 163153,
+         "mime" : "application/pdf",
+         "sha256" : "692f4431e421874901ec04966505eff46d6eff6087033cbf8e451ed336bd8bf6",
+         "time" : 1732942659,
+         "title" : "結果概要",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/2808c5e1-9792-459c-98af-a327ffdbad6b/resource/c65f24bd-b8b0-4337-9123-50835a166388/download/gaiyou.pdf"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15126,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "0388d5f86839c522da5c54ec733723a372f8953d2d9b6c022f3d8156ea9a7f89",
+         "time" : 1732942655,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1654500107"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4254,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "531e516a7f302b83facf5936f000344b0a28d5eecd6971509e5ca019c965d19d",
+         "time" : 1655277572.57342,
+         "title" : "令和4年度市民実感度調査（簡易版）結果",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1654500107"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "企画政策課 (経営企画部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "令和4年度市民実感度調査（簡易版）結果",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1654500107"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1654500107",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "令和4年度市民実感度調査（簡易版）結果",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1654500107"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 917283,
+   "mirrorzip" : {
+      "length" : 820239,
+      "set" : "free",
+      "sha256" : "54228ea423675013087c772e33be279fc0c85cee361027cb26039a6becc824dd"
+   },
+   "package" : {
+      "author" : "企画政策課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1654500107",
+      "desc" : "回答がない箇所には「-」を記入しています。",
+      "org" : "経営企画部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1654500107",
+      "tags" : [
+         "企画政策課",
+         "経営企画部",
+         "その他",
+         "くらし"
+      ],
+      "time" : 1655277572.57342,
+      "title" : "令和4年度市民実感度調査（簡易版）結果"
+   }
+}

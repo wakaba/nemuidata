@@ -1,0 +1,165 @@
+{
+   "files" : {
+      "file:id:b990b491-a02b-416d-b3ac-1a73b27567b9" : {
+         "desc" : "",
+         "file_name" : "mirainokioku-list.xlsx",
+         "length" : 17550,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "7636ddea61a261f565eebaddb4a578543b19f064264104edf2b876b2c6b6bf32",
+         "time" : 1732942407,
+         "title" : "ミライのキオク位置情報",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/b505a165-c645-496b-950a-e5121b6dd796/resource/b990b491-a02b-416d-b3ac-1a73b27567b9/download/mirainokioku-list.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15116,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a0458559131f033436270e38289f01b934e3ee57e8aa9658413e94f896cf4681",
+         "time" : 1732942407,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1581655224"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4040,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "d58df69badce7dbefb3a8712481ff9d85141bee4c05ffbc0e3c524dcbbad201a",
+         "time" : 1721621194.01961,
+         "title" : "ミライのキオク位置情報",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1581655224"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "デジタルイノベーション推進課 (--)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "ミライのキオク位置情報",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1581655224"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1581655224",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "ミライのキオク位置情報",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1581655224"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 36706,
+   "mirrorzip" : {
+      "length" : 27026,
+      "set" : "free",
+      "sha256" : "d4439c72b840cf851d93aa63512639bcbed790ff0681ecd70ee18485746276be"
+   },
+   "package" : {
+      "author" : "デジタルイノベーション推進課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1581655224",
+      "desc" : "ミライのキオクで撮影した写真のURL、写真の場所の緯度経度をまとめたものです。写真は、別途オープンデータとして公開しているものです。",
+      "org" : "--",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1581655224",
+      "tags" : [
+         "デジタルイノベーション推進課",
+         "--",
+         "観光・文化",
+         "1963-1970",
+         "1971-1975",
+         "1976-1980",
+         "1981-1988",
+         "1989-1998",
+         "位置情報",
+         "年代不明",
+         "風景"
+      ],
+      "time" : 1721621194.01961,
+      "title" : "ミライのキオク位置情報"
+   }
+}

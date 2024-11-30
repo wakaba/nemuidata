@@ -1,0 +1,216 @@
+{
+   "files" : {
+      "file:id:26185365-6189-4ef1-b5ed-6a2e39c303df" : {
+         "desc" : "",
+         "file_name" : "sanrokupark3.jpg",
+         "length" : 1612137,
+         "mime" : "image/jpeg",
+         "sha256" : "041b6784a56bcd6bfca87ae365318aa64cca30fb56205f3d0f3a022e3f8b75a6",
+         "time" : 1732942681,
+         "title" : "生駒山麓公園(3)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/68e9c3a5-da6a-4a90-a4ab-04813846ed20/resource/26185365-6189-4ef1-b5ed-6a2e39c303df/download/sanrokupark3.jpg"
+      },
+      "file:id:33de47de-cc51-4929-96ad-ae6f95307cbc" : {
+         "desc" : "",
+         "file_name" : "sanrokupark6.jpg",
+         "length" : 1845649,
+         "mime" : "image/jpeg",
+         "sha256" : "79c9316a046e1fb8fe519a0e8f5f85e617c5410eb9c59541cbd36c4fb10e2f32",
+         "time" : 1732942687,
+         "title" : "生駒山麓公園(6)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/68e9c3a5-da6a-4a90-a4ab-04813846ed20/resource/33de47de-cc51-4929-96ad-ae6f95307cbc/download/sanrokupark6.jpg"
+      },
+      "file:id:37c8232a-3991-4c71-879a-5873300d27e4" : {
+         "desc" : "",
+         "file_name" : "sanparkpark.jpg",
+         "length" : 4947089,
+         "mime" : "image/jpeg",
+         "sha256" : "e8f590edfcf78b2207800fbca3754e2ac2aab155f3bd19233c616115b4cfb49c",
+         "time" : 1732942673,
+         "title" : "生駒山麓公園(1)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/68e9c3a5-da6a-4a90-a4ab-04813846ed20/resource/37c8232a-3991-4c71-879a-5873300d27e4/download/sanparkpark.jpg"
+      },
+      "file:id:a0c3831f-60fb-4f9a-aaa6-2f80cbaecf35" : {
+         "desc" : "",
+         "file_name" : "sanrokupark5.jpg",
+         "length" : 1718385,
+         "mime" : "image/jpeg",
+         "sha256" : "018de913e5a2311006a8a284ed83dc65b7353ae649f8eabb8734c7771216298c",
+         "time" : 1732942685,
+         "title" : "生駒山麓公園(5)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/68e9c3a5-da6a-4a90-a4ab-04813846ed20/resource/a0c3831f-60fb-4f9a-aaa6-2f80cbaecf35/download/sanrokupark5.jpg"
+      },
+      "file:id:b3dd8103-8a39-4004-abce-8249d10bd25c" : {
+         "desc" : "",
+         "file_name" : "sanrokupark2.jpg",
+         "length" : 1636470,
+         "mime" : "image/jpeg",
+         "sha256" : "6815afe5f5bb188d94ce13c024bfd770839cf5db7c3861d8438becf6a93e4e04",
+         "time" : 1732942678,
+         "title" : "生駒山麓公園(2)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/68e9c3a5-da6a-4a90-a4ab-04813846ed20/resource/b3dd8103-8a39-4004-abce-8249d10bd25c/download/sanrokupark2.jpg"
+      },
+      "file:id:d87892e7-cbe9-4914-af94-2cd4f1946aab" : {
+         "desc" : "",
+         "file_name" : "sanrokupark4.jpg",
+         "length" : 1624151,
+         "mime" : "image/jpeg",
+         "sha256" : "824726cc768d41149e888e416764a7f1f43f35a6c92057d0a4f6c86d34952acc",
+         "time" : 1732942683,
+         "title" : "生駒山麓公園(4)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/68e9c3a5-da6a-4a90-a4ab-04813846ed20/resource/d87892e7-cbe9-4914-af94-2cd4f1946aab/download/sanrokupark4.jpg"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15001,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "52154541a50da7d8ba54ae6c2d0114811860b940f0409f524f1acdab45023ca0",
+         "time" : 1732942671,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1487917862"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 7171,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "dcb017bb9dd39688903a9b2641054aae83118b808bb1110d4a5fac7aeefcb7b3",
+         "time" : 1561076857.04796,
+         "title" : "写真データ（生駒山麓公園）",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487917862"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "広報広聴課 (経営企画部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "写真データ（生駒山麓公園）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487917862"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487917862",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "写真データ（生駒山麓公園）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487917862"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 13406053,
+   "mirrorzip" : {
+      "length" : 13297334,
+      "set" : "free",
+      "sha256" : "bfce44f5985e61ac78a2999835832c79eb454d4a62ea0a41f748f0ea57c9f0b0"
+   },
+   "package" : {
+      "author" : "広報広聴課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487917862",
+      "desc" : "",
+      "org" : "経営企画部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1487917862",
+      "tags" : [
+         "広報広聴課",
+         "経営企画部",
+         "施設",
+         "スポーツ",
+         "児童",
+         "公園",
+         "子ども"
+      ],
+      "time" : 1561076857.04796,
+      "title" : "写真データ（生駒山麓公園）"
+   }
+}
