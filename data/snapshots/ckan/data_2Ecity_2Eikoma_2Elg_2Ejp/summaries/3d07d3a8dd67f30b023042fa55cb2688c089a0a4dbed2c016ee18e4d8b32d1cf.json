@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:cc8466ce-2ac5-4eee-83b9-0397d6da7e7c" : {
+         "desc" : "コミュニティバス「たけまる号」の光陽台線、門前線、北新町線、西畑・有里線、萩の台線、鹿ノ台線、桜ケ丘線（実証運行中）のGTFSデータです。（令和6年4月15日現在）",
+         "file_name" : "ikoma20240415.zip",
+         "length" : 23540,
+         "mime" : "application/zip",
+         "sha256" : "7f2b04b54d6847ec26b391ec02d7458a1281c3c54155ec3c0aa7bddd43194ac9",
+         "time" : 1732937593,
+         "title" : "コミュニティバスGTFSデータ",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/dfc521ed-d94f-4053-b709-d35d335e4d57/resource/cc8466ce-2ac5-4eee-83b9-0397d6da7e7c/download/ikoma20240415.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15338,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "7cf78a1b78dcd76036d896a28815b673d2064b51b6c17e12f75fde8d7fc54e63",
+         "time" : 1732937592,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1714108666"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 3763,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "6c4ddbb3e61b3e319302d819ba478c15157aaca99c2d9ebb17d25d2a9e667bcc",
+         "time" : 1714462927.88308,
+         "title" : "コミュニティバスGTFSデータ",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1714108666"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "事業計画課 (建設部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "コミュニティバスGTFSデータ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1714108666"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1714108666",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "コミュニティバスGTFSデータ",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1714108666"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 42641,
+   "mirrorzip" : {
+      "length" : 34166,
+      "set" : "free",
+      "sha256" : "ef9785c24bb6da4f2d378006515e1daef8c9570318532a8128b7390eb353068b"
+   },
+   "package" : {
+      "author" : "事業計画課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1714108666",
+      "desc" : "コミュニティバス「たけまる号」の情報データのうち以下の路線を標準的なバス情報フォーマット（GTFS-JP）の形式でオープンデータとして公開しました。\u000D\u000A光陽台線、門前線、北新町線、西畑・有里線、萩の台線、鹿ノ台線、桜ケ丘線（実証運行中）（令和6年4月26日現在）",
+      "org" : "建設部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1714108666",
+      "tags" : [
+         "事業計画課",
+         "建設部",
+         "道路・交通",
+         "交通"
+      ],
+      "time" : 1714462927.88308,
+      "title" : "コミュニティバスGTFSデータ"
+   }
+}

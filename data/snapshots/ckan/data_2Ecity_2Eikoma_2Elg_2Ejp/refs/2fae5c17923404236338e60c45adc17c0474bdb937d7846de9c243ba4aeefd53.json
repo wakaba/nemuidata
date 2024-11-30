@@ -1,0 +1,34 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:6e6c1dcd-126d-4570-b186-b8979631dc23" : {
+            "name" : "babymap1212.json",
+            "sha256" : "b2b85e29d9759c8292a97419e748cca6123f54768e8782803e6d54edac6212e0"
+         },
+         "file:id:aba6e0ee-2d2f-4d29-8c97-ae82641a7a84" : {
+            "name" : "babymap1212.rdf",
+            "sha256" : "29b20a64ff16967397b9f0a814bed62592613a1462c74989808e1fe93141b0f8"
+         },
+         "file:id:b5046d9b-718c-4822-8a9f-4411777bd781" : {
+            "name" : "babymap1212.csv",
+            "sha256" : "a848ae7ad4619a71fa2b9f79761fc33b5b7059291dc03e67cf72ea7dfa177fa1"
+         },
+         "file:id:cff9ee65-59ef-43bb-96fb-2fdbf094e9fa" : {
+            "name" : "babymap.xlsx",
+            "sha256" : "3707ab4b07ac16b42649ed4fc089afb2366fbcc2acb3885f1c218173667eb661"
+         },
+         "meta:activity.html" : {
+            "sha256" : "67ce55dffec0bd46fdb5a031c32a21aaa669fa0ef4e9612212eaf89ac884a94f"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "abbacc6dad00a0a9ecd4d7fec3974392afba812c35ff3a26c1f575c436b8a7d9"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487380003"
+   },
+   "type" : "packref"
+}

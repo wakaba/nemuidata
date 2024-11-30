@@ -1,0 +1,169 @@
+{
+   "files" : {
+      "file:id:fc938caa-91b2-4524-aeaf-61c731b01c28" : {
+         "desc" : "",
+         "file_name" : "event_list.php",
+         "length" : 50968,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "921e100ebfb7d6ceb78adc41570b26630983c782ab06b0df92dad04b3af21201",
+         "time" : 1732937582,
+         "title" : "生駒市イベント情報一覧",
+         "type" : "file",
+         "url" : "https://www.city.ikoma.lg.jp/event2/event_list.php?ev=2&ca=0&ss=1"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15040,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "185cb5a5b719218a971224dd66e4f03f81cb070c8a3515ec8a6b74335198e0b6",
+         "time" : 1732937578,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1500445721"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4645,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "2e401f73427f19b798e829fe24c72440a9d0863b6fe5294f4a497d931805478b",
+         "time" : 1623127479.95184,
+         "title" : "生駒市イベント情報一覧",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1500445721"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "広報広聴課 (経営企画部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "生駒市イベント情報一覧",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1500445721"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1500445721",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "生駒市イベント情報一覧",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1500445721"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 70653,
+   "mirrorzip" : {
+      "length" : 20614,
+      "set" : "free",
+      "sha256" : "abbcc64cc132d33e008993fa1de75804ddbe0eeab051c1e3079dc6bc555eb54f"
+   },
+   "package" : {
+      "author" : "広報広聴課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1500445721",
+      "desc" : "生駒市で開催されるイベント情報の一覧です。",
+      "org" : "経営企画部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1500445721",
+      "tags" : [
+         "広報広聴課",
+         "経営企画部",
+         "まちづくり・環境",
+         "子育て・教育",
+         "福祉・健康",
+         "観光・文化",
+         "防災・安全",
+         "イベント",
+         "スポーツ",
+         "ボランティア",
+         "児童",
+         "図書館",
+         "子ども",
+         "市民活動",
+         "防災"
+      ],
+      "time" : 1623127479.95184,
+      "title" : "生駒市イベント情報一覧"
+   }
+}

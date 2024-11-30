@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:b82dc128-9f9c-4ef7-b3b1-7b9bd3e5453b" : {
+            "name" : "covid-19-vaccine-20230111.xlsx",
+            "sha256" : "0edd1be4b5856ac888eadfaeac33302bd07933dd19c6aeb6158d5c074d50e00e"
+         },
+         "meta:activity.html" : {
+            "sha256" : "2d91cc43b8e98919944d2a77409c3c6e795283073ed43d87d47fc647d1014ac9"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "f651521493d5f1131dc49ef3717c9751e754b8f4a4003dfe926ec0144eacd8b3"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1677215509"
+   },
+   "type" : "packref"
+}

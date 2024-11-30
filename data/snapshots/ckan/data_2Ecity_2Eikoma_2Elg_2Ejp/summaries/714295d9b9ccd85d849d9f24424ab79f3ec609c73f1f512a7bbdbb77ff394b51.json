@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:5200f5ba-a1db-477b-b8e7-7eca40d309d1" : {
+         "desc" : "",
+         "file_name" : "447-4-5.xls",
+         "length" : 14848,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "0bbd5af35eec031fd8f0fbfc8608ea0f1f8cb6f3bf799482a65844339ca93dd4",
+         "time" : 1732937405,
+         "title" : "農業用機械所有台数 ",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/23408f64-13e8-49ca-b112-09bf75c7a2a7/resource/5200f5ba-a1db-477b-b8e7-7eca40d309d1/download/447-4-5.xls"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15332,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "22c3d4a956298d59b3b97da2754f044b339121ce033e9c4bfd5a98ac9a24443b",
+         "time" : 1732937404,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1510892457"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 3284,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c8ce48a24b6707ab6b9e9f1536395f45618cbf4e5b8f44302170c9e270573f4e",
+         "time" : 1519632165.60153,
+         "title" : "農業用機械所有台数",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510892457"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "農業用機械所有台数",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510892457"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510892457",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "農業用機械所有台数",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510892457"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 33464,
+   "mirrorzip" : {
+      "length" : 16471,
+      "set" : "free",
+      "sha256" : "37a15b7c48f57a735949446e4a36f5b0c5df488ead93cf3eaa7fca4dea4c1ba9"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510892457",
+      "desc" : "「数戸共有」とは、２戸以上の農家が共同で所有しているもの。市区町村・農協・実行組合・○○\u0009機械利用組合などといった機械利用を中心とした組織が所有しているものは共有とはしない。\u0009\u0009\u0009\u0009\u000D\u000A平成12年及び17年は、販売農家のみの数値である。\u0009\u0009\u0009\u000D\u000A資料：農業センサス、世界農林業センサス",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1510892457",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "統計",
+         "農業"
+      ],
+      "time" : 1519632165.60153,
+      "title" : "農業用機械所有台数"
+   }
+}

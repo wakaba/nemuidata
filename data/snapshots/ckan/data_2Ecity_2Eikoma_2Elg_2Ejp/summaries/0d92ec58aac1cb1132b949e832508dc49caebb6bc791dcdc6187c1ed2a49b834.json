@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:2ebafc57-81bf-4078-b301-79e44a617ac7" : {
+         "desc" : "",
+         "file_name" : "13-01.xls",
+         "length" : 27136,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "6552a45ca06b4682833623e773a4ad809a6b809a262d0b4c14965ad252517a51",
+         "time" : 1732937549,
+         "title" : "選挙人名簿登録者数 ",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/782bb3a2-a40a-4a75-a141-d0ffb85ea22d/resource/2ebafc57-81bf-4078-b301-79e44a617ac7/download/13-01.xls"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15110,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "95e80f0c01c8c9bf002439841734682d5c78de44c6bdec960810739b9a5f6cd4",
+         "time" : 1732937548,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1511508671"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2838,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "3795171b2253609defefa6e886585ab6a68f187b2fd394623a904dbe79413b8e",
+         "time" : 1712276505.1053,
+         "title" : "選挙人名簿登録者数",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1511508671"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "選挙人名簿登録者数",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1511508671"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1511508671",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "選挙人名簿登録者数",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1511508671"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 45084,
+   "mirrorzip" : {
+      "length" : 17050,
+      "set" : "free",
+      "sha256" : "8c76bdf726c3f7b6fcb79e9b6ffe4a7a9ee94dc1b04770c673556a39249e7abe"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1511508671",
+      "desc" : "人口は、各年9月1日現在の日本人住民の数。\u0009\u0009\u0009\u0009\u000D\u000A平成28年に選挙権年齢の引き下げが行われた。\u0009\u0009\u0009\u0009\u000D\u000A資料：選挙管理委員会事務局",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1511508671",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "統計",
+         "選挙"
+      ],
+      "time" : 1712276505.1053,
+      "title" : "選挙人名簿登録者数"
+   }
+}

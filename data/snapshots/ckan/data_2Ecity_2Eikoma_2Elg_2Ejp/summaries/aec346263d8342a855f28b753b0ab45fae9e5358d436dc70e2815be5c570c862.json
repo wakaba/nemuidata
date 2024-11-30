@@ -1,0 +1,213 @@
+{
+   "files" : {
+      "file:id:02268c46-014f-4812-b62b-591ffed9b6eb" : {
+         "desc" : "",
+         "file_name" : "miryoku-tennyu.pdf",
+         "length" : 270560,
+         "mime" : "application/pdf",
+         "sha256" : "9cc58a562426335d6706f80a2d7436123ac2b0bcd371cf9375241576d3b1d33e",
+         "time" : 1732937452,
+         "title" : "平成29年度転入者アンケート",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/27aee0d1-e2bb-4124-a39b-26c34c9eb46b/resource/02268c46-014f-4812-b62b-591ffed9b6eb/download/miryoku-tennyu.pdf"
+      },
+      "file:id:a326b746-8252-4c98-aa3a-0f07494c07a2" : {
+         "desc" : "",
+         "file_name" : "tennyu2016.pdf",
+         "length" : 135843,
+         "mime" : "application/pdf",
+         "sha256" : "a4b6cb7e01000cbe8da52459a722f805bec7a4920603f67e38f81a0022eb2a3d",
+         "time" : 1732937450,
+         "title" : "平成28年度転入者アンケート",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/27aee0d1-e2bb-4124-a39b-26c34c9eb46b/resource/a326b746-8252-4c98-aa3a-0f07494c07a2/download/tennyu2016.pdf"
+      },
+      "file:id:abe4383f-84b2-4de2-9d2c-1aff99c9fdc5" : {
+         "desc" : "1件中1件目です。",
+         "file_name" : "08oishii.zip",
+         "length" : 14243166,
+         "mime" : "application/zip",
+         "sha256" : "99b8e768ca7e09d6512895d2e34ae4affa338cc73dd322dbe73b66492af848f3",
+         "time" : 1732937463,
+         "title" : "写真データ「おいしい」",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/69544419-63aa-49bb-b503-75e44413ee9d/resource/34bafa56-9afc-4827-8e03-c2b1cf3610c4/download/08oishii.zip"
+      },
+      "file:id:bc1b176e-af22-4f73-afe9-c228734eb530" : {
+         "desc" : "平成31年3月12日～4月13日に実施した転入者アンケートの回答データ",
+         "file_name" : "h31tennyu.pdf",
+         "length" : 931571,
+         "mime" : "application/pdf",
+         "sha256" : "422512bebd274747fb344beb16f9cb3a9caa938cc24dc3d1ccd1bf08b6afc773",
+         "time" : 1732937458,
+         "title" : "平成31年度転入者アンケート",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/27aee0d1-e2bb-4124-a39b-26c34c9eb46b/resource/bc1b176e-af22-4f73-afe9-c228734eb530/download/h31tennyu.pdf"
+      },
+      "file:id:f0989203-5086-4f44-a5ab-16a00a1a5a7f" : {
+         "desc" : "",
+         "file_name" : "miryoku-tennyusyutu.pdf",
+         "length" : 421582,
+         "mime" : "application/pdf",
+         "sha256" : "b8a419397d3cc67154949d676aa5bdbbd4882555b441b5987687b5ebe98b3e41",
+         "time" : 1732937454,
+         "title" : "平成28年度転入・転出者詳細",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/27aee0d1-e2bb-4124-a39b-26c34c9eb46b/resource/f0989203-5086-4f44-a5ab-16a00a1a5a7f/download/miryoku-tennyusyutu.pdf"
+      },
+      "file:id:f472f3fb-439f-4c5b-831f-6fea9dcf89c6" : {
+         "desc" : "平成30年4月1日～平成31年3月31日の転入出者の状況（生駒市内移動者以外）",
+         "file_name" : "h30tennyusyutu.pdf",
+         "length" : 399201,
+         "mime" : "application/pdf",
+         "sha256" : "cbe6547dcf50322830c043bd578b1f4a0eeab95845ad19e1afb71d7c5e38ce9c",
+         "time" : 1732937461,
+         "title" : "平成30年度転入・転出者詳細",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/27aee0d1-e2bb-4124-a39b-26c34c9eb46b/resource/f472f3fb-439f-4c5b-831f-6fea9dcf89c6/download/h30tennyusyutu.pdf"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14888,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "569031509d94bd0ddf7bc697982c28844be2d1407abdc9dc8449f129470759ca",
+         "time" : 1732937449,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1487555280"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 7110,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "d35ff00345b1821f1e165c802426f365a505fea7402a3c6525821deb72f3a14a",
+         "time" : 1721616659.21035,
+         "title" : "転入者アンケート",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487555280"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "デジタルイノベーション推進課 (--)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "転入者アンケート",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487555280"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487555280",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "転入者アンケート",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487555280"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 16423921,
+   "mirrorzip" : {
+      "length" : 16100230,
+      "set" : "free",
+      "sha256" : "f5e11d25ea7a7619e83aae02d7f2dbae57bd399929ffb101b8e19c081cc8e3e3"
+   },
+   "package" : {
+      "author" : "デジタルイノベーション推進課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487555280",
+      "desc" : "",
+      "org" : "--",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1487555280",
+      "tags" : [
+         "デジタルイノベーション推進課",
+         "--",
+         "統計",
+         "人口"
+      ],
+      "time" : 1721616659.21035,
+      "title" : "転入者アンケート"
+   }
+}

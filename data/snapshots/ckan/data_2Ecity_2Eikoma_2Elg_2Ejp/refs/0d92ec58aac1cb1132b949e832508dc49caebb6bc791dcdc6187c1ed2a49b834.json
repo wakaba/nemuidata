@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:2ebafc57-81bf-4078-b301-79e44a617ac7" : {
+            "name" : "13-01.xls",
+            "sha256" : "6552a45ca06b4682833623e773a4ad809a6b809a262d0b4c14965ad252517a51"
+         },
+         "meta:activity.html" : {
+            "sha256" : "95e80f0c01c8c9bf002439841734682d5c78de44c6bdec960810739b9a5f6cd4"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "3795171b2253609defefa6e886585ab6a68f187b2fd394623a904dbe79413b8e"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1511508671"
+   },
+   "type" : "packref"
+}

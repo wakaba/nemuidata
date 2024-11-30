@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:ec3a4e52-3796-4513-80be-2d7dec5d47ca" : {
+         "desc" : "",
+         "file_name" : "tosyokaikan1.jpg",
+         "length" : 336076,
+         "mime" : "image/jpeg",
+         "sha256" : "c9aac8be7e2b5881960ebf8425336fce57b12e08e1d74a60a04486584223fdda",
+         "time" : 1732937564,
+         "title" : "図書会館(1)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c0f13c59-c688-4f04-b3e1-8d5338f3990d/resource/ec3a4e52-3796-4513-80be-2d7dec5d47ca/download/tosyokaikan1.jpg"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14924,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "3e82f2cebab716b996bc06d0f8834bda8af2b7e0902518f8359de0007fec2c0c",
+         "time" : 1732937562,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1558056508"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2698,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "1bdbbd38cc4b39fe67b4dd19ae3e00feaa2d59312d86a83e5c833869377fd919",
+         "time" : 1721616631.39152,
+         "title" : "写真データ（図書会館）",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1558056508"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "デジタルイノベーション推進課 (--)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "写真データ（図書会館）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1558056508"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1558056508",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "写真データ（図書会館）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1558056508"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 353698,
+   "mirrorzip" : {
+      "length" : 342995,
+      "set" : "free",
+      "sha256" : "218d469177edb97957c854c3cd8bee7157a4c671b878ae317371267001e685bb"
+   },
+   "package" : {
+      "author" : "デジタルイノベーション推進課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1558056508",
+      "desc" : "",
+      "org" : "--",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1558056508",
+      "tags" : [
+         "デジタルイノベーション推進課",
+         "--",
+         "施設",
+         "図書館"
+      ],
+      "time" : 1721616631.39152,
+      "title" : "写真データ（図書会館）"
+   }
+}

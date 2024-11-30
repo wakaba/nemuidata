@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:a24c4a6c-aac8-412b-9050-b3903d07e78c" : {
+         "desc" : "",
+         "file_name" : "12-01.xls",
+         "length" : 29696,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "bea83309840ea19c5e84be651a5fa8027f384746ce79e837e83a54aa76038a41",
+         "time" : 1732937437,
+         "title" : "公有財産 ",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a1cb4210-dc74-4b87-b5a9-a0bb3c11becf/resource/a24c4a6c-aac8-412b-9050-b3903d07e78c/download/12-01.xls"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14890,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a11e33972e60f0d715fb208d9545bedeb7e50f9783f44c499c0152a91c70d6c6",
+         "time" : 1732937435,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1511499203"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2638,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "964a6861936548c6d51cc1f8855e45aa9452b4d81338d51d44139130659f1f77",
+         "time" : 1712276756.00178,
+         "title" : "公有財産",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1511499203"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "公有財産",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1511499203"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1511499203",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "公有財産",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1511499203"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 47224,
+   "mirrorzip" : {
+      "length" : 17675,
+      "set" : "free",
+      "sha256" : "64081a733e2d933175d05c68ada867287c0d09573be7edd52805be4362870ea0"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1511499203",
+      "desc" : "資料：総務部総務課",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1511499203",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "統計",
+         "施設",
+         "財政"
+      ],
+      "time" : 1712276756.00178,
+      "title" : "公有財産"
+   }
+}

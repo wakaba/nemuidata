@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:ec3a4e52-3796-4513-80be-2d7dec5d47ca" : {
+            "name" : "tosyokaikan1.jpg",
+            "sha256" : "c9aac8be7e2b5881960ebf8425336fce57b12e08e1d74a60a04486584223fdda"
+         },
+         "meta:activity.html" : {
+            "sha256" : "3e82f2cebab716b996bc06d0f8834bda8af2b7e0902518f8359de0007fec2c0c"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "1bdbbd38cc4b39fe67b4dd19ae3e00feaa2d59312d86a83e5c833869377fd919"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1558056508"
+   },
+   "type" : "packref"
+}
