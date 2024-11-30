@@ -1,0 +1,191 @@
+{
+   "files" : {
+      "file:id:6eb23e78-e1e3-48cd-b91e-a958fbf22829" : {
+         "desc" : "",
+         "file_name" : "jinken.csv",
+         "length" : 184,
+         "mime" : "text/csv",
+         "sha256" : "1d53353b30097eb7a95684e4478ddbd4c4bf66f93d80d42acf8d52c0a2dd8dee",
+         "time" : 1732958321,
+         "title" : "人権を確かめ合う日記念市民集会参加者数 _csv",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c15241b9-19f0-4370-80e3-3422ea093985/resource/6eb23e78-e1e3-48cd-b91e-a958fbf22829/download/jinken.csv"
+      },
+      "file:id:d1056ddb-4431-49c3-9435-5d5a98c4d1aa" : {
+         "desc" : "",
+         "file_name" : "jinken.xlsx",
+         "length" : 9556,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "e8cab6f964afa5342d5479715f3f3fa935d8b938b49bb48848072b3301721f01",
+         "time" : 1732958320,
+         "title" : "人権を確かめ合う日記念市民集会参加者数 ",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c15241b9-19f0-4370-80e3-3422ea093985/resource/d1056ddb-4431-49c3-9435-5d5a98c4d1aa/download/jinken.xlsx"
+      },
+      "file:id:d8c54339-088a-42c0-81af-8b65783465d2" : {
+         "desc" : "",
+         "file_name" : "jinken.rdf",
+         "length" : 2189,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "f59bca6c1a2e9672500f8d5a833a55ef0d551747389d567f208fa8e61c57f9a3",
+         "time" : 1732958322,
+         "title" : "人権を確かめ合う日記念市民集会参加者数 _rdf",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c15241b9-19f0-4370-80e3-3422ea093985/resource/d8c54339-088a-42c0-81af-8b65783465d2/download/jinken.rdf"
+      },
+      "file:id:f497d515-c008-47b0-bea2-76d6b81fa0eb" : {
+         "desc" : "",
+         "file_name" : "jinken.json",
+         "length" : 365,
+         "mime" : "application/json",
+         "sha256" : "8f27b7f61ee72fa330d89ec7c429536a8f9c38a34cf981cdf18e62afea941beb",
+         "time" : 1732958321,
+         "title" : "人権を確かめ合う日記念市民集会参加者数 _json",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c15241b9-19f0-4370-80e3-3422ea093985/resource/f497d515-c008-47b0-bea2-76d6b81fa0eb/download/jinken.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15043,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a39868160ae5f6904c344e21f37bc84baed8032f0048079f5908b900271d8492",
+         "time" : 1732958319,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1487833531"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5294,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "7c121f4781e8f2ec865ecdbd5485b92dafb66b570757828eefcb2a4afcf743b7",
+         "time" : 1520585607.06818,
+         "title" : "人権を確かめ合う日記念市民集会参加者数",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487833531"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "人権施策課 (財務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "人権を確かめ合う日記念市民集会参加者数",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487833531"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487833531",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "人権を確かめ合う日記念市民集会参加者数",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487833531"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 32631,
+   "mirrorzip" : {
+      "length" : 23563,
+      "set" : "free-1",
+      "sha256" : "486ee476a1cbdb71252cea404c597dac0bf6b046bc8ddae2a564274c0e3f31d4"
+   },
+   "package" : {
+      "author" : "人権施策課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487833531",
+      "desc" : "",
+      "org" : "財務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1487833531",
+      "tags" : [
+         "人権施策課",
+         "財務部",
+         "その他",
+         "イベント"
+      ],
+      "time" : 1520585607.06818,
+      "title" : "人権を確かめ合う日記念市民集会参加者数"
+   }
+}

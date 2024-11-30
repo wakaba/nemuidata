@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:94ddb8b2-c5b2-4ed9-906c-65209b6d0ac6" : {
+            "name" : "shigikaisen.pdf",
+            "sha256" : "8c3cea8b4c7cee15a33a85ab923cc2ada525ba8de2910f7eb83c82ebc654bb8a"
+         },
+         "file:id:f286174b-388a-4d4a-b136-7e3c682acfa6" : {
+            "name" : "shigikaisen.xls",
+            "sha256" : "3f290d1e6bcabd24c589528a334ba477fe155bf1221da158b73e9cf72ddd6960"
+         },
+         "meta:activity.html" : {
+            "sha256" : "628bf80abc0a64c3a0715b195f187d2ae6720d5f01896f081b9889ad93cc90e7"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "1cd19ddc798b814a3bf1c2aab72a853337969dcf5c1d65a0ad0af1b6c2bc5572"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487842680"
+   },
+   "type" : "packref"
+}

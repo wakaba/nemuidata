@@ -1,0 +1,34 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:08843d0e-8097-46b3-bb37-6cedbd100e9d" : {
+            "name" : "18keshiki-metadata.xlsx",
+            "sha256" : "eeb0691077d03c76f2ae9703dfdc5a02a37f95dffeb49d724daadd4c2a406d1f"
+         },
+         "file:id:2c4c162a-5c13-4ec0-8147-5c8d6388ed66" : {
+            "name" : "18keshiki-03.zip",
+            "sha256" : "60902c2e9aace106a65584aba489202dd1944f4af4ebbc69d01bc7373a3678a1"
+         },
+         "file:id:de6fa53c-28a6-4180-b685-d498b3bfd032" : {
+            "name" : "18keshiki-02.zip",
+            "sha256" : "7dd13dec12fb00f0561cd2ab417b81278dd38ff5f5b34717a161405adeb021fb"
+         },
+         "file:id:ec872798-17c5-49e9-8225-b7efbf627a5b" : {
+            "name" : "18keshiki-01.zip",
+            "sha256" : "72a81e6d89bc7b6862e1e43d3714d15218c05df34ceff36b4afad731973f0a2e"
+         },
+         "meta:activity.html" : {
+            "sha256" : "28f95d73bce2774417efe428d810b49f892d9aa96ab0876e9f1ca2bfa4382864"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "d10bd4dc35df6d41b3ec00e59af6ded3fdb7981f3674f50613b2ca107b58c10d"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1611215811"
+   },
+   "type" : "packref"
+}

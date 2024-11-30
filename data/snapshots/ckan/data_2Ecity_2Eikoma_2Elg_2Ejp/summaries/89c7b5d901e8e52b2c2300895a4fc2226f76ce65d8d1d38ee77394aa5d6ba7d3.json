@@ -1,0 +1,191 @@
+{
+   "files" : {
+      "file:id:5637d494-59bd-4153-93f1-28877aeb6c71" : {
+         "desc" : "単位はｋｇとなります",
+         "file_name" : "h25.csv",
+         "length" : 1005,
+         "mime" : "text/csv",
+         "sha256" : "8979fcef175486b14bb78cce3fdc2119fd556a4883841cf39d0482892ba6a172",
+         "time" : 1732958354,
+         "title" : "平成２５年度家庭ごみ収集量",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/583c51e7-1f47-4bb3-b230-0de6a183afef/resource/5637d494-59bd-4153-93f1-28877aeb6c71/download/h25.csv"
+      },
+      "file:id:797401ae-bd77-45de-8b5f-9f58f3dca16b" : {
+         "desc" : "単位はｋｇとなります",
+         "file_name" : "h27.csv",
+         "length" : 1048,
+         "mime" : "text/csv",
+         "sha256" : "468d25c6dc1dd16bfa1ca1d012732e8b63d87d9ab13f6c5b70b09cb4cfeca1e6",
+         "time" : 1732958356,
+         "title" : "平成２７年度家庭ごみ収集量",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/583c51e7-1f47-4bb3-b230-0de6a183afef/resource/797401ae-bd77-45de-8b5f-9f58f3dca16b/download/h27.csv"
+      },
+      "file:id:8ff233c3-f38b-4643-9869-31c3b705875a" : {
+         "desc" : "単位はｋｇとなります",
+         "file_name" : "h26.csv",
+         "length" : 1008,
+         "mime" : "text/csv",
+         "sha256" : "fb6aa6f2f99fc45275e892cdef8992eaf229816fecfe07742f5fbee57dbbbcac",
+         "time" : 1732958355,
+         "title" : "平成２６年度家庭ごみ収集量",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/583c51e7-1f47-4bb3-b230-0de6a183afef/resource/8ff233c3-f38b-4643-9869-31c3b705875a/download/h26.csv"
+      },
+      "file:id:91b2452a-45d3-4edf-94bb-273224299694" : {
+         "desc" : "単位はｋｇとなります",
+         "file_name" : "h28.csv",
+         "length" : 1090,
+         "mime" : "text/csv",
+         "sha256" : "e988db8c60ddc84380811e12c19173c1835981f5ce1a97a50ba5843f9994aa4a",
+         "time" : 1732958357,
+         "title" : "平成２８年度家庭ごみ収集量",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/583c51e7-1f47-4bb3-b230-0de6a183afef/resource/91b2452a-45d3-4edf-94bb-273224299694/download/h28.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14935,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "45e49f7b0fb0ea2c19cb92139a758106fcfdee58bcd3414654bdb8beda6f5675",
+         "time" : 1732958352,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1487390193"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5337,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c4e5b6ac439dadc6a1762a825d90b3b4433606166457eeec31f428ebf3393cb7",
+         "time" : 1678423923.33507,
+         "title" : "家庭からのごみ収集量",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487390193"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "環境保全課 (財務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "家庭からのごみ収集量",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487390193"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487390193",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "家庭からのごみ収集量",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487390193"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 24423,
+   "mirrorzip" : {
+      "length" : 17755,
+      "set" : "free-1",
+      "sha256" : "e02f467e8308402e4ef0e4a149038e64387370c2adb99e5f0da1106c20d38f24"
+   },
+   "package" : {
+      "author" : "環境保全課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487390193",
+      "desc" : "",
+      "org" : "財務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1487390193",
+      "tags" : [
+         "環境保全課",
+         "財務部",
+         "まちづくり・環境",
+         "ごみ"
+      ],
+      "time" : 1678423923.33507,
+      "title" : "家庭からのごみ収集量"
+   }
+}

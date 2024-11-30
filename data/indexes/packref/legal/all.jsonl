@@ -12,6 +12,7 @@
 ["packref","legal","akita.json",1719583078.44204,"a8dc090c79456edf660c5811cf29536d31180b4ab78cae85532cb004b33bc75a",null,null,25093,"","","","unknown"]
 ["packref","legal","terms-opendata-api-kakogawa.jp.json",1732939852.61296,"46fc20217e1157d1ab9735dd24433b34b3abfd199459c030d098da365bf6b257",1,null,611,"加古川市オープンデータカタログサイト利用規約","加古川市","","unknown"]
 ["packref","legal","kanagawa.json",1719583095.81044,"f51cfcf6c9d7ddd0fefcb0fd96d9d444eac3fdd86eb8113d6cdc7929cc2aa0e3",null,null,269559,"このサイトのご利用について | 神奈川県オープンデータカタログサイト","神奈川県","","free"]
+["packref","legal","terms-www.jma.go.jp.json",1732942774.934,"34410c9c81d330e9a1304715c4d4c05afdd265fb31e751cb7d505a5383ae1d3b",null,null,26668,"気象庁ホームページについて","気象庁","","free"]
 ["packref","legal","terms-city.himeji.gkan.jp.json",1720943317.70664,"405801f73ad0d7a4a1ba55f2d25104d7bb84e038877ac3cd1b62f7458cd995b9",null,null,253992,"姫路市オープンデータ利⽤規約, 高砂市オープンデータ利用規約","姫路市, 高砂市","","free"]
 ["packref","legal","terms-opendata.pref.akita.lg.jp.json",1720868807.7952,"cd7275b08693ea82ebeb311d568f7df32beebaffe8e1d024d8fdc305a458a3d6",null,null,25001,"","","","unknown"]
 ["packref","legal","ikoma.json",1719583101.221,"55895ce69d7c7629c3dc9c13b77e54410abb933b94154cbb818919d7a25749f4",null,null,155075,"","","","unknown"]
@@ -27,4 +28,3 @@
 ["packref","legal","hu.json",1719584520.66847,"ff638c74f5c868e49c899d8badbe1757944300ea134269ef7b0136dae461795d",1,1,181867,"","","","unknown"]
 ["packref","legal","terms-portal-data.city.kanazawa.ishikawa.jp.json",1732942785.56157,"2669e717dc37c218040db9835327296a74d2b4946da262b7103fdb2b60d539be",1,null,806,"利用規約","金沢市, 石川中央都市圏","","sometimes"]
 ["packref","legal","tendo.json",1719583111.46083,"66b0d00aaa75607ec4e7a43dede0e555ce1edeb0e3511f0d1bc853bb56326434",null,null,16114,"","","","unknown"]
-["packref","legal","terms-www.jma.go.jp.json",1732942774.934,"34410c9c81d330e9a1304715c4d4c05afdd265fb31e751cb7d505a5383ae1d3b",null,null,26668,"気象庁ホームページについて","気象庁","","free"]

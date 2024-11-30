@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:3312ee52-b965-4299-80b6-312c456b0b0d" : {
+            "name" : "01mizube-metadata.xlsx",
+            "sha256" : "4855ae300ab261c12e14d1dcd3c94437bbf4d3a53bac499aee103dc43b46bc2e"
+         },
+         "file:id:57568f95-954f-49a3-a42e-c70faaa68eed" : {
+            "name" : "01mizube-01.zip",
+            "sha256" : "cdeaa731801155873fe1f5a26c74415bf7644da10f6cf737f589d184fc10e04d"
+         },
+         "file:id:d4965c56-f016-47a1-b92a-66c3cd99eb8b" : {
+            "name" : "01mizube-02.zip",
+            "sha256" : "5a9262f7834186dc8ca4e8f154805de233503b08e8c0675e06234e3c175d5261"
+         },
+         "meta:activity.html" : {
+            "sha256" : "6f9db0ec40b0f61232c1211b06e07f11f19a9bf3b292142ab370ec54aa16f291"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "90fef202f9ff922b699cf29e43144b28e0686f248cb7ce114a41d978c97832bc"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1611207692"
+   },
+   "type" : "packref"
+}
