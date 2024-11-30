@@ -1,0 +1,17 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:ckan-city_2Ehimeji_2Egkan_2Ejp" : {
+            "url" : "mirror-ckan-city_2Ehimeji_2Egkan_2Ejp.jsonl"
+         },
+         "file:r:packref-legal" : {
+            "url" : "mirror-packref-legal.jsonl"
+         },
+         "file:r:packref-sparql" : {
+            "url" : "mirror-packref-sparql.jsonl"
+         }
+      },
+      "type" : "files"
+   },
+   "type" : "packref"
+}
