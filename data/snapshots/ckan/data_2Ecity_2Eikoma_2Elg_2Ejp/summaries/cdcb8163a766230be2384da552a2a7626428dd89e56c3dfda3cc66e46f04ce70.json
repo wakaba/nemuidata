@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:9cce855a-c4f1-4b78-8d15-e87b26f5d3eb" : {
+         "desc" : "",
+         "file_name" : "10-12-2.xls",
+         "length" : 28672,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "1c3c06715f8c3983ce9c8022f63726209f80399c394a10aba5de9e36d4c26855",
+         "time" : 1732972545,
+         "title" : "環境事業　(2)し尿処理施設",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/98691a19-412e-4427-b19f-9ed0a83d0bc2/resource/9cce855a-c4f1-4b78-8d15-e87b26f5d3eb/download/10-12-2.xls"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14992,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "910d7b5642bc9c1b51f1ac4dcbd4620929380eb840ad9cebc8012fd0a82f114a",
+         "time" : 1732972544,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1510880785"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2861,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "354dc4db52c828ace00f93e4a475847da5134606db15bcf034ad7120e0f14d00",
+         "time" : 1712276909.49063,
+         "title" : "環境事業　(2)し尿処理施設",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510880785"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "環境事業　(2)し尿処理施設",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510880785"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510880785",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "環境事業　(2)し尿処理施設",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510880785"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 46525,
+   "mirrorzip" : {
+      "length" : 17257,
+      "set" : "free-1",
+      "sha256" : "af5c0446107e1aa713fda4ce7b266443346ead8676a16f40fbeef909cd5240f8"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510880785",
+      "desc" : "資料：市民部環境保全課",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1510880785",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "まちづくり・環境",
+         "統計",
+         "環境保全"
+      ],
+      "time" : 1712276909.49063,
+      "title" : "環境事業　(2)し尿処理施設"
+   }
+}

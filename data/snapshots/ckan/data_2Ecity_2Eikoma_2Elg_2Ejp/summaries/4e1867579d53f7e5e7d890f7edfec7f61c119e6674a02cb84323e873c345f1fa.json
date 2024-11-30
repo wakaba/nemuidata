@@ -1,0 +1,157 @@
+{
+   "files" : {
+      "file:id:3d1f176c-bc87-41f2-9461-3462dc18dc91" : {
+         "desc" : "",
+         "file_name" : "shikanodaihall1.jpg",
+         "length" : 3403658,
+         "mime" : "image/jpeg",
+         "sha256" : "598597a7bfc0db79efbc09a4e52f8a51af23919041c2a0935445eaa266988dde",
+         "time" : 1732972564,
+         "title" : "鹿ノ台ふれあいホール(1)",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/5c98eefd-e4b0-41d7-bebf-5e48ebb2162f/resource/3d1f176c-bc87-41f2-9461-3462dc18dc91/download/shikanodaihall1.jpg"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14996,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "015d022d126baed20346cd8f112f6dedcfc5f7294e94d94f9270517815d91d40",
+         "time" : 1732972563,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1558056159"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2615,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "b76135f7af41b3571d489296ef747b90524f669e139879636560605e3af126df",
+         "time" : 1721616725.06387,
+         "title" : "写真データ（鹿ノ台ふれあいホール）",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1558056159"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "デジタルイノベーション推進課 (--)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "写真データ（鹿ノ台ふれあいホール）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1558056159"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1558056159",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "写真データ（鹿ノ台ふれあいホール）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1558056159"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 3421269,
+   "mirrorzip" : {
+      "length" : 3376712,
+      "set" : "free-1",
+      "sha256" : "29c4d0fd56fe0eef10057887f4bf962d83ad98135302525d074d3c4f48a13b7c"
+   },
+   "package" : {
+      "author" : "デジタルイノベーション推進課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1558056159",
+      "desc" : "",
+      "org" : "--",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1558056159",
+      "tags" : [
+         "デジタルイノベーション推進課",
+         "--",
+         "施設"
+      ],
+      "time" : 1721616725.06387,
+      "title" : "写真データ（鹿ノ台ふれあいホール）"
+   }
+}
