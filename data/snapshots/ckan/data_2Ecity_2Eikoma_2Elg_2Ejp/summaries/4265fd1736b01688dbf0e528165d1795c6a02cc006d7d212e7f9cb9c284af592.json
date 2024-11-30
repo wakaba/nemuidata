@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:f1beb85a-b5b6-488b-a407-7d6fc051302c" : {
+         "desc" : "",
+         "file_name" : "01-04.xls",
+         "length" : 12288,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "40d18d3a080cc83c5a553ac22be8cc393a064179f78454c49efd1a5d8a1a4b2f",
+         "time" : 1732939903,
+         "title" : "地目別土地面積及び評価額 ",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/49a0acbb-0268-4730-88e5-fca3f44407a6/resource/f1beb85a-b5b6-488b-a407-7d6fc051302c/download/01-04.xls"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15111,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "98f243ff88a4b490f113ed695635cd77ff82223aa8e72ebd2ac5e0aa3573cbcf",
+         "time" : 1732939902,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1510727173"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2970,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "e67b712e4bebf81fe9ea94fa3b61cf87c2839143180b8d8079824ac1dadd6344",
+         "time" : 1712275562.24872,
+         "title" : "地目別土地面積及び評価額",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510727173"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "地目別土地面積及び評価額",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510727173"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510727173",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "地目別土地面積及び評価額",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510727173"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 30369,
+   "mirrorzip" : {
+      "length" : 15129,
+      "set" : "free",
+      "sha256" : "05d328d776a7b6ab0b2370debb0a3bbe36739a4b0986f2725ab7133c1b801609"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510727173",
+      "desc" : "面積については、課税対象となっている土地の面積である。\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u0009\u000D\u000A資料：市民部課税課",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1510727173",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "市政情報",
+         "統計",
+         "市域"
+      ],
+      "time" : 1712275562.24872,
+      "title" : "地目別土地面積及び評価額"
+   }
+}

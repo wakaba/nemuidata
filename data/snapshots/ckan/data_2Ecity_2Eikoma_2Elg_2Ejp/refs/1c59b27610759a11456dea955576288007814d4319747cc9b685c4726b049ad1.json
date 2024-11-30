@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:21877531-ac89-4fb0-a069-acf8a72c9bd0" : {
+            "name" : "kousai-r5.xlsx",
+            "sha256" : "21ba2c3d341d67cdfb78fe732f5f13f123856d497f7be862c0c01d89d79b8c6f"
+         },
+         "meta:activity.html" : {
+            "sha256" : "99f59f4a5a2e370ee533cdfa05476028708889e765b4468058487d33b050c4e0"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "b3fdcd02ad159f53b3dcb8a5319dc10e01a84c696385c9f1ec39e7e6271d0d41"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1643937615"
+   },
+   "type" : "packref"
+}

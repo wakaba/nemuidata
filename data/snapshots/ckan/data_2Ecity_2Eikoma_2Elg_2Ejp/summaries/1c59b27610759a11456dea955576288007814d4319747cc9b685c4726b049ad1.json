@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:21877531-ac89-4fb0-a069-acf8a72c9bd0" : {
+         "desc" : "",
+         "file_name" : "kousai-r5.xlsx",
+         "length" : 15090,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "21ba2c3d341d67cdfb78fe732f5f13f123856d497f7be862c0c01d89d79b8c6f",
+         "time" : 1732939915,
+         "title" : "議会交際費の支出状況",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/3dfcb964-8252-45f8-97e5-bc5cb9bcc58b/resource/21877531-ac89-4fb0-a069-acf8a72c9bd0/download/kousai-r5.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14947,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "99f59f4a5a2e370ee533cdfa05476028708889e765b4468058487d33b050c4e0",
+         "time" : 1732939914,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1643937615"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2743,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "b3fdcd02ad159f53b3dcb8a5319dc10e01a84c696385c9f1ec39e7e6271d0d41",
+         "time" : 1696483202.57027,
+         "title" : "議会交際費の支出状況",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1643937615"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "議会事務局",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "議会交際費の支出状況",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1643937615"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1643937615",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "議会交際費の支出状況",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1643937615"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 32780,
+   "mirrorzip" : {
+      "length" : 23820,
+      "set" : "free",
+      "sha256" : "aa534a775f1ba262f73eaf4ba95868c59b9cb9f3c2df920d1762db0ebc691141"
+   },
+   "package" : {
+      "author" : "議会事務局",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1643937615",
+      "desc" : "",
+      "org" : "議会事務局",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1643937615",
+      "tags" : [
+         "議会事務局",
+         "その他",
+         "市政情報",
+         "選挙"
+      ],
+      "time" : 1696483202.57027,
+      "title" : "議会交際費の支出状況"
+   }
+}

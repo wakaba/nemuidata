@@ -14,7 +14,7 @@
          "length" : 611,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "b0e6702a64479cce766fa8dda34bff5af5cd24d5232b5819fc67b0815f0c703c",
-         "time" : 1732937694,
+         "time" : 1732939853,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata-api-kakogawa.jp.json"
@@ -64,9 +64,9 @@
    },
    "length" : 611,
    "mirrorzip" : {
-      "length" : 3779,
+      "length" : 3764,
       "set" : "nonfree",
-      "sha256" : "2ee808df4af2563868ad66187aa414e233a418b8208fb4210c61e577ecdab28b"
+      "sha256" : "7014b76cb50d5d167dd1d4fc779e1fae173c45bcfac6a5dd61e845d53d594211"
    },
    "package" : {
       "author" : "加古川市",
@@ -75,7 +75,7 @@
       "tags" : [
          "加古川市"
       ],
-      "time" : 1732937694,
+      "time" : 1732939853,
       "title" : "加古川市オープンデータカタログサイト利用規約"
    }
 }

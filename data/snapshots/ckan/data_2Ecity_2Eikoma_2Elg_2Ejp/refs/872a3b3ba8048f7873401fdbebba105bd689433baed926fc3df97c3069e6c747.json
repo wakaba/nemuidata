@@ -1,0 +1,46 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:099d4cf5-a9d1-4a42-98aa-56ba5b9204f3" : {
+            "name" : "yosan28-5.pdf",
+            "sha256" : "8b2ca8b8c67f83c3ecd81a6c962da94fcc7162d954f7a86e60c4df9a1f9ef9fc"
+         },
+         "file:id:2a571fa1-6630-4360-ab25-5d423df0da86" : {
+            "name" : "yosan28-8.pdf",
+            "sha256" : "315d6740b16da0588da333f5e3f6a874c3837dc075a6399138b7d0f33723c484"
+         },
+         "file:id:2fce90d5-e446-45fd-a380-828a6410cf55" : {
+            "name" : "yosan28-11.pdf",
+            "sha256" : "1371a08648a96b212e462c12026e390180ce8ea7424bce89d476e1794f80de22"
+         },
+         "file:id:4f0ab3ce-3a9f-424b-b1bc-3db5c95cb911" : {
+            "name" : "yosan28-7.pdf",
+            "sha256" : "af55b2c6bb8e88c59dd8af921a83fc1c7069d54132b91710b2dec772539b113b"
+         },
+         "file:id:b93de667-635f-47d2-91e7-d06a926827ed" : {
+            "name" : "yosan28-10.pdf",
+            "sha256" : "8c4e35cc483a9c8f17862b955f0bee891552e49a7f6be80c2843ae819b8a6ea6"
+         },
+         "file:id:c30bcf99-0cba-4ff9-a170-a63cc1163eec" : {
+            "name" : "yosan28-9.pdf",
+            "sha256" : "41a106a6cc9ac970d7f877dac6570fbf387784558cda5ce226c032a5762f21a0"
+         },
+         "file:id:f9c17670-fc17-4fec-8f13-f4b6cbeec515" : {
+            "name" : "yosan28-6.pdf",
+            "sha256" : "204202b26d409edbeb043683a59ae20e2466fddf1f40100f2fd9a36de6acd034"
+         },
+         "meta:activity.html" : {
+            "sha256" : "d541e108cc2925d7654ce9b74ed43ebc48dba51499759d750c2bda7d5e44e698"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "532f6ee9e2f9a78cabc22f8b089a52185a76bf38478b933143257b459802db2b"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487397924"
+   },
+   "type" : "packref"
+}

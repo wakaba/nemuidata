@@ -1,0 +1,224 @@
+{
+   "files" : {
+      "file:id:099d4cf5-a9d1-4a42-98aa-56ba5b9204f3" : {
+         "desc" : "",
+         "file_name" : "yosan28-5.pdf",
+         "length" : 1498438,
+         "mime" : "application/pdf",
+         "sha256" : "8b2ca8b8c67f83c3ecd81a6c962da94fcc7162d954f7a86e60c4df9a1f9ef9fc",
+         "time" : 1732939959,
+         "title" : "平成28年度予算案の概要",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/4a766dbf-a920-4341-a9bd-4444af0fb9ca/resource/099d4cf5-a9d1-4a42-98aa-56ba5b9204f3/download/yosan28-5.pdf"
+      },
+      "file:id:2a571fa1-6630-4360-ab25-5d423df0da86" : {
+         "desc" : "",
+         "file_name" : "yosan28-8.pdf",
+         "length" : 143248,
+         "mime" : "application/pdf",
+         "sha256" : "315d6740b16da0588da333f5e3f6a874c3837dc075a6399138b7d0f33723c484",
+         "time" : 1732939968,
+         "title" : "平成28年度生駒市水道事業会計予算書（案）",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/4a766dbf-a920-4341-a9bd-4444af0fb9ca/resource/2a571fa1-6630-4360-ab25-5d423df0da86/download/yosan28-8.pdf"
+      },
+      "file:id:2fce90d5-e446-45fd-a380-828a6410cf55" : {
+         "desc" : "",
+         "file_name" : "yosan28-11.pdf",
+         "length" : 529229,
+         "mime" : "application/pdf",
+         "sha256" : "1371a08648a96b212e462c12026e390180ce8ea7424bce89d476e1794f80de22",
+         "time" : 1732939973,
+         "title" : "平成28年度生駒市病院事業会計予算に関する説明書",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/4a766dbf-a920-4341-a9bd-4444af0fb9ca/resource/2fce90d5-e446-45fd-a380-828a6410cf55/download/yosan28-11.pdf"
+      },
+      "file:id:4f0ab3ce-3a9f-424b-b1bc-3db5c95cb911" : {
+         "desc" : "",
+         "file_name" : "yosan28-7.pdf",
+         "length" : 2025343,
+         "mime" : "application/pdf",
+         "sha256" : "af55b2c6bb8e88c59dd8af921a83fc1c7069d54132b91710b2dec772539b113b",
+         "time" : 1732939965,
+         "title" : "平成28年度予算に関する説明書（案）",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/4a766dbf-a920-4341-a9bd-4444af0fb9ca/resource/4f0ab3ce-3a9f-424b-b1bc-3db5c95cb911/download/yosan28-7.pdf"
+      },
+      "file:id:b93de667-635f-47d2-91e7-d06a926827ed" : {
+         "desc" : "",
+         "file_name" : "yosan28-10.pdf",
+         "length" : 116666,
+         "mime" : "application/pdf",
+         "sha256" : "8c4e35cc483a9c8f17862b955f0bee891552e49a7f6be80c2843ae819b8a6ea6",
+         "time" : 1732939971,
+         "title" : "平成28年度生駒市病院事業会計予算書（案）",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/4a766dbf-a920-4341-a9bd-4444af0fb9ca/resource/b93de667-635f-47d2-91e7-d06a926827ed/download/yosan28-10.pdf"
+      },
+      "file:id:c30bcf99-0cba-4ff9-a170-a63cc1163eec" : {
+         "desc" : "",
+         "file_name" : "yosan28-9.pdf",
+         "length" : 273622,
+         "mime" : "application/pdf",
+         "sha256" : "41a106a6cc9ac970d7f877dac6570fbf387784558cda5ce226c032a5762f21a0",
+         "time" : 1732939970,
+         "title" : "平成28年度生駒市水道事業会計予算に関する説明書（案）",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/4a766dbf-a920-4341-a9bd-4444af0fb9ca/resource/c30bcf99-0cba-4ff9-a170-a63cc1163eec/download/yosan28-9.pdf"
+      },
+      "file:id:f9c17670-fc17-4fec-8f13-f4b6cbeec515" : {
+         "desc" : "",
+         "file_name" : "yosan28-6.pdf",
+         "length" : 337452,
+         "mime" : "application/pdf",
+         "sha256" : "204202b26d409edbeb043683a59ae20e2466fddf1f40100f2fd9a36de6acd034",
+         "time" : 1732939963,
+         "title" : "平成28年度予算書（案）",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/4a766dbf-a920-4341-a9bd-4444af0fb9ca/resource/f9c17670-fc17-4fec-8f13-f4b6cbeec515/download/yosan28-6.pdf"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14839,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "d541e108cc2925d7654ce9b74ed43ebc48dba51499759d750c2bda7d5e44e698",
+         "time" : 1732939957,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1487397924"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 7719,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "532f6ee9e2f9a78cabc22f8b089a52185a76bf38478b933143257b459802db2b",
+         "time" : 1586844726.48595,
+         "title" : "予算",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487397924"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "財政課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "予算",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487397924"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487397924",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "予算",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487397924"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 4946556,
+   "mirrorzip" : {
+      "length" : 4694208,
+      "set" : "free",
+      "sha256" : "5230f7b41ed431544d39042b9e904a41463fe20de7c2858737353a6d1f63bf4b"
+   },
+   "package" : {
+      "author" : "財政課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1487397924",
+      "desc" : "",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1487397924",
+      "tags" : [
+         "財政課",
+         "総務部",
+         "市政情報",
+         "財政"
+      ],
+      "time" : 1586844726.48595,
+      "title" : "予算"
+   }
+}

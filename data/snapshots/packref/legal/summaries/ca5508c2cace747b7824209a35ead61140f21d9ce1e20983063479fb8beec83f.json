@@ -6,7 +6,7 @@
          "length" : 40178,
          "mime" : "text/html; charset=utf-8",
          "sha256" : "42afd4a6579b963db2567362ca1925f5b2461009eb358b84bef9c845960d8ff5",
-         "time" : 1732937703,
+         "time" : 1732939832,
          "title" : "",
          "type" : "file",
          "url" : "https://data.pf-sapporo.jp/tos/"
@@ -16,7 +16,7 @@
          "length" : 215,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "36458b6ac59ed9657b66b909f7a07f7c348a9975e14ea1c35ec7e2d993b8fef8",
-         "time" : 1732937702,
+         "time" : 1732939831,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.pf-sapporo.jp.json"
@@ -55,9 +55,9 @@
    },
    "length" : 40393,
    "mirrorzip" : {
-      "length" : 13326,
+      "length" : 13330,
       "set" : "nonfree",
-      "sha256" : "b44c129c4aea368aa020194aadb9db128d240593719b603e55eb48b6c86a4e76"
+      "sha256" : "14b3d6898dc9e4d2a64820701b2a33d24343ed39f911da5c571ee322de9e2aab"
    },
    "package" : {
       "author" : "",
@@ -65,7 +65,7 @@
       "org" : "",
       "tags" : [
       ],
-      "time" : 1732937703,
+      "time" : 1732939832,
       "title" : ""
    }
 }

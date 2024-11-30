@@ -1,0 +1,54 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:15d194bf-a45b-4ada-a857-b2c73a5b0a93" : {
+            "name" : "raiensya.xls-5",
+            "sha256" : "b42e0523a9392b9b7bc7919b98d09e262f6f9ea8ffe35282800043cdbe68e2f1"
+         },
+         "file:id:3156458e-69c4-414b-ba21-dde3d203a16b" : {
+            "name" : "raijousya.xls-3",
+            "sha256" : "1e2222c6e08274532beb936cd471bb4670712752c5e1af81fddfac170b4a5791"
+         },
+         "file:id:4428c2d5-4e3e-42e2-ad4b-476fe622063c" : {
+            "name" : "raiensya.xls-3",
+            "sha256" : "19f344c73b057adde161ae2a9c698c88ccde46a1f3153a92280374b12ffe0bca"
+         },
+         "file:id:764f593b-4ad3-421e-96b3-87cd6c499902" : {
+            "name" : "raiensya.xls-2",
+            "sha256" : "ee4eed999e060f0cc94ee5143171996f469d8e8c0262666f6dfd4c63eeba9a1f"
+         },
+         "file:id:77e271e7-b38f-4fb2-b0b1-55fb0576b128" : {
+            "name" : "raiensya.xls-6",
+            "sha256" : "ab2251a1493641b2c539d9ed967acf07f30d1d722701d5a63b9f2dedcd3cb049"
+         },
+         "file:id:8fcd5051-905f-4cd5-b51b-2a3923cfebd6" : {
+            "name" : "raiensya.xls-7",
+            "sha256" : "3f0d48a56e94a6c94ee42b350d4ece9b6747974e731076f3461adc9e3e124623"
+         },
+         "file:id:e33c97d0-797e-4b6b-84ed-1f2a92096e14" : {
+            "name" : "raiensya.xls-4",
+            "sha256" : "59317eab2e39a897cc0272aaeee69c0f662fad21b5f26d611c574b14e54b8778"
+         },
+         "file:id:e44e1dda-283a-4fd3-8402-4618c649687d" : {
+            "name" : "raijousya.xls-2",
+            "sha256" : "e5866e2329abb5d9817de5c36f96cdadab138fc0e784b851496de693e50f51fa"
+         },
+         "file:id:edd0d23a-ea42-4d04-a81f-23c8c2181b57" : {
+            "name" : "raiensya.xls-1",
+            "sha256" : "7c2e5479c9a45dfcd07791bb63edf5e687f1bc8f8e28270fa4d2037a49a63ff3"
+         },
+         "meta:activity.html" : {
+            "sha256" : "be9a812adb75ae97d22418232bbe91ff974e123f64081eda75e51a1f4242645e"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "5bf1ff02e2a02f1b09a34aaef714866555de56f86bf07affa2505a1e62dec759"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1487654419"
+   },
+   "type" : "packref"
+}
