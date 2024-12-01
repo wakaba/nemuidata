@@ -5,9 +5,9 @@
          "file_name" : "rules.html",
          "insecure" : 1,
          "length" : 28664,
-         "mime" : "text/html; charset=UTF-8",
+         "mime" : "text/html; charset=utf-8",
          "sha256" : "e364b04639bd64119abe151dfc4ba46f0ea75ee9422ca8b84f594be27f35342c",
-         "time" : 1720848654,
+         "time" : 1733057372,
          "title" : "",
          "type" : "file",
          "url" : "https://open-imagedata.town.aichi-higashiura.lg.jp/rules/"
@@ -19,7 +19,7 @@
          "length" : 181248,
          "mime" : "application/pdf",
          "sha256" : "a4c12aa1329788bd78b5fe2dd5f1b540c7a0ceefe062d7823a3e05a32b150b88",
-         "time" : 1720848652,
+         "time" : 1733057373,
          "title" : "",
          "type" : "file",
          "url" : "https://open-imagedata.town.aichi-higashiura.lg.jp/cp-bin/wordpress/wp-content/uploads/2023/09/hg-opendata-riyoukiyaku_2023.pdf"
@@ -29,7 +29,7 @@
          "length" : 1012,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "1d2ea1f50e27891c48b8e6c3c0a7a845bc15cb6d141ced726d7f8fe85fd60d10",
-         "time" : 1720848651,
+         "time" : 1733057371,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.town.aichi-higashiura.lg.jp.json"
@@ -120,9 +120,9 @@
    },
    "length" : 210924,
    "mirrorzip" : {
-      "length" : 186775,
-      "set" : "free",
-      "sha256" : "8cdc1328c3543c1bed58fccd00672ddd5551808152da2b60704b674198308969"
+      "length" : 186728,
+      "set" : "free-1",
+      "sha256" : "ac3668e094fb6c4a6a39fbb56f4137a99bac81efa140a584fdcfeeb1f8350bb9"
    },
    "package" : {
       "author" : "東浦町",
@@ -131,7 +131,7 @@
       "tags" : [
          "東浦町"
       ],
-      "time" : 1720848654,
+      "time" : 1733057373,
       "title" : "東浦町オープンデータ利用規約"
    }
 }

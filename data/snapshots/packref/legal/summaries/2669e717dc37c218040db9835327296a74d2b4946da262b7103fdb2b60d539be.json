@@ -21,7 +21,7 @@
          "length" : 806,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "c2362beeb9c4d21d4db46944eb9ca1c0a603040d62e0075f3147b18c684a55a8",
-         "time" : 1732942786,
+         "time" : 1733057351,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-portal-data.city.kanazawa.ishikawa.jp.json"
@@ -161,9 +161,9 @@
    },
    "length" : 806,
    "mirrorzip" : {
-      "length" : 4397,
-      "set" : "nonfree",
-      "sha256" : "c50e548572e27e8181200e1e56ec3f00f70fe612e4e7d95e28b87b5028935818"
+      "length" : 4394,
+      "set" : "nonfree-1",
+      "sha256" : "93fdee825fd013ba3dcb2adba7903301f172408814d2d0383a8b40c36bcae3c7"
    },
    "package" : {
       "author" : "金沢市, 石川中央都市圏",
@@ -172,7 +172,7 @@
       "tags" : [
          "金沢市, 石川中央都市圏"
       ],
-      "time" : 1732942786,
+      "time" : 1733057351,
       "title" : "利用規約"
    }
 }

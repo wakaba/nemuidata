@@ -14,7 +14,7 @@
          "length" : 224071,
          "mime" : "application/pdf",
          "sha256" : "3e499cced5db09150fa920a18a951c7018e9533688eb75cd2cb525f6633d223a",
-         "time" : 1732939824,
+         "time" : 1733057361,
          "title" : "",
          "type" : "file",
          "url" : "https://opendata.pref.kanagawa.jp/wp-content/uploads/2024/02/terms_of_service_202402.pdf"
@@ -24,7 +24,7 @@
          "length" : 910,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "580b9e8a71e6ecdbfa816f823d54581e39a603c00a8c287c20ee8e424044c4e9",
-         "time" : 1732939822,
+         "time" : 1733057359,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.pref.kanagawa.jp.json"
@@ -106,9 +106,9 @@
    },
    "length" : 224981,
    "mirrorzip" : {
-      "length" : 217147,
-      "set" : "free",
-      "sha256" : "1902fc2be55c94f96315154a8f9597c6d810353be92d8cbf529609e3cfc1e66a"
+      "length" : 217149,
+      "set" : "free-1",
+      "sha256" : "341f77c458dd5e6399e30f7413769d7acfa35dec6e4cf5b6eedd19aaadaf2065"
    },
    "package" : {
       "author" : "神奈川県",
@@ -117,7 +117,7 @@
       "tags" : [
          "神奈川県"
       ],
-      "time" : 1732939824,
+      "time" : 1733057361,
       "title" : "このサイトのご利用について | 神奈川県オープンデータカタログサイト"
    }
 }
