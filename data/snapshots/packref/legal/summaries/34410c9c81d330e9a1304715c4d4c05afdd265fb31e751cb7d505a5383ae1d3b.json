@@ -6,7 +6,7 @@
          "length" : 26063,
          "mime" : "text/html; charset=utf-8",
          "sha256" : "60c399e1a0200bd38b55851b76abb154110a137a1a398a43133b42d65457ceae",
-         "time" : 1732942776,
+         "time" : 1733058993,
          "title" : "",
          "type" : "file",
          "url" : "https://www.jma.go.jp/jma/kishou/info/coment.html"
@@ -16,7 +16,7 @@
          "length" : 605,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "34b30f0ac08937de2e95e2c146c1e52615d24c2842f9973f7c5e5af08bd69964",
-         "time" : 1732942775,
+         "time" : 1733058992,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-www.jma.go.jp.json"
@@ -102,9 +102,9 @@
    },
    "length" : 26668,
    "mirrorzip" : {
-      "length" : 13700,
-      "set" : "free",
-      "sha256" : "035b29bddfb0c2f9407d0a949ded7afadd8456ed3f3387b109a6b02c9e02f05e"
+      "length" : 13681,
+      "set" : "free-1",
+      "sha256" : "c8012ffffce83d20b932989bdc2966aee33d4fd4120fc991adf91264a1ed775c"
    },
    "package" : {
       "author" : "気象庁",
@@ -113,7 +113,7 @@
       "tags" : [
          "気象庁"
       ],
-      "time" : 1732942776,
+      "time" : 1733058993,
       "title" : "気象庁ホームページについて"
    }
 }

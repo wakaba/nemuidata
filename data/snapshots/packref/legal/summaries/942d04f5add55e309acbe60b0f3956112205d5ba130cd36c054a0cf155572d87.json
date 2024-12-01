@@ -13,7 +13,7 @@
          "length" : 584,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "7ee91a389e0520b4eabbe2c95852ff059ed22afcce9c4ad18bd757a3bbe6c1c5",
-         "time" : 1732939837,
+         "time" : 1733059008,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.tendo.yamagata.jp.json"
@@ -72,9 +72,9 @@
    },
    "length" : 584,
    "mirrorzip" : {
-      "length" : 3631,
-      "set" : "nonfree",
-      "sha256" : "0f8cf23aeb7ee7a1a1b56bbe4b75c72245aae2b2b0de3207ac07a9d1effe4e05"
+      "length" : 3633,
+      "set" : "nonfree-1",
+      "sha256" : "776d64c5d246d4faae7ae64858116e6a641870eb3fdda9905172dc758b89993f"
    },
    "package" : {
       "author" : "天童市",
@@ -83,7 +83,7 @@
       "tags" : [
          "天童市"
       ],
-      "time" : 1732939837,
+      "time" : 1733059008,
       "title" : "天童市オープンデータ利用規約"
    }
 }

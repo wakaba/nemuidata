@@ -14,7 +14,7 @@
          "length" : 12027,
          "mime" : "application/pdf",
          "sha256" : "91e0e17ae0c6b5a0a4f0b5cd4298403479ef09ed4f56c8047e1d5663a7387753",
-         "time" : 1732939828,
+         "time" : 1733059005,
          "title" : "",
          "type" : "file",
          "url" : "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/005/928/opendata_kiyaku_20180328.pdf"
@@ -24,7 +24,7 @@
          "length" : 912,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "d041e9dd737399f2029d2cd196bfb1215e9f4ac4fff54f1fbef5f27975681680",
-         "time" : 1732939827,
+         "time" : 1733059004,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.city.sagamihara.kanagawa.jp.json"
@@ -64,8 +64,8 @@
    "length" : 12939,
    "mirrorzip" : {
       "length" : 12819,
-      "set" : "nonfree",
-      "sha256" : "12339c44484dd93e135511b0f96d19b15db778ddd2769369f6decb812e86cc18"
+      "set" : "nonfree-1",
+      "sha256" : "ee08440bbc85d2e58303b81eccbaa90e3cf77579d8f7a7a03c2487257e580c62"
    },
    "package" : {
       "author" : "相模原市",
@@ -74,7 +74,7 @@
       "tags" : [
          "相模原市"
       ],
-      "time" : 1732939828,
+      "time" : 1733059005,
       "title" : "相模原市オープンデータ利用規約"
    }
 }

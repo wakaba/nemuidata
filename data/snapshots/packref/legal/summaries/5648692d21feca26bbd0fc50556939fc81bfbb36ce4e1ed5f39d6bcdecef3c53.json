@@ -5,7 +5,8 @@
          "desc" : "",
          "mime" : "application/octet-stream",
          "title" : "",
-         "type" : "file"
+         "type" : "file",
+         "url" : "https://artnavi.yokohama/lod/"
       },
       "file:r:logo" : {
          "desc" : "",
@@ -13,7 +14,7 @@
          "length" : 75734,
          "mime" : "image/svg\u002Bxml",
          "sha256" : "79c204a2e4850980a8b2906aad1c21e150df53af2710a863af1e84df0dde53a0",
-         "time" : 1720848892,
+         "time" : 1733059031,
          "title" : "",
          "type" : "file",
          "url" : "https://artnavi.yokohama/wp-content/themes/yokohama_art_navi_ga4/images/yokohama_art_lod.svg"
@@ -22,20 +23,22 @@
          "desc" : "",
          "mime" : "application/octet-stream",
          "title" : "",
-         "type" : "file"
+         "type" : "file",
+         "url" : "https://data.yafjp.org/reference.html"
       },
       "file:r:yafjp" : {
          "desc" : "",
          "mime" : "application/octet-stream",
          "title" : "",
-         "type" : "file"
+         "type" : "file",
+         "url" : "https://p.yafjp.org/opendata_api/"
       },
       "meta:packref.json" : {
          "desc" : "",
          "length" : 1283,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "0b8b3e7062a858eb4a9a025dc3413056759a29dd0de464c2a19651f223a54d36",
-         "time" : 1720848891,
+         "time" : 1733059028,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.yafjp.org.json"
@@ -74,9 +77,9 @@
    },
    "length" : 77017,
    "mirrorzip" : {
-      "length" : 23646,
-      "set" : "nonfree",
-      "sha256" : "73ac7a491e519dd2267f1174197c938ab8ebb43453f6b078e3f48ed435020be6"
+      "length" : 23737,
+      "set" : "nonfree-1",
+      "sha256" : "0de229cdcf13c34a37de8464160f01eeb1a99aac523ffea654888ed9891439c0"
    },
    "package" : {
       "author" : "公益財団法人 横浜市芸術文化振興財団",
@@ -85,7 +88,7 @@
       "tags" : [
          "公益財団法人 横浜市芸術文化振興財団"
       ],
-      "time" : 1720848892,
+      "time" : 1733059031,
       "title" : "公益財団法人 横浜市芸術文化振興財団:オープンデータ・API"
    }
 }

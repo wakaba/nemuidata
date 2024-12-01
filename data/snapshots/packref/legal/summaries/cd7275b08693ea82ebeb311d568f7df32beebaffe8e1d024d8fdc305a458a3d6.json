@@ -4,9 +4,9 @@
          "desc" : "",
          "file_name" : "term",
          "length" : 24779,
-         "mime" : "text/html; charset=UTF-8",
+         "mime" : "text/html; charset=utf-8",
          "sha256" : "c247514c7908e0c4dcec42255e0c9b2f85c85c36b6d6e8011ec2fbc77518ec8b",
-         "time" : 1720868745,
+         "time" : 1733058937,
          "title" : "",
          "type" : "file",
          "url" : "https://opendata.pref.akita.lg.jp/term"
@@ -16,7 +16,7 @@
          "length" : 222,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "5debd7846255f168c26057abe828627dbfe4fc6092ca9bab17aff6d824f9c7dc",
-         "time" : 1720868808,
+         "time" : 1733059000,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.pref.akita.lg.jp.json"
@@ -55,9 +55,9 @@
    },
    "length" : 25001,
    "mirrorzip" : {
-      "length" : 10753,
-      "set" : "nonfree",
-      "sha256" : "17ea6dbfa1e90c19e708f17b371fc9c9900049d48cbd16c12b4840e8dc5f95b4"
+      "length" : 10754,
+      "set" : "nonfree-1",
+      "sha256" : "fcab81b63194dcbaee67c75d73c421c3327a0ad73498554bd5887ac49790c6f3"
    },
    "package" : {
       "author" : "",
@@ -65,7 +65,7 @@
       "org" : "",
       "tags" : [
       ],
-      "time" : 1720868808,
+      "time" : 1733059000,
       "title" : ""
    }
 }
