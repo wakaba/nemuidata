@@ -1,0 +1,94 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:r:artnavi" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "file",
+         "url" : "https://artnavi.yokohama/lod/"
+      },
+      "file:r:logo" : {
+         "desc" : "",
+         "file_name" : "yokohama_art_lod.svg",
+         "length" : 75734,
+         "mime" : "image/svg\u002Bxml",
+         "sha256" : "79c204a2e4850980a8b2906aad1c21e150df53af2710a863af1e84df0dde53a0",
+         "time" : 1733061628,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://artnavi.yokohama/wp-content/themes/yokohama_art_navi_ga4/images/yokohama_art_lod.svg"
+      },
+      "file:r:reference" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "file",
+         "url" : "https://data.yafjp.org/reference.html"
+      },
+      "file:r:yafjp" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "file",
+         "url" : "https://p.yafjp.org/opendata_api/"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 1283,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "0b8b3e7062a858eb4a9a025dc3413056759a29dd0de464c2a19651f223a54d36",
+         "time" : 1733061626,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.yafjp.org.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 77017,
+   "mirrorzip" : {
+      "length" : 23730,
+      "set" : "nonfree-1",
+      "sha256" : "60a0a5f3bd36a38852b3af4dc690726c8dc547d36f1f8ec99c21752e65f6b041"
+   },
+   "package" : {
+      "author" : "公益財団法人 横浜市芸術文化振興財団",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "公益財団法人 横浜市芸術文化振興財団"
+      ],
+      "time" : 1733061628,
+      "title" : "公益財団法人 横浜市芸術文化振興財団:オープンデータ・API"
+   }
+}
