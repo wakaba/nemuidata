@@ -1,0 +1,84 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "1",
+         "length" : 13544,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "bf541e6f03bffcdaa3bb8cb0cbb3b9205db930272a490cc1e973d7e19e5c3a1b",
+         "time" : 1733061110,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/policy/"
+      },
+      "file:r:pdf" : {
+         "desc" : "",
+         "file_name" : "kiyaku.pdf",
+         "length" : 141006,
+         "mime" : "application/pdf",
+         "sha256" : "7a16ff77aad13588090e8b85631d181a0d4f2aa32d15d5aaefcb1df74d92fef3",
+         "time" : 1733061113,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 757,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "aca226a52cd862e3512b8ebdebb0b4d948a70ea99252e413c3d94a7f2892aac5",
+         "time" : 1733061108,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.ikoma.lg.jp.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "packref",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 155307,
+   "mirrorzip" : {
+      "length" : 140544,
+      "set" : "nonfree-1",
+      "sha256" : "56fa491fb45e478404ebf546ac5462b0c620c7b4b99204f8805005a184e65658"
+   },
+   "package" : {
+      "author" : "生駒市",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "生駒市"
+      ],
+      "time" : 1733061113,
+      "title" : "ご利用について"
+   }
+}

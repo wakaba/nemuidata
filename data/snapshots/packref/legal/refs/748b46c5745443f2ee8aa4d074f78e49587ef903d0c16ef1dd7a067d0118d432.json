@@ -1,0 +1,22 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "skip" : 1
+         },
+         "file:r:pdf" : {
+            "name" : "opendata_kiyaku_20180328.pdf",
+            "sha256" : "91e0e17ae0c6b5a0a4f0b5cd4298403479ef09ed4f56c8047e1d5663a7387753"
+         },
+         "meta:packref.json" : {
+            "sha256" : "d041e9dd737399f2029d2cd196bfb1215e9f4ac4fff54f1fbef5f27975681680"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.city.sagamihara.kanagawa.jp.json"
+   },
+   "type" : "packref"
+}

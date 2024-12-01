@@ -1,0 +1,71 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "1",
+         "length" : 40178,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "fb6fba82c6639c889c043f0b0326485d3f33a58d277afdf76f5a86616bbe005e",
+         "time" : 1733061090,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://data.pf-sapporo.jp/tos/"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 215,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "36458b6ac59ed9657b66b909f7a07f7c348a9975e14ea1c35ec7e2d993b8fef8",
+         "time" : 1733061089,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.pf-sapporo.jp.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "sniffer",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 40393,
+   "mirrorzip" : {
+      "length" : 13332,
+      "set" : "nonfree-1",
+      "sha256" : "99b3029c254c647ebc711043a5894fe1cfcd5cbb13528c080627abc8a390d259"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+      ],
+      "time" : 1733061090,
+      "title" : ""
+   }
+}

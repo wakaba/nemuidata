@@ -1,0 +1,137 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "rules.html",
+         "insecure" : 1,
+         "length" : 28664,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e364b04639bd64119abe151dfc4ba46f0ea75ee9422ca8b84f594be27f35342c",
+         "time" : 1733061100,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://open-imagedata.town.aichi-higashiura.lg.jp/rules/"
+      },
+      "file:r:pdf" : {
+         "desc" : "",
+         "file_name" : "hg-opendata-riyoukiyaku_2023.pdf",
+         "insecure" : 1,
+         "length" : 181248,
+         "mime" : "application/pdf",
+         "sha256" : "a4c12aa1329788bd78b5fe2dd5f1b540c7a0ceefe062d7823a3e05a32b150b88",
+         "time" : 1733061098,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://open-imagedata.town.aichi-higashiura.lg.jp/cp-bin/wordpress/wp-content/uploads/2023/09/hg-opendata-riyoukiyaku_2023.pdf"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 1012,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "1d2ea1f50e27891c48b8e6c3c0a7a845bc15cb6d141ced726d7f8fe85fd60d10",
+         "time" : 1733061097,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.town.aichi-higashiura.lg.jp.json"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "東浦町",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "東浦町オープンデータ利用規約",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.town.aichi-higashiura.lg.jp.json"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp",
+            "label" : "東浦町オープンデータ利用規約",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "東浦町",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "packref",
+            "source_url" : "http://open-imagedata.town.aichi-higashiura.lg.jp/rules/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 210924,
+   "mirrorzip" : {
+      "length" : 186738,
+      "set" : "free-1",
+      "sha256" : "0b0603a986b5719004a4abbc3fe3486037775f99db11261506f3f2e39b100c07"
+   },
+   "package" : {
+      "author" : "東浦町",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "東浦町"
+      ],
+      "time" : 1733061100,
+      "title" : "東浦町オープンデータ利用規約"
+   }
+}
