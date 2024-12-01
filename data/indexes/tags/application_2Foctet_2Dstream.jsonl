@@ -1,4 +1,3 @@
-["ckan","opendata-api-kakogawa.jp","r4toukeisyo-",1720849654.97543,"957c1cae738a09cb115f9f183ae9c33871283652c91debc68902b53d4fccbf42",1,null,4797341,"令和４年度加古川市統計書","政策企画課","加古川市","free"]
 ["ckan","data.gsj.jp","gsj_map_833",1720943052.00502,"96111c07f53da9be20860bfab748ae8fc58ada0caed19d51991c7290801d9414",1,null,14454476,"16-1 多摩丘陵北西部関東ローム地質図，1:10,000および補説 (1989)","産業技術総合研究所・地質調査総合センター","地質調査総合センター","free"]
 ["ckan","data.gsj.jp","gsj_map_1101",1720928204.24988,"7076be9c24a81f91a191748b76666ab4bcca9993ffa8f8033ad89862aa679b04",1,null,5801158,"中部近畿, 1:500,000 (2000)","産業技術総合研究所・地質調査総合センター","地質調査総合センター","free"]
 ["ckan","data.gsj.jp","gsj_map_787",1720928173.60372,"05110528e78731399783ccd549bf8444ac2390e009a279f37a8c407bb90c016b",1,null,3446059,"日本地質図（第5版） (2002)","産業技術総合研究所・地質調査総合センター","地質調査総合センター","free"]
@@ -39,6 +38,7 @@
 ["ckan","opendata.town.aichi-higashiura.lg.jp","p_4013_1513838878546",1719752184.90701,"34438513c811639dcc358d543e6d15c83cdf32c7581a16ef2e899e31d305d801",null,1,418172,"指定避難所・指定緊急避難所","東浦町","東浦町","free"]
 ["ckan","opendata.town.aichi-higashiura.lg.jp","p_3758_1488875488843",1719658665.67134,"ca71233187846c5bdf9501aebbe9940e04bcae70e6d3a754b79018f71aa7d7f8",null,1,76127,"製造事業所調査（工業統計調査）による事業者数・従業者数・出荷額","東浦町広報情報課","東浦町","free"]
 ["ckan","opendata.town.aichi-higashiura.lg.jp","p_2839_1525263608000",1719798865.37646,"6ce021715c722778cc68c112b1ddd3214942ae4cc48e1337f3768842ca5414f9",null,1,65113,"平成29年度人口推移","東浦町","東浦町","free"]
+["ckan","opendata-api-kakogawa.jp","r4toukeisyo-",1720849654.97543,"957c1cae738a09cb115f9f183ae9c33871283652c91debc68902b53d4fccbf42",1,null,4797341,"令和４年度加古川市統計書","政策企画課","加古川市","free"]
 ["packref","legal","terms-opendata-api-kakogawa.jp.json",1733061115.75986,"9862ada7455e74d2b3ef47ba7db08fdbe3f3dd975929886f33c59af611cb3a2c",1,null,611,"加古川市オープンデータカタログサイト利用規約","加古川市","","unknown"]
 ["packref","legal","terms-data.yafjp.org.json",1733061626.05691,"533279e1215d6ce8075902dd24cb8c6f7130a28b0b6dceea85b2ff66ddde978c",1,null,77017,"公益財団法人 横浜市芸術文化振興財団:オープンデータ・API","公益財団法人 横浜市芸術文化振興財団","","unknown"]
 ["packref","legal","terms-opendata.city.sagamihara.kanagawa.jp.json",1733061132.20724,"748b46c5745443f2ee8aa4d074f78e49587ef903d0c16ef1dd7a067d0118d432",1,null,12939,"相模原市オープンデータ利用規約","相模原市","","unknown"]
