@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:8f32cd74-2269-48ec-a121-b6b2fde3f4aa" : {
+         "desc" : "",
+         "file_name" : "03-15.xls",
+         "length" : 34304,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "af10ee0ebf65a487f4ada23fe8dd5f94a28f7083faba1d0b5d3d8b0f97676500",
+         "time" : 1733043591,
+         "title" : "世帯人員別一般世帯数及び世帯人員 ",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/afdd5ce1-5442-4318-b513-bf2e0ca67496/resource/8f32cd74-2269-48ec-a121-b6b2fde3f4aa/download/03-15.xls"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15059,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4c467161a3a9d0e0569c4887fc5cdfd870e369bdee56d32fcb6113f0ee35ae21",
+         "time" : 1733043590,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1510879397"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2619,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "df150996827023b740edd6f78e98599ded9b906d527e15a2e642d4bf252b9f45",
+         "time" : 1712278770.59401,
+         "title" : "世帯人員別一般世帯数及び世帯人員_国勢調査",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510879397"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "世帯人員別一般世帯数及び世帯人員_国勢調査",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510879397"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510879397",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "世帯人員別一般世帯数及び世帯人員_国勢調査",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510879397"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 51982,
+   "mirrorzip" : {
+      "length" : 21009,
+      "set" : "free-1",
+      "sha256" : "8c00c20a145a8d65703247a8d92b28ad5b76bd798844cb066789db6d90ab6923"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510879397",
+      "desc" : "",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1510879397",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "統計",
+         "くらし"
+      ],
+      "time" : 1712278770.59401,
+      "title" : "世帯人員別一般世帯数及び世帯人員_国勢調査"
+   }
+}
