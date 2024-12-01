@@ -1,0 +1,114 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:1175464a-7689-40b8-bcb5-248cb6d98120" : {
+            "name" : "tyoubetsu2604.csv",
+            "sha256" : "ed87eff39af3cba8ae47f62b82e8d720f689f499914b82acd37912b8d4fcc1a5"
+         },
+         "file:id:15413493-54f7-4d9a-b0a3-515fd6b7a8e9" : {
+            "name" : "tyoubetsu2604.pdf",
+            "sha256" : "b0848a1d0d48cf6f60aed3e07ccbb81ff75d69a92785ecf4d25e51618f976c7c"
+         },
+         "file:id:1e55636b-ee24-4f9e-bccd-d2e0df91b72b" : {
+            "name" : "tyoubetsu2605.csv",
+            "sha256" : "bb02ba7fa03262fc4bbdbf1e84bc6da0e131bf8967077310180c7bd102724e4f"
+         },
+         "file:id:260c777b-b153-4481-b7fb-4c29db2c620a" : {
+            "name" : "tyoubetsu2702.pdf",
+            "sha256" : "28dd5c71cf2ec6d039e4c8c82e21110ffac5f13a1d1437c9fbcd2016ab6bb811"
+         },
+         "file:id:2f8799ab-937e-4d56-8d59-450f8b09f2b5" : {
+            "name" : "tyoubetsu2607.csv",
+            "sha256" : "a36c44382b7cf74d11c99d967de9d878613fbf0472c8a3496a1ae7681c26a55d"
+         },
+         "file:id:402f9167-32ba-4301-8ae8-4770feb92d9d" : {
+            "name" : "tyoubetsu2701.csv",
+            "sha256" : "31c97438b025426a09a6582a528376233db36dfe55c1155c0afc53d5cdecd043"
+         },
+         "file:id:4f22f186-e52c-46bb-a6e0-67440fe721db" : {
+            "name" : "tyoubetsu2608.csv",
+            "sha256" : "a082804dd2d6e868836fcf9a3bacd95ea5c61720bfbc0fef30aacdbd3af3ec6c"
+         },
+         "file:id:515fe0c5-ca79-4091-9751-2b04c4704c7f" : {
+            "name" : "tyoubetsu2703.csv",
+            "sha256" : "12b512221ebd788164a71188d6549cec6de6d3ce65afa9daa815212b604273d8"
+         },
+         "file:id:56bd8496-624b-4eee-ac8b-827d0203a7b0" : {
+            "name" : "tyoubetsu2612.csv",
+            "sha256" : "124c5891c69f17448ba30e117b6f6ce7d0d02e7c16dfba7316ddcdc83d084ebf"
+         },
+         "file:id:581c51da-c56a-4aee-84f7-4f594cab785f" : {
+            "name" : "tyoubetsu2610.csv",
+            "sha256" : "d013babaa38ccb4822bc7ce761a6c787ee32fbe8b1dc2b7ebd3e3c8f473bcc10"
+         },
+         "file:id:7b8219d7-4ed6-4d7a-a17a-8beec8d763e2" : {
+            "name" : "tyoubetsu2611.pdf",
+            "sha256" : "92ecb91aa587428d97effa890bed3fb638e17fd50132a5bedbc7779dbffa9eea"
+         },
+         "file:id:7dd34ae2-cd9d-42d1-900d-3b9a87b86691" : {
+            "name" : "tyoubetsu2605.pdf",
+            "sha256" : "869ceb708a24c6b7efa4958786864864fc7a994eca1ba091dc835ede7e0c4fbc"
+         },
+         "file:id:86dc6a54-9ef7-4451-865c-1f294e43217b" : {
+            "name" : "tyoubetsu2702.csv",
+            "sha256" : "a6aa13fecdb6605a938178b9ad2a7a430c1b5bbdb0ee4a4896333d745aa56ec0"
+         },
+         "file:id:a4e573a6-8b33-4d14-9d2e-f8cda5a3e3bb" : {
+            "name" : "tyoubetsu2611.csv",
+            "sha256" : "aa91c7b0d7eadcac9ac33b211b9228a4944f34443692d2fa76835b86c18d7af1"
+         },
+         "file:id:a5d24141-0994-41f0-a5f1-2418f8f26a78" : {
+            "name" : "tyoubetsu2606.csv",
+            "sha256" : "1e6907f9b9f8b9a3fa4038dfc5b271c1d73ad252b51c4c84ac1383ea552c5ead"
+         },
+         "file:id:a7dc1b1f-0633-4dc3-ae91-0516b0789f55" : {
+            "name" : "tyoubetsu2701.pdf",
+            "sha256" : "098e8b3e23e621f8cf50c5f2558ecd3c6d0601ee3a23eaef9a02f52e1c8b5226"
+         },
+         "file:id:b343dfa6-2ceb-416c-8a0e-782d1e6f861d" : {
+            "name" : "tyoubetsu2609.csv",
+            "sha256" : "75604f6055a38127ff20673aefee4b87d43393a8476dd28063e11517ea242388"
+         },
+         "file:id:b4e895be-1477-4685-b5ae-0d19fcf54e18" : {
+            "name" : "tyoubetsu2703.pdf",
+            "sha256" : "6d8bfb11b89f2a9a1637ed5c5b89c0fa8c4fd530e4ecc936faf8cf63055cbd82"
+         },
+         "file:id:b9a6e6a4-705e-4e6e-ba35-a7d1b2598caf" : {
+            "name" : "tyoubetsu2606.pdf",
+            "sha256" : "7251bbac27374b49474f7ecd1b34655f612a9eb2ffec900444c18549c282f541"
+         },
+         "file:id:c037ec21-f2d5-4f2b-ad52-aecd12829367" : {
+            "name" : "tyoubetsu2608.pdf",
+            "sha256" : "d82472ba47a752b3594ab8a2d7939677a73b9f938b032d3b90ff10563748a407"
+         },
+         "file:id:c0861d16-9ebe-4527-9541-b72806c6b934" : {
+            "name" : "tyoubetsu2612.pdf",
+            "sha256" : "ff1d60e77d7f39a42b754697a7d122d6ca250ed05a1f6ce65672b601e8fa2cdf"
+         },
+         "file:id:e2c31828-c6ef-43ec-a76a-5a4e72b7a7e9" : {
+            "name" : "tyoubetsu2609.pdf",
+            "sha256" : "6d2e712c6007da8de0d206434ed13233775e82b3367104e60b528e062c0d6ce6"
+         },
+         "file:id:e3207aa0-4a20-4a3d-ac7d-5f0f49a7ab24" : {
+            "name" : "tyoubetsu2607.pdf",
+            "sha256" : "a8d46cabb567a6fb556571eafcce8abcf34887eb5c78a091c52e2619f7e3c8d5"
+         },
+         "file:id:e8e7a70d-b7c2-40a3-8c1c-0f21d28037c3" : {
+            "name" : "tyoubetsu2610.pdf",
+            "sha256" : "94c2f8a84f4568e1438027bdbab72ab0bb9d25ca384b7b82d7550df6bb44cd28"
+         },
+         "meta:activity.html" : {
+            "sha256" : "ae50070bc6feb2e26285a1039b73ac6b082ce8f97006a8890e93a3149e2fcaa8"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "028947a59e57bfe746c26397e251a038b4a12792201b1eceac68a4a9c67b86b4"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1502244993"
+   },
+   "type" : "packref"
+}

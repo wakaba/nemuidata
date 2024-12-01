@@ -1,0 +1,411 @@
+{
+   "files" : {
+      "file:id:1175464a-7689-40b8-bcb5-248cb6d98120" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2604.csv",
+         "length" : 7010,
+         "mime" : "text/csv",
+         "sha256" : "ed87eff39af3cba8ae47f62b82e8d720f689f499914b82acd37912b8d4fcc1a5",
+         "time" : 1733062831,
+         "title" : "26年4月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/1175464a-7689-40b8-bcb5-248cb6d98120/download/tyoubetsu2604.csv"
+      },
+      "file:id:15413493-54f7-4d9a-b0a3-515fd6b7a8e9" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2604.pdf",
+         "length" : 195222,
+         "mime" : "application/pdf",
+         "sha256" : "b0848a1d0d48cf6f60aed3e07ccbb81ff75d69a92785ecf4d25e51618f976c7c",
+         "time" : 1733062832,
+         "title" : "26年4月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/15413493-54f7-4d9a-b0a3-515fd6b7a8e9/download/tyoubetsu2604.pdf"
+      },
+      "file:id:1e55636b-ee24-4f9e-bccd-d2e0df91b72b" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2605.csv",
+         "length" : 7016,
+         "mime" : "text/csv",
+         "sha256" : "bb02ba7fa03262fc4bbdbf1e84bc6da0e131bf8967077310180c7bd102724e4f",
+         "time" : 1733062834,
+         "title" : "26年5月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/1e55636b-ee24-4f9e-bccd-d2e0df91b72b/download/tyoubetsu2605.csv"
+      },
+      "file:id:260c777b-b153-4481-b7fb-4c29db2c620a" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2702.pdf",
+         "length" : 195216,
+         "mime" : "application/pdf",
+         "sha256" : "28dd5c71cf2ec6d039e4c8c82e21110ffac5f13a1d1437c9fbcd2016ab6bb811",
+         "time" : 1733062883,
+         "title" : "27年2月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/260c777b-b153-4481-b7fb-4c29db2c620a/download/tyoubetsu2702.pdf"
+      },
+      "file:id:2f8799ab-937e-4d56-8d59-450f8b09f2b5" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2607.csv",
+         "length" : 7020,
+         "mime" : "text/csv",
+         "sha256" : "a36c44382b7cf74d11c99d967de9d878613fbf0472c8a3496a1ae7681c26a55d",
+         "time" : 1733062839,
+         "title" : "26年7月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/2f8799ab-937e-4d56-8d59-450f8b09f2b5/download/tyoubetsu2607.csv"
+      },
+      "file:id:402f9167-32ba-4301-8ae8-4770feb92d9d" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2701.csv",
+         "length" : 6994,
+         "mime" : "text/csv",
+         "sha256" : "31c97438b025426a09a6582a528376233db36dfe55c1155c0afc53d5cdecd043",
+         "time" : 1733062879,
+         "title" : "27年1月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/402f9167-32ba-4301-8ae8-4770feb92d9d/download/tyoubetsu2701.csv"
+      },
+      "file:id:4f22f186-e52c-46bb-a6e0-67440fe721db" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2608.csv",
+         "length" : 7008,
+         "mime" : "text/csv",
+         "sha256" : "a082804dd2d6e868836fcf9a3bacd95ea5c61720bfbc0fef30aacdbd3af3ec6c",
+         "time" : 1733062842,
+         "title" : "26年8月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/4f22f186-e52c-46bb-a6e0-67440fe721db/download/tyoubetsu2608.csv"
+      },
+      "file:id:515fe0c5-ca79-4091-9751-2b04c4704c7f" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2703.csv",
+         "length" : 7004,
+         "mime" : "text/csv",
+         "sha256" : "12b512221ebd788164a71188d6549cec6de6d3ce65afa9daa815212b604273d8",
+         "time" : 1733062885,
+         "title" : "27年3月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/515fe0c5-ca79-4091-9751-2b04c4704c7f/download/tyoubetsu2703.csv"
+      },
+      "file:id:56bd8496-624b-4eee-ac8b-827d0203a7b0" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2612.csv",
+         "length" : 7008,
+         "mime" : "text/csv",
+         "sha256" : "124c5891c69f17448ba30e117b6f6ce7d0d02e7c16dfba7316ddcdc83d084ebf",
+         "time" : 1733062875,
+         "title" : "26年12月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/56bd8496-624b-4eee-ac8b-827d0203a7b0/download/tyoubetsu2612.csv"
+      },
+      "file:id:581c51da-c56a-4aee-84f7-4f594cab785f" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2610.csv",
+         "length" : 6996,
+         "mime" : "text/csv",
+         "sha256" : "d013babaa38ccb4822bc7ce761a6c787ee32fbe8b1dc2b7ebd3e3c8f473bcc10",
+         "time" : 1733062869,
+         "title" : "26年10月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/581c51da-c56a-4aee-84f7-4f594cab785f/download/tyoubetsu2610.csv"
+      },
+      "file:id:7b8219d7-4ed6-4d7a-a17a-8beec8d763e2" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2611.pdf",
+         "length" : 195196,
+         "mime" : "application/pdf",
+         "sha256" : "92ecb91aa587428d97effa890bed3fb638e17fd50132a5bedbc7779dbffa9eea",
+         "time" : 1733062873,
+         "title" : "26年11月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/7b8219d7-4ed6-4d7a-a17a-8beec8d763e2/download/tyoubetsu2611.pdf"
+      },
+      "file:id:7dd34ae2-cd9d-42d1-900d-3b9a87b86691" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2605.pdf",
+         "length" : 195222,
+         "mime" : "application/pdf",
+         "sha256" : "869ceb708a24c6b7efa4958786864864fc7a994eca1ba091dc835ede7e0c4fbc",
+         "time" : 1733062835,
+         "title" : "26年5月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/7dd34ae2-cd9d-42d1-900d-3b9a87b86691/download/tyoubetsu2605.pdf"
+      },
+      "file:id:86dc6a54-9ef7-4451-865c-1f294e43217b" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2702.csv",
+         "length" : 7006,
+         "mime" : "text/csv",
+         "sha256" : "a6aa13fecdb6605a938178b9ad2a7a430c1b5bbdb0ee4a4896333d745aa56ec0",
+         "time" : 1733062883,
+         "title" : "27年2月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/86dc6a54-9ef7-4451-865c-1f294e43217b/download/tyoubetsu2702.csv"
+      },
+      "file:id:a4e573a6-8b33-4d14-9d2e-f8cda5a3e3bb" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2611.csv",
+         "length" : 7005,
+         "mime" : "text/csv",
+         "sha256" : "aa91c7b0d7eadcac9ac33b211b9228a4944f34443692d2fa76835b86c18d7af1",
+         "time" : 1733062872,
+         "title" : "26年11月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/a4e573a6-8b33-4d14-9d2e-f8cda5a3e3bb/download/tyoubetsu2611.csv"
+      },
+      "file:id:a5d24141-0994-41f0-a5f1-2418f8f26a78" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2606.csv",
+         "length" : 7001,
+         "mime" : "text/csv",
+         "sha256" : "1e6907f9b9f8b9a3fa4038dfc5b271c1d73ad252b51c4c84ac1383ea552c5ead",
+         "time" : 1733062836,
+         "title" : "26年6月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/a5d24141-0994-41f0-a5f1-2418f8f26a78/download/tyoubetsu2606.csv"
+      },
+      "file:id:a7dc1b1f-0633-4dc3-ae91-0516b0789f55" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2701.pdf",
+         "length" : 195225,
+         "mime" : "application/pdf",
+         "sha256" : "098e8b3e23e621f8cf50c5f2558ecd3c6d0601ee3a23eaef9a02f52e1c8b5226",
+         "time" : 1733062880,
+         "title" : "27年1月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/a7dc1b1f-0633-4dc3-ae91-0516b0789f55/download/tyoubetsu2701.pdf"
+      },
+      "file:id:b343dfa6-2ceb-416c-8a0e-782d1e6f861d" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2609.csv",
+         "length" : 7019,
+         "mime" : "text/csv",
+         "sha256" : "75604f6055a38127ff20673aefee4b87d43393a8476dd28063e11517ea242388",
+         "time" : 1733062866,
+         "title" : "26年9月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/b343dfa6-2ceb-416c-8a0e-782d1e6f861d/download/tyoubetsu2609.csv"
+      },
+      "file:id:b4e895be-1477-4685-b5ae-0d19fcf54e18" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2703.pdf",
+         "length" : 195205,
+         "mime" : "application/pdf",
+         "sha256" : "6d8bfb11b89f2a9a1637ed5c5b89c0fa8c4fd530e4ecc936faf8cf63055cbd82",
+         "time" : 1733062886,
+         "title" : "27年3月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/b4e895be-1477-4685-b5ae-0d19fcf54e18/download/tyoubetsu2703.pdf"
+      },
+      "file:id:b9a6e6a4-705e-4e6e-ba35-a7d1b2598caf" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2606.pdf",
+         "length" : 195198,
+         "mime" : "application/pdf",
+         "sha256" : "7251bbac27374b49474f7ecd1b34655f612a9eb2ffec900444c18549c282f541",
+         "time" : 1733062837,
+         "title" : "26年6月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/b9a6e6a4-705e-4e6e-ba35-a7d1b2598caf/download/tyoubetsu2606.pdf"
+      },
+      "file:id:c037ec21-f2d5-4f2b-ad52-aecd12829367" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2608.pdf",
+         "length" : 195218,
+         "mime" : "application/pdf",
+         "sha256" : "d82472ba47a752b3594ab8a2d7939677a73b9f938b032d3b90ff10563748a407",
+         "time" : 1733062844,
+         "title" : "26年8月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/c037ec21-f2d5-4f2b-ad52-aecd12829367/download/tyoubetsu2608.pdf"
+      },
+      "file:id:c0861d16-9ebe-4527-9541-b72806c6b934" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2612.pdf",
+         "length" : 195241,
+         "mime" : "application/pdf",
+         "sha256" : "ff1d60e77d7f39a42b754697a7d122d6ca250ed05a1f6ce65672b601e8fa2cdf",
+         "time" : 1733062876,
+         "title" : "26年12月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/c0861d16-9ebe-4527-9541-b72806c6b934/download/tyoubetsu2612.pdf"
+      },
+      "file:id:e2c31828-c6ef-43ec-a76a-5a4e72b7a7e9" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2609.pdf",
+         "length" : 195212,
+         "mime" : "application/pdf",
+         "sha256" : "6d2e712c6007da8de0d206434ed13233775e82b3367104e60b528e062c0d6ce6",
+         "time" : 1733062866,
+         "title" : "26年9月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/e2c31828-c6ef-43ec-a76a-5a4e72b7a7e9/download/tyoubetsu2609.pdf"
+      },
+      "file:id:e3207aa0-4a20-4a3d-ac7d-5f0f49a7ab24" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2607.pdf",
+         "length" : 195249,
+         "mime" : "application/pdf",
+         "sha256" : "a8d46cabb567a6fb556571eafcce8abcf34887eb5c78a091c52e2619f7e3c8d5",
+         "time" : 1733062840,
+         "title" : "26年7月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/e3207aa0-4a20-4a3d-ac7d-5f0f49a7ab24/download/tyoubetsu2607.pdf"
+      },
+      "file:id:e8e7a70d-b7c2-40a3-8c1c-0f21d28037c3" : {
+         "desc" : "外国人を含む",
+         "file_name" : "tyoubetsu2610.pdf",
+         "length" : 195241,
+         "mime" : "application/pdf",
+         "sha256" : "94c2f8a84f4568e1438027bdbab72ab0bb9d25ca384b7b82d7550df6bb44cd28",
+         "time" : 1733062870,
+         "title" : "26年10月現在",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a05a5f72-d8e3-4a93-81f7-d10bc9ed9362/resource/e8e7a70d-b7c2-40a3-8c1c-0f21d28037c3/download/tyoubetsu2610.pdf"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14971,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "ae50070bc6feb2e26285a1039b73ac6b082ce8f97006a8890e93a3149e2fcaa8",
+         "time" : 1733062830,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1502244993"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 21520,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "028947a59e57bfe746c26397e251a038b4a12792201b1eceac68a4a9c67b86b4",
+         "time" : 1546913235.6358,
+         "title" : "町別3区分年齢（平成26年度）",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1502244993"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "町別3区分年齢（平成26年度）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1502244993"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1502244993",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "町別3区分年齢（平成26年度）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1502244993"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 2463223,
+   "mirrorzip" : {
+      "length" : 1692187,
+      "set" : "free-1",
+      "sha256" : "b90a077e687d2283d373868f79a8ab9347194d05c21b8a71624a0b7f687e1632"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1502244993",
+      "desc" : "",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1502244993",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "統計",
+         "人口"
+      ],
+      "time" : 1546913235.6358,
+      "title" : "町別3区分年齢（平成26年度）"
+   }
+}
