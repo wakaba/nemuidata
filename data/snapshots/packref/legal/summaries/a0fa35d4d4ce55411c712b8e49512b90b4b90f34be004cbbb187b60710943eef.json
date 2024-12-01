@@ -6,7 +6,7 @@
          "length" : 18041,
          "mime" : "text/html; charset=utf-8",
          "sha256" : "72c72edd64e251ac7ff7447ae8f59b2201d3e134253ba9ac11d8ab9c5ea53ba3",
-         "time" : 1733057341,
+         "time" : 1720955230,
          "title" : "",
          "type" : "file",
          "url" : "https://data.city.yokohama.lg.jp/terms.html"
@@ -16,7 +16,7 @@
          "length" : 611,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "767ded49339fd778e96c64db0c744ec8d8648573ba5c8b46d4fe16a8bdc52cd1",
-         "time" : 1733057339,
+         "time" : 1720955226,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.yokohama.lg.jp.json"
@@ -98,9 +98,9 @@
    },
    "length" : 18652,
    "mirrorzip" : {
-      "length" : 10176,
-      "set" : "free-1",
-      "sha256" : "34a497cf4461b915b52cac819367f9e55da7d52f39f5116d1d6f8e4f3ddb8c11"
+      "length" : 10166,
+      "set" : "free",
+      "sha256" : "360f4039562e2005e116ce64b89bd44832b572ddf7d2d3ca11287545d1838505"
    },
    "package" : {
       "author" : "横浜市",
@@ -109,7 +109,7 @@
       "tags" : [
          "横浜市"
       ],
-      "time" : 1733057341,
+      "time" : 1720955230,
       "title" : "横浜市オープンデータポータルサイト利用規約"
    }
 }

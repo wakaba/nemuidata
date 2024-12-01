@@ -6,7 +6,7 @@
          "length" : 253235,
          "mime" : "application/pdf",
          "sha256" : "7c61e4389d6a607a690f86bee01f4b4fa4e6e696edbfa2a2d87db05f1aa870b4",
-         "time" : 1733057344,
+         "time" : 1720943318,
          "title" : "",
          "type" : "file",
          "url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf"
@@ -16,7 +16,7 @@
          "length" : 757,
          "mime" : "text/plain; charset=utf-8",
          "sha256" : "6e3da6b7f17b89aec07a1c436a1a312bfd88718f6f92a5985f30d89e76262aa2",
-         "time" : 1733057343,
+         "time" : 1720943318,
          "title" : "",
          "type" : "meta",
          "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-city.himeji.gkan.jp.json"
@@ -172,9 +172,9 @@
    },
    "length" : 253992,
    "mirrorzip" : {
-      "length" : 252741,
-      "set" : "free-1",
-      "sha256" : "594e1d6de8aedea554caaeb3424b877ef94c23cb35afc06f05e157362b524255"
+      "length" : 252706,
+      "set" : "free",
+      "sha256" : "00c00435d71798cbfd504eeaff119769a8b56b637e19a0b506da62a256fb4cf4"
    },
    "package" : {
       "author" : "姫路市, 高砂市",
@@ -183,7 +183,7 @@
       "tags" : [
          "姫路市, 高砂市"
       ],
-      "time" : 1733057344,
+      "time" : 1720943318,
       "title" : "姫路市オープンデータ利⽤規約, 高砂市オープンデータ利用規約"
    }
 }
