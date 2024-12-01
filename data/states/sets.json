@@ -4,10 +4,18 @@
    "large_set_prefix" : "l1",
    "mirror_sets" : {
       "free-1" : {
-         "length" : 4928081
+         "length" : 4980639
+      },
+      "free_large_set" : {
+      },
+      "free_set" : {
       },
       "nonfree-1" : {
-         "length" : 258821
+         "length" : 151027
+      },
+      "nonfree_large_set" : {
+      },
+      "nonfree_set" : {
       }
    },
    "nonfree_large_set" : "nonfree-l1",
