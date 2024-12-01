@@ -1,0 +1,411 @@
+{
+   "files" : {
+      "file:id:04ece32c-fdff-4969-ad4e-a5fd6d12c18c" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0307.pdf",
+         "length" : 81442,
+         "mime" : "application/pdf",
+         "sha256" : "1cb8c4cff43f3d781364d6ce139e98f91f53714a46e174204f61382e946687ed",
+         "time" : 1733064242,
+         "title" : "年齢別人口令和３年07月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/04ece32c-fdff-4969-ad4e-a5fd6d12c18c/download/r0307.pdf"
+      },
+      "file:id:1f2ccc9d-8184-475e-b26e-3550a5e39962" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0403.pdf",
+         "length" : 82269,
+         "mime" : "application/pdf",
+         "sha256" : "9aae8897cb179e78129c98f8c6b3c2e896b94ee7bb08a773cef1946dfc747c1e",
+         "time" : 1733064283,
+         "title" : "年齢別人口令和４年３月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/1f2ccc9d-8184-475e-b26e-3550a5e39962/download/r0403.pdf"
+      },
+      "file:id:26e6f6d1-4a83-4642-80f9-31503808b683" : {
+         "desc" : "外国人を含む\u000D\u000A",
+         "file_name" : "r0401.csv",
+         "length" : 2264,
+         "mime" : "text/csv",
+         "sha256" : "9e81bd1dbe2c7ffaa8a8eeb359c45bfc037660f64328286635354e962abb48bf",
+         "time" : 1733064275,
+         "title" : "年齢別人口令和４年１月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/26e6f6d1-4a83-4642-80f9-31503808b683/download/r0401.csv"
+      },
+      "file:id:28ec097b-7c6f-4f23-8ab0-4a5c6b181329" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0304.pdf",
+         "length" : 81527,
+         "mime" : "application/pdf",
+         "sha256" : "f4be46c793b02e7a76b700206b692921e2c476172f2dd09fcf582b02d118912e",
+         "time" : 1733064234,
+         "title" : "年齢別人口令和３年04月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/28ec097b-7c6f-4f23-8ab0-4a5c6b181329/download/r0304.pdf"
+      },
+      "file:id:41ffddbc-6d9a-48dd-92c8-4fc0399d2d15" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0312.csv",
+         "length" : 2266,
+         "mime" : "text/csv",
+         "sha256" : "352040ff2469d3ef64c0f6ba3e6d2115b8361629db6b7b2339eab91d3078ebac",
+         "time" : 1733064270,
+         "title" : "年齢別人口令和３年12月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/41ffddbc-6d9a-48dd-92c8-4fc0399d2d15/download/r0312.csv"
+      },
+      "file:id:4f09ccf6-4677-4c39-a631-cd739c9bb5af" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0311.csv",
+         "length" : 2265,
+         "mime" : "text/csv",
+         "sha256" : "9ea2ddd1b86c705f3f56eab7a351b52de08f08d73f9a3b9732386c2b0f22b655",
+         "time" : 1733064268,
+         "title" : "年齢別人口令和３年11月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/4f09ccf6-4677-4c39-a631-cd739c9bb5af/download/r0311.csv"
+      },
+      "file:id:5bd2a92e-e68f-4ccb-9b79-68c3f4c4234b" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0403.csv",
+         "length" : 2271,
+         "mime" : "text/csv",
+         "sha256" : "96f2bf49aee40f4b7b76a6eb24005c8b06fa1cc2768100b30446bdbc9bc303db",
+         "time" : 1733064281,
+         "title" : "年齢別人口令和４年３月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/5bd2a92e-e68f-4ccb-9b79-68c3f4c4234b/download/r0403.csv"
+      },
+      "file:id:5ebc3f45-b11b-429f-b8bb-5edc3ca46bbe" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0307.csv",
+         "length" : 2574,
+         "mime" : "text/csv",
+         "sha256" : "3a936e1235c66afd24dd3321d899684e0438c239b2fd5d6b079f1e745cc3f378",
+         "time" : 1733064241,
+         "title" : "年齢別人口令和３年07月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/5ebc3f45-b11b-429f-b8bb-5edc3ca46bbe/download/r0307.csv"
+      },
+      "file:id:6946ff60-20a0-4cf0-a745-1c7f74002cc3" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0309.pdf",
+         "length" : 81550,
+         "mime" : "application/pdf",
+         "sha256" : "5588f2b8eaec16753e5d65d188ef649f32e9142809703179a7dd2fa2949d886c",
+         "time" : 1733064264,
+         "title" : "年齢別人口令和３年09月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/6946ff60-20a0-4cf0-a745-1c7f74002cc3/download/r0309.pdf"
+      },
+      "file:id:6c7f48ec-189a-4209-9bd8-420b6131fd2d" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0310.pdf",
+         "length" : 81495,
+         "mime" : "application/pdf",
+         "sha256" : "9cee1285413aa639b17f3dd8c2433e41652605b5fffce87f6ef476aef8b8476d",
+         "time" : 1733064266,
+         "title" : "年齢別人口令和３年10月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/6c7f48ec-189a-4209-9bd8-420b6131fd2d/download/r0310.pdf"
+      },
+      "file:id:797420fb-d419-49ea-9da8-bb9a127c73e5" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0312.pdf",
+         "length" : 81509,
+         "mime" : "application/pdf",
+         "sha256" : "bb3f941334d807350f554ccd8230e44a9bc0056a8b0f18013257c98a8d3a67ec",
+         "time" : 1733064273,
+         "title" : "年齢別人口令和３年12月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/797420fb-d419-49ea-9da8-bb9a127c73e5/download/r0312.pdf"
+      },
+      "file:id:7da5e49d-dce9-41e0-9bdc-244cdc517c60" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0305.csv",
+         "length" : 2220,
+         "mime" : "text/csv",
+         "sha256" : "8d4ee3e11376ffc83fc9285ef9677967693f04b62405e0796d4b639c51200655",
+         "time" : 1733064236,
+         "title" : "年齢別人口令和３年05月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/7da5e49d-dce9-41e0-9bdc-244cdc517c60/download/r0305.csv"
+      },
+      "file:id:a836821d-29b2-468a-abaa-a4b0205d4a28" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0306.pdf",
+         "length" : 81779,
+         "mime" : "application/pdf",
+         "sha256" : "c74afaf624226ebed0da64920d8faafa0bc2f5ceb7fd4c3cc6b43786302894cf",
+         "time" : 1733064240,
+         "title" : "年齢別人口令和３年06月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/a836821d-29b2-468a-abaa-a4b0205d4a28/download/r0306.pdf"
+      },
+      "file:id:ae2f7cdc-d330-433e-82a9-be6c56ba3004" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0305.pdf",
+         "length" : 81543,
+         "mime" : "application/pdf",
+         "sha256" : "9e4d2828343e09d43401884834181d340d442ae07489f6afbd63baf0b6afdbaf",
+         "time" : 1733064238,
+         "title" : "年齢別人口令和３年05月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/ae2f7cdc-d330-433e-82a9-be6c56ba3004/download/r0305.pdf"
+      },
+      "file:id:b1261da5-5298-445c-8158-dfb40cce9cfc" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0309.csv",
+         "length" : 2191,
+         "mime" : "text/csv",
+         "sha256" : "e49b686be2d080a916b76891f208ec62fc4f6f9d88e9ee1d17e88d52002a19e4",
+         "time" : 1733064262,
+         "title" : "年齢別人口令和３年09月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/b1261da5-5298-445c-8158-dfb40cce9cfc/download/r0309.csv"
+      },
+      "file:id:b4396c44-9731-40d2-9b9d-70b007572892" : {
+         "desc" : "",
+         "file_name" : "r0402.csv",
+         "length" : 2268,
+         "mime" : "text/csv",
+         "sha256" : "dbd92a596ca619a9b8b08355e6d2fb07548ed25ac9073401e2b695a5d6fcefdd",
+         "time" : 1733064278,
+         "title" : "年齢別人口令和４年２月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/b4396c44-9731-40d2-9b9d-70b007572892/download/r0402.csv"
+      },
+      "file:id:b6f4cf76-504b-487e-ad44-773948bf1b76" : {
+         "desc" : "",
+         "file_name" : "r0402.pdf",
+         "length" : 82439,
+         "mime" : "application/pdf",
+         "sha256" : "dbc32754f5e02ecd492ce3a17006ff3b0ceb6cc3506fd93df558f949cc71c7c5",
+         "time" : 1733064278,
+         "title" : "年齢別人口令和４年２月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/b6f4cf76-504b-487e-ad44-773948bf1b76/download/r0402.pdf"
+      },
+      "file:id:c9616fe7-5450-4386-aa34-107a6fe218a4" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0304.csv",
+         "length" : 2225,
+         "mime" : "text/csv",
+         "sha256" : "0219e5d28a87f14a5dfe100dfa2576ca1970fdf1cf4abf8e420a34e89a1ad440",
+         "time" : 1733064233,
+         "title" : "年齢別人口令和３年04月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/c9616fe7-5450-4386-aa34-107a6fe218a4/download/r0304.csv"
+      },
+      "file:id:d0c632bd-f424-46ca-8454-af62a4eb714a" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0306.csv",
+         "length" : 2271,
+         "mime" : "text/csv",
+         "sha256" : "8f280d85af32f0596eef5a1d447ac6d7473062b6d308f9842b4aa334dc0448c4",
+         "time" : 1733064239,
+         "title" : "年齢別人口令和３年06月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/d0c632bd-f424-46ca-8454-af62a4eb714a/download/r0306.csv"
+      },
+      "file:id:ede46094-a63e-4464-9311-457fd5b18698" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0310.csv",
+         "length" : 2614,
+         "mime" : "text/csv",
+         "sha256" : "8d9d54db969a6ded0151a50505c5490dfb9c51f7df0f79c6db8e274ca3835e15",
+         "time" : 1733064265,
+         "title" : "年齢別人口令和３年10月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/ede46094-a63e-4464-9311-457fd5b18698/download/r0310.csv"
+      },
+      "file:id:f2fa5482-20c9-4a40-9054-fac385f2f463" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0308.pdf",
+         "length" : 81528,
+         "mime" : "application/pdf",
+         "sha256" : "1a51c38a42d0cb9bcb3b27fef22968e817a453099923b96afba2dfc324984ba6",
+         "time" : 1733064244,
+         "title" : "年齢別人口令和３年08月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/f2fa5482-20c9-4a40-9054-fac385f2f463/download/r0308.pdf"
+      },
+      "file:id:f34a487a-781d-4b69-a6e9-c89e45127317" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0308.csv",
+         "length" : 2216,
+         "mime" : "text/csv",
+         "sha256" : "d220f732025ebeba0769c0bd17c6255573e7c3f19bcb86b0d87296051b4638e8",
+         "time" : 1733064243,
+         "title" : "年齢別人口令和３年08月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/f34a487a-781d-4b69-a6e9-c89e45127317/download/r0308.csv"
+      },
+      "file:id:faa537ab-2fa9-4e5d-904e-bd66a164a880" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0401.pdf",
+         "length" : 82289,
+         "mime" : "application/pdf",
+         "sha256" : "8c450c55cc141d957d851345f666ac4bc9f080e783bcfddb289e970778ecdb94",
+         "time" : 1733064276,
+         "title" : "年齢別人口令和４年１月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/faa537ab-2fa9-4e5d-904e-bd66a164a880/download/r0401.pdf"
+      },
+      "file:id:fd65f0bb-1fb2-47fc-88d2-bcfd47283117" : {
+         "desc" : "外国人を含む",
+         "file_name" : "r0311.pdf",
+         "length" : 81560,
+         "mime" : "application/pdf",
+         "sha256" : "43bba987c864e3b70b08b2bf1ab05573532d60b9ed29237f6d22c8f973f09431",
+         "time" : 1733064269,
+         "title" : "年齢別人口令和３年11月１日",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/c22a06ae-ea07-4ce1-a89d-cc9475dbad12/resource/fd65f0bb-1fb2-47fc-88d2-bcfd47283117/download/r0311.pdf"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14969,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "61514df5c4483fa11c7d5efbaf74a6f1f122bfeaf1c8eb1e03e65dec8c99f9f4",
+         "time" : 1733064231,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1620894927"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 22443,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "f753b62353ae1f5e631f9c308c49a567814c678de83daf5017a8342f2a1c0b64",
+         "time" : 1646869396.11656,
+         "title" : "年齢別人口（令和3年度）",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1620894927"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "年齢別人口（令和3年度）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1620894927"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1620894927",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "年齢別人口（令和3年度）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1620894927"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 1045987,
+   "mirrorzip" : {
+      "length" : 717001,
+      "set" : "free-1",
+      "sha256" : "715702f238b049dec63db4941175635e8d942313032e1fb7bef95984b78874cc"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1620894927",
+      "desc" : "外国人を含む",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1620894927",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "統計",
+         "人口"
+      ],
+      "time" : 1646869396.11656,
+      "title" : "年齢別人口（令和3年度）"
+   }
+}
