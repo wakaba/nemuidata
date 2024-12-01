@@ -6,6 +6,9 @@
       "free-1" : {
          "length" : 6845518
       },
+      "free-2" : {
+         "length" : 870535
+      },
       "free-l1" : {
       },
       "free_large_set" : {
@@ -13,7 +16,7 @@
       "free_set" : {
       },
       "nonfree-1" : {
-         "length" : 151027
+         "length" : 219701
       },
       "nonfree-l1" : {
       },
