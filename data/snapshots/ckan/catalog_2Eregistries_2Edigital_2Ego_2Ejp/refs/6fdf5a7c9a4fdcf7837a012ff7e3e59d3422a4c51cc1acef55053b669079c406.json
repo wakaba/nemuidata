@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:272b5ea7-b656-4045-ad14-96cfaa669a9d" : {
+            "name" : "ba-o1-261076_g2-000006.xml",
+            "sha256" : "1b20d9a07ee8f5c010ce84dbba4da67742441af76e879933737c31c9d8bc32aa"
+         },
+         "file:id:6a540349-a4b1-4d79-9b49-6aac1345ac51" : {
+            "name" : "base_registry_address",
+            "sha256" : "04eaa48795c92a024dd9de62c9599d5f7215ebbf3bc99cb88dc06dff450191ca"
+         },
+         "file:id:e03e3b07-d385-4fc6-a57c-35d73b6c4898" : {
+            "name" : "mt_town_pos_city261076.csv.zip",
+            "sha256" : "6a64851cbab4ae9e4770e611986291c38c8d32a532220126d1eff892ff9f79a4"
+         },
+         "meta:activity.html" : {
+            "sha256" : "96aadb2dedcc381e591bd3a73d8ab68306306aac27e42672871238a07c6a681a"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "8a55d950728a69c8905fbf45dc25cf98f38c9f8b15235cb99bc94d0c0457f89b"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-261076_g2-000006"
+   },
+   "type" : "packref"
+}

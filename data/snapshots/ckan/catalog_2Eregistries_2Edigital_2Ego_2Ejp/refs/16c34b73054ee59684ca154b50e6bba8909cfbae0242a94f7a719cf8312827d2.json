@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:5b6d7ced-0ecf-46cf-80aa-6ac31401db80" : {
+            "name" : "mt_parcel_city082325.csv.zip",
+            "sha256" : "f2d40dc4d95ee5024033329f2751e48b9bc178d9a9f8e99e6644216521bf4d23"
+         },
+         "file:id:709d8e5c-2139-4421-baf4-7816adc41738" : {
+            "name" : "base_registry_address",
+            "sha256" : "04eaa48795c92a024dd9de62c9599d5f7215ebbf3bc99cb88dc06dff450191ca"
+         },
+         "file:id:d9fc666e-b51a-4a89-9b52-fdff6ad8679a" : {
+            "name" : "ba-o1-082325_g2-000010.xml",
+            "sha256" : "896321e1014b71a71023f991ccd80cea2cc31b79b910fa8148ef0501070dda4b"
+         },
+         "meta:activity.html" : {
+            "sha256" : "11e1da5d14737f814a936f5d83f30d88a7238f7c31f11eb397323f9304c86d4c"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "c3ed9632a79203a06fd7c1779f0b7ce71d36beb98c1a3bcb9a4a4e5b14b56474"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-082325_g2-000010"
+   },
+   "type" : "packref"
+}

@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:1362ed0b-1cef-4229-9c0e-6ffe3ea1d3e1" : {
+            "name" : "ba-o1-112186_g2-000005.xml",
+            "sha256" : "2706c71449e01aca50825cf8d7f37c5db47a0562d91c85e109b64424b876cb09"
+         },
+         "file:id:4919dd88-e3b4-4e7c-bdb4-690fdc3d6f88" : {
+            "name" : "base_registry_address",
+            "sha256" : "04eaa48795c92a024dd9de62c9599d5f7215ebbf3bc99cb88dc06dff450191ca"
+         },
+         "file:id:dcdc9aef-fa3c-4d4f-b245-acc1082837d2" : {
+            "name" : "mt_rsdtdsp_rsdt_city112186.csv.zip",
+            "sha256" : "6ff5573aec6727595c2cacf599fcfe351eb5ceac870813b2448949b45b28c8db"
+         },
+         "meta:activity.html" : {
+            "sha256" : "1ddcca4fa2f109ce6d197472e99f4c25876d60d33c277dc10516a035041ee51c"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "116f9dbc32e56618ee3bceb07e4983d980f90ad36b2d47a3ced45fd2616b80b3"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-112186_g2-000005"
+   },
+   "type" : "packref"
+}

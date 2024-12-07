@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:1d9982ef-7dc0-4d1d-9f3b-b0017a5a3603" : {
+            "name" : "base_registry_address",
+            "sha256" : "04eaa48795c92a024dd9de62c9599d5f7215ebbf3bc99cb88dc06dff450191ca"
+         },
+         "file:id:6af62fab-c254-410d-aae5-9255e3719d6d" : {
+            "name" : "mt_town_fullset_city121053.csv.zip",
+            "sha256" : "329fba181f38d3b59106348ab4189d2d8a8f19aeb197f8c4f46f18158c39bc30"
+         },
+         "file:id:e57fdc6b-d5c2-4daa-bae7-9cefce8fb61f" : {
+            "name" : "ba-o1-121053_g2-000009.xml",
+            "sha256" : "2cb25199eb3d39b73effb539b764d260122f8208b0c5e56614aabf44c2152a5c"
+         },
+         "meta:activity.html" : {
+            "sha256" : "24790fad4be9ee8ebff1a3d38cdd22bd22721671bf652d6a996e264595a643a6"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "8e1a1be4e4a30e4d895721d083c985cf222c82270bc488db7f9a957df95fe286"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-121053_g2-000009"
+   },
+   "type" : "packref"
+}

@@ -1,5 +1,15 @@
 {
    "ckan" : {
+      "catalog_2Eregistries_2Edigital_2Ego_2Ejp" : {
+         "esite_name" : "catalog_2Eregistries_2Edigital_2Ego_2Ejp",
+         "site_name" : "catalog.registries.digital.go.jp",
+         "site_opts" : {
+            "tags" : [
+               "デジタル庁"
+            ]
+         },
+         "site_type" : "ckan"
+      },
       "data_2Ecity_2Eikoma_2Elg_2Ejp" : {
          "esite_name" : "data_2Ecity_2Eikoma_2Elg_2Ejp",
          "site_name" : "data.city.ikoma.lg.jp",
