@@ -1,0 +1,201 @@
+{
+   "files" : {
+      "file:id:01305885-a768-47d3-bd3f-57be7d72269b" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "eg000018.xml",
+         "length" : 3264,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "a99e83764caf6ab970faa7c2bdd0c75b10c5c6f6ffabe22539e6ba697591abfd",
+         "time" : 1733554889,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000018.xml"
+      },
+      "file:id:68db96d3-fd66-46ae-8fb7-17b9ad25f4e7" : {
+         "desc" : "XMLスキーマ情報等のリソース定義です。（e-Gov法令検索サイトが開きます）",
+         "file_name" : "1",
+         "length" : 800,
+         "mime" : "text/html",
+         "sha256" : "0b192cea4894bccd686b6ddca91e37f1100dbd7e3a3e390461e4d8c05a2aa541",
+         "time" : 1733554883,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://laws.e-gov.go.jp/help/"
+      },
+      "file:id:819d1b18-bea3-4931-b352-f29933d28ac4" : {
+         "desc" : "法令種別/国土開発のリソースです。",
+         "file_name" : "17_xml.zip",
+         "length" : 1456589,
+         "mime" : "application/octet-stream",
+         "sha256" : "b0892276d9fc36262b830ebb8500e4e3de521a0961cf729849c748b68358ebcb",
+         "time" : 1733554882,
+         "title" : "法令種別/国土開発",
+         "type" : "file",
+         "url" : "https://laws.e-gov.go.jp/bulkdownload?file_section=2&category_cd=17&only_xml_flag=true"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 28506,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "31d51777e787d72f404d79a870dad6108af7ae25568da29452c53743e68634bb",
+         "time" : 1733554881,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/eg000018"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5516,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "dc0c6d7894dd999b140863eddb8dc5641c0d726f838c65ddf9c0e5945b4c35d2",
+         "time" : 1731542542.86274,
+         "title" : "法令種別/国土開発",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000018"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "法令種別/国土開発",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000018"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000018",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "法令種別/国土開発",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000018"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "法令種別/国土開発",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000018"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 1494675,
+   "mirrorzip" : {
+      "length" : 1415486,
+      "set" : "free-1",
+      "sha256" : "186b63d7fd7cc0e905f07cea838659229876fd7eefc0cefe36f95a62c337f85b"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000018",
+      "desc" : "e-Gov法令検索サイトで公開されている法令種別/国土開発データセットです。",
+      "org" : "デジタル庁",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000018",
+      "tags" : [
+         "デジタル庁",
+         "法律・制度",
+         "勅令",
+         "府省令",
+         "憲法",
+         "政令",
+         "法令",
+         "法律",
+         "規則"
+      ],
+      "time" : 1731542542.86274,
+      "title" : "法令種別/国土開発"
+   }
+}

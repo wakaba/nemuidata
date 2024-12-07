@@ -1,0 +1,201 @@
+{
+   "files" : {
+      "file:id:42ae4b93-9fbb-4634-9353-5e50aef093d4" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "eg000001.xml",
+         "length" : 3166,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "022f2c60cc72bba3946316322d3026d9ada2f2145e106137c79c82052abf8b9a",
+         "time" : 1733555073,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000001.xml"
+      },
+      "file:id:9241e2ed-ea15-42ce-b7c2-75b5eada1148" : {
+         "desc" : "XMLスキーマ情報等のリソース定義です。（e-Gov法令検索サイトが開きます）",
+         "file_name" : "1",
+         "length" : 800,
+         "mime" : "text/html",
+         "sha256" : "0b192cea4894bccd686b6ddca91e37f1100dbd7e3a3e390461e4d8c05a2aa541",
+         "time" : 1733554995,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://laws.e-gov.go.jp/help/"
+      },
+      "file:id:e3ad25d9-752f-4a24-9599-6207182db09f" : {
+         "desc" : "全法令のリソースです。",
+         "file_name" : "all_xml.zip",
+         "length" : 302264734,
+         "mime" : "application/octet-stream",
+         "sha256" : "aa6bba6664e8d4b057ef44e191309385cb2bccf8ff95a81e625dd203220bafbd",
+         "time" : 1733554925,
+         "title" : "全法令",
+         "type" : "file",
+         "url" : "https://laws.e-gov.go.jp/bulkdownload?file_section=1&only_xml_flag=true"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 27940,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a79250addf13196e1d699b41c0c6a6d0d656219b5b875378bbef847b9bb9feb6",
+         "time" : 1733554924,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/eg000001"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5404,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c694216bf918d8a65f271dbfe9d627e0633c6ac498e85ab87f3452488e32afec",
+         "time" : 1733529631.54291,
+         "title" : "全法令",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000001"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "全法令",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000001"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000001",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "全法令",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000001"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "全法令",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000001"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 302302044,
+   "mirrorzip" : {
+      "length" : 297972015,
+      "set" : "free-l2",
+      "sha256" : "780ed2007c0870432b21f782c82c898b2750d5701c2a2aa4d2725327a03cd1a6"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000001",
+      "desc" : "e-Gov法令検索サイトで公開されている 全法令 データセットです。",
+      "org" : "デジタル庁",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000001",
+      "tags" : [
+         "デジタル庁",
+         "法律・制度",
+         "勅令",
+         "府省令",
+         "憲法",
+         "政令",
+         "法令",
+         "法律",
+         "規則"
+      ],
+      "time" : 1733529631.54291,
+      "title" : "全法令"
+   }
+}

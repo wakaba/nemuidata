@@ -1,0 +1,201 @@
+{
+   "files" : {
+      "file:id:25aaa40e-294c-41c8-8c84-0ea6815713a1" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "eg000007.xml",
+         "length" : 3233,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "33ec52f03a54a732dfa38f46a5b570a7afcd0bf90dafbf8e4a0b5788661ee4cb",
+         "time" : 1733554861,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000007.xml"
+      },
+      "file:id:5eb1b50f-fe55-4953-9207-01f7c6a84736" : {
+         "desc" : "XMLスキーマ情報等のリソース定義です。（e-Gov法令検索サイトが開きます）",
+         "file_name" : "1",
+         "length" : 800,
+         "mime" : "text/html",
+         "sha256" : "0b192cea4894bccd686b6ddca91e37f1100dbd7e3a3e390461e4d8c05a2aa541",
+         "time" : 1733554855,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://laws.e-gov.go.jp/help/"
+      },
+      "file:id:916cfec4-a6c6-49e2-af3b-252f71d9d903" : {
+         "desc" : "法令種別/国会のリソースです。",
+         "file_name" : "6_xml.zip",
+         "length" : 1432229,
+         "mime" : "application/octet-stream",
+         "sha256" : "75173a4149a4d77bd89ba1292962e6ec6bdc256e314cda878076761cf7764d6c",
+         "time" : 1733554854,
+         "title" : "法令種別/国会",
+         "type" : "file",
+         "url" : "https://laws.e-gov.go.jp/bulkdownload?file_section=2&category_cd=6&only_xml_flag=true"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 28282,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "9f9c9f2aa1b03dd87106adc87a36990e54bd08c391a5d45387ba7d63209f327e",
+         "time" : 1733554853,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/eg000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5455,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "0f306492e89637aa56e8f408e45bd29d096d375b04dd6366db738320aa084850",
+         "time" : 1733184081.03442,
+         "title" : "法令種別/国会",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "法令種別/国会",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "法令種別/国会",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000007"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "法令種別/国会",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000007"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 1469999,
+   "mirrorzip" : {
+      "length" : 1426386,
+      "set" : "free-1",
+      "sha256" : "3e6d24d15df75ff84310c5f82f3a6c55271f9a687966238e3737dbc0391d9a0d"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000007",
+      "desc" : "e-Gov法令検索サイトで公開されている法令種別/国会データセットです。",
+      "org" : "デジタル庁",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000007",
+      "tags" : [
+         "デジタル庁",
+         "法律・制度",
+         "勅令",
+         "府省令",
+         "憲法",
+         "政令",
+         "法令",
+         "法律",
+         "規則"
+      ],
+      "time" : 1733184081.03442,
+      "title" : "法令種別/国会"
+   }
+}
