@@ -1,0 +1,179 @@
+{
+   "files" : {
+      "file:id:19bda049-3e1a-4494-aed8-3e602bf1dea2" : {
+         "desc" : "2件中1件目です。",
+         "file_name" : "09machinami-01.zip",
+         "length" : 38177845,
+         "mime" : "application/zip",
+         "sha256" : "d65155820e489283bae6f62605e71df65efbdbe4a49ab11dcb7648ff5839f108",
+         "time" : 1733552573,
+         "title" : "写真データ「まちなみ」No.1",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/1ec55761-43a0-4da0-a04b-bdc341baa9da/resource/19bda049-3e1a-4494-aed8-3e602bf1dea2/download/09machinami-01.zip"
+      },
+      "file:id:62658789-a6cc-4893-8b72-e6c0bc710958" : {
+         "desc" : "全３シートからなります。 ①お題一覧、お題ごとの写真枚数 ②メタデータ各項目の説明 ③当該お題の写真のメタデータ（ファイル名、写真タイトル・投稿者コメント、位置情報、投稿時刻）",
+         "file_name" : "09machinami-metadata.xlsx",
+         "length" : 21662,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "b24e85ec49a379532e9f93d4a7ee0030f7f7d8b7294a7b9310b9a40024b90258",
+         "time" : 1733552672,
+         "title" : "メタデータ「まちなみ」",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/1ec55761-43a0-4da0-a04b-bdc341baa9da/resource/62658789-a6cc-4893-8b72-e6c0bc710958/download/09machinami-metadata.xlsx"
+      },
+      "file:id:a3fbbe56-9dc7-4b7e-9d36-90d8016d5028" : {
+         "desc" : "2件中2件目です。",
+         "file_name" : "09machinami-02.zip",
+         "length" : 44263948,
+         "mime" : "application/zip",
+         "sha256" : "5f87745ba082efb2bebd8a9edfd585ce41816261b4c9c84bbf8e76f861f2ac34",
+         "time" : 1733552620,
+         "title" : "写真データ「まちなみ」No.2",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/1ec55761-43a0-4da0-a04b-bdc341baa9da/resource/a3fbbe56-9dc7-4b7e-9d36-90d8016d5028/download/09machinami-02.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15630,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "d4b75e2c29f8d18eaedb52173d9e7c980456dcda2e7b06a8f5c3d29127e15539",
+         "time" : 1733552572,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1611215381"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 6521,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "639530087efd5e7d2e63ddb791d6b44ac0a84a1ea3a790e59d16175261d3c02b",
+         "time" : 1721626094.45078,
+         "title" : "「いこまの写真deぶら散歩」で投稿された写真　お題「まちなみ」（42枚）",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1611215381"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "デジタルイノベーション推進課 (--)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "「いこまの写真deぶら散歩」で投稿された写真　お題「まちなみ」（42枚）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1611215381"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1611215381",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "「いこまの写真deぶら散歩」で投稿された写真　お題「まちなみ」（42枚）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1611215381"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 82485606,
+   "mirrorzip" : {
+      "length" : 82479926,
+      "set" : "free-l1",
+      "sha256" : "51dc5ed2cce6f9718bce200709960d552a680450c541527203612f3fc5379fef"
+   },
+   "package" : {
+      "author" : "デジタルイノベーション推進課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1611215381",
+      "desc" : "2020年11月3日～12月6日に行われたオンラインイベント「いこまの写真deぶら散歩」で参加者が撮影した生駒の写真およびメタデータを公開しています。（全25種類のお題）\u000D\u000A\u000D\u000AZIP：タイトルにあるお題の写真データ（JPEG）をZIPにまとめたもの。（最大50MB）\u000D\u000A\u000D\u000AEXCEL：写真のメタデータ。ファイル名、位置情報、写真タイトル・撮影者コメント\u000D\u000A\u000D\u000A※写真の位置情報には誤差が生じている場合があり、正確な撮影位置を示すものではありません。また、緯度・経度・高度が測定できなかったものは値が空となっています。その他詳細はエクセル内に記載しています。\u000D\u000A\u000D\u000A![](https://data.city.ikoma.lg.jp/material/burasampo/09_machi01.jpg \u0022burasampo\u0022)\u000D\u000A\u000D\u000A![](https://data.city.ikoma.lg.jp/material/burasampo/09_machi02.jpg \u0022burasampo\u0022)",
+      "org" : "--",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1611215381",
+      "tags" : [
+         "デジタルイノベーション推進課",
+         "--",
+         "観光・文化"
+      ],
+      "time" : 1721626094.45078,
+      "title" : "「いこまの写真deぶら散歩」で投稿された写真　お題「まちなみ」（42枚）"
+   }
+}

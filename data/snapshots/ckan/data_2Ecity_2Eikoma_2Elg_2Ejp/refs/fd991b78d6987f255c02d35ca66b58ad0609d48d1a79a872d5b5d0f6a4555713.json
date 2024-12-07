@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:19bda049-3e1a-4494-aed8-3e602bf1dea2" : {
+            "name" : "09machinami-01.zip",
+            "sha256" : "d65155820e489283bae6f62605e71df65efbdbe4a49ab11dcb7648ff5839f108"
+         },
+         "file:id:62658789-a6cc-4893-8b72-e6c0bc710958" : {
+            "name" : "09machinami-metadata.xlsx",
+            "sha256" : "b24e85ec49a379532e9f93d4a7ee0030f7f7d8b7294a7b9310b9a40024b90258"
+         },
+         "file:id:a3fbbe56-9dc7-4b7e-9d36-90d8016d5028" : {
+            "name" : "09machinami-02.zip",
+            "sha256" : "5f87745ba082efb2bebd8a9edfd585ce41816261b4c9c84bbf8e76f861f2ac34"
+         },
+         "meta:activity.html" : {
+            "sha256" : "d4b75e2c29f8d18eaedb52173d9e7c980456dcda2e7b06a8f5c3d29127e15539"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "639530087efd5e7d2e63ddb791d6b44ac0a84a1ea3a790e59d16175261d3c02b"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://data.city.ikoma.lg.jp/data/dataset/1611215381"
+   },
+   "type" : "packref"
+}

@@ -1,25 +1,5 @@
 {
    "ckan" : {
-      "catalog_2Ddata_2Ecity_2Ekanazawa_2Eishikawa_2Ejp" : {
-         "esite_name" : "catalog_2Ddata_2Ecity_2Ekanazawa_2Eishikawa_2Ejp",
-         "site_name" : "catalog-data.city.kanazawa.ishikawa.jp",
-         "site_opts" : {
-            "tags" : [
-               "石川中央都市圏"
-            ]
-         },
-         "site_type" : "ckan"
-      },
-      "city_2Ehimeji_2Egkan_2Ejp" : {
-         "esite_name" : "city_2Ehimeji_2Egkan_2Ejp",
-         "site_name" : "city.himeji.gkan.jp",
-         "site_opts" : {
-            "tags" : [
-               "姫路市・播磨圏域連携中枢都市圏"
-            ]
-         },
-         "site_type" : "ckan"
-      },
       "data_2Ecity_2Eikoma_2Elg_2Ejp" : {
          "esite_name" : "data_2Ecity_2Eikoma_2Elg_2Ejp",
          "site_name" : "data.city.ikoma.lg.jp",
@@ -29,59 +9,6 @@
             ]
          },
          "site_type" : "ckan"
-      },
-      "data_2Ecity_2Etendo_2Eyamagata_2Ejp" : {
-         "esite_name" : "data_2Ecity_2Etendo_2Eyamagata_2Ejp",
-         "site_name" : "data.city.tendo.yamagata.jp",
-         "site_type" : "ckan"
-      },
-      "data_2Ecity_2Eyokohama_2Elg_2Ejp" : {
-         "esite_name" : "data_2Ecity_2Eyokohama_2Elg_2Ejp",
-         "site_name" : "data.city.yokohama.lg.jp",
-         "site_opts" : {
-            "tags" : [
-               "横浜市"
-            ]
-         },
-         "site_type" : "ckan"
-      },
-      "data_2Egsj_2Ejp" : {
-         "esite_name" : "data_2Egsj_2Ejp",
-         "site_name" : "data.gsj.jp",
-         "site_opts" : {
-            "tags" : [
-               "産業技術総合研究所",
-               "地質調査総合センター"
-            ]
-         },
-         "site_type" : "ckan"
-      },
-      "opendata_2Dapi_2Dkakogawa_2Ejp" : {
-         "esite_name" : "opendata_2Dapi_2Dkakogawa_2Ejp",
-         "site_name" : "opendata-api-kakogawa.jp",
-         "site_type" : "ckan"
-      },
-      "opendata_2Etown_2Eaichi_2Dhigashiura_2Elg_2Ejp" : {
-         "esite_name" : "opendata_2Etown_2Eaichi_2Dhigashiura_2Elg_2Ejp",
-         "site_name" : "opendata.town.aichi-higashiura.lg.jp",
-         "site_type" : "ckan"
-      }
-   },
-   "packref" : {
-      "legal" : {
-         "esite_name" : "legal",
-         "site_name" : "legal",
-         "site_opts" : {
-            "tags" : [
-               "legal"
-            ]
-         },
-         "site_type" : "packref"
-      },
-      "sparql" : {
-         "esite_name" : "sparql",
-         "site_name" : "sparql",
-         "site_type" : "packref"
       }
    }
 }
