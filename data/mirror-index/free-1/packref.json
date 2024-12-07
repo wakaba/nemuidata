@@ -1,0 +1,14 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:ckan-data_2Ecity_2Eikoma_2Elg_2Ejp" : {
+            "url" : "mirror-ckan-data_2Ecity_2Eikoma_2Elg_2Ejp.jsonl"
+         },
+         "file:r:packref-legal" : {
+            "url" : "mirror-packref-legal.jsonl"
+         }
+      },
+      "type" : "files"
+   },
+   "type" : "packref"
+}

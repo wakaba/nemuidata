@@ -1,0 +1,131 @@
+{
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "terms",
+         "length" : 24395,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a9d0dfd47f32f3146294d997dae3defb12b4fe717ca335107a350c31148595f7",
+         "time" : 1733553018,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/terms"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 614,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "1b56ab0d942a222c81a53945cc0917d3ab83b5a095752bcea42a4d6adf17efc7",
+         "time" : 1733553017,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-catalog.registries.digital.go.jp.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "利用規約 - レジストリカタログ",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-catalog.registries.digital.go.jp.json"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "利用規約 - レジストリカタログ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-catalog.registries.digital.go.jp.json"
+            },
+            "source_type" : "packref",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 25009,
+   "mirrorzip" : {
+      "length" : 12371,
+      "set" : "free-1",
+      "sha256" : "eed84c7f81f8465f349c34acc39cadf1b3ec1fe014d191018cce2edb5378853c"
+   },
+   "package" : {
+      "author" : "デジタル庁",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "デジタル庁"
+      ],
+      "time" : 1733553018,
+      "title" : "利用規約 - レジストリカタログ"
+   }
+}

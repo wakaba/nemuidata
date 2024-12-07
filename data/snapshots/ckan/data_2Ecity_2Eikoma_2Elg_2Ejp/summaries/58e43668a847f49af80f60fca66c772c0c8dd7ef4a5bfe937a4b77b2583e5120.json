@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:4d3f4385-415f-4bd5-86c3-e690122762ac" : {
+         "desc" : "",
+         "file_name" : "08-05.xls",
+         "length" : 32256,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "95b4a6a3a7260d6a8bddea3446263823e069bbadb40ca4f92305e5c4ccfe95e2",
+         "time" : 1733553138,
+         "title" : "高等学校の概況 ",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/7e2af915-a37c-4698-87a9-262417db39df/resource/4d3f4385-415f-4bd5-86c3-e690122762ac/download/08-05.xls"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14959,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a60567a176d4eb80bf5615b6d15950b677ca1db48a35a2438264dbb181e2fdd7",
+         "time" : 1733553136,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1510887393"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2814,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "6692e48734296f92978f2ac1cabf905310dd5cfe50f29998d21b7154166cf0c9",
+         "time" : 1712277442.8003,
+         "title" : "高等学校の概況",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510887393"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "高等学校の概況",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510887393"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510887393",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "高等学校の概況",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510887393"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 50029,
+   "mirrorzip" : {
+      "length" : 20213,
+      "set" : "free-1",
+      "sha256" : "9f02b90df4284f460ea8cfc9fd976e978dca182d57642c853a55c98d8b9a0f36"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510887393",
+      "desc" : "資料：県統計課「学校基本調査結果報告書」",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1510887393",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "子育て・教育",
+         "統計",
+         "学校"
+      ],
+      "time" : 1712277442.8003,
+      "title" : "高等学校の概況"
+   }
+}

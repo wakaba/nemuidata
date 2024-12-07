@@ -1,0 +1,19 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "name" : "coment.html",
+            "sha256" : "60c399e1a0200bd38b55851b76abb154110a137a1a398a43133b42d65457ceae"
+         },
+         "meta:packref.json" : {
+            "sha256" : "34b30f0ac08937de2e95e2c146c1e52615d24c2842f9973f7c5e5af08bd69964"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-www.jma.go.jp.json"
+   },
+   "type" : "packref"
+}

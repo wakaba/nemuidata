@@ -1,0 +1,123 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "file",
+         "url" : "https://opendata.pref.kanagawa.jp/terms"
+      },
+      "file:r:pdf" : {
+         "desc" : "",
+         "file_name" : "terms_of_service_202402.pdf",
+         "length" : 224071,
+         "mime" : "application/pdf",
+         "sha256" : "3e499cced5db09150fa920a18a951c7018e9533688eb75cd2cb525f6633d223a",
+         "time" : 1733552990,
+         "title" : "",
+         "type" : "file",
+         "url" : "https://opendata.pref.kanagawa.jp/wp-content/uploads/2024/02/terms_of_service_202402.pdf"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 910,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "580b9e8a71e6ecdbfa816f823d54581e39a603c00a8c287c20ee8e424044c4e9",
+         "time" : 1733552988,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.pref.kanagawa.jp.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "このサイトのご利用について | 神奈川県オープンデータカタログサイト",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.pref.kanagawa.jp.json"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://opendata.pref.kanagawa.jp/wp-content/uploads/2024/02/terms_of_service_202402.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.pref.kanagawa.jp",
+            "label" : "神奈川県オープンデータカタログサイト利用規約 (令和６年２月)",
+            "lang" : "ja",
+            "source_type" : "packref",
+            "source_url" : "https://opendata.pref.kanagawa.jp/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 224981,
+   "mirrorzip" : {
+      "length" : 217155,
+      "set" : "free-1",
+      "sha256" : "46e0aabd85282abcd03b0b6edd2b1e10a5a9b5eb14a98d9aa4ac212921fa837d"
+   },
+   "package" : {
+      "author" : "神奈川県",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "神奈川県"
+      ],
+      "time" : 1733552990,
+      "title" : "このサイトのご利用について | 神奈川県オープンデータカタログサイト"
+   }
+}

@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:6d6b22bd-f82e-4240-9cde-11ca3a5e1b53" : {
+         "desc" : "",
+         "file_name" : "01-07.xls",
+         "length" : 38912,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "68c0b21fbceb93205635439de0de63197488032ac79d8495f044eb406f99dd84",
+         "time" : 1733553106,
+         "title" : "町別面積",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/a560f069-2ca1-4137-afe8-1549ea047d64/resource/6d6b22bd-f82e-4240-9cde-11ca3a5e1b53/download/01-07.xls"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15078,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "20ce9607b3db38b1894766d53453341266704f61631d9aee98ab46ef942276b2",
+         "time" : 1733553104,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1510728475"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 3059,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "138fc3b9831e137c1db028d4af873bd22cfa6c873edd3574e4a2a202fa249533",
+         "time" : 1712281354.17461,
+         "title" : "町別面積",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510728475"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "総務課 (総務部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "町別面積",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510728475"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510728475",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "町別面積",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1510728475"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 57049,
+   "mirrorzip" : {
+      "length" : 22600,
+      "set" : "free-1",
+      "sha256" : "1cf7ed760d7dad3867c6efb994c80bf2c929db2445bcb9d55107e4c8f488c7ce"
+   },
+   "package" : {
+      "author" : "総務課",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1510728475",
+      "desc" : "国土地理院「全国都道府県市区町村別面積調」（平成２７年３月６日時点調べ）の生駒市面積は、５３．１５km² と公表されております。\u0009\u000D\u000A資料：市民部市民課",
+      "org" : "総務部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1510728475",
+      "tags" : [
+         "総務課",
+         "総務部",
+         "市政情報",
+         "統計",
+         "市域"
+      ],
+      "time" : 1712281354.17461,
+      "title" : "町別面積"
+   }
+}

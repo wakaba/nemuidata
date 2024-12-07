@@ -1,0 +1,89 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "mime" : "application/octet-stream",
+         "title" : "",
+         "type" : "file",
+         "url" : "https://data.city.tendo.yamagata.jp/about"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 584,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "7ee91a389e0520b4eabbe2c95852ff059ed22afcce9c4ad18bd757a3bbe6c1c5",
+         "time" : 1733552998,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.tendo.yamagata.jp.json"
+      }
+   },
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "insecure" : 1,
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "packref",
+            "source_url" : "https://data.city.tendo.yamagata.jp/about",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 584,
+   "mirrorzip" : {
+      "length" : 3655,
+      "set" : "nonfree-1",
+      "sha256" : "117120148973d87f6d2cbda9b6aba5912d8c60f98b578a10b6b35687007d4851"
+   },
+   "package" : {
+      "author" : "天童市",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "天童市"
+      ],
+      "time" : 1733552998,
+      "title" : "天童市オープンデータ利用規約"
+   }
+}

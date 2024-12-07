@@ -1,0 +1,19 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:page" : {
+            "name" : "terms.html",
+            "sha256" : "72c72edd64e251ac7ff7447ae8f59b2201d3e134253ba9ac11d8ab9c5ea53ba3"
+         },
+         "meta:packref.json" : {
+            "sha256" : "767ded49339fd778e96c64db0c744ec8d8648573ba5c8b46d4fe16a8bdc52cd1"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "packref",
+      "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.yokohama.lg.jp.json"
+   },
+   "type" : "packref"
+}

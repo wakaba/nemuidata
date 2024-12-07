@@ -10,5 +10,17 @@
          },
          "site_type" : "ckan"
       }
+   },
+   "packref" : {
+      "legal" : {
+         "esite_name" : "legal",
+         "site_name" : "legal",
+         "site_opts" : {
+            "tags" : [
+               "legal"
+            ]
+         },
+         "site_type" : "packref"
+      }
    }
 }
