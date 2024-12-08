@@ -1,0 +1,240 @@
+{
+   "files" : {
+      "file:id:0779f668-09d5-453c-ae21-49e4cccced6a" : {
+         "desc" : "MJ文字情報一覧表のリソースです。",
+         "file_name" : "mji.00601-xlsx.zip",
+         "length" : 7627515,
+         "mime" : "application/zip",
+         "sha256" : "9025d433f99b1d7158de4195fdf83202b3a929d64fb016f3cd73c2b1cf00ac57",
+         "time" : 1733642446,
+         "title" : "MJ文字情報一覧表",
+         "type" : "file",
+         "url" : "https://moji.or.jp/wp-content/mojikiban/oscdl/mji.00601-xlsx.zip"
+      },
+      "file:id:180de93f-98dc-4814-850f-0f0e253327b8" : {
+         "desc" : "MJ文字情報一覧表 変体仮名編 のリソースです。",
+         "file_name" : "MJIH00201-xlsx.zip",
+         "length" : 255064,
+         "mime" : "application/zip",
+         "sha256" : "d4fbeb012d1519a5fd7256084587e7163fe4f89b1a9b789145cbbe1a548b9262",
+         "time" : 1733642449,
+         "title" : "MJ文字情報一覧表 変体仮名編",
+         "type" : "file",
+         "url" : "https://moji.or.jp/wp-content/mojikiban/oscdl/MJIH00201-xlsx.zip"
+      },
+      "file:id:2dfb4c11-85ba-44c2-842d-37406b2e5f77" : {
+         "desc" : "MJ文字情報一覧表 MJ縮退マップファイル一式 JSON のリソースです。",
+         "file_name" : "MJShrinkMapVer.1.2.0.zip",
+         "length" : 561715,
+         "mime" : "application/zip",
+         "sha256" : "f109f64aaf357d9d44b8eff39c1c633bc7e5b3f526efc812951732f4ca92014c",
+         "time" : 1733642452,
+         "title" : "MJ文字情報一覧表 MJ縮退マップファイル一式 JSON",
+         "type" : "file",
+         "url" : "https://moji.or.jp/wp-content/mojikiban/oscdl/MJShrinkMapVer.1.2.0.zip"
+      },
+      "file:id:30fea81e-b6d1-4f5c-895b-34ff68e77bea" : {
+         "desc" : "MJ文字情報一覧表 MJ縮退マップファイル一式 XML のリソースです。",
+         "file_name" : "MJShrinkMapVer.1.2.0-xml.zip",
+         "length" : 708014,
+         "mime" : "application/zip",
+         "sha256" : "2284ca68858f2eb2bcaafc643d32e885273344f92166e91fdb2aadd6e2e0024a",
+         "time" : 1733642453,
+         "title" : "MJ文字情報一覧表 MJ縮退マップファイル一式 XML",
+         "type" : "file",
+         "url" : "https://moji.or.jp/wp-content/mojikiban/oscdl/MJShrinkMapVer.1.2.0-xml.zip"
+      },
+      "file:id:f9aa369b-9f6d-4c54-8eed-348dc2dfc568" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "im000001.xml",
+         "length" : 6252,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "3c368961f8c42cfba7fcc675c1d0435a818c3adcf541f0789229f0ced0cba247",
+         "time" : 1733642466,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/im000001.xml"
+      },
+      "file:id:fba040fc-2292-46f4-a270-5604d316b964" : {
+         "desc" : "文字情報基盤のリソース定義です。",
+         "file_name" : "1",
+         "length" : 218796,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "f1d01bd7f226c54c75c04bc9bd44521449ae16bc0238165d02ed79ba977e0910",
+         "time" : 1733642456,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://moji.or.jp/mojikiban/mjlist/"
+      },
+      "file:id:fca98c5c-95e7-4d00-8cc8-1031b24a2b6e" : {
+         "desc" : "MJ文字情報一覧表 変体仮名編 ODS のリソースです。",
+         "file_name" : "MJIH00201-ods.zip",
+         "length" : 240803,
+         "mime" : "application/zip",
+         "sha256" : "b9f8125b20ab4c5fd1fd4f860834939b463a50641668901258dc65bf4c9b3fa6",
+         "time" : 1733642450,
+         "title" : "MJ文字情報一覧表 変体仮名編 ODS",
+         "type" : "file",
+         "url" : "https://moji.or.jp/wp-content/mojikiban/oscdl/MJIH00201-ods.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 12890,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5855bb2428dae7fe57465743beb2db9d9efbb6831dc2678a3f4413d0fb927ffc",
+         "time" : 1733642445,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/im000001"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 8360,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "4670fb45df5ea2003aec944b3dd496cf4ab8cef8828c5dbcd76d143008086cdf",
+         "time" : 1680048070.73157,
+         "title" : "MJ文字情報一覧表 / MJ文字情報一覧表 変体仮名編 / MJ縮退マップ",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=im000001"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "情報処理推進機構(IPA)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "MJ文字情報一覧表 / MJ文字情報一覧表 変体仮名編 / MJ縮退マップ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/im000001"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=im000001",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "MJ文字情報一覧表 / MJ文字情報一覧表 変体仮名編 / MJ縮退マップ",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/im000001"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "MJ文字情報一覧表 / MJ文字情報一覧表 変体仮名編 / MJ縮退マップ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/im000001"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 9639409,
+   "mirrorzip" : {
+      "length" : 9410639,
+      "set" : "free-1",
+      "sha256" : "3b655bb0d55d4fe364383b9adeb97319e327d53c3d3be38afd553a3f2eba5b5e"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=im000001",
+      "desc" : "文字情報基盤の MJ文字情報一覧表 / MJ文字情報一覧表 変体仮名編 / MJ縮退マップ データセットです。",
+      "org" : "情報処理推進機構(IPA)",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/im000001",
+      "tags" : [
+         "情報処理推進機構(IPA)",
+         "文字情報基盤",
+         "文字情報",
+         "漢字情報"
+      ],
+      "time" : 1680048070.73157,
+      "title" : "MJ文字情報一覧表 / MJ文字情報一覧表 変体仮名編 / MJ縮退マップ"
+   }
+}

@@ -1,0 +1,46 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:0779f668-09d5-453c-ae21-49e4cccced6a" : {
+            "name" : "mji.00601-xlsx.zip",
+            "sha256" : "9025d433f99b1d7158de4195fdf83202b3a929d64fb016f3cd73c2b1cf00ac57"
+         },
+         "file:id:180de93f-98dc-4814-850f-0f0e253327b8" : {
+            "name" : "MJIH00201-xlsx.zip",
+            "sha256" : "d4fbeb012d1519a5fd7256084587e7163fe4f89b1a9b789145cbbe1a548b9262"
+         },
+         "file:id:2dfb4c11-85ba-44c2-842d-37406b2e5f77" : {
+            "name" : "MJShrinkMapVer.1.2.0.zip",
+            "sha256" : "f109f64aaf357d9d44b8eff39c1c633bc7e5b3f526efc812951732f4ca92014c"
+         },
+         "file:id:30fea81e-b6d1-4f5c-895b-34ff68e77bea" : {
+            "name" : "MJShrinkMapVer.1.2.0-xml.zip",
+            "sha256" : "2284ca68858f2eb2bcaafc643d32e885273344f92166e91fdb2aadd6e2e0024a"
+         },
+         "file:id:f9aa369b-9f6d-4c54-8eed-348dc2dfc568" : {
+            "name" : "im000001.xml",
+            "sha256" : "3c368961f8c42cfba7fcc675c1d0435a818c3adcf541f0789229f0ced0cba247"
+         },
+         "file:id:fba040fc-2292-46f4-a270-5604d316b964" : {
+            "name" : "1",
+            "sha256" : "f1d01bd7f226c54c75c04bc9bd44521449ae16bc0238165d02ed79ba977e0910"
+         },
+         "file:id:fca98c5c-95e7-4d00-8cc8-1031b24a2b6e" : {
+            "name" : "MJIH00201-ods.zip",
+            "sha256" : "b9f8125b20ab4c5fd1fd4f860834939b463a50641668901258dc65bf4c9b3fa6"
+         },
+         "meta:activity.html" : {
+            "sha256" : "5855bb2428dae7fe57465743beb2db9d9efbb6831dc2678a3f4413d0fb927ffc"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "4670fb45df5ea2003aec944b3dd496cf4ab8cef8828c5dbcd76d143008086cdf"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog.registries.digital.go.jp/rc/dataset/im000001"
+   },
+   "type" : "packref"
+}

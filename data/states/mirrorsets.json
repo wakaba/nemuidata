@@ -1,13 +1,13 @@
 {
    "changed_mirror_sets" : {
       "free-1" : 1,
-      "free-l2" : 1
+      "free-l3" : 1
    },
-   "free_large_set" : "free-l2",
+   "free_large_set" : "free-l3",
    "free_set" : "free-1",
    "mirror_sets" : {
       "free-1" : {
-         "length" : 48349145
+         "length" : 85703835
       },
       "free-l1" : {
          "length" : 179500221
@@ -15,11 +15,17 @@
       "free-l2" : {
          "length" : 312141185
       },
+      "free-l3" : {
+         "length" : 25737470
+      },
       "nonfree-1" : {
          "length" : 213019
       },
       "nonfree-l1" : {
       }
+   },
+   "new_mirror_sets" : {
+      "free-l3" : 1
    },
    "nonfree_large_set" : "nonfree-l1",
    "nonfree_set" : "nonfree-1"

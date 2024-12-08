@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:a9caf8ab-e64e-48a5-943d-97230bd53e5b" : {
+            "name" : "1",
+            "sha256" : "0b192cea4894bccd686b6ddca91e37f1100dbd7e3a3e390461e4d8c05a2aa541"
+         },
+         "file:id:b20b5c5d-94ae-4d1b-b102-d3520841fce5" : {
+            "name" : "eg000028.xml",
+            "sha256" : "ac02166b42f7b4845ae06b5a62ec7a0575bd33f4fdd478287b755cb135b149b1"
+         },
+         "file:id:eafa537c-caf5-430e-b611-774069e493e9" : {
+            "name" : "27_xml.zip",
+            "sha256" : "c4d0ad323d62a6931801e8d4645ff3a936b4587a96ee5f2f9c351192eeacf60c"
+         },
+         "meta:activity.html" : {
+            "sha256" : "8d43771fbf668afeb7a67e3d08132866549988acb2e48df741b5b89ec5b7b4f7"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "3a51d7cbdc0ee7a0883891d6dae09b90f0c7109d213d4eaeeb83daaa2b4173c8"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000028"
+   },
+   "type" : "packref"
+}
