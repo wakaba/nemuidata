@@ -1,0 +1,209 @@
+{
+   "files" : {
+      "file:id:3d3775be-ffdf-433d-b32d-2252f9e93646" : {
+         "desc" : "法人番号（UTF-8）のリソースです。",
+         "file_name" : "houjin_bangou_all_utf8.zip",
+         "length" : 246109624,
+         "mime" : "application/zip",
+         "sha256" : "9e5549f60dbe7e2a9f8bc3fdcc77331da22d1f3b62ca3ec086d8ac88ac51fab4",
+         "time" : 1733652785,
+         "title" : "法人番号（UTF-8）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/houjin_bangou_all_utf8.zip"
+      },
+      "file:id:5c784f6f-d179-4c63-8982-70b8ba096286" : {
+         "desc" : "法人番号のリソース定義です。（法人番号公表サイトが開きます）",
+         "file_name" : "index.html",
+         "length" : 26494,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "95187b00b525a6ec5dd6a963303fe90eafde55c7d32265c6e9b560440112bace",
+         "time" : 1733652805,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.houjin-bangou.nta.go.jp/download/index.html"
+      },
+      "file:id:94a62e35-8838-41f8-a332-f3382914109b" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "cn000001.xml",
+         "length" : 3906,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "86fa19795d97e73ce416e401cc62ca48954191c8d4f85caf4e1e355e538393c5",
+         "time" : 1733652809,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/cn000001.xml"
+      },
+      "file:id:9db56242-307c-4ae2-b65c-66844e8ebe00" : {
+         "desc" : "法人番号（Shift-JIS）のリソースです。",
+         "file_name" : "houjin_bangou_all_sjis.zip",
+         "length" : 231566835,
+         "mime" : "application/zip",
+         "sha256" : "9441c1171aeae34b4bcc0280961e5432c90fc6e6bf859d4e544be8a19c560775",
+         "time" : 1733652795,
+         "title" : "法人番号（Shift-JIS）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/houjin_bangou_all_sjis.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 28020,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "0f9b7531dfc5c08b3e842f7b771c3cdb3ad430833c582f5bdad52216bed438fc",
+         "time" : 1733652783,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/cn000001"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5792,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "93284b510b3828d0e43c873ab3ff44cbbd00e90ee52edabd94c388a1cab8034b",
+         "time" : 1733595695.87885,
+         "title" : "法人番号",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=cn000001"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "国税庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "法人番号",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/cn000001"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=cn000001",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "法人番号",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/cn000001"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "法人番号",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/cn000001"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 477740671,
+   "mirrorzip" : {
+      "length" : 477775417,
+      "set" : "free-l3",
+      "sha256" : "259533fde9ba6704c186dbd987d298f8d804806373fa0348d56c2a87852b01dc"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=cn000001",
+      "desc" : "法人番号公表サイトで公開されている法人番号データセットです。",
+      "org" : "国税庁",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/cn000001",
+      "tags" : [
+         "国税庁",
+         "法人",
+         "商号",
+         "法人名称",
+         "法人所在地",
+         "法人番号"
+      ],
+      "time" : 1733595695.87885,
+      "title" : "法人番号"
+   }
+}

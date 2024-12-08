@@ -1,0 +1,30 @@
+{
+   "source" : {
+      "files" : {
+         "file:id:40c24857-af24-4ce9-b373-8c2cb167ee04" : {
+            "name" : "eg000051.xml",
+            "sha256" : "4f5aed87d989cd14da648298f4b6d4a0223a3b614328fcb90b70b4c8ec3b6ddd"
+         },
+         "file:id:a68977d8-a186-4334-8a27-8bd5d590f516" : {
+            "name" : "50_xml.zip",
+            "sha256" : "a22c16b245a0f855805f32527dfc6c804ae11f7dd3840a4f6aafd31708a4a882"
+         },
+         "file:id:d2a950eb-3ed8-45e6-84f9-99aeca9d46b1" : {
+            "name" : "1",
+            "sha256" : "0b192cea4894bccd686b6ddca91e37f1100dbd7e3a3e390461e4d8c05a2aa541"
+         },
+         "meta:activity.html" : {
+            "sha256" : "7c5526efb6c67b88c9c75365de20711b00f9fa75efe12d3995f00145f769d72e"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "4821c36f5abf9947daf2c5d526c1c4260ed644efa5374bab7405eec2dcc52f5b"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000051"
+   },
+   "type" : "packref"
+}
