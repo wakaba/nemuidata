@@ -1,7 +1,6 @@
 {
    "changed_mirror_sets" : {
-      "free-1" : 1,
-      "free-l3" : 1
+      "free-1" : 1
    },
    "free_large_set" : "free-l4",
    "free_set" : "free-1",
@@ -18,14 +17,13 @@
       "free-l3" : {
          "length" : 565474206
       },
+      "free-l4" : {
+      },
       "nonfree-1" : {
          "length" : 213019
       },
       "nonfree-l1" : {
       }
-   },
-   "new_mirror_sets" : {
-      "free-l4" : 1
    },
    "nonfree_large_set" : "nonfree-l1",
    "nonfree_set" : "nonfree-1"

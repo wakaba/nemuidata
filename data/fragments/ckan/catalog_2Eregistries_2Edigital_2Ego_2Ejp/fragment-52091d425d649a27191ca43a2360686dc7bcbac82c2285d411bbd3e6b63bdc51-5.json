@@ -1,0 +1,59 @@
+{
+   "files" : {
+      "file:id:60cc05d5-478b-4166-bd82-553717061193" : {
+         "skip" : 1
+      },
+      "file:id:9a500fd9-4fb2-437e-92e7-c37dc07ccebb" : {
+         "skip" : 1
+      },
+      "file:id:c9a96f0e-eea9-41b0-958c-943e044a62ad" : {
+         "skip" : 1
+      },
+      "file:id:cbde9f39-8791-4b95-8b36-a9348f780bb5" : {
+         "skip" : 1
+      },
+      "file:id:d8e8be1a-9444-4f86-a6fd-550d789b30db" : {
+         "skip" : 1
+      }
+   },
+   "source" : {
+      "files" : {
+         "file:id:5761469c-48ae-4eae-abf0-ff9f2136bec1" : {
+            "name" : "ed000030_2020.zip",
+            "sha256" : "6cc3c768b02282b1992415b56f31bf2b9198a117d520f7b348a723cb4eb8d23b"
+         },
+         "file:id:60cc05d5-478b-4166-bd82-553717061193" : {
+            "name" : "ed000030_2021.zip",
+            "sha256" : "630ae3973c2b0af9d6aa625e1ba72d70b20eeda4426d0baf110b4a7bb65dbe15"
+         },
+         "file:id:9a500fd9-4fb2-437e-92e7-c37dc07ccebb" : {
+            "name" : "ed000030_2022.zip",
+            "sha256" : "c80c03d0c6d41ebccb287de84119cdbc8d4f89168acad4c33adbe0876b8dd20e"
+         },
+         "file:id:c9a96f0e-eea9-41b0-958c-943e044a62ad" : {
+            "name" : "ed000030_2023.zip",
+            "sha256" : "910467d5827000ec6fd8b20257e96d693d1374bf59e28138d9e4e585e809f75d"
+         },
+         "file:id:cbde9f39-8791-4b95-8b36-a9348f780bb5" : {
+            "name" : "ed000030.xml",
+            "sha256" : "8e4ac2279a86e923942913ba02aeb65b19035c9b5a5b1d8d1957346c2660d8f0"
+         },
+         "file:id:d8e8be1a-9444-4f86-a6fd-550d789b30db" : {
+            "name" : "ed000030_2024.zip",
+            "sha256" : "1d46a5e2e8f3dcc13f6f5908b8aa65b38a8aad021816346e35f557c3f82d677d"
+         },
+         "meta:activity.html" : {
+            "sha256" : "e22cc1fcee092b0fdd735ce5f39a4c4b74fc4d089a9f3a28baa84ad83a626eeb"
+         },
+         "meta:ckan.json" : {
+            "sha256" : "447f5f3cf2e33f7bfdf4c6dcc3f809ba2a5800797cae053635201c011f3178bb"
+         },
+         "package" : {
+         }
+      },
+      "skip_other_files" : 1,
+      "type" : "ckan",
+      "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ed000030"
+   },
+   "type" : "packref"
+}

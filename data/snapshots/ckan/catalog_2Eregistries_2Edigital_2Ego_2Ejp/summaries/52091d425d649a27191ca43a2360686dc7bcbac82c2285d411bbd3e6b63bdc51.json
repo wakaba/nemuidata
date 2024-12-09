@@ -1,0 +1,227 @@
+{
+   "files" : {
+      "file:id:5761469c-48ae-4eae-abf0-ff9f2136bec1" : {
+         "desc" : "EDINETの 2020年度 / 有価証券届出書データセットです。",
+         "file_name" : "ed000030_2020.zip",
+         "length" : 8714001178,
+         "mime" : "application/zip",
+         "sha256" : "6cc3c768b02282b1992415b56f31bf2b9198a117d520f7b348a723cb4eb8d23b",
+         "time" : 1733739098,
+         "title" : "2020年度 / 有価証券届出書",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/edinet/ed000030_2020.zip"
+      },
+      "file:id:60cc05d5-478b-4166-bd82-553717061193" : {
+         "desc" : "EDINETの 2021年度 / 有価証券届出書データセットです。",
+         "file_name" : "ed000030_2021.zip",
+         "length" : 8854370456,
+         "mime" : "application/zip",
+         "sha256" : "630ae3973c2b0af9d6aa625e1ba72d70b20eeda4426d0baf110b4a7bb65dbe15",
+         "time" : 1733738733,
+         "title" : "2021年度 / 有価証券届出書",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/edinet/ed000030_2021.zip"
+      },
+      "file:id:9a500fd9-4fb2-437e-92e7-c37dc07ccebb" : {
+         "desc" : "EDINETの 2022年度 / 有価証券届出書データセットです。",
+         "file_name" : "ed000030_2022.zip",
+         "length" : 8728773824,
+         "mime" : "application/zip",
+         "sha256" : "c80c03d0c6d41ebccb287de84119cdbc8d4f89168acad4c33adbe0876b8dd20e",
+         "time" : 1733738405,
+         "title" : "2022年度 / 有価証券届出書",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/edinet/ed000030_2022.zip"
+      },
+      "file:id:c9a96f0e-eea9-41b0-958c-943e044a62ad" : {
+         "desc" : "EDINETの 2023年度 / 有価証券届出書データセットです。",
+         "file_name" : "ed000030_2023.zip",
+         "length" : 8857089533,
+         "mime" : "application/zip",
+         "sha256" : "910467d5827000ec6fd8b20257e96d693d1374bf59e28138d9e4e585e809f75d",
+         "time" : 1733737960,
+         "title" : "2023年度 / 有価証券届出書",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/edinet/ed000030_2023.zip"
+      },
+      "file:id:cbde9f39-8791-4b95-8b36-a9348f780bb5" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ed000030.xml",
+         "length" : 5494,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "8e4ac2279a86e923942913ba02aeb65b19035c9b5a5b1d8d1957346c2660d8f0",
+         "time" : 1733739476,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ed000030.xml"
+      },
+      "file:id:d8e8be1a-9444-4f86-a6fd-550d789b30db" : {
+         "desc" : "EDINETの 2024年度 / 有価証券届出書データセットです。",
+         "file_name" : "ed000030_2024.zip",
+         "length" : 6035999350,
+         "mime" : "application/zip",
+         "sha256" : "1d46a5e2e8f3dcc13f6f5908b8aa65b38a8aad021816346e35f557c3f82d677d",
+         "time" : 1733737722,
+         "title" : "2024年度 / 有価証券届出書",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/edinet/ed000030_2024.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 28322,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e22cc1fcee092b0fdd735ce5f39a4c4b74fc4d089a9f3a28baa84ad83a626eeb",
+         "time" : 1733737720,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ed000030"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 7359,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "447f5f3cf2e33f7bfdf4c6dcc3f809ba2a5800797cae053635201c011f3178bb",
+         "time" : 1733690960.66085,
+         "title" : "有価証券届出書",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ed000030"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "金融庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "有価証券届出書",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ed000030"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ed000030",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "有価証券届出書",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ed000030"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "有価証券届出書",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ed000030"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 41190275516,
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ed000030",
+      "desc" : "EDINETの 有価証券届出書 データセットです。",
+      "org" : "金融庁",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ed000030",
+      "tags" : [
+         "金融庁",
+         "法人",
+         "企業財務情報",
+         "決算情報",
+         "財務",
+         "財務情報"
+      ],
+      "time" : 1733690960.66085,
+      "title" : "有価証券届出書"
+   },
+   "ref_key_text" : "6\u001C375bd46e41de00b352ab9857b480d02f6dfc886133cb3e11720e815c3fe1a621\u001Cfree\u001C0\u001C0"
+}
