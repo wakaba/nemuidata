@@ -3,10 +3,10 @@
       "free-1" : 1
    },
    "free_large_set" : "free-l4",
-   "free_set" : "free-1",
+   "free_set" : "free-2",
    "mirror_sets" : {
       "free-1" : {
-         "length" : 101241070
+         "length" : 108826360
       },
       "free-l1" : {
          "length" : 179500221
@@ -24,6 +24,9 @@
       },
       "nonfree-l1" : {
       }
+   },
+   "new_mirror_sets" : {
+      "free-2" : 1
    },
    "nonfree_large_set" : "nonfree-l1",
    "nonfree_set" : "nonfree-1"
