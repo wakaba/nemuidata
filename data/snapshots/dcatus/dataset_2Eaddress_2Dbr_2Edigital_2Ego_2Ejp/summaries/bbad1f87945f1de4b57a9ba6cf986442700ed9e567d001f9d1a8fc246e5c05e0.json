@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city132055.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773181413,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city132055.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1457,
+         "mime" : "application/json",
+         "sha256" : "3a8c20763442bd637f4b3f592b09f22d61ad2ad41c1b1b1396b39db0921bb0bc",
+         "title" : "東京都 青梅市 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=a820dca2f5aa45ecbf697d854eade0a4"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 58995,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "fccfcc040f70ea0a3395061181e119f93b9c5e9cb308bfccbe890eee4450de86",
+         "time" : 1795444544,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/a820dca2f5aa45ecbf697d854eade0a4"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "東京都 青梅市 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60452,
+   "mirrorzip" : {
+      "length" : 16383,
+      "set" : "nonfree-1",
+      "sha256" : "29dfa7299273a6c056c1d366124fe600eb592faf3e5030b7a518e0306bcc7448"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/a820dca2f5aa45ecbf697d854eade0a4",
+      "tags" : [
+      ],
+      "time" : 1795444546.77195,
+      "title" : "東京都 青梅市 町字マスター"
+   },
+   "ref_key_text" : "6\u001C3cd496a7e8bed081f2a7b4d03ba07ed9e4a955e437cae093837d43b8dff869cf\u001Cunknown\u001C0\u001C1"
+}

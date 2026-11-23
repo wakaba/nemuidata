@@ -1,0 +1,115 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city212121.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1782256877,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city212121.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1505,
+         "mime" : "application/json",
+         "sha256" : "d41f04ae714d15bb55379feec43c0859b5736a23f726704a2fd463b0154c27fb",
+         "title" : "岐阜県 土岐市 地番マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=e08b3d74438a4adaa3b9c230601ef00e"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59049,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e24720d933840aa98db55ddde543579fb2f66177103079c930c5cb3c38e55305",
+         "time" : 1795444561,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/e08b3d74438a4adaa3b9c230601ef00e"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "岐阜県 土岐市 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "岐阜県 土岐市 地番マスター位置参照拡張",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60554,
+   "mirrorzip" : {
+      "length" : 16685,
+      "set" : "nonfree-1",
+      "sha256" : "c9307e6ee72f8c158657bbf5c170458c17ff776f7d935c67f7e4d5bca4474405"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/e08b3d74438a4adaa3b9c230601ef00e",
+      "tags" : [
+      ],
+      "time" : 1795444563.25924,
+      "title" : "岐阜県 土岐市 地番マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C57cbe91a8069af4b8abd96fdea2a0b2daba84a97f1a8aa2bdeac8826bceae3cf\u001Cunknown\u001C0\u001C1"
+}

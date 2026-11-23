@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city122203.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773184766,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city122203.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1515,
+         "mime" : "application/json",
+         "sha256" : "4031e077ffb59027ce852fc76973cfbfdd747a8bb3da1d55d589fabc1a32238d",
+         "title" : "千葉県 流山市 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=29d4fb387c3c4e51a5b8c4e8794d9746"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59058,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "db2911857be41c93732b6c75178d55b55afd322af6d0ee7e6e0ac112045a8ec7",
+         "time" : 1795444536,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/29d4fb387c3c4e51a5b8c4e8794d9746"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "千葉県 流山市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60573,
+   "mirrorzip" : {
+      "length" : 16492,
+      "set" : "nonfree-1",
+      "sha256" : "fa1824f3ebea85afa2658b15bd2b7ee8dc4767fa9a1bd0442981bcdbc1d29ead"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/29d4fb387c3c4e51a5b8c4e8794d9746",
+      "tags" : [
+      ],
+      "time" : 1795444538.38854,
+      "title" : "千葉県 流山市 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C37b8bd7d39e22cbe8bd2244ab3b5e6f649368cff188f449981152cbbe5921dc5\u001Cunknown\u001C0\u001C1"
+}

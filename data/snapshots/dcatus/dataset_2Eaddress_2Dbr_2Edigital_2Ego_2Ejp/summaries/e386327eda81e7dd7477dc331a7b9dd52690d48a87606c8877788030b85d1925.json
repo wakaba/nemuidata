@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city432059.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773183278,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city432059.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1457,
+         "mime" : "application/json",
+         "sha256" : "78a1803d7307d22e73df316ed8342fa9a4d0fb0968a2531b9393f2baaa2b4df9",
+         "title" : "熊本県 水俣市 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=2f896a02cafb448da46733b2a148502e"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 58995,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "fba93c7693bcc416c473ecc861b2ebe9563ff21c56a2e01082b744bfe7ba2621",
+         "time" : 1795444611,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/2f896a02cafb448da46733b2a148502e"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "熊本県 水俣市 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60452,
+   "mirrorzip" : {
+      "length" : 16382,
+      "set" : "nonfree-1",
+      "sha256" : "ca4811ef6823a25e2d8de286c1b638135b8fbbc8e36cd52e5f38f3c93b55bb3f"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/2f896a02cafb448da46733b2a148502e",
+      "tags" : [
+      ],
+      "time" : 1795444613.5032,
+      "title" : "熊本県 水俣市 町字マスター"
+   },
+   "ref_key_text" : "6\u001Cdf23eb787822098fdec49b7ffd40fde2019a5b5423f3b6f56c36ccec30079f33\u001Cunknown\u001C0\u001C1"
+}

@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city172014.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773185141,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city172014.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1515,
+         "mime" : "application/json",
+         "sha256" : "2985b53022e0248ed851f6300ba21ef5b85b5ebe087cdec8caa411b4e0e0dc20",
+         "title" : "石川県 金沢市 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=189bc4674eef4ea69486a6f436c606cb"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59058,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "7c0945a28b6a28eeba05fc5177595e95326e20c57360efe1ece47ba9e9d50179",
+         "time" : 1795444493,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/189bc4674eef4ea69486a6f436c606cb"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "石川県 金沢市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60573,
+   "mirrorzip" : {
+      "length" : 16497,
+      "set" : "nonfree-1",
+      "sha256" : "b1a9a2f1da45a6af078136917f30b0b75c6d06c5e15e734780b37d7a6790b831"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/189bc4674eef4ea69486a6f436c606cb",
+      "tags" : [
+      ],
+      "time" : 1795444495.30179,
+      "title" : "石川県 金沢市 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C091b1d45ff6fb9c65602e3731bab02cb4aec0fd1a358d5b361e37b7c125fe82a\u001Cunknown\u001C0\u001C1"
+}

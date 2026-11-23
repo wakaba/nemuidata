@@ -1,0 +1,115 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city014621.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1782255188,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city014621.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1520,
+         "mime" : "application/json",
+         "sha256" : "62f9f79c4736437c4e404e8d29a48aa6aff37e71dab1ad428c6a64c1c07528b6",
+         "title" : "北海道 空知郡南富良野町 地番マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=6eb949ecb39b4713b10eccfbb6acfd69"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59094,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "438534408869d03a92b7c72e8c9baee383403080811fbe2f577356f71c8c76a1",
+         "time" : 1795444577,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/6eb949ecb39b4713b10eccfbb6acfd69"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "北海道 空知郡南富良野町 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "北海道 空知郡南富良野町 地番マスター位置参照拡張",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60614,
+   "mirrorzip" : {
+      "length" : 16770,
+      "set" : "nonfree-1",
+      "sha256" : "15104645a71af0ff174ed05fca4b2da83529ab4d97710532b83a131b9a13e356"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/6eb949ecb39b4713b10eccfbb6acfd69",
+      "tags" : [
+      ],
+      "time" : 1795444579.71784,
+      "title" : "北海道 空知郡南富良野町 地番マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C3283df9548c6202cbec6d1af14893d7a9b2a644974dc1a4558ad27567358dc81\u001Cunknown\u001C0\u001C1"
+}

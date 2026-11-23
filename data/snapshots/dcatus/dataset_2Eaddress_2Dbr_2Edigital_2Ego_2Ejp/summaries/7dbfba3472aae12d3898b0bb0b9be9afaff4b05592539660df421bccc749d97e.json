@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city032140.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773184083,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city032140.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1518,
+         "mime" : "application/json",
+         "sha256" : "e8837aa053b47ec6278feca1e40a10efc34eb2af2578a8e6f1c8e118ea2509c8",
+         "title" : "岩手県 八幡平市 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=2828d167e7fc42b2a43fd59369a01656"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59067,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "bb1a73b6cbe2ac7ab8df840978a4056303dd4f10a17cc4a00e8b9a025b06b20b",
+         "time" : 1795444646,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/2828d167e7fc42b2a43fd59369a01656"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "岩手県 八幡平市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60585,
+   "mirrorzip" : {
+      "length" : 16496,
+      "set" : "nonfree-1",
+      "sha256" : "7a896b5669b5f37dbfc16e1102354da30a99667a773ea2557c7e12cf126db104"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/2828d167e7fc42b2a43fd59369a01656",
+      "tags" : [
+      ],
+      "time" : 1795444648.65039,
+      "title" : "岩手県 八幡平市 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C5cb2ecbadaf4f265a3f02994ce0f68958ebfe158adaf113f2867156a6093b7ac\u001Cunknown\u001C0\u001C1"
+}

@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city232220.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city232220.csv.zip",
+         "length" : 13651,
+         "mime" : "application/zip",
+         "sha256" : "4fb1054a44eb8b293760f3fb24f7b81c10c49dffed85b11bcf7d88454c6016cb",
+         "time" : 1773147353,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city232220.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1455,
+         "mime" : "application/json",
+         "sha256" : "cb43f728b923c82587f2469df7291527fb4196d390b405c5601e02eb2be8a778",
+         "title" : "愛知県 東海市 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=fc666e0f21314f7493f1b5f46ef2cf00"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 58995,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "9999a1ff1bb2d8217a9f3b871b9bb88bb86e1ee9fd445ba14d7955370551d080",
+         "time" : 1795444501,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/fc666e0f21314f7493f1b5f46ef2cf00"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "愛知県 東海市 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 74101,
+   "mirrorzip" : {
+      "length" : 31318,
+      "set" : "nonfree-1",
+      "sha256" : "7db19f3fbfcdb727bc17e6c6577019544e1eeacc150431a65a07e0f6270b35d2"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/fc666e0f21314f7493f1b5f46ef2cf00",
+      "tags" : [
+      ],
+      "time" : 1795444504.62895,
+      "title" : "愛知県 東海市 町字マスター"
+   },
+   "ref_key_text" : "6\u001C89c796fefa65699304a0cb2c8a651314849d1b3db628d04daeee73d68020a008\u001Cunknown\u001C0\u001C0"
+}

@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city024244.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city024244.csv.zip",
+         "length" : 7740,
+         "mime" : "application/zip",
+         "sha256" : "a727f638d940eb78cd06ed789966007be21a2408c8d829eac401af2cb9bda572",
+         "time" : 1773140314,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city024244.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1464,
+         "mime" : "application/json",
+         "sha256" : "0ec7c23ccb4ccc10112d6e141da05397ba455e50991d8278f8de18922ed241a2",
+         "title" : "青森県 下北郡東通村 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=c2e0351665684a658edd9edd8d1ad2d7"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59022,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "2c82943fbd22944b77da4cf44e09b778ec2f380b057c3610b0f782b788c4078d",
+         "time" : 1795444620,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/c2e0351665684a658edd9edd8d1ad2d7"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "青森県 下北郡東通村 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 68226,
+   "mirrorzip" : {
+      "length" : 25507,
+      "set" : "nonfree-1",
+      "sha256" : "3a9e1e697d99de8b3dd29b7f0b8ba23860348169dd9d8a9da8a9438e316bad3d"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/c2e0351665684a658edd9edd8d1ad2d7",
+      "tags" : [
+      ],
+      "time" : 1795444622.82076,
+      "title" : "青森県 下北郡東通村 町字マスター"
+   },
+   "ref_key_text" : "6\u001C35a4e8d5b3072037ef213cebdd44e18e5c37c54a9a0062b08e270b9902a5f0fd\u001Cunknown\u001C0\u001C0"
+}

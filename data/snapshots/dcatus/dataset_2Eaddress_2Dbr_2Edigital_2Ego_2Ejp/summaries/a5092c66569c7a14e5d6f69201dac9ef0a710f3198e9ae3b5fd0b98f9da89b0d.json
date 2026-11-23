@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city252115.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773185732,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city252115.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1515,
+         "mime" : "application/json",
+         "sha256" : "db57703c36f5d2a40d3ee35721b3cf94175a8b2bed35a3be22c69e414baaadf6",
+         "title" : "滋賀県 湖南市 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=acc4290be28b40368e5427013f6844cd"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59058,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "0dec015c905ffa5f01f2167c5562aef893cd9ab30fd6f5a491fc975f65f1b2cf",
+         "time" : 1795444594,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/acc4290be28b40368e5427013f6844cd"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "滋賀県 湖南市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60573,
+   "mirrorzip" : {
+      "length" : 16480,
+      "set" : "nonfree-1",
+      "sha256" : "4cf6a944aceb397f85f406204143a217fd9c5e1ccf7bdb83d12a47b6eca989a1"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/acc4290be28b40368e5427013f6844cd",
+      "tags" : [
+      ],
+      "time" : 1795444596.02661,
+      "title" : "滋賀県 湖南市 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C9bd5fdee92451f05d792683b4706e2496bacfaeace44cbec2a1b6406d1bb080d\u001Cunknown\u001C0\u001C1"
+}

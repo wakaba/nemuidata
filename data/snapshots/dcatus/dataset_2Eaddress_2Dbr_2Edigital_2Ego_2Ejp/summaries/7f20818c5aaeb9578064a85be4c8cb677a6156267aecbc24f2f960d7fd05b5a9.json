@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city363022.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773186356,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city363022.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1524,
+         "mime" : "application/json",
+         "sha256" : "4756613aa0729c5d6318d2680935ec48717fc524aa14d7ec226b529f84c81335",
+         "title" : "徳島県 勝浦郡上勝町 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=3be266e836b8400ea2d8e4e3862fe97e"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59085,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "532b7ceb6536a2eb58f2f6086519c794967a8b6120870d44cc669c6556a7e33f",
+         "time" : 1795444569,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/3be266e836b8400ea2d8e4e3862fe97e"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "徳島県 勝浦郡上勝町 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60609,
+   "mirrorzip" : {
+      "length" : 16521,
+      "set" : "nonfree-1",
+      "sha256" : "240dac061fdb50d92f65701dcfd06de16dfb4aa453e5089ca3d62d5315d8a9cd"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/3be266e836b8400ea2d8e4e3862fe97e",
+      "tags" : [
+      ],
+      "time" : 1795444571.4786,
+      "title" : "徳島県 勝浦郡上勝町 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C273863384afd9ed853fd101a4254665a7a23508ef883113352bfddf49e6aee37\u001Cunknown\u001C0\u001C1"
+}

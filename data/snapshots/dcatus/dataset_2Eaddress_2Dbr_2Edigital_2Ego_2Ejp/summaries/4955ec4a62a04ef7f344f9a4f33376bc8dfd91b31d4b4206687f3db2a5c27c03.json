@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city442143.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773186806,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city442143.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1515,
+         "mime" : "application/json",
+         "sha256" : "5740971dcf1f0773e154870fb01b7db0213b1f88820aa435b793fc1e624ab511",
+         "title" : "大分県 国東市 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=8f5c2503378a4d10bf2499376512f1ca"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59058,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "2656d1c6a796352da91102659d32f4333c376e08f77b14f2e479dd55514d3d4a",
+         "time" : 1795444663,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/8f5c2503378a4d10bf2499376512f1ca"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "大分県 国東市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60573,
+   "mirrorzip" : {
+      "length" : 16479,
+      "set" : "nonfree-1",
+      "sha256" : "2314ee6906d7831d9798cc1f25adbc0e347d402933a2cbe0ad45d8a649f63331"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/8f5c2503378a4d10bf2499376512f1ca",
+      "tags" : [
+      ],
+      "time" : 1795444665.188,
+      "title" : "大分県 国東市 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C90eba5d2bc583670ab6973d418279c9c5f5e1187d7ef54870b66d5f2841e7651\u001Cunknown\u001C0\u001C1"
+}

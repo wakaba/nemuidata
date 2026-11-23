@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city141364.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city141364.csv.zip",
+         "length" : 1823,
+         "mime" : "application/zip",
+         "sha256" : "e87c6509ce79d04588bf5b055a8ef708828de9681434aac3fc26ed01ebd7b0ac",
+         "time" : 1773144549,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city141364.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1467,
+         "mime" : "application/json",
+         "sha256" : "da0d333d73fa14e3e2bf6ab0534ddc8d8b9af6783bbfc9bf93a2851a844cdd94",
+         "title" : "神奈川県 川崎市宮前区 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=30f9b04bcd9e4e2c909f0a16f6cd45f4"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59031,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a985a43ec62db3c3e3fd0ae32aab672f6322b3fb98f78c8a82f01b6c9cb60826",
+         "time" : 1795444637,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/30f9b04bcd9e4e2c909f0a16f6cd45f4"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "神奈川県 川崎市宮前区 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 62321,
+   "mirrorzip" : {
+      "length" : 19573,
+      "set" : "nonfree-1",
+      "sha256" : "e844c07d50cfebce1a024c4d9ce966ad3a9cc02c0a70270024603fac11dcaad6"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/30f9b04bcd9e4e2c909f0a16f6cd45f4",
+      "tags" : [
+      ],
+      "time" : 1795444640.38977,
+      "title" : "神奈川県 川崎市宮前区 町字マスター"
+   },
+   "ref_key_text" : "6\u001C4ff21d3937bb3a6ebdbecd42925fd84aaa721a77d72a732bdba48ba76bdbc9d6\u001Cunknown\u001C0\u001C0"
+}

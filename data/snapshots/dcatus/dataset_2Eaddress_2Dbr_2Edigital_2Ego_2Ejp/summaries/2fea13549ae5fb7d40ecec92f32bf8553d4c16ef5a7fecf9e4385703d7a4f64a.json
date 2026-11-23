@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city463043.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773183459,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city463043.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1472,
+         "mime" : "application/json",
+         "sha256" : "4a4fced695a712c6e00d59939af94b8b54d9d2bf0bd2c97c109daf1249a49c8c",
+         "title" : "鹿児島県 鹿児島郡十島村 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=63093d237b9e44ed9707f714251a5ac2"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59040,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "1c632ea734b0215e317d4a8fdfea2615202a9de105a128c95df12e55eb98f203",
+         "time" : 1795444655,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/63093d237b9e44ed9707f714251a5ac2"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "鹿児島県 鹿児島郡十島村 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60512,
+   "mirrorzip" : {
+      "length" : 16421,
+      "set" : "nonfree-1",
+      "sha256" : "8ca853094669091af2674de0df37416b7d6d25dc3271a4fb467ecd913299a236"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/63093d237b9e44ed9707f714251a5ac2",
+      "tags" : [
+      ],
+      "time" : 1795444656.85526,
+      "title" : "鹿児島県 鹿児島郡十島村 町字マスター"
+   },
+   "ref_key_text" : "6\u001Ced01de984a227613b3d64c3df7d8c3ee5aa7b0f8f668e030858123f5b69de248\u001Cunknown\u001C0\u001C1"
+}

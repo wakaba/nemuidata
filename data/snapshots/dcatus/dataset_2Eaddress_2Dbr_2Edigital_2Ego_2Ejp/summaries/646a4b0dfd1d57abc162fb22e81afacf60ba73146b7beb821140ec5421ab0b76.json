@@ -1,0 +1,115 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_parcel/city/mt_parcel_city364029.csv.zip" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1772061546,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel/city/mt_parcel_city364029.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1470,
+         "mime" : "application/json",
+         "sha256" : "91d1fdb9fec4737aa57a8273b076b551bbc2c45d5f53b45d592391f6e59442dd",
+         "title" : "徳島県 板野郡北島町 地番マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=6cb815fadbc74fabbcdffbb885d90dfa"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59022,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "49d829f6e567d531aeec40c77b7d0e59e4d6cf1a9f20de22a95382c57d3b7be1",
+         "time" : 1795444586,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/6cb815fadbc74fabbcdffbb885d90dfa"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "徳島県 板野郡北島町 地番マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "徳島県 板野郡北島町 地番マスター",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60492,
+   "mirrorzip" : {
+      "length" : 16648,
+      "set" : "nonfree-1",
+      "sha256" : "54032d4d013fce12ad191f0bd6acb33b5a314d114e0115959f17abac2e60d662"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/6cb815fadbc74fabbcdffbb885d90dfa",
+      "tags" : [
+      ],
+      "time" : 1795444587.83924,
+      "title" : "徳島県 板野郡北島町 地番マスター"
+   },
+   "ref_key_text" : "6\u001C7f70fe71554cbcd6d55da69ed8fba7b8fbf443480743471fff74e82b6d19c662\u001Cunknown\u001C0\u001C1"
+}
