@@ -1,0 +1,115 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:distribution-0b49e5cc2727bc61" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1782255589,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city053465.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1514,
+         "mime" : "application/json",
+         "sha256" : "d6a57d43333e06cc37ff0768b6c07558852ec293f6c61954c6b56bc321ebb8d9",
+         "title" : "秋田県 山本郡藤里町 地番マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=4e6e13cbf1e84a7fa0b821aec57c442a"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59076,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "70b8e4ceef44aeebad5d2896af75e3c62705d24fa9915f80501d1e4b5143db37",
+         "time" : 1795439657,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/4e6e13cbf1e84a7fa0b821aec57c442a"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "秋田県 山本郡藤里町 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "秋田県 山本郡藤里町 地番マスター位置参照拡張",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60590,
+   "mirrorzip" : {
+      "length" : 16736,
+      "set" : "nonfree-1",
+      "sha256" : "288a440e5222538378712efde03d4e0a6192949790436f9ed9dadc2c2e36f9b4"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/4e6e13cbf1e84a7fa0b821aec57c442a",
+      "tags" : [
+      ],
+      "time" : 1795439660.02112,
+      "title" : "秋田県 山本郡藤里町 地番マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C1f39a63351fc5612e7be59383fa44a04c54e6ae356363838abb00f144fd21456\u001Cunknown\u001C0\u001C1"
+}

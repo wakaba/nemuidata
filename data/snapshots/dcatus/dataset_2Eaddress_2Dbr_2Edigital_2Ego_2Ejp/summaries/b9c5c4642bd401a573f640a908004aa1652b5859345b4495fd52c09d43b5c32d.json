@@ -1,0 +1,115 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:distribution-ceddc3488dfb81df" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1782258086,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city394271.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1514,
+         "mime" : "application/json",
+         "sha256" : "055d9eb26c74d4d0e6a1fbc54448e19433c2c88c92f2760327fc920afd4e2d94",
+         "title" : "高知県 幡多郡三原村 地番マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=d4dbe80d610148dc992abb0fe5b4c6bc"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59076,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "cc6f29ad4d0735c6d170afb9afbc061d70698a9a26a6d7242cdee82585e56abe",
+         "time" : 1795439677,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/d4dbe80d610148dc992abb0fe5b4c6bc"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "高知県 幡多郡三原村 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "高知県 幡多郡三原村 地番マスター位置参照拡張",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60590,
+   "mirrorzip" : {
+      "length" : 16737,
+      "set" : "nonfree-1",
+      "sha256" : "f0b033413fb8a754ad1ab69f742e4d8dd13413c2c166936beb944911821cd07b"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/d4dbe80d610148dc992abb0fe5b4c6bc",
+      "tags" : [
+      ],
+      "time" : 1795439679.78647,
+      "title" : "高知県 幡多郡三原村 地番マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C1114396f5c7c40405a1684ac9b0578a80b88c22543180be319068205ff5f9eed\u001Cunknown\u001C0\u001C1"
+}

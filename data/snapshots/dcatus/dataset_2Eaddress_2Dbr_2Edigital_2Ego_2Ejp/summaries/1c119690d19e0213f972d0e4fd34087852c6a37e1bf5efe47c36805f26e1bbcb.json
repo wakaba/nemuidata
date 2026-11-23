@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:distribution-8f72439bae0dcc10" : {
+         "desc" : "",
+         "file_name" : "mt_town_city242144.csv.zip",
+         "length" : 3461,
+         "mime" : "application/zip",
+         "sha256" : "f7159a4e125c65c0b8888c36be594f237f2406f679451fc036ac6e46cd384b86",
+         "time" : 1773147715,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city242144.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1458,
+         "mime" : "application/json",
+         "sha256" : "a415865ac8ff3dccbbe4d35b7e9374e68890f4432cc17281787a108dcb5d6207",
+         "title" : "三重県 いなべ市 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=d752b0f1801248cd815fe9afeaa838aa"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59004,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "3e901b32209da733741185f9a593c1b483ecd1d3b55d19e92a952fa7c06e7b60",
+         "time" : 1795439733,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/d752b0f1801248cd815fe9afeaa838aa"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "三重県 いなべ市 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 63923,
+   "mirrorzip" : {
+      "length" : 21190,
+      "set" : "nonfree-1",
+      "sha256" : "4f8a1f8b15dfd925a5582e84ea6e363ddf4fdea33b76a2e9f96f2b5516656097"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/d752b0f1801248cd815fe9afeaa838aa",
+      "tags" : [
+      ],
+      "time" : 1795439736.78101,
+      "title" : "三重県 いなべ市 町字マスター"
+   },
+   "ref_key_text" : "6\u001Cfa8b9ac20236d786508981540d6bc0ff4671d5ec228cfd757336ccdb4d876d22\u001Cunknown\u001C0\u001C0"
+}

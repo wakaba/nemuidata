@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:distribution-904492e8e1d41fb6" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1761604728,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_rsdtdsp_blk_pos/pref/mt_rsdtdsp_blk_pos_pref03.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1471,
+         "mime" : "application/json",
+         "sha256" : "1f8e2ea397561a5d31da9b1c508a16ad50c24455b8bf60320d0c418feaa7d242",
+         "title" : "岩手県 住居表示-街区マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=0f8a57a14b014d6cbf82dcca7863c887"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59058,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "0a65f21258b4a3043467665facbe2ded9d5c436afc0c21fb2566d7c25d105492",
+         "time" : 1795439667,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/0f8a57a14b014d6cbf82dcca7863c887"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "岩手県 住居表示-街区マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60529,
+   "mirrorzip" : {
+      "length" : 16458,
+      "set" : "nonfree-1",
+      "sha256" : "d591e74d2e5599052e95a2a4b9fa468c1647f8b1571e50ec5fd9fd8ccd5c93df"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/0f8a57a14b014d6cbf82dcca7863c887",
+      "tags" : [
+      ],
+      "time" : 1795439669.97023,
+      "title" : "岩手県 住居表示-街区マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C70f9c80730d91ea26efb909b0d198b2a85179428733eade2f516bcafe7f24c72\u001Cunknown\u001C0\u001C1"
+}

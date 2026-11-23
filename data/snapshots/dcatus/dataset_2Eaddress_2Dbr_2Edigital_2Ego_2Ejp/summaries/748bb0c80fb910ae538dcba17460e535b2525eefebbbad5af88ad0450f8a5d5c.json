@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:distribution-6299fdc053806f50" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773185420,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city212164.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1515,
+         "mime" : "application/json",
+         "sha256" : "65f6024e6f69490475c71564b4e4f04b23c89ecc304db0746b921790e974ea3e",
+         "title" : "岐阜県 瑞穂市 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=ea602705454d4c85b1fbdf97e81b7822"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59058,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "16d4186588b00db3f3c318f58ad12607d174371af1b2e64de176d50a7f78beed",
+         "time" : 1795439776,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/ea602705454d4c85b1fbdf97e81b7822"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "岐阜県 瑞穂市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60573,
+   "mirrorzip" : {
+      "length" : 16500,
+      "set" : "nonfree-1",
+      "sha256" : "a00c1148e04161ac8de2a2c4e192f7ad8c762624643e5dadbdae29742b50d4fd"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/ea602705454d4c85b1fbdf97e81b7822",
+      "tags" : [
+      ],
+      "time" : 1795439778.66517,
+      "title" : "岐阜県 瑞穂市 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C329fe13416de0c90368e07180aa312c513ba2bde6ebe9be7d3b83b6cd90336de\u001Cunknown\u001C0\u001C1"
+}

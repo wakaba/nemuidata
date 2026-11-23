@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:distribution-b217b86d026ae368" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773182392,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city271241.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1466,
+         "mime" : "application/json",
+         "sha256" : "9a42bf71e618e5e9a3bb163eaadcfbdba6418dc1f77660e89a81ce669255fa8d",
+         "title" : "大阪府 大阪市鶴見区 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=faf7d8fe3d8d484e8e2c643ac06663ff"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59022,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "7f20da7743a0840e718e2f05fb4e57797cc9bf5d4dfac1fe8a8c768432981906",
+         "time" : 1795439746,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/faf7d8fe3d8d484e8e2c643ac06663ff"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "大阪府 大阪市鶴見区 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60488,
+   "mirrorzip" : {
+      "length" : 16416,
+      "set" : "nonfree-1",
+      "sha256" : "122c58c11580bbd8983bf4c9c4e9b862300de602d8985e8d7a07c96ccc677a35"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/faf7d8fe3d8d484e8e2c643ac06663ff",
+      "tags" : [
+      ],
+      "time" : 1795439748.85411,
+      "title" : "大阪府 大阪市鶴見区 町字マスター"
+   },
+   "ref_key_text" : "6\u001Cb7f3195007cc38a5107c77eb61ecd0d432c2d029dff38fadf6dc297256ff2c47\u001Cunknown\u001C0\u001C1"
+}

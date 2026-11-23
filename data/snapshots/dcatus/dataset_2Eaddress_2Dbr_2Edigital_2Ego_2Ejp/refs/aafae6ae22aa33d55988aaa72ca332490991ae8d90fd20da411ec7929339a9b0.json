@@ -1,0 +1,25 @@
+{
+   "source" : {
+      "files" : {
+         "file:distribution-8eb32f656412a47a" : {
+            "skip" : 1
+         },
+         "meta:dcat-us.json" : {
+            "sha256" : "9fbe855ad2c8e529149ca9274606e21997eedc6a0b0b34f3d5517194f4921b0b"
+         },
+         "meta:landing.html" : {
+            "sha256" : "3a5151f9e6d75f7565b6a4dd040f73dd6cd1fd14ed220b8bb7c28b3753746962"
+         },
+         "package" : {
+         }
+      },
+      "id" : "https://www.arcgis.com/home/item.html?id=767c10bb78ec4dabb519462573cadbbb",
+      "skip_other_files" : 1,
+      "source" : {
+         "type" : "single",
+         "url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json"
+      },
+      "type" : "dcatus"
+   },
+   "type" : "packref"
+}

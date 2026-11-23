@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:distribution-70b3877ba86c1e50" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773185335,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city204145.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1527,
+         "mime" : "application/json",
+         "sha256" : "efc46099a0553782c564aa84cbf545ad2d24021a12fdcfdfc5086b942c5345bf",
+         "title" : "長野県 下伊那郡泰阜村 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=cce79fd906f94a169514a14d25ca730a"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59094,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "9de7c143dd47e3e66596fb00a79693031ae14bdb3762d64b010d56ca16fe55ba",
+         "time" : 1795439810,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/cce79fd906f94a169514a14d25ca730a"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "長野県 下伊那郡泰阜村 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60621,
+   "mirrorzip" : {
+      "length" : 16547,
+      "set" : "nonfree-1",
+      "sha256" : "57d447478e02413b2efe52b73f9855458128a247c29c58ad204b2f33d5645b1f"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/cce79fd906f94a169514a14d25ca730a",
+      "tags" : [
+      ],
+      "time" : 1795439812.21694,
+      "title" : "長野県 下伊那郡泰阜村 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C4c781ad7b22786f35e93c44a25db9dc1a2ba92b145c046b156b73834b934fba7\u001Cunknown\u001C0\u001C1"
+}

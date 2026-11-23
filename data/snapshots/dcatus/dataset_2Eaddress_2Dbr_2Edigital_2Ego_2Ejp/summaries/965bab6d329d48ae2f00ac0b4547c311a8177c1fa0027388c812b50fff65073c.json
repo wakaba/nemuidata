@@ -1,0 +1,103 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:distribution-54b6d7bbf39a411a" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773182794,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city332151.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1457,
+         "mime" : "application/json",
+         "sha256" : "577ca9f2d5b9a9d0d3644b5978ab9457b3582004b581ae02e479e79133a00f8d",
+         "title" : "岡山県 美作市 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=2fe0840810b04fe4b772668c1c949323"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 58995,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a068cada3b90749f2456d442bab9318e590e714835edf9e1296af933f2167000",
+         "time" : 1795439756,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/2fe0840810b04fe4b772668c1c949323"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "岡山県 美作市 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60452,
+   "mirrorzip" : {
+      "length" : 16380,
+      "set" : "nonfree-1",
+      "sha256" : "1c2f1aa842f054d0fdde7ec2c03b3fe3b97eccedebd3f898ffbb2e0a9185d5f1"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/2fe0840810b04fe4b772668c1c949323",
+      "tags" : [
+      ],
+      "time" : 1795439758.70689,
+      "title" : "岡山県 美作市 町字マスター"
+   },
+   "ref_key_text" : "6\u001Ca385eead612d50bd94bcec1f588719b11976dd4818bdf30e4a217d8d25f0c5cd\u001Cunknown\u001C0\u001C1"
+}
