@@ -21,6 +21,18 @@
          "site_type" : "ckan"
       }
    },
+   "dcatus" : {
+      "dataset_2Eaddress_2Dbr_2Edigital_2Ego_2Ejp" : {
+         "esite_name" : "dataset_2Eaddress_2Dbr_2Edigital_2Ego_2Ejp",
+         "site_name" : "dataset.address-br.digital.go.jp",
+         "site_opts" : {
+            "tags" : [
+               "abr"
+            ]
+         },
+         "site_type" : "dcatus"
+      }
+   },
    "packref" : {
       "legal" : {
          "esite_name" : "legal",

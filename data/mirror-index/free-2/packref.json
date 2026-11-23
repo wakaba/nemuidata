@@ -1,0 +1,11 @@
+{
+   "source" : {
+      "files" : {
+         "file:r:dcatus-dataset_2Eaddress_2Dbr_2Edigital_2Ego_2Ejp" : {
+            "url" : "mirror-dcatus-dataset_2Eaddress_2Dbr_2Edigital_2Ego_2Ejp.jsonl"
+         }
+      },
+      "type" : "files"
+   },
+   "type" : "packref"
+}

@@ -1,0 +1,198 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:distribution-b45a2ffa7da2159a" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773186383,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city372048.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1518,
+         "mime" : "application/json",
+         "sha256" : "3bd293af8d07e09222c407c8e79012d267679788a9817ce483669941c18f9d01",
+         "title" : "香川県 善通寺市 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=ba4e79bbc28a478781832dc7e36e7d28"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59067,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "b521f290ecc6e065aff4604d539b64e5f71655b90d8786572a632090007480f3",
+         "time" : 1795437699,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/ba4e79bbc28a478781832dc7e36e7d28"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "香川県 善通寺市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "デジタル庁",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "",
+                              "value" : "香川県 善通寺市 町字マスター（フルセット）",
+                              "writing_mode" : "horizontal-tb"
+                           }
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
+                  "is_free" : "free",
+                  "key" : "-ddsd-pdl1.0",
+                  "label" : "公共データ利用規約（第1.0版）",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典：「{title}」（{holder}）（{url}）、PDL1.0（https://www.digital.go.jp/resources/open_data/public_data_license_v1.0）（{date}に利用）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "",
+                        "value" : "香川県 善通寺市 町字マスター（フルセット）",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "is_free" : "unknown",
+            "key" : "-ddsd-base_registry_address_tos-r080529",
+            "label" : "アドレス・ベース・レジストリの利用規約 (最終更新日:\u000A    2026年5月29日 )",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "出典：「{title}」（{holder}）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "香川県 善通寺市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60585,
+   "mirrorzip" : {
+      "length" : 17242,
+      "set" : "free-2",
+      "sha256" : "ce4a7121cdb96cc1a6550cabfd55e48a5b718371e66d3190b420f1d0256d8003"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "最終更新日: 2026-03-10T13:56:46.000Z",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/ba4e79bbc28a478781832dc7e36e7d28",
+      "tags" : [
+      ],
+      "time" : 1795437701.88911,
+      "title" : "香川県 善通寺市 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C7417db730d6cb6c6f14c61176da3025f862685eff1a221f57975aa0cc21319e5\u001Cfree\u001C0\u001C1"
+}

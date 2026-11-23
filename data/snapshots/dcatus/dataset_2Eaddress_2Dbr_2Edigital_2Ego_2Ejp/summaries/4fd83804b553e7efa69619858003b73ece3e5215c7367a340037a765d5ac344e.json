@@ -1,0 +1,210 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:distribution-f12ae358b4646755" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1782258328,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city432105.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1505,
+         "mime" : "application/json",
+         "sha256" : "52fd71397df0cdb3dbfd093d7245a62710f4b17b3762cfb370ec2c02ad8b82e9",
+         "title" : "熊本県 菊池市 地番マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=5f39e671a0d144b3ada05c5d512a486f"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59049,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "aa555ecbc4f6ddf67ea96ae28df660db8a842d3b5cc4acf6501a5d24f0d0b7cd",
+         "time" : 1795437706,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/5f39e671a0d144b3ada05c5d512a486f"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "熊本県 菊池市 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "熊本県 菊池市 地番マスター位置参照拡張",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "デジタル庁",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "",
+                              "value" : "熊本県 菊池市 地番マスター位置参照拡張",
+                              "writing_mode" : "horizontal-tb"
+                           }
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
+                  "is_free" : "free",
+                  "key" : "-ddsd-pdl1.0",
+                  "label" : "公共データ利用規約（第1.0版）",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典：「{title}」（{holder}）（{url}）、PDL1.0（https://www.digital.go.jp/resources/open_data/public_data_license_v1.0）（{date}に利用）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "",
+                        "value" : "熊本県 菊池市 地番マスター位置参照拡張",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "is_free" : "unknown",
+            "key" : "-ddsd-base_registry_address_tos-r080529",
+            "label" : "アドレス・ベース・レジストリの利用規約 (最終更新日:\u000A    2026年5月29日 )",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "出典：「{title}」（{holder}）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "熊本県 菊池市 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60554,
+   "mirrorzip" : {
+      "length" : 17476,
+      "set" : "nonfree-1",
+      "sha256" : "ee0f1b225519244f66d16d5171873a610bab943b21996b454bfdb1b8e691e037"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/5f39e671a0d144b3ada05c5d512a486f",
+      "tags" : [
+      ],
+      "time" : 1795437708.18641,
+      "title" : "熊本県 菊池市 地番マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C007ed12bea4021830127d82c6f0ac9ed9cd55917ea14d04337166a8ec10ab38e\u001Cunknown\u001C0\u001C1"
+}

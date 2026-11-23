@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:distribution-0e0a47d824504250" : {
+            "name" : "mt_town_city014851.csv.zip",
+            "sha256" : "cd5bc70686bec19008fda138b26f162a26b3b2a867a9ec199f54866d8cb52a8f"
+         },
+         "meta:dcat-us.json" : {
+            "sha256" : "00a8b1787c16048261c4a5892b6a36f2d777f6b3a3bb625bf024f271f0944be6"
+         },
+         "meta:landing.html" : {
+            "sha256" : "c4d6763366484381b4d396cdae4a673be7bc8753fd09cd06ba1769e4366c7e1f"
+         },
+         "package" : {
+         }
+      },
+      "id" : "https://www.arcgis.com/home/item.html?id=05e8913a21a94e51a1ddc2766c22dac4",
+      "skip_other_files" : 1,
+      "source" : {
+         "type" : "single",
+         "url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json"
+      },
+      "type" : "dcatus"
+   },
+   "type" : "packref"
+}

@@ -1,0 +1,210 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:distribution-ed9079cf0a2ca7bd" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1782256840,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city205834.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1517,
+         "mime" : "application/json",
+         "sha256" : "aed24e0089d822cd2210e101a66b1df444b697aa02952d36de45e96294a5388c",
+         "title" : "長野県 上水内郡信濃町 地番マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=9ac42ddd2e034f63ac3aa2d212c7057e"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59085,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "b75a86305c051a1f57147ddbf5a9e435c2578a275838acdf5e64a89032a35ad9",
+         "time" : 1795437814,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/9ac42ddd2e034f63ac3aa2d212c7057e"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "長野県 上水内郡信濃町 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "長野県 上水内郡信濃町 地番マスター位置参照拡張",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "デジタル庁",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "",
+                              "value" : "長野県 上水内郡信濃町 地番マスター位置参照拡張",
+                              "writing_mode" : "horizontal-tb"
+                           }
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
+                  "is_free" : "free",
+                  "key" : "-ddsd-pdl1.0",
+                  "label" : "公共データ利用規約（第1.0版）",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典：「{title}」（{holder}）（{url}）、PDL1.0（https://www.digital.go.jp/resources/open_data/public_data_license_v1.0）（{date}に利用）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "",
+                        "value" : "長野県 上水内郡信濃町 地番マスター位置参照拡張",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "is_free" : "unknown",
+            "key" : "-ddsd-base_registry_address_tos-r080529",
+            "label" : "アドレス・ベース・レジストリの利用規約 (最終更新日:\u000A    2026年5月29日 )",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "出典：「{title}」（{holder}）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "長野県 上水内郡信濃町 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60602,
+   "mirrorzip" : {
+      "length" : 17541,
+      "set" : "nonfree-1",
+      "sha256" : "55bc2f8e362e8f8b5c8c0192d034affe330e2cfbf8ffc070aabf474016972110"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/9ac42ddd2e034f63ac3aa2d212c7057e",
+      "tags" : [
+      ],
+      "time" : 1795437817.07184,
+      "title" : "長野県 上水内郡信濃町 地番マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C3659c2d3c3949e47e117a3c78e171ea56b55fa9d273cf8ee202d0a2a9a098c89\u001Cunknown\u001C0\u001C1"
+}

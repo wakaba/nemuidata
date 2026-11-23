@@ -1,0 +1,198 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:distribution-1a40835c55bb98c8" : {
+         "desc" : "",
+         "mime" : "application/zip",
+         "time" : 1773183891,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city015466.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1524,
+         "mime" : "application/json",
+         "sha256" : "d26bbbe7828d47153be7688af2109fed49bb198fb64b4d300c2d6fbb5a17e699",
+         "title" : "北海道 斜里郡清里町 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=81ad71f1331d4c5e9307cd64b1477bb6"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59085,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "bfbb2078702916fd09f45f460f0fd74d1b57f164dd6827ea3f6e27aafee164a2",
+         "time" : 1795437679,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/81ad71f1331d4c5e9307cd64b1477bb6"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "北海道 斜里郡清里町 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "デジタル庁",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "",
+                              "value" : "北海道 斜里郡清里町 町字マスター（フルセット）",
+                              "writing_mode" : "horizontal-tb"
+                           }
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
+                  "is_free" : "free",
+                  "key" : "-ddsd-pdl1.0",
+                  "label" : "公共データ利用規約（第1.0版）",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典：「{title}」（{holder}）（{url}）、PDL1.0（https://www.digital.go.jp/resources/open_data/public_data_license_v1.0）（{date}に利用）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "",
+                        "value" : "北海道 斜里郡清里町 町字マスター（フルセット）",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "is_free" : "unknown",
+            "key" : "-ddsd-base_registry_address_tos-r080529",
+            "label" : "アドレス・ベース・レジストリの利用規約 (最終更新日:\u000A    2026年5月29日 )",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "出典：「{title}」（{holder}）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "北海道 斜里郡清里町 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 60609,
+   "mirrorzip" : {
+      "length" : 17264,
+      "set" : "free-2",
+      "sha256" : "4016836c6e7bdf28d0ff75e86e1fc33778fb45646a30d99e7340f59738d27b4c"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "最終更新日: 2026-03-10T10:46:53.000Z",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/81ad71f1331d4c5e9307cd64b1477bb6",
+      "tags" : [
+      ],
+      "time" : 1795437681.52407,
+      "title" : "北海道 斜里郡清里町 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001Cc761422d260f00147347dd5de8bcdb6627f65297f2f712733e45f1b1692e6664\u001Cfree\u001C0\u001C1"
+}
