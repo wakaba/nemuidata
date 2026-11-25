@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city063657.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city063657.csv.zip",
+         "length" : 3972,
+         "mime" : "application/zip",
+         "sha256" : "9329ba0252af6d27f796cf059455743edba226aa69f4f38df488677c91151e56",
+         "time" : 1773141388,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city063657.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1524,
+         "mime" : "application/json",
+         "sha256" : "29efd4ae0cafe49e8013d145101c3f76bc852a433ebbeebe23f5fbcded3efd7f",
+         "title" : "山形県 最上郡大蔵村 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=d3d46e85b0b0403784c1b18f9e1cc891"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59085,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "371d914babba12b6df89343cc016587293a161d6f12b76e7f09ba25ef0e6b5d2",
+         "time" : 1795620873,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/d3d46e85b0b0403784c1b18f9e1cc891"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "山形県 最上郡大蔵村 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 64581,
+   "mirrorzip" : {
+      "length" : 21796,
+      "set" : "nonfree-1",
+      "sha256" : "ee1718d7f465ce4d239abdcd38289a525b3fd8a009bcac95a60ee6e9d6145ce2"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/d3d46e85b0b0403784c1b18f9e1cc891",
+      "tags" : [
+      ],
+      "time" : 1795620876.9928,
+      "title" : "山形県 最上郡大蔵村 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C34de32d61043131e490e6dd2f1c7b6326441a3b6995d8eecfd520b0d0141bfb4\u001Cunknown\u001C0\u001C0"
+}

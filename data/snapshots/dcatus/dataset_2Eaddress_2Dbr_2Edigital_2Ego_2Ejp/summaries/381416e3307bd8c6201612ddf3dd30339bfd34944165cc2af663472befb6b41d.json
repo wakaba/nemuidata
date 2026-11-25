@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city063223.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city063223.csv.zip",
+         "length" : 18856,
+         "mime" : "application/zip",
+         "sha256" : "1b2eac201975ccd159c0197da022a15eac3cea49dbd5ef33283d3f5ead83f705",
+         "time" : 1773141320,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city063223.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1469,
+         "mime" : "application/json",
+         "sha256" : "b7dd4be726115df92466ee7a46bac008c43243094dbc15a30bc72b74f0c83f47",
+         "title" : "山形県 西村山郡西川町 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=027dd675d51b43ec83a13b183158126f"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59031,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5c0228ba188b2e1ce5e301c3deceba43c8ff61db52e6ed5ea51bff85addcd14e",
+         "time" : 1795620982,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/027dd675d51b43ec83a13b183158126f"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "山形県 西村山郡西川町 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 79356,
+   "mirrorzip" : {
+      "length" : 36515,
+      "set" : "nonfree-1",
+      "sha256" : "970b5c63b7574090f877cf2b79f831364e3eb985509e067c56e5ebbdbf1fa7ba"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/027dd675d51b43ec83a13b183158126f",
+      "tags" : [
+      ],
+      "time" : 1795620985.62932,
+      "title" : "山形県 西村山郡西川町 町字マスター"
+   },
+   "ref_key_text" : "6\u001C1152c8a4e619ae0269f00993e24fc7b3658c5678043685df59e67377af438266\u001Cunknown\u001C0\u001C0"
+}

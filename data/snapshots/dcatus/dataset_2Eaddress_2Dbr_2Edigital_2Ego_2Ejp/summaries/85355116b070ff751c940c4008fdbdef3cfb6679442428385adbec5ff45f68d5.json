@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city013030.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city013030.csv.zip",
+         "length" : 1856,
+         "mime" : "application/zip",
+         "sha256" : "594fed4d861a55dd39453faad3063e95766707274b9ff68a5baf5dc24c63f054",
+         "time" : 1773138896,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city013030.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1464,
+         "mime" : "application/json",
+         "sha256" : "9432d572564c1f425f927c91f973e07f78484153c6abe05bbfe27fa7e341f5b5",
+         "title" : "北海道 石狩郡当別町 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=7d1550d496bf4c07b0ba08c9b0bbee7f"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59022,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "58b23c27387fbdec972f6723ff2a6239e0090530dd870af827744c0025168750",
+         "time" : 1795621003,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/7d1550d496bf4c07b0ba08c9b0bbee7f"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "北海道 石狩郡当別町 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 62342,
+   "mirrorzip" : {
+      "length" : 19618,
+      "set" : "nonfree-1",
+      "sha256" : "7786541fd089297ba29b6b6f0076bca556b8ae178d809bf9499267d4f1e5234e"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/7d1550d496bf4c07b0ba08c9b0bbee7f",
+      "tags" : [
+      ],
+      "time" : 1795621006.67251,
+      "title" : "北海道 石狩郡当別町 町字マスター"
+   },
+   "ref_key_text" : "6\u001C53f6dac6521e5ab5b9aceea4e8d2b3580cee9ddb06b9af830be614d25dab6a63\u001Cunknown\u001C0\u001C0"
+}

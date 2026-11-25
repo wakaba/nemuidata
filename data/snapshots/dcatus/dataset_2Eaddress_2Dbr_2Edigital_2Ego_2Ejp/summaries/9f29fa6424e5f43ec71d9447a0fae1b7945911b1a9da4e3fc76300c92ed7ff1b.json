@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city261017.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city261017.csv.zip",
+         "length" : 12754,
+         "mime" : "application/zip",
+         "sha256" : "3d73d3fb52eed8a2881235680d524ebf4c66e550cbad682ec788ce9bf72effbc",
+         "time" : 1773148015,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city261017.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1463,
+         "mime" : "application/json",
+         "sha256" : "177775292e06fcc14f01ce8e38eb53cb4a22484984665343aa936b18ed980254",
+         "title" : "京都府 京都市北区 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=5fc482b5828149d0856f7f0195fc582f"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59013,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c8d60edd1b23feea078b9be9d0e2607cb890b6e228e26d93981090a45f8da016",
+         "time" : 1795620851,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/5fc482b5828149d0856f7f0195fc582f"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "京都府 京都市北区 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 73230,
+   "mirrorzip" : {
+      "length" : 30432,
+      "set" : "nonfree-1",
+      "sha256" : "298fecea84bf5a9c45962a11349ea07925c482241b6ad0b7d67107e230dc532c"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/5fc482b5828149d0856f7f0195fc582f",
+      "tags" : [
+      ],
+      "time" : 1795620855.2806,
+      "title" : "京都府 京都市北区 町字マスター"
+   },
+   "ref_key_text" : "6\u001C22e78f65d6d0f995642d216ab9f744520415b437013a4669526b2d93b3bb68eb\u001Cunknown\u001C0\u001C0"
+}

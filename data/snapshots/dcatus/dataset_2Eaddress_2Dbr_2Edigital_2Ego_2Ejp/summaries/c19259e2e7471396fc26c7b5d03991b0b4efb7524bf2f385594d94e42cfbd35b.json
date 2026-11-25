@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city212024.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city212024.csv.zip",
+         "length" : 26338,
+         "mime" : "application/zip",
+         "sha256" : "a17c2247c6626eeecd769496435ffc1d92c4f201c137cef6a5c48dc0a2cf0ff8",
+         "time" : 1773146396,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city212024.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1515,
+         "mime" : "application/json",
+         "sha256" : "91522bbb9ed4b79f0146fc194935f63ba58bc89575f50013ec3910ccb901c953",
+         "title" : "岐阜県 大垣市 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=4d45b4ef8ce546d48aefe57037fc4c81"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59058,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4dce443a01a7b52516a37fc48c669e45ef3a6399a4dd75c4681b1bc90d633868",
+         "time" : 1795620884,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/4d45b4ef8ce546d48aefe57037fc4c81"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "岐阜県 大垣市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 86911,
+   "mirrorzip" : {
+      "length" : 44039,
+      "set" : "nonfree-1",
+      "sha256" : "a21df2ca8f627d8f782565a126f8f4769ed312ce8ea40c35271bb2befe58252f"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/4d45b4ef8ce546d48aefe57037fc4c81",
+      "tags" : [
+      ],
+      "time" : 1795620897.16968,
+      "title" : "岐阜県 大垣市 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C72294404d2f9e9b3796b75692b0feb175d35fe385dca097241e4e85a493a7d9f\u001Cunknown\u001C0\u001C0"
+}

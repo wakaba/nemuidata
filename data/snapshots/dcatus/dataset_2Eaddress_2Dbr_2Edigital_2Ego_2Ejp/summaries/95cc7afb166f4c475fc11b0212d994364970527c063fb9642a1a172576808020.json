@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city331023.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city331023.csv.zip",
+         "length" : 3134,
+         "mime" : "application/zip",
+         "sha256" : "bb1de9c50f8ac227b1facdfa8f7d16f7f7fe7906fc177b5858d9515e37cbff5d",
+         "time" : 1773150161,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city331023.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1521,
+         "mime" : "application/json",
+         "sha256" : "bc56c4e621e155efd974932f3b1f45bf50262d8360a89327bd1bbbe36d4a2875",
+         "title" : "岡山県 岡山市中区 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=c01dd56ece8f422588f3724b676f593a"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59076,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "f9583b4cf7465797c5219b31ec423ccdfb9d264268d8432d9a1e093f1f4e94a4",
+         "time" : 1795620993,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/c01dd56ece8f422588f3724b676f593a"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "岡山県 岡山市中区 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 63731,
+   "mirrorzip" : {
+      "length" : 20939,
+      "set" : "nonfree-1",
+      "sha256" : "c5afacd6ac0a27b15c93bd89b36b2f39ef1a21c03eb09c17281af4c978f84ab0"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/c01dd56ece8f422588f3724b676f593a",
+      "tags" : [
+      ],
+      "time" : 1795620996.25488,
+      "title" : "岡山県 岡山市中区 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C4d69986ba5508d2f8efd557662e8d5818e38cf7aa29af7aea74f0ba028dd2b6e\u001Cunknown\u001C0\u001C0"
+}

@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city222097.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city222097.csv.zip",
+         "length" : 5992,
+         "mime" : "application/zip",
+         "sha256" : "17c2291c5fbfcafb86725327ab71ea81ef7894e0a9b1ebba37b8ff54695dc4aa",
+         "time" : 1773146831,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city222097.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1455,
+         "mime" : "application/json",
+         "sha256" : "60115affd0a7903662d3c9ddb1434d87d40ecee3f98d9a5e30291f5ea5c42155",
+         "title" : "静岡県 島田市 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=94980161292c49d4abef106abf312a03"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 58995,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a08e8dc566ffd7bd4d8f248992ad3d25d14bb1ff25a4d830e5f4038862a40d53",
+         "time" : 1795620862,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/94980161292c49d4abef106abf312a03"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "静岡県 島田市 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 66442,
+   "mirrorzip" : {
+      "length" : 23696,
+      "set" : "nonfree-1",
+      "sha256" : "9ae11733656f7db16ac4f20141b7bc544a3d53fa7696f2f082ba511aa1c09547"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/94980161292c49d4abef106abf312a03",
+      "tags" : [
+      ],
+      "time" : 1795620865.95037,
+      "title" : "静岡県 島田市 町字マスター"
+   },
+   "ref_key_text" : "6\u001C6b39c09c30218b31e9243755e82db1c4e5433a3b98a1e32e8fc65357ccd9293f\u001Cunknown\u001C0\u001C0"
+}

@@ -1,0 +1,117 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city282235.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_pos_city282235.csv.zip",
+         "length" : 2804931,
+         "mime" : "application/zip",
+         "sha256" : "8584d159b94a15d17d9b6b611782088aaf98184a8804abd8d6d2f824f7cfbd20",
+         "time" : 1782211164,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city282235.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1505,
+         "mime" : "application/json",
+         "sha256" : "4e47349209d903625ef054d42853dca9a72a6653e25eacea16bcf56349ee0242",
+         "title" : "兵庫県 丹波市 地番マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=5ef3d5e7b22c4e44bd87e8d2d41b2775"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59049,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "6bc5abb529dd679bc63343d27f69caf7ac2fb74d213c96d7d1c6d5b1fa091660",
+         "time" : 1795620960,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/5ef3d5e7b22c4e44bd87e8d2d41b2775"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "兵庫県 丹波市 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "兵庫県 丹波市 地番マスター位置参照拡張",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 2865485,
+   "mirrorzip" : {
+      "length" : 2803707,
+      "set" : "nonfree-1",
+      "sha256" : "f004ebfa45f6321e1483e980225cfc7784166b78f76c6c6d1a63eef27c4903f3"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/5ef3d5e7b22c4e44bd87e8d2d41b2775",
+      "tags" : [
+      ],
+      "time" : 1795620964.05044,
+      "title" : "兵庫県 丹波市 地番マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C7ed950a59907a98fd696957965461237e245fd41d69ce51777b4fb0276a65f3a\u001Cunknown\u001C0\u001C0"
+}

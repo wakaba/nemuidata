@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_rsdtdsp_rsdt/pref/mt_rsdtdsp_rsdt_pref12.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_rsdt_pref12.csv.zip",
+         "length" : 3628203,
+         "mime" : "application/zip",
+         "sha256" : "c405a48e9daa5aca2aa769aa703679184e6c848872a64e1fa3fa0d0cb730317b",
+         "time" : 1761557355,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_rsdtdsp_rsdt/pref/mt_rsdtdsp_rsdt_pref12.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1429,
+         "mime" : "application/json",
+         "sha256" : "afe3be16973dbff7cef0edf6cba4d7f3655f684f3555101c55d38bc4e5be1e0d",
+         "title" : "千葉県 住居表示-住居マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=00adbbbb3611490bb462abd79b590a8f"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59004,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "43c94333c5a0cbb04b06e131a76f07e512509d166996ddf1dfdf1e0682e65102",
+         "time" : 1795620948,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/00adbbbb3611490bb462abd79b590a8f"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "千葉県 住居表示-住居マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 3688636,
+   "mirrorzip" : {
+      "length" : 2577972,
+      "set" : "nonfree-1",
+      "sha256" : "24abe02fff640f168d5252abf5b05e24d212dac3a05d5a81f16634cc227ba9e5"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/00adbbbb3611490bb462abd79b590a8f",
+      "tags" : [
+      ],
+      "time" : 1795620952.84119,
+      "title" : "千葉県 住居表示-住居マスター"
+   },
+   "ref_key_text" : "6\u001Cf792399f694d7ce0d41bbbb76d035725c0bf0f69fec8ad74f740377a8ffbae4e\u001Cunknown\u001C0\u001C0"
+}

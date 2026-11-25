@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:url:https://data.address-br.digital.go.jp/mt_rsdtdsp_rsdt/pref/mt_rsdtdsp_rsdt_pref12.csv.zip" : {
+            "name" : "mt_rsdtdsp_rsdt_pref12.csv.zip",
+            "sha256" : "c405a48e9daa5aca2aa769aa703679184e6c848872a64e1fa3fa0d0cb730317b"
+         },
+         "meta:dcat-us.json" : {
+            "sha256" : "afe3be16973dbff7cef0edf6cba4d7f3655f684f3555101c55d38bc4e5be1e0d"
+         },
+         "meta:landing.html" : {
+            "sha256" : "43c94333c5a0cbb04b06e131a76f07e512509d166996ddf1dfdf1e0682e65102"
+         },
+         "package" : {
+         }
+      },
+      "id" : "https://www.arcgis.com/home/item.html?id=00adbbbb3611490bb462abd79b590a8f",
+      "skip_other_files" : 1,
+      "source" : {
+         "type" : "single",
+         "url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json"
+      },
+      "type" : "dcatus"
+   },
+   "type" : "packref"
+}
