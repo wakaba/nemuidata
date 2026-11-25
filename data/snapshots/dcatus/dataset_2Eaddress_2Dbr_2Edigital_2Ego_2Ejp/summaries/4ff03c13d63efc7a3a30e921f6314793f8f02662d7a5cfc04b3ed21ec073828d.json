@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city112330.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city112330.csv.zip",
+         "length" : 3410,
+         "mime" : "application/zip",
+         "sha256" : "246897b948b4b40d3176301de802a45b0d16742d1a50b29c669af16557a05eac",
+         "time" : 1773143097,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city112330.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1457,
+         "mime" : "application/json",
+         "sha256" : "d5de9bc05c93767eac4487fc806aab81034461a26b201cfc041ba5725b05806f",
+         "title" : "埼玉県 北本市 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=511a21f896c24c2b9f3fa2b0c03af8da"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 58995,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "14f38d799760ba6a21aeef8c529877d6c059893348c18494266c9fd2d2a97c74",
+         "time" : 1795591310,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/511a21f896c24c2b9f3fa2b0c03af8da"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "埼玉県 北本市 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 63862,
+   "mirrorzip" : {
+      "length" : 21001,
+      "set" : "nonfree-1",
+      "sha256" : "05307005475ad5415f52064b05c2bb6ed516b1f530d22a03a1cd8f15dfa1a003"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/511a21f896c24c2b9f3fa2b0c03af8da",
+      "tags" : [
+      ],
+      "time" : 1795591314.02732,
+      "title" : "埼玉県 北本市 町字マスター"
+   },
+   "ref_key_text" : "6\u001C0c5762a013deb979a9fdc831a191c9480cf7db947ed36bea73c48de54eedb928\u001Cunknown\u001C0\u001C0"
+}

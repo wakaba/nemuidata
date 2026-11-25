@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city013994.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city013994.csv.zip",
+         "length" : 846,
+         "mime" : "application/zip",
+         "sha256" : "ecba5af8257dd035a673e591386bb3681ce31a73d8390d16dee321fd520ac2f7",
+         "time" : 1773139104,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city013994.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1464,
+         "mime" : "application/json",
+         "sha256" : "c3da7cbab256ea9ec637d3bdf53b8da6b57f522f91cd8845b2221eaa90a871a5",
+         "title" : "北海道 虻田郡京極町 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=58b81f2eadfd4a7288f14786fb3f6252"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59022,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "f02a978968e6214bf45fd35e942e54ad19660e53285f93013603b75ecbd6f896",
+         "time" : 1795591332,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/58b81f2eadfd4a7288f14786fb3f6252"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "北海道 虻田郡京極町 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 61332,
+   "mirrorzip" : {
+      "length" : 18589,
+      "set" : "nonfree-1",
+      "sha256" : "50f74f98d139087dea572c8932fd2e2093fdde53fdd1e60827871588ab723e87"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/58b81f2eadfd4a7288f14786fb3f6252",
+      "tags" : [
+      ],
+      "time" : 1795591335.84287,
+      "title" : "北海道 虻田郡京極町 町字マスター"
+   },
+   "ref_key_text" : "6\u001Cc6288bc00663570f5ac8a5f3cc33882a3b72e62fc4a304cf0c7c07d2711ebe9d\u001Cunknown\u001C0\u001C0"
+}

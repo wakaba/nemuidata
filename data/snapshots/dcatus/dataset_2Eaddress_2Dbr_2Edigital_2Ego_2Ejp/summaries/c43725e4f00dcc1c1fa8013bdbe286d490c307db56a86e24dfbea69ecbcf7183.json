@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city063231.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city063231.csv.zip",
+         "length" : 1573,
+         "mime" : "application/zip",
+         "sha256" : "1ec16930487eaea80f1336405cc14b2752e002bf33f8df9d8e1a5f4261bd144e",
+         "time" : 1773141332,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city063231.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1527,
+         "mime" : "application/json",
+         "sha256" : "fddaf660672bbb6682d1b3ac8aef109b82b4a3160246fe883c12f68230938ccd",
+         "title" : "山形県 西村山郡朝日町 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=27251a47945746c3852f51b76e4362d1"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59094,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5e16f4026e9e18606900a8cbebf4282b7720ac0211171fba7690b9b1bf7645b5",
+         "time" : 1795591397,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/27251a47945746c3852f51b76e4362d1"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "山形県 西村山郡朝日町 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 62194,
+   "mirrorzip" : {
+      "length" : 19407,
+      "set" : "nonfree-1",
+      "sha256" : "54000c2542dab054e7d72c3843d8e63959a75e30a32307b2d2dc2e98361cf80e"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/27251a47945746c3852f51b76e4362d1",
+      "tags" : [
+      ],
+      "time" : 1795591400.21237,
+      "title" : "山形県 西村山郡朝日町 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C857a5c1ae9772c7c330130b4270a107a09ba17376e4dc9050274c975a75b0c78\u001Cunknown\u001C0\u001C0"
+}

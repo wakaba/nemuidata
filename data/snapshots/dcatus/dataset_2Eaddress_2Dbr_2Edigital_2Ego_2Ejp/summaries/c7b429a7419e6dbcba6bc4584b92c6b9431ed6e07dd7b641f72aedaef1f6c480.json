@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city212113.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city212113.csv.zip",
+         "length" : 2674,
+         "mime" : "application/zip",
+         "sha256" : "4a4196239a06425fc8473a8cdfce87b9dadbba6d8ae657282e866f4f9e3e68ca",
+         "time" : 1773146469,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city212113.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1521,
+         "mime" : "application/json",
+         "sha256" : "889ba6c1753ba92ebda3b03eff77af58c3d174c252ae619927bdc1dec424f45f",
+         "title" : "岐阜県 美濃加茂市 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=41c15c63a2984877ab0f1c17f7fee200"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59076,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "1262baf2d181ba0758f0df40f58a787f2d02d3196d101cf2ac7a4a34e7c17803",
+         "time" : 1795591300,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/41c15c63a2984877ab0f1c17f7fee200"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "岐阜県 美濃加茂市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 63271,
+   "mirrorzip" : {
+      "length" : 20498,
+      "set" : "nonfree-1",
+      "sha256" : "d23fbde327224aeb8deb64acb704606e5205b2136df4f80969750d685ec8145e"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/41c15c63a2984877ab0f1c17f7fee200",
+      "tags" : [
+      ],
+      "time" : 1795591303.5097,
+      "title" : "岐阜県 美濃加茂市 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C10c232ebe91d16ada54df4c5cfc0b21281aef87fa464bc9ad4efeb9a6bbee9b1\u001Cunknown\u001C0\u001C0"
+}

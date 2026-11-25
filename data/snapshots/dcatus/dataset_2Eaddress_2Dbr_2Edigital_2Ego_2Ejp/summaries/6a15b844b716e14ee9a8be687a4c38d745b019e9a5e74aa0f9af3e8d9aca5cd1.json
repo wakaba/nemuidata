@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city293423.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city293423.csv.zip",
+         "length" : 1730,
+         "mime" : "application/zip",
+         "sha256" : "3c2eb43974ef7103e19b3eba86a27664e567a8265885545d93d8f93480755e14",
+         "time" : 1773149397,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city293423.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1464,
+         "mime" : "application/json",
+         "sha256" : "deae148b09ee173fb9caf9c387e527a589c72746145a35f75cdb2e601706630f",
+         "title" : "奈良県 生駒郡平群町 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=7387f673290342f5ac6fc7369788d658"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59022,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "1d38ab7f084270c66e2926f8da8239d8324c05fbdeb5942c439c4d3f5741130a",
+         "time" : 1795591289,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/7387f673290342f5ac6fc7369788d658"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "奈良県 生駒郡平群町 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 62216,
+   "mirrorzip" : {
+      "length" : 19495,
+      "set" : "nonfree-1",
+      "sha256" : "ea7c738d7b8c62baff5130710068554a626c9a1b016dbac9f06601874d6e1155"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/7387f673290342f5ac6fc7369788d658",
+      "tags" : [
+      ],
+      "time" : 1795591292.99283,
+      "title" : "奈良県 生駒郡平群町 町字マスター"
+   },
+   "ref_key_text" : "6\u001C2ef312c87b0506a5bc0bd5856f6ac96d3e58edf67345b9ba779cf5b31203605c\u001Cunknown\u001C0\u001C0"
+}

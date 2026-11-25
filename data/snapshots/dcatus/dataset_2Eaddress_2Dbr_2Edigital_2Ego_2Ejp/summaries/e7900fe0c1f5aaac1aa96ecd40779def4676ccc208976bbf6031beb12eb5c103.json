@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city313840.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city313840.csv.zip",
+         "length" : 574,
+         "mime" : "application/zip",
+         "sha256" : "6030bbed9614c3b15e7769403e90315b068fac29a4006bd50eb87c93adb04297",
+         "time" : 1773149939,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city313840.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1469,
+         "mime" : "application/json",
+         "sha256" : "830b6c612f50559dd37aad20299fd3c6f1caff9554ee8cbbaff23b8d60750112",
+         "title" : "鳥取県 西伯郡日吉津村 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=22a4a0a11dac4071a75b6ff92e931561"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59031,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "cf66eed5923bfc67023141e27e1aa95211eb542af8f0382bc3c3ba7f0cee4c79",
+         "time" : 1795591407,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/22a4a0a11dac4071a75b6ff92e931561"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "鳥取県 西伯郡日吉津村 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 61074,
+   "mirrorzip" : {
+      "length" : 18280,
+      "set" : "nonfree-1",
+      "sha256" : "f49246d13f9fa692c6de50cb3766f7aa87618d5d5bca1f1d38642c182107a520"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/22a4a0a11dac4071a75b6ff92e931561",
+      "tags" : [
+      ],
+      "time" : 1795591410.53814,
+      "title" : "鳥取県 西伯郡日吉津村 町字マスター"
+   },
+   "ref_key_text" : "6\u001C6744180a317ef56ae221606daf25aa7e6888a2fdf161706c91038876d205dd92\u001Cunknown\u001C0\u001C0"
+}

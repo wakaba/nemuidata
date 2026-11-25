@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city064262.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city064262.csv.zip",
+         "length" : 3867,
+         "mime" : "application/zip",
+         "sha256" : "47e6c19f2a267d63b48709772a7a3f9fa9555d9d817cecc4524f6836641a385a",
+         "time" : 1773141448,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city064262.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1467,
+         "mime" : "application/json",
+         "sha256" : "0b110f68745e981f32283a514c54c140ec9016da77fe2568e94a999ea8e25291",
+         "title" : "山形県 東田川郡三川町 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=082b229d01ae46eeb483f8b47dbfaa10"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59031,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e104760446716467a433fd892923e970233aa86866658452c77476eb6ea6ba85",
+         "time" : 1795591343,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/082b229d01ae46eeb483f8b47dbfaa10"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "山形県 東田川郡三川町 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 64365,
+   "mirrorzip" : {
+      "length" : 21631,
+      "set" : "nonfree-1",
+      "sha256" : "564f6ab69fd97ed3bfa2a06e30c1e6e8dc0693433e14f22a773fe9e05fc1f525"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/082b229d01ae46eeb483f8b47dbfaa10",
+      "tags" : [
+      ],
+      "time" : 1795591346.42041,
+      "title" : "山形県 東田川郡三川町 町字マスター"
+   },
+   "ref_key_text" : "6\u001C39d276ea659cc86752253ee5977da45293cbabc663a2ef163145ae212b28f481\u001Cunknown\u001C0\u001C0"
+}

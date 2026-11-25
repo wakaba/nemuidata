@@ -1,0 +1,117 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_parcel/city/mt_parcel_city294420.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_city294420.csv.zip",
+         "length" : 254350,
+         "mime" : "application/zip",
+         "sha256" : "9242cfa79f134042ae9974cd63c982916112584e5cb47ed7c0a7295cb571cf67",
+         "time" : 1772035352,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel/city/mt_parcel_city294420.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1470,
+         "mime" : "application/json",
+         "sha256" : "7ea07db0131dabce4f013d70aa7373e98ef91b72a76fa271f1400c40af157b56",
+         "title" : "奈良県 吉野郡大淀町 地番マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=1032d74524694aac9c7b6e438f57ee42"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59022,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "de589819eb5cd0564029a7d0b21756e5db647513da9b99d6396b04102e73003c",
+         "time" : 1795591365,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/1032d74524694aac9c7b6e438f57ee42"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "奈良県 吉野郡大淀町 地番マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "奈良県 吉野郡大淀町 地番マスター",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 314842,
+   "mirrorzip" : {
+      "length" : 244863,
+      "set" : "nonfree-1",
+      "sha256" : "984688b949388cec39866c766a0926f733b03509c93cda3661fd8a45e47d09b8"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/1032d74524694aac9c7b6e438f57ee42",
+      "tags" : [
+      ],
+      "time" : 1795591368.27555,
+      "title" : "奈良県 吉野郡大淀町 地番マスター"
+   },
+   "ref_key_text" : "6\u001C5e30df144441dc169b6d04c3bdc816f7435b7dacb7f37dbb28e2360e284e88e4\u001Cunknown\u001C0\u001C0"
+}

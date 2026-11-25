@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city272213.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city272213.csv.zip",
+         "length" : 1801,
+         "mime" : "application/zip",
+         "sha256" : "820115dd9eea2cf6cee53d26eafedf42efc654cab5f7d781c321c4f2f8b6fd6d",
+         "time" : 1773148716,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city272213.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1455,
+         "mime" : "application/json",
+         "sha256" : "dba4189946018585bf71a7085601c11946ade843d79d3f57c43de36b88e7daab",
+         "title" : "大阪府 柏原市 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=d0f30294d1b94f0aab4be432a36145b0"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 58995,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c7f79bf07a1daa2d469c3d0ab40ffd5ddd29fdecd4b9785067beabffe44dba3a",
+         "time" : 1795591278,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/d0f30294d1b94f0aab4be432a36145b0"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "大阪府 柏原市 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 62251,
+   "mirrorzip" : {
+      "length" : 19506,
+      "set" : "nonfree-1",
+      "sha256" : "e3af5cdfb1b1c36fc092dbe38dcc970e692a75ddcb5aa25b762810477f5ac5a1"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/d0f30294d1b94f0aab4be432a36145b0",
+      "tags" : [
+      ],
+      "time" : 1795591281.83487,
+      "title" : "大阪府 柏原市 町字マスター"
+   },
+   "ref_key_text" : "6\u001C44512ce2ad32e75b9b081a3227eba61b279a9af6531b9af6db8c594ae48783ce\u001Cunknown\u001C0\u001C0"
+}

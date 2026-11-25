@@ -1,0 +1,117 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_parcel/city/mt_parcel_city083411.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_city083411.csv.zip",
+         "length" : 286731,
+         "mime" : "application/zip",
+         "sha256" : "5a42328002a03d7d48c844eed18d916d762112102bfa47b7912ce4a1d9f1a64e",
+         "time" : 1772025070,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel/city/mt_parcel_city083411.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1470,
+         "mime" : "application/json",
+         "sha256" : "cdfdaf4e8ff3bd52855fce5ea099bcdc874965df9f5175fbeebfae9152df4d44",
+         "title" : "茨城県 那珂郡東海村 地番マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=a69eb87e9de344e8b7cfa6ce7296db6a"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59022,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "b54fc7519fbcb43f7313fcdf78f518b45749f06ead7384d897f23dca691faf48",
+         "time" : 1795591386,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/a69eb87e9de344e8b7cfa6ce7296db6a"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "茨城県 那珂郡東海村 地番マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "茨城県 那珂郡東海村 地番マスター",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 347223,
+   "mirrorzip" : {
+      "length" : 270310,
+      "set" : "nonfree-1",
+      "sha256" : "492843d40f90a976aac5f0254a3f83544940880f4a7e1af34d251c5eb4d4f86a"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/a69eb87e9de344e8b7cfa6ce7296db6a",
+      "tags" : [
+      ],
+      "time" : 1795591389.35319,
+      "title" : "茨城県 那珂郡東海村 地番マスター"
+   },
+   "ref_key_text" : "6\u001C0771081eda3b694924e061249b5499ed9ade72fef428254c38df2a604781e754\u001Cunknown\u001C0\u001C0"
+}

@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city473031.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city473031.csv.zip",
+         "length" : 660,
+         "mime" : "application/zip",
+         "sha256" : "0c23d8ccdc798dd21bfa1f3720353f15373e2c0e65de1f6016ca31d0b369e1b6",
+         "time" : 1773153655,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city473031.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1463,
+         "mime" : "application/json",
+         "sha256" : "0324fc5964dcdeb7b897927c87dedbfd1c6aebcb33318f1de92c01b8be794116",
+         "title" : "沖縄県 国頭郡東村 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=fd227785e3af4dd9bda86a37e32a04b1"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59013,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e6fea7af5fa9911478ed7aeeb1c573c609d048de001469f2403431ca6b2ca264",
+         "time" : 1795591375,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/fd227785e3af4dd9bda86a37e32a04b1"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "沖縄県 国頭郡東村 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 61136,
+   "mirrorzip" : {
+      "length" : 18345,
+      "set" : "nonfree-1",
+      "sha256" : "9416e194d80f74aa94501063beed95ff37770636365652ef965749e8b92980d7"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/fd227785e3af4dd9bda86a37e32a04b1",
+      "tags" : [
+      ],
+      "time" : 1795591378.63807,
+      "title" : "沖縄県 国頭郡東村 町字マスター"
+   },
+   "ref_key_text" : "6\u001C07c4a37f7dcbaf088a2c257a3fba6e4215b7a22c810af560a2dea701b575bf2a\u001Cunknown\u001C0\u001C0"
+}
