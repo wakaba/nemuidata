@@ -1,0 +1,117 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city465020.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_pos_city465020.csv.zip",
+         "length" : 760627,
+         "mime" : "application/zip",
+         "sha256" : "770ebac2198796f8ee8f8b4ccdc9e353f4e8618e4d49a713c587a667318f467c",
+         "time" : 1782215093,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city465020.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1520,
+         "mime" : "application/json",
+         "sha256" : "6a8a56268c2c71918c5e78197915994ce2056f0583646ea27ff05ac9a48d2b1c",
+         "title" : "鹿児島県 熊毛郡南種子町 地番マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=bae775f2587f4bfdbcc6088bdfe654d6"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59094,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "303c31e18f7bfeb161a0240767139341d10ee32cac3e8bfa26ff50d347ec291b",
+         "time" : 1795590882,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/bae775f2587f4bfdbcc6088bdfe654d6"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "鹿児島県 熊毛郡南種子町 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "鹿児島県 熊毛郡南種子町 地番マスター位置参照拡張",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 821241,
+   "mirrorzip" : {
+      "length" : 766634,
+      "set" : "nonfree-1",
+      "sha256" : "8c21f77a1eb44db2426e3465d1c3497ea011b13674b312e01922443e434c42bb"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/bae775f2587f4bfdbcc6088bdfe654d6",
+      "tags" : [
+      ],
+      "time" : 1795590885.61605,
+      "title" : "鹿児島県 熊毛郡南種子町 地番マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C8639e646b1d3dd55e616d40d1fcea7250347f69a447d36ed5cda0ad08113b97a\u001Cunknown\u001C0\u001C0"
+}

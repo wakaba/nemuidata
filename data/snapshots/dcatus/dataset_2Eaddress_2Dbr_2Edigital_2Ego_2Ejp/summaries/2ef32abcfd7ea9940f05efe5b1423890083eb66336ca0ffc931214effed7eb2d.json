@@ -1,0 +1,117 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city292061.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_pos_city292061.csv.zip",
+         "length" : 98709,
+         "mime" : "application/zip",
+         "sha256" : "1e8b84401b0bd6f8f3b73ab6bccde3e63d6b47accabe282b7fdec6cb1133667b",
+         "time" : 1782211299,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city292061.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1505,
+         "mime" : "application/json",
+         "sha256" : "8ac431c4054a1b395dd1dc5d80ea491d5b329b765a338d17de74ec28e50ae5c7",
+         "title" : "奈良県 桜井市 地番マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=9730b05052224afa98c28d0d0d13ad84"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59049,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "6cf9b5942120a1a3427b7880b3eaaf350ed4859b33e47bf457a81a58e2f9c58c",
+         "time" : 1795590975,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/9730b05052224afa98c28d0d0d13ad84"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "奈良県 桜井市 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "奈良県 桜井市 地番マスター位置参照拡張",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 159263,
+   "mirrorzip" : {
+      "length" : 114598,
+      "set" : "nonfree-1",
+      "sha256" : "1c25deb4b7e23c7ccbcc06b842b372ebf5aaa3275638c5034d415bab47f1e0c4"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/9730b05052224afa98c28d0d0d13ad84",
+      "tags" : [
+      ],
+      "time" : 1795590978.28919,
+      "title" : "奈良県 桜井市 地番マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C704cf20b864ceb6385092ec613ecd3676b8260f072e68ef3b1a1fe9a73553716\u001Cunknown\u001C0\u001C0"
+}

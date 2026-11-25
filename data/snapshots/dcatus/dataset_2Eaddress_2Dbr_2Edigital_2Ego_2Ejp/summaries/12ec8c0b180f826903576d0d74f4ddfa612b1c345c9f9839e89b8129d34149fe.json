@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city016616.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city016616.csv.zip",
+         "length" : 5217,
+         "mime" : "application/zip",
+         "sha256" : "a0279a13890a3153fdef643e82984f8aaba415069f2dcfc86be15c6234200aba",
+         "time" : 1773139962,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city016616.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1466,
+         "mime" : "application/json",
+         "sha256" : "ca5f694e0c1074b8a9a97c1cd836f1da6a7599eb2a2d8f972d3ef40f91106f78",
+         "title" : "北海道 釧路郡釧路町 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=b87a47aef83b42a0854213a443a0bccb"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59022,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e1c35eccd777b04df1af4a0b9bef4b6f9d0de11230c5f823bd1408cf89114d6e",
+         "time" : 1795590954,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/b87a47aef83b42a0854213a443a0bccb"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "北海道 釧路郡釧路町 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 65705,
+   "mirrorzip" : {
+      "length" : 22875,
+      "set" : "nonfree-1",
+      "sha256" : "507f50dd1768b3f09f1a01ac7ebc5b1a38b7745d6e9ec0f2fb14eadc415ededc"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/b87a47aef83b42a0854213a443a0bccb",
+      "tags" : [
+      ],
+      "time" : 1795590957.70049,
+      "title" : "北海道 釧路郡釧路町 町字マスター"
+   },
+   "ref_key_text" : "6\u001C0181c8413a8144464622882f8e13172b5833a01aa2eb62d7e62e1897a99be1ee\u001Cunknown\u001C0\u001C0"
+}

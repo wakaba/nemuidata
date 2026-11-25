@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city192040.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city192040.csv.zip",
+         "length" : 1716,
+         "mime" : "application/zip",
+         "sha256" : "530a73dd589627330dff9383d4123195fbc26b602afda60079599282e2cc6145",
+         "time" : 1773145582,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city192040.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1515,
+         "mime" : "application/json",
+         "sha256" : "d6b91dd3fdbee96d84d85dc88316f369bcfb90774fc942cb62ce2a16428d1a15",
+         "title" : "山梨県 都留市 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=e8992faa3a554e8188e90760ce6bbc4c"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59058,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "cadc947593b030eeee8520d18ba9649a1627707e1f78c28f8ff0e5b3526d33b0",
+         "time" : 1795590893,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/e8992faa3a554e8188e90760ce6bbc4c"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "山梨県 都留市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 62289,
+   "mirrorzip" : {
+      "length" : 19507,
+      "set" : "nonfree-1",
+      "sha256" : "7aa01f7e7d13b2fcbd309f6cc09bd95b92d066104b3e26e2e67662d019df845d"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/e8992faa3a554e8188e90760ce6bbc4c",
+      "tags" : [
+      ],
+      "time" : 1795590895.95971,
+      "title" : "山梨県 都留市 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C82abb9705096b19bdedbe64667428e149fc110b9beb0b4f0b674bf59c0e3c113\u001Cunknown\u001C0\u001C0"
+}

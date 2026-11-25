@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city113638.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city113638.csv.zip",
+         "length" : 730,
+         "mime" : "application/zip",
+         "sha256" : "9603cf0858e10fb84fafedc8a103cdb0b65c654110a89746fd422a55848b2503",
+         "time" : 1773143297,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city113638.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1464,
+         "mime" : "application/json",
+         "sha256" : "082dc5829bd9d4972c39c1b0867c369c8b29cf2755c7888f0e4dc97190bb8672",
+         "title" : "埼玉県 秩父郡長瀞町 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=2e4e98e2d3684953bbb10e2e5225641a"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59022,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "eba3ace8420c65b7d897572018fee6d90d478d9f610398fe1a44c5d29058f394",
+         "time" : 1795590903,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/2e4e98e2d3684953bbb10e2e5225641a"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "埼玉県 秩父郡長瀞町 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 61216,
+   "mirrorzip" : {
+      "length" : 18456,
+      "set" : "nonfree-1",
+      "sha256" : "ff8a1f4bd93a5d81fa0fdaf4deda75e18068ee9122e943f5939f9b03f3a510cf"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/2e4e98e2d3684953bbb10e2e5225641a",
+      "tags" : [
+      ],
+      "time" : 1795590906.32902,
+      "title" : "埼玉県 秩父郡長瀞町 町字マスター"
+   },
+   "ref_key_text" : "6\u001C91c4fb702c31db375d4be3ccd7beed8d534352d4f2f48a5e84a8a2cd618cd024\u001Cunknown\u001C0\u001C0"
+}

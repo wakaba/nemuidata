@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city454214.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city454214.csv.zip",
+         "length" : 7393,
+         "mime" : "application/zip",
+         "sha256" : "c82e9834e195117c9fe06817c3a31dd07b4582acb87913602db17f595d09df58",
+         "time" : 1773153151,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city454214.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1469,
+         "mime" : "application/json",
+         "sha256" : "7b707417d7bcffb8b1664750e1190c2162a16c6c4e8c9d8eaead1df0b770e0ea",
+         "title" : "宮崎県 東臼杵郡門川町 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=74ab5ce0bb184216b749ec1929ca6111"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59031,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5a1fcc0c4e4e14d91c9a6ac59322142900600b23125cf25aa69a6bc120371d3c",
+         "time" : 1795590934,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/74ab5ce0bb184216b749ec1929ca6111"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "宮崎県 東臼杵郡門川町 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 67893,
+   "mirrorzip" : {
+      "length" : 25118,
+      "set" : "nonfree-1",
+      "sha256" : "5f4129bc2c29ec8befbf9fb145fdd456993e5ffce565fea012a32d05edeaad0c"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/74ab5ce0bb184216b749ec1929ca6111",
+      "tags" : [
+      ],
+      "time" : 1795590937.37401,
+      "title" : "宮崎県 東臼杵郡門川町 町字マスター"
+   },
+   "ref_key_text" : "6\u001C7b85d2368f6516d4420aaa7234a021adb41c5634552864cc558d49b4b9787ae7\u001Cunknown\u001C0\u001C0"
+}

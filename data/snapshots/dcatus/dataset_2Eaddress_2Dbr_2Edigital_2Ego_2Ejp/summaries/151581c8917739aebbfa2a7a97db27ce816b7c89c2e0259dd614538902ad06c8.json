@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city202045.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city202045.csv.zip",
+         "length" : 1951,
+         "mime" : "application/zip",
+         "sha256" : "e3757d759bf1a689ffc14dca53e11bd1eae71433e3c074f565e95c3d1298cb2b",
+         "time" : 1773145801,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city202045.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1457,
+         "mime" : "application/json",
+         "sha256" : "7ce884d1cb222a0c1bd098d672323ac00258a29f6c9b6b889b6ed593c3f3d02d",
+         "title" : "長野県 岡谷市 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=8a32b292122845d8ad294b0ffd70ab4c"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 58995,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "43a7da4301afad03a064847c11276b5ac647930b9ec30ca4c58264aae26347c8",
+         "time" : 1795590913,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/8a32b292122845d8ad294b0ffd70ab4c"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "長野県 岡谷市 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 62403,
+   "mirrorzip" : {
+      "length" : 19640,
+      "set" : "nonfree-1",
+      "sha256" : "adbc9405d8e95566af633d8070865bd72873b4ceb186f85b296fbc16ffaad0a9"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/8a32b292122845d8ad294b0ffd70ab4c",
+      "tags" : [
+      ],
+      "time" : 1795590916.59897,
+      "title" : "長野県 岡谷市 町字マスター"
+   },
+   "ref_key_text" : "6\u001Cf4e6315b9515ea63cc0010ca520b8e01250228dbdcbd67edde6d9ab22b19e91b\u001Cunknown\u001C0\u001C0"
+}

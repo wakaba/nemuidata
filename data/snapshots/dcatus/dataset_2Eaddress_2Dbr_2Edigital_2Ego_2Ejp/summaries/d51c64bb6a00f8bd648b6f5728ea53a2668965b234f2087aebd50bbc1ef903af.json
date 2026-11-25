@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city231151.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city231151.csv.zip",
+         "length" : 6051,
+         "mime" : "application/zip",
+         "sha256" : "6a67f8f9a1b6a2b073602b200caabcbb90a17a16840581dd5b33762bc2452d1c",
+         "time" : 1773147170,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city231151.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1467,
+         "mime" : "application/json",
+         "sha256" : "2a5b759bd4880e32a40a9bd08cdb8f0d0f163a9a8dc5b729a36a021e367dce40",
+         "title" : "愛知県 名古屋市名東区 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=de4ce0e6d04e4ddeb6c7c2ae2bd3a385"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59031,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e8ccdaed0e5755590179bb5b44d9b0083c6db5c2821964c2b8e9444914f2bbde",
+         "time" : 1795590965,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/de4ce0e6d04e4ddeb6c7c2ae2bd3a385"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "愛知県 名古屋市名東区 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 66549,
+   "mirrorzip" : {
+      "length" : 23791,
+      "set" : "nonfree-1",
+      "sha256" : "0e192f9729ed736ca48fe006c5a9daf2daf52a090242d790749317fae244f5b0"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/de4ce0e6d04e4ddeb6c7c2ae2bd3a385",
+      "tags" : [
+      ],
+      "time" : 1795590968.11464,
+      "title" : "愛知県 名古屋市名東区 町字マスター"
+   },
+   "ref_key_text" : "6\u001C506370e7f499e1e3da23f1612bd8f1add82d8545f7e37e0e2d38f627191f67d0\u001Cunknown\u001C0\u001C0"
+}

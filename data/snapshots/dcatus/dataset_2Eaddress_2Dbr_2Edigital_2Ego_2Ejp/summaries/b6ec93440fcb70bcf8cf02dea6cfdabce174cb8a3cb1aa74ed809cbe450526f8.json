@@ -1,0 +1,117 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city473251.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_pos_city473251.csv.zip",
+         "length" : 353346,
+         "mime" : "application/zip",
+         "sha256" : "c01d378bcba2159871cbef4b3198c1bee50950cb2e20a769f8816bdc26565ea3",
+         "time" : 1782215317,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city473251.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1517,
+         "mime" : "application/json",
+         "sha256" : "94d11cdd5599413c609cf48c1b61592876bc3309a79451331e2799143caa7d95",
+         "title" : "沖縄県 中頭郡嘉手納町 地番マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=cf4128e4d04c4342ad9468910d5ae3a1"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59085,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "67c57f01a786f03769c693ccfcbf4cf775070077138c76d5757c1f5351b98e93",
+         "time" : 1795590924,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/cf4128e4d04c4342ad9468910d5ae3a1"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "沖縄県 中頭郡嘉手納町 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "沖縄県 中頭郡嘉手納町 地番マスター位置参照拡張",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 413948,
+   "mirrorzip" : {
+      "length" : 369278,
+      "set" : "nonfree-1",
+      "sha256" : "02dce82e7e2136953cbeda8bd893db96679e64c1c87fc6523faef6a25e52cfc6"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/cf4128e4d04c4342ad9468910d5ae3a1",
+      "tags" : [
+      ],
+      "time" : 1795590927.0503,
+      "title" : "沖縄県 中頭郡嘉手納町 地番マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C230ec0fe4dc0ee773f2c87475a88e254c504273806d840c738043344a7a13211\u001Cunknown\u001C0\u001C0"
+}

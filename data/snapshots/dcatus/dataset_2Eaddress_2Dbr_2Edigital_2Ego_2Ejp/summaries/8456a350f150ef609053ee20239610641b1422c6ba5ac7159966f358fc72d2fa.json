@@ -1,0 +1,117 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_parcel/city/mt_parcel_city132250.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_city132250.csv.zip",
+         "length" : 306231,
+         "mime" : "application/zip",
+         "sha256" : "85805e3ad5c305c86872356ea2f8e14993ce3178edf2b2835c707ff1528b9e55",
+         "time" : 1772027813,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel/city/mt_parcel_city132250.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1461,
+         "mime" : "application/json",
+         "sha256" : "885bbbd3dcfafa7cf2fcabb77caea9b35f1b8a4654896dbca5195e3cec3dd45a",
+         "title" : "東京都 稲城市 地番マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=e6c1b0ad0e4a48d0851422688f9d29cb"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 58995,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "fd0fa3299d7845c57398ecc48c4c37e859266f9b20165ad5478eacb0c136f4e2",
+         "time" : 1795591027,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/e6c1b0ad0e4a48d0851422688f9d29cb"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "東京都 稲城市 地番マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "東京都 稲城市 地番マスター",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 366687,
+   "mirrorzip" : {
+      "length" : 279805,
+      "set" : "nonfree-1",
+      "sha256" : "f389bcbebf1c49eb5e68cea69969e96dd0715bcae5499f1583e9306a248a291f"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/e6c1b0ad0e4a48d0851422688f9d29cb",
+      "tags" : [
+      ],
+      "time" : 1795591029.92543,
+      "title" : "東京都 稲城市 地番マスター"
+   },
+   "ref_key_text" : "6\u001C003b62daf6ed2484b683b26fcc3d6ac03f9cc4eecb7354a31d119791f490d5ea\u001Cunknown\u001C0\u001C0"
+}

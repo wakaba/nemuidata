@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city283827.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city283827.csv.zip",
+         "length" : 1673,
+         "mime" : "application/zip",
+         "sha256" : "d76117ed6ab94ea7856ed5d5422d3a53c3fbd6d9daf4985389b00050d6081b70",
+         "time" : 1773149224,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city283827.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1524,
+         "mime" : "application/json",
+         "sha256" : "7b7e6da23dc03993afe01f37185c418e846182694bf24be9acc7f2aa5ef6f79a",
+         "title" : "兵庫県 加古郡播磨町 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=7448e5584223439d9cb0e5c9f95e5e91"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59085,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4e46c40071c7de0b0d9145e25499be4e615d3557343762417b2bb6cfff50cca6",
+         "time" : 1795591037,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/7448e5584223439d9cb0e5c9f95e5e91"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "兵庫県 加古郡播磨町 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 62282,
+   "mirrorzip" : {
+      "length" : 19507,
+      "set" : "nonfree-1",
+      "sha256" : "c7023d616ab394c49fc1a6a664163a303daeecee0a4f6a1775258a2a2da93335"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/7448e5584223439d9cb0e5c9f95e5e91",
+      "tags" : [
+      ],
+      "time" : 1795591040.76251,
+      "title" : "兵庫県 加古郡播磨町 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C194abec7c1f22729f7a0df8ea9cb42f459a3b93b50533337b9e879a97851ed35\u001Cunknown\u001C0\u001C0"
+}

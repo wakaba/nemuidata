@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town/city/mt_town_city271179.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city271179.csv.zip",
+         "length" : 1097,
+         "mime" : "application/zip",
+         "sha256" : "93f92caa0f3394faa5803c41be37a0e169fb099615d203fcb7520ff3267f25ef",
+         "time" : 1773148409,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town/city/mt_town_city271179.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1463,
+         "mime" : "application/json",
+         "sha256" : "9119489d6b921ec01b4484d355586142d0af3a749a5be2c5072747242cb06cf2",
+         "title" : "大阪府 大阪市旭区 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=1fe9943b6089430cad89c3ef57c378ca"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59013,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "9debbfdb1ecebf662e65eda2fbf1cc21d97c6106203db12c5ab4aa93e6e1eaed",
+         "time" : 1795590944,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/1fe9943b6089430cad89c3ef57c378ca"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "大阪府 大阪市旭区 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 61573,
+   "mirrorzip" : {
+      "length" : 18738,
+      "set" : "nonfree-1",
+      "sha256" : "839a4999be3428c48366eba9c0f26f136186e37d2e77159f4520743009f872b8"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/1fe9943b6089430cad89c3ef57c378ca",
+      "tags" : [
+      ],
+      "time" : 1795590947.53194,
+      "title" : "大阪府 大阪市旭区 町字マスター"
+   },
+   "ref_key_text" : "6\u001C17135f73e8019172cc35841f83e964e5b5bce24507d443cfa1f8c0ea77b1b698\u001Cunknown\u001C0\u001C0"
+}

@@ -1,0 +1,105 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city382043.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city382043.csv.zip",
+         "length" : 6336,
+         "mime" : "application/zip",
+         "sha256" : "d7934341bfe77ded6abd1bc12a65667e2f9f96123410fa1d6f22c82010636523",
+         "time" : 1773151142,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_town_fullset/city/mt_town_fullset_city382043.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1518,
+         "mime" : "application/json",
+         "sha256" : "c2c195194ed4f6a05c28d9cc67a89c2d9250ad9c2d7ac299e6b3d6fcbb20f12a",
+         "title" : "愛媛県 八幡浜市 町字マスター（フルセット）",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=925ed7bbc2814f5eaf39252de5d7d50d"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59067,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "d9ba7469abc52781892daf22f6fddf9852cef3c9cc42f91a34dd9254d773686e",
+         "time" : 1795590985,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/925ed7bbc2814f5eaf39252de5d7d50d"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "愛媛県 八幡浜市 町字マスター（フルセット）",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 66921,
+   "mirrorzip" : {
+      "length" : 24114,
+      "set" : "nonfree-1",
+      "sha256" : "c519305551fca710d3bc05d73498d457e8e001389c5bf3e21496282125bdf3f5"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/925ed7bbc2814f5eaf39252de5d7d50d",
+      "tags" : [
+      ],
+      "time" : 1795590988.77217,
+      "title" : "愛媛県 八幡浜市 町字マスター（フルセット）"
+   },
+   "ref_key_text" : "6\u001C063e101bb5ecc843fc344c1349667cde27940bc5125521d2443d4db92e57c13d\u001Cunknown\u001C0\u001C0"
+}

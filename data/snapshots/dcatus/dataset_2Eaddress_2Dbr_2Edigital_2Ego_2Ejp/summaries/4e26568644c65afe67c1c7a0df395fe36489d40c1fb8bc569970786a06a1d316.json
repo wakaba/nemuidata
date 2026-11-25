@@ -1,0 +1,117 @@
+{
+   "files" : {
+      "file:url:https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city203505.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_pos_city203505.csv.zip",
+         "length" : 888800,
+         "mime" : "application/zip",
+         "sha256" : "a2a90e8f76d39257bbe38e568743f5bfacbe6a346117bdb56b22a4909680d42a",
+         "time" : 1782209304,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://data.address-br.digital.go.jp/mt_parcel_pos/city/mt_parcel_pos_city203505.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1514,
+         "mime" : "application/json",
+         "sha256" : "e0d86d69282e2f17f605eb40d7b30b2be79b0fb784cb087b6abb3a79246a942f",
+         "title" : "長野県 小県郡長和町 地番マスター位置参照拡張",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=b505117906084255a9772e5cca8e02b3"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 59076,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "26ceb14190a40608127e7aea077c011e37da1ef306b7f88d26579c93a510fda3",
+         "time" : 1795591006,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/b505117906084255a9772e5cca8e02b3"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "長野県 小県郡長和町 地番マスター位置参照拡張",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-dcatus-dataset",
+            "lang" : "",
+            "notes" : "長野県 小県郡長和町 地番マスター位置参照拡張",
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 949390,
+   "mirrorzip" : {
+      "length" : 898783,
+      "set" : "nonfree-1",
+      "sha256" : "3b3cd3f10381b40a83e106d7f87874507cdf1274007d2343e0758cd6fc874780"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/b505117906084255a9772e5cca8e02b3",
+      "tags" : [
+      ],
+      "time" : 1795591009.34507,
+      "title" : "長野県 小県郡長和町 地番マスター位置参照拡張"
+   },
+   "ref_key_text" : "6\u001C9b6cb4fb505912b6471cddb60183b3a38eb7acfbb3627a9e6b0357b26408270d\u001Cunknown\u001C0\u001C0"
+}
