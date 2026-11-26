@@ -1,0 +1,26 @@
+{
+   "source" : {
+      "files" : {
+         "file:url:https://data.address-br.digital.go.jp/mt_parcel/city/mt_parcel_city141186.csv.zip" : {
+            "name" : "mt_parcel_city141186.csv.zip",
+            "sha256" : "02f9b6f6c7a4587936e14758a9966a334e8e9db0005536a0adb4105ba2331afe"
+         },
+         "meta:dcat-us.json" : {
+            "sha256" : "8f03a3e9ab6ba15dab3a64d4e304450cec87530db3ecc8b3ad24a3f2982ed2c9"
+         },
+         "meta:landing.html" : {
+            "sha256" : "e2f7629b4479140f7de0b2d41ac990c288f48409aafe610e9fd0be21937db704"
+         },
+         "package" : {
+         }
+      },
+      "id" : "https://www.arcgis.com/home/item.html?id=43a20a710d7148d1b83f13b9f0e03e13",
+      "skip_other_files" : 1,
+      "source" : {
+         "type" : "single",
+         "url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json"
+      },
+      "type" : "dcatus"
+   },
+   "type" : "packref"
+}
