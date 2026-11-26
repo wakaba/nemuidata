@@ -1,0 +1,200 @@
+{
+   "files" : {
+      "file:url:https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city082341.csv.zip" : {
+         "desc" : "",
+         "file_name" : "mt_town_city082341.csv.zip",
+         "length" : 2034,
+         "mime" : "application/zip",
+         "sha256" : "60e4144df201cc479b1bb94ce6abd5d746d8b3c3163a5ec3628e384164598b60",
+         "time" : 1773142196,
+         "title" : "ArcGIS GeoService",
+         "type" : "file",
+         "url" : "https://gov-csv-export-public.s3.ap-northeast-1.amazonaws.com/mt_town/city/mt_town_city082341.csv.zip"
+      },
+      "meta:dcat-us.json" : {
+         "desc" : "",
+         "length" : 1455,
+         "mime" : "application/json",
+         "sha256" : "45621d7f3fb0310202e49373f4738ec1111a288179d14b37479ea2bfcbce2f59",
+         "title" : "茨城県 鉾田市 町字マスター",
+         "type" : "meta",
+         "url" : "https://www.arcgis.com/home/item.html?id=44f36d52fede4a0caed7ddfeccc2fd31"
+      },
+      "meta:landing.html" : {
+         "desc" : "",
+         "length" : 58995,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "3fc4d9854f50541ca7ac8e7b91a73e793701117aec4ef99503480c0522f616a9",
+         "time" : 1795676320,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://dataset.address-br.digital.go.jp/documents/44f36d52fede4a0caed7ddfeccc2fd31"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "license_url" : "https://creativecommons.org/licenses/by/4.0",
+            "notice" : {
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "茨城県 鉾田市 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "package",
+            "source_url" : "https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "デジタル庁",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "",
+                              "value" : "茨城県 鉾田市 町字マスター",
+                              "writing_mode" : "horizontal-tb"
+                           }
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
+                  "is_free" : "free",
+                  "key" : "-ddsd-pdl1.0",
+                  "label" : "公共データ利用規約（第1.0版）",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典：「{title}」（{holder}）（{url}）、PDL1.0（https://www.digital.go.jp/resources/open_data/public_data_license_v1.0）（{date}に利用）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "",
+                        "value" : "茨城県 鉾田市 町字マスター",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "is_free" : "unknown",
+            "key" : "-ddsd-base_registry_address_tos-r080529",
+            "label" : "アドレス・ベース・レジストリの利用規約 (最終更新日:\u000A    2026年5月29日 )",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "出典：「{title}」（{holder}）（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "",
+                  "value" : "茨城県 鉾田市 町字マスター",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 62484,
+   "mirrorzip" : {
+      "length" : 20492,
+      "set" : "free-2",
+      "sha256" : "cb1afaed7a1ee4fe9e879f6ba5bfc9e6985b1c05abd6dfb44ba240ebd0bead94"
+   },
+   "package" : {
+      "author" : "",
+      "desc" : "{{description}}",
+      "org" : "",
+      "page_url" : "https://dataset.address-br.digital.go.jp/documents/44f36d52fede4a0caed7ddfeccc2fd31",
+      "tags" : [
+      ],
+      "time" : 1795676324.18267,
+      "title" : "茨城県 鉾田市 町字マスター"
+   },
+   "ref_key_text" : "6\u001C11f5b0d2208433be2aaddb34c871c75d385db884dea4b517e59e95e7476d2a11\u001Cfree\u001C0\u001C0"
+}
