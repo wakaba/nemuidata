@@ -27,7 +27,9 @@
          "site_name" : "dataset.address-br.digital.go.jp",
          "site_opts" : {
             "tags" : [
-               "abr"
+               "ABR",
+               "デジタル庁",
+               "日本"
             ]
          },
          "site_type" : "dcatus"
